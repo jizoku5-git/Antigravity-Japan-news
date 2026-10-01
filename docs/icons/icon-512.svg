@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad512" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="circleGrad512" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#f43f5e"/>
+    </linearGradient>
+    <linearGradient id="ringGrad512" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <filter id="glow512" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="512" height="512" rx="110" fill="url(#bgGrad512)"/>
+  
+  <!-- グローバルリング (地球・海外のネットワーク) -->
+  <circle cx="256" cy="256" r="160" fill="none" stroke="url(#ringGrad512)" stroke-width="8" opacity="0.35" stroke-dasharray="16 12"/>
+  <ellipse cx="256" cy="256" rx="160" ry="70" fill="none" stroke="url(#ringGrad512)" stroke-width="8" opacity="0.5" transform="rotate(-25 256 256)"/>
+  
+  <!-- 中心：日の丸を模したモダンな円（日本の中心） -->
+  <circle cx="256" cy="256" r="95" fill="url(#circleGrad512)" filter="url(#glow512)"/>
+
+  <!-- 先端のニュースアイコン・レターJ -->
+  <path d="M 230 195 L 285 195 L 285 285 C 285 315, 260 330, 230 325 C 215 322, 205 310, 205 310" 
+        fill="none" stroke="#ffffff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

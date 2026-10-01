@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>J-Global Digest | 海外が見た日本ニュース要約</title>
+  <meta name="description" content="海外主要メディアが報じる「日本に関する最新ニュース」を、毎朝AIが3行要約。通勤中やスキマ時間にスマホで3分でチェックできる無料ニュースダイジェスト。">
+  
+  <!-- Webアプリ (PWA) 設定 -->
+  <meta name="theme-color" content="#0f172a" id="theme-color-meta">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="J-Digest">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-192.svg">
+
+  <!-- Google Fonts: Inter & Noto Sans JP -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark-theme">
+  <!-- 背景の環境光グラデーション装飾 -->
+  <div class="ambient-glow glow-1"></div>
+  <div class="ambient-glow glow-2"></div>
+
+  <!-- パスコードロック画面（未認証時に全面表示） -->
+  <div id="lock-screen" class="lock-screen-container">
+    <div class="lock-card">
+      <div class="lock-icon-wrapper">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+          <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+        </svg>
+      </div>
+      <h2 class="lock-title">J-Global Digest</h2>
+      <p id="lock-subtitle" class="lock-subtitle">暗証番号（PIN）を入力してください</p>
+
+      <!-- PINインジケーター（入力中の丸ポチ） -->
+      <div class="pin-dots" id="pin-dots">
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+      </div>
+
+      <!-- エラーメッセージ -->
+      <p id="lock-error-msg" class="lock-error"></p>
+
+      <!-- テンキー風キーパッド -->
+      <div class="keypad-grid" id="keypad">
+        <button class="key-btn" data-key="1">1</button>
+        <button class="key-btn" data-key="2">2</button>
+        <button class="key-btn" data-key="3">3</button>
+        <button class="key-btn" data-key="4">4</button>
+        <button class="key-btn" data-key="5">5</button>
+        <button class="key-btn" data-key="6">6</button>
+        <button class="key-btn" data-key="7">7</button>
+        <button class="key-btn" data-key="8">8</button>
+        <button class="key-btn" data-key="9">9</button>
+        <button class="key-btn key-action" id="key-reset" title="クリア">C</button>
+        <button class="key-btn" data-key="0">0</button>
+        <button class="key-btn key-action" id="key-delete" title="1文字削除">⌫</button>
+      </div>
+      
+      <p class="lock-note">💡 スマホに一度認証すると、次回以降は自動でスキップされます。</p>
+    </div>
+  </div>
+
+  <!-- アプリヘッダー -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="brand-badge">
+          <span class="pulsing-dot"></span>
+          <span>DAILY DIGEST</span>
+        </div>
+        <h1 class="brand-title">J-Global <span>Digest</span></h1>
+        <p class="brand-subtitle">海外メディアが報じる「日本のいま」を3分で</p>
+      </div>
+
+      <div class="header-actions">
+        <!-- ロック（ログアウト）ボタン -->
+        <button id="lock-btn" class="icon-btn" aria-label="画面をロック" title="画面をロックする">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+            <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+          </svg>
+        </button>
+        <!-- 日付切り替えボタン -->
+        <button id="archive-btn" class="icon-btn" aria-label="過去のニュースを選択" title="過去の記事を見る">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+            <line x1="16" y1="2" x2="16" y2="6"></line>
+            <line x1="8" y1="2" x2="8" y2="6"></line>
+            <line x1="3" y1="10" x2="21" y2="10"></line>
+          </svg>
+        </button>
+
+        <!-- テーマ切り替え（ダーク/ライト） -->
+        <button id="theme-toggle-btn" class="icon-btn" aria-label="テーマ切り替え" title="ダーク/ライトモード切替">
+          <svg class="sun-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+          <svg class="moon-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- ステータスバー（更新日時 & 記事数 & 進捗） -->
+    <div class="status-bar">
+      <div class="status-meta">
+        <span id="current-date-badge" class="date-chip">取得中...</span>
+        <span id="update-time" class="time-text">更新: 確認中</span>
+      </div>
+      <div class="read-progress">
+        <span id="read-count">0 / 0 読了</span>
+      </div>
+    </div>
+
+    <!-- 検索バー -->
+    <div class="search-container">
+      <div class="search-box">
+        <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="search-input" placeholder="キーワード・メディアで検索..." autocomplete="off">
+        <button id="clear-search-btn" class="clear-btn" style="display: none;">×</button>
+      </div>
+    </div>
+
+    <!-- カテゴリーフィルター（横スクロール対応） -->
+    <nav class="category-nav" id="category-tabs" aria-label="カテゴリー選択">
+      <button class="tab-btn active" data-category="all">すべて</button>
+      <button class="tab-btn" data-category="経済・ビジネス">💼 経済・ビジネス</button>
+      <button class="tab-btn" data-category="国際・政治">🌐 国際・政治</button>
+      <button class="tab-btn" data-category="テクノロジー">⚡ テクノロジー</button>
+      <button class="tab-btn" data-category="社会・文化">⛩️ 社会・文化</button>
+      <button class="tab-btn" data-category="観光・トレンド">🗾 観光・トレンド</button>
+    </nav>
+  </header>
+
+  <!-- メインコンテンツ -->
+  <main class="main-content" id="main-container">
+    <!-- ローディング表示 -->
+    <div id="loading-state" class="state-container">
+      <div class="spinner"></div>
+      <p>世界の最新ニュースを取得・解析しています...</p>
+    </div>
+
+    <!-- エラー表示 -->
+    <div id="error-state" class="state-container" style="display: none;">
+      <div class="error-icon">⚠️</div>
+      <p id="error-message">ニュースの読み込みに失敗しました。</p>
+      <button id="retry-btn" class="retry-btn">再読み込み</button>
+    </div>
+
+    <!-- 記事一覧コンテナ -->
+    <div id="articles-list" class="articles-grid" style="display: none;"></div>
+
+    <!-- 検索結果ゼロの表示 -->
+    <div id="empty-state" class="state-container" style="display: none;">
+      <div class="empty-icon">🔍</div>
+      <p>該当する記事が見つかりませんでした。</p>
+    </div>
+  </main>
+
+  <!-- アーカイブ（過去の日付）選択モーダル -->
+  <div id="archive-modal" class="modal-backdrop" style="display: none;">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2>過去のニュースアーカイブ</h2>
+        <button id="close-modal-btn" class="close-btn">&times;</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-desc">日付を選んでバックナンバーを閲覧できます。</p>
+        <div id="archive-list" class="archive-items"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- フッター -->
+  <footer class="app-footer">
+    <div class="footer-content">
+      <p class="footer-source">情報ソース: 海外主要メディア（Google News RSS / BBC / Reuters / CNN ほか）</p>
+      <p class="footer-powered">Powered by Google Gemini &amp; GitHub Actions</p>
+      <p class="footer-tip">💡 スマホの「ホーム画面に追加」で毎朝アプリ感覚でワンタップ起動できます。</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,107 @@
+{
+  "updated_at": "2026-10-01 07:00 JST",
+  "date": "2026-10-01",
+  "total_articles": 5,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "円安が一段と進行、海外投資家は日銀の追加利上げ時期を注視",
+      "original_title": "Yen weakens further as investors eye Bank of Japan's rate path",
+      "source": "Reuters",
+      "url": "https://www.reuters.com",
+      "category": "経済・ビジネス",
+      "tags": [
+        "円相場",
+        "日銀",
+        "金利政策"
+      ],
+      "summary_points": [
+        "東京外国為替市場で対ドルでの円売りが継続し、輸入コスト上昇への懸念が再燃。",
+        "市場関係者は日銀による年内の追加利上げの可能性とタイミングに注目。",
+        "米国の金融政策（FRBの利下げペース）との温度差が為替の主な変動要因となっている。"
+      ],
+      "global_perspective": "海外ファンドは「日銀が過度な急利上げを避ける」とみており、金利差に着目した取引が依然として優勢と報じられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "日本の観光産業、インバウンド消費が過去最高を更新も「観光公害」対策が急務",
+      "original_title": "Record tourist influx boosts Japan economy, but brings overtourism challenges",
+      "source": "BBC News",
+      "url": "https://www.bbc.com",
+      "category": "観光・トレンド",
+      "tags": [
+        "インバウンド",
+        "京都",
+        "観光税"
+      ],
+      "summary_points": [
+        "円安と日本の食文化・アニメ人気を背景に、訪日外国人客数と消費額が過去最高水準に達した。",
+        "一方で京都や富士山など人気スポットでは混雑やゴミ問題などのオーバーツーリズムが深刻化。",
+        "自治体は二重価格の設定や観光客向け新税、混雑分散アプリの導入などを加速させている。"
+      ],
+      "global_perspective": "海外メディアは「日本は観光大国への転換に成功しつつあるが、地域住民の生活環境維持とのバランスが最大の試練」と客観的に分析しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "次世代半導体Rapidus（ラピダス）、先端チップ量産に向けた国際連携が前進",
+      "original_title": "Japan's semiconductor champion Rapidus makes strides toward 2nm chip production",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com",
+      "category": "テクノロジー",
+      "tags": [
+        "半導体",
+        "Rapidus",
+        "先端技術"
+      ],
+      "summary_points": [
+        "北海道千歳市に建設中のラピダス工場で、2ナノメートル先端チップの試作ライン導入が進行中。",
+        "米IBMやベルギーの研究機関imecとの強力な連携体制により開発スピードを維持。",
+        "巨額の政府支援に対する国民的理解と、将来の顧客確保が今後の重要な成否を握る。"
+      ],
+      "global_perspective": "世界のサプライチェーン再編の中で、「日本が最先端半導体の製造拠点として復権できるか」を世界各国のテック業界が固唾をのんで見守っています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "日本の宇宙ベンチャー、商業月面着陸ミッションの最終準備段階へ",
+      "original_title": "Japanese space startup enters final preparations for private lunar landing",
+      "source": "CNN",
+      "url": "https://www.cnn.com",
+      "category": "テクノロジー",
+      "tags": [
+        "宇宙開発",
+        "月面着陸",
+        "民間宇宙"
+      ],
+      "summary_points": [
+        "日本の民間宇宙企業が開発した月着陸船が、次回の打ち上げに向けた最終試験を完了。",
+        "前回の課題であった高度測定センサーなどの改良を施し、着陸精度の向上を図る。",
+        "官民連携による月面探査ビジネスの先駆けとして世界的な注目を集めている。"
+      ],
+      "global_perspective": "民間による月面探査競争がアメリカやインドで激化する中、日本の民間技術が世界的な月経済（シスルナ経済）で存在感を示せるかが論点となっています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "日本の伝統工芸と地方創生、海外の若手デザイナーが新たな価値を吹き込む",
+      "original_title": "How global designers are reviving Japan's ancient rural craft traditions",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com",
+      "category": "社会・文化",
+      "tags": [
+        "伝統工芸",
+        "地方創生",
+        "デザイン"
+      ],
+      "summary_points": [
+        "後継者不足に悩む日本の漆器や織物工房に、欧米の若手デザイナーが移住・参画する事例が増加。",
+        "伝統的な職人技にサステナブルな現代的デザインを融合させ、海外高級ホテルやギャラリーに展開。",
+        "消えゆく地域の歴史的技術をグローバルな販路で再生するモデルケースとして期待されている。"
+      ],
+      "global_perspective": "日本の「モノづくりへのこだわり（職人精神）」に対する海外の敬意は根強く、伝統と現代を掛け合わせる日本の地方の可能性を高く評価しています。",
+      "reading_time": "約1分"
+    }
+  ]
+}
