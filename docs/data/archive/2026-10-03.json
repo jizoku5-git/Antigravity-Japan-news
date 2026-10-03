@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-10-03 10:35 JST",
+  "updated_at": "2026-10-03 10:41 JST",
   "date": "2026-10-03",
-  "total_articles": 5,
+  "total_articles": 6,
   "articles": [
+    {
+      "id": 999,
+      "title_ja": "⚠️ Gemini APIによる要約でエラーが発生しました",
+      "original_title": "System Diagnostic Notification",
+      "source": "システム通知",
+      "url": "https://github.com",
+      "category": "国際・政治",
+      "tags": [
+        "設定確認",
+        "システム"
+      ],
+      "summary_points": [
+        "エラー内容: すべてのGeminiモデルで要約に失敗しました。最後のエラー: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-1.5-pro is not f",
+        "詳細は GitHub リポジトリの Actions ログをご確認ください。",
+        "APIキーが有効か、またはGoogle AI Studioの利用制限（クォータ）をご確認ください。"
+      ],
+      "global_perspective": "APIキーが正しく読み込まれると、海外メディア（BBC/Reuters等）の最新記事に自動で切り替わります。",
+      "reading_time": "約30秒"
+    },
     {
       "id": 1,
       "title_ja": "円安が一段と進行、海外投資家は日銀の追加利上げ時期を注視",
