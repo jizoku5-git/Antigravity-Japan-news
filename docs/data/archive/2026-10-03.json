@@ -1,125 +1,206 @@
 {
-  "updated_at": "2026-10-03 10:41 JST",
+  "updated_at": "2026-10-03 10:48 JST",
   "date": "2026-10-03",
-  "total_articles": 6,
+  "total_articles": 10,
   "articles": [
     {
-      "id": 999,
-      "title_ja": "⚠️ Gemini APIによる要約でエラーが発生しました",
-      "original_title": "System Diagnostic Notification",
-      "source": "システム通知",
-      "url": "https://github.com",
+      "id": 1,
+      "title_ja": "日韓関係の現状と今後の協力の課題について",
+      "original_title": "Korea-Japan Cooperation Still Has a Long Way to Go - Toda Peace Institute",
+      "source": "Toda Peace Institute",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTE8yaWxib1RIdWZZODBMRHV3WU40TVVNUTZiTUJzT0pYZkM1QUFOdHhZVTFpMHNBWlN0UVRZQjAxYzR1OTZZU3pHejBPYTJ5Rm1jNDVzQ0JISlBGcHJrSzV1VC0wZjZzblBmY05fa2JLalpmbUM4Z0FnQVNOdlNOWTdpaTZJcVRlWDNOeQ?oc=5",
       "category": "国際・政治",
       "tags": [
-        "設定確認",
-        "システム"
+        "日韓関係",
+        "外交",
+        "国際協力"
       ],
       "summary_points": [
-        "エラー内容: すべてのGeminiモデルで要約に失敗しました。最後のエラー: HTTP 404: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"models/gemini-1.5-pro is not f",
-        "詳細は GitHub リポジトリの Actions ログをご確認ください。",
-        "APIキーが有効か、またはGoogle AI Studioの利用制限（クォータ）をご確認ください。"
+        "日本と韓国の間の協力関係には、依然として多くの課題が残されていることが指摘されています。",
+        "歴史的・政治的な背景から、両国間の完全な信頼醸成には中長期的なアプローチが必要とされています。",
+        "国際シンクタンク等からは、実務レベルでの連携強化が今後の関係改善の鍵になると見られています。"
       ],
-      "global_perspective": "APIキーが正しく読み込まれると、海外メディア（BBC/Reuters等）の最新記事に自動で切り替わります。",
-      "reading_time": "約30秒"
-    },
-    {
-      "id": 1,
-      "title_ja": "円安が一段と進行、海外投資家は日銀の追加利上げ時期を注視",
-      "original_title": "Yen weakens further as investors eye Bank of Japan's rate path",
-      "source": "Reuters",
-      "url": "https://www.reuters.com",
-      "category": "経済・ビジネス",
-      "tags": [
-        "円相場",
-        "日銀",
-        "金利政策"
-      ],
-      "summary_points": [
-        "東京外国為替市場で対ドルでの円売りが継続し、輸入コスト上昇への懸念が再燃。",
-        "市場関係者は日銀による年末までの追加利上げの可能性とタイミングに注目。",
-        "米国の金融政策（FRBの利下げペース）との温度差が為替の主な変動要因となっている。"
-      ],
-      "global_perspective": "海外ファンドは「日銀が過度な急利上げを避ける」とみており、金利差に着目した取引が依然として優勢と報じられています。",
+      "global_perspective": "アジア太平洋地域の安全保障と経済安定の観点から、日韓関係の動向は国際社会からも継続的に注視されています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "日本の観光産業、インバウンド消費が過去最高を更新も「観光公害」対策が急務",
-      "original_title": "Record tourist influx boosts Japan economy, but brings overtourism challenges",
-      "source": "BBC News",
-      "url": "https://www.bbc.com",
-      "category": "観光・トレンド",
+      "title_ja": "アルカラス選手が語る、ジャパン・オープンでの苦闘と勝利",
+      "original_title": "“It Frustrated Me”: Carlos Alcaraz Reveals Japan Open Struggles After Narrow Opening-Round Win - sports.yahoo.com",
+      "source": "sports.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQanZNRGMzZTAtR1Nrb3RuMERRaVVLNzNQS2RtT1BUeXEyYlVqaWk0RXlZT1VHRUVlVjc4XzZRel9FVDl2RkwxV1hzb2ZGdU5DaDlSVFlDY3dheC1UUFJ6amVpZlhGUG9DaEdKS19wVlFDcXRwTHJTc3lVUWJUNnpQWTNCQ2VuRGx3N3U5SlVaMHV0dw?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "インバウンド",
-        "京都",
-        "観光税"
+        "テニス",
+        "ジャパンオープン",
+        "スポーツ"
       ],
       "summary_points": [
-        "円安と日本の食文化・アニメ人気を背景に、訪日外国人客数と消費額が過去最高水準に達した。",
-        "一方で京都や富士山など人気スポットでは混雑やゴミ問題などのオーバーツーリズムが深刻化。",
-        "自治体は二重価格の設定や観光客向け新税、混雑分散アプリの導入などを加速させている。"
+        "男子テニスのトップ選手であるカルロス・アルカラス選手が、ジャパン・オープン初戦での苦戦を振り返りました。",
+        "厳しい初戦を辛勝で突破したものの、自身のパフォーマンスに対するもどかしさを率直に語っています。",
+        "海外スポーツメディアは、日本の大会特有のコンディションや選手心理の動きに注目して報じています。"
       ],
-      "global_perspective": "海外メディアは「日本は観光大国への転換に成功しつつあるが、地域住民の生活環境維持とのバランスが最大の試練」と客観的に分析しています。",
+      "global_perspective": "世界的なトップアスリートが日本の大会で直面する挑戦や心理的葛藤として、スポーツファンやメディアの間で話題となっています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "次世代半導体Rapidus（ラピダス）、先端チップ量産に向けた国際連携が前進",
-      "original_title": "Japan's semiconductor champion Rapidus makes strides toward 2nm chip production",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com",
-      "category": "テクノロジー",
+      "title_ja": "アメリカの牧畜業者にとっての日本市場の重要性",
+      "original_title": "Why Japan’s Taste for U.S. Beef Matters for American Ranchers - drovers.com",
+      "source": "drovers.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcXFsMDcwNmkwa20tTWpTSTdYT2o3S2pIMW9meERXSExmX1lWYXNCT2tmVzhGdVBDOWdKYVJ3U3RrT0piRjdWS2tzRm93LUpEQVQzNFI3T19vTUo3R0djTWZMcnNrZ3hyR29PWVlpeG9QaTdldUozQ1BDeEtrckdnaDBGZWttU1k?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "半導体",
-        "Rapidus",
-        "先端技術"
+        "米国産牛肉",
+        "貿易",
+        "農業ビジネス"
       ],
       "summary_points": [
-        "北海道千歳市に建設中のラピダス工場で、2ナノメートル先端チップの試作ライン導入が進行中。",
-        "米IBMやベルギーの研究機関imecとの強力な連携体制により開発スピードを維持。",
-        "巨額の政府支援に対する国民的理解と、将来の顧客確保が今後の重要な成否を握る。"
+        "アメリカの農業・畜産業界において、日本市場への牛肉輸出しがいかに重要であるかが解説されています。",
+        "日本市場の動向や消費者の嗜好の変化が、米国の牧畜業者の収益に直接的な影響を与える仕組みが示されています。",
+        "安定した輸出先としての日本の位置づけが、現地生産者にとって不可欠であると強調されています。"
       ],
-      "global_perspective": "世界のサプライチェーン再編の中で、「日本が最先端半導体の製造拠点として復権できるか」を世界各国のテック業界が固唾をのんで見守っています。",
+      "global_perspective": "米国の地方経済や農業セクターの視点から、日本との強固な貿易関係がビジネスの生命線として捉えられています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "日本の宇宙ベンチャー、商業月面着陸ミッションの最終準備段階へ",
-      "original_title": "Japanese space startup enters final preparations for private lunar landing",
-      "source": "CNN",
-      "url": "https://www.cnn.com",
-      "category": "テクノロジー",
+      "title_ja": "トランプ氏、アラスカLNGプロジェクトを巡り韓国に警告",
+      "original_title": "Trump threatens South Korea over Alaska LNG project dispute - The Japan Times",
+      "source": "The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZlVnVVJHcHJvWVJIX2VoZlhOOUxDeUpsWXhfTXYzcFd3dkl6cWNLVVNUbTNzdVI0X3gzMk9vMU52MGZ6TE9USXBfWUZLVVpFMDlCUDY0SzZibTFvem9YeHRzSTdjQUJZOGFmbGVEODVNQlhDbzVXZml3SlpvRGNGZ1BYZV8wSk1EZUxzcFpKdERNT00?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "宇宙開発",
-        "月面着陸",
-        "民間宇宙"
+        "エネルギー",
+        "LNG",
+        "地政学"
       ],
       "summary_points": [
-        "日本の民間宇宙企業が開発した月着陸船が、次回の打ち上げに向けた最終試験を完了。",
-        "前回の課題であった高度測定センサーなどの改良を施し、着陸精度の向上を図る。",
-        "官民連携による月面探査ビジネスの先駆けとして世界的な注目を集めている。"
+        "アラスカの液化天然ガス（LNG）プロジェクトに関する紛争をめぐり、ドナルド・トランプ氏が韓国に対して警告を発しました。",
+        "大規模なエネルギー開発や貿易協定を巡る国際間の利害対立が表面化しています。",
+        "アジアのエネルギー安全保障や日本を含む近隣諸国への波及効果についても懸念が持たれています。"
       ],
-      "global_perspective": "民間による月面探査競争がアメリカやインドで激化する中、日本の民間技術が世界的な月経済（シスルナ経済）で存在感を示せるかが論点となっています。",
+      "global_perspective": "エネルギー政策と外交圧力を絡めたトランプ氏の手法が、アジアの国々との関係にどのような影響を及ぼすか関心が集まっています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "日本の伝統工芸と地方創生、海外の若手デザイナーが新たな価値を吹き込む",
-      "original_title": "How global designers are reviving Japan's ancient rural craft traditions",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com",
+      "title_ja": "ボブスレー日本代表コーチに韓国のキム・ドンヒョン氏が就任",
+      "original_title": "Korean Kim Donghyun to become Japan’s national bobsleigh coach - International Bobsleigh & Skeleton Federation",
+      "source": "International Bobsleigh & Skeleton Federation",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2Jta1ZkbmhkaFp1RkY1U3h2dkVZNkxYSnhnVTdma2wxZEVUbXQ5WkYwLWhCNDZ1OHJpMVAyNnVEOVhUX01SZWllNGJsS0NBNFZPa2VkWFhlVG1sUWlHel9McDA0cUE4ckZPeU9YZnhJVzFSZzd0TWFINnRDckdmSzBQcDFOLTFuaG9FQWdjclM2TFRhcU8yQ0dfZktXUQ?oc=5",
       "category": "社会・文化",
       "tags": [
-        "伝統工芸",
-        "地方創生",
-        "デザイン"
+        "ボブスレー",
+        "スポーツ指導者",
+        "国際交流"
       ],
       "summary_points": [
-        "後継者不足に悩む日本の漆器や織物工房に、欧米の若手デザイナーが移住・参画する事例が増加。",
-        "伝統的な職人技にサステナブルな現代的デザインを融合させ、海外高級ホテルやギャラリーに展開。",
-        "消えゆく地域の歴史的技術をグローバルな販路で再生するモデルケースとして期待されている。"
+        "国際ボブスレー・スケルトン連盟は、韓国出身のキム・ドンヒョン氏がボブスレー日本代表のコーチに就任することを発表しました。",
+        "国境を越えた指導者の招聘により、日本チームの競技力向上と国際的な協力関係の構築が期待されています。",
+        "アジア圏のウィンタースポーツ界における人材交流の好例として注目されています。"
       ],
-      "global_perspective": "日本の「モノづくりへのこだわり（職人精神）」に対する海外の敬意は根強く、伝統と現代を掛け合わせる日本の地方の可能性を高く評価しています。",
+      "global_perspective": "スポーツの分野において国籍を超えたプロフェッショナルの登用が進むトレンドとして、ポジティブに受け止められています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "北朝鮮発射のミサイルが早朝に落下、日本政府が発表",
+      "original_title": "Japan says suspected North Korean missile has fallen after early-morning launch - stripes.com",
+      "source": "stripes.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUERDSGRHRzVXU3lKcjM4cWs2SmtXYzJRUGFfb2hDSWVzUDVWeGJ6dVVzZ0JnMUFfNnhsMDkwcWJPQThCLXRuMjFZLW5UWlN4Q19vc3Y2bG1KWE5oUEtsZ3FZcXczQ05hV2k0ZGtTZkR6ZzR2RFZRMmQ0cHV4Vms2c3hVRU1naGhjX3NKNVNWWHJOWE80S1cxOHp1aHhlM0NXREtKSFNGUk5nU1U?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "北朝鮮",
+        "ミサイル",
+        "安全保障"
+      ],
+      "summary_points": [
+        "日本政府は、北朝鮮が早朝に発射したとみられるミサイルが落下したことを確認・発表しました。",
+        "日本の防衛当局や関連機関は直ちに警戒態勢に入り、情報収集と国民への注意喚起を行いました。",
+        "地域の平和と安全を脅かす相次ぐミサイル発射に対し、国際社会での連携した対応が求められています。"
+      ],
+      "global_perspective": "東アジアの地政学的リスクの高まりを伝えるニュースとして、米国の防衛関連メディアなども速報で伝えています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "日本のアニメ産業：世界的な人気と表現の自由のバランス",
+      "original_title": "FEATURE: Japan anime industry weighs global appeal against creative freedom - Japan Wire by Kyodo News",
+      "source": "Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56eGpuZzhzVTRmcklvdEJQMkFZOVVEeFBiN3FRZ2lmaUhycHhTbTdoeXdjcU55TG5UOFh2RHg3UWNGc1ZYUThYOHI0MjdzckV4UXk4UUVBc2Ntdw?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "アニメ",
+        "表現の自由",
+        "コンテンツ産業"
+      ],
+      "summary_points": [
+        "世界的なブームを迎えている日本のアニメ産業が、グローバル市場での訴求力とクリエイティブな表現の自由の間で直面する課題を特集しています。",
+        "海外での普及に伴う文化的な配慮や規制への適応が、制作現場に新たな議論をもたらしています。",
+        "独自の文化的価値を保ちつつ世界市場で成長を続けるための模索が続いています。"
+      ],
+      "global_perspective": "日本のポップカルチャーが世界的なメインストリームとなる中で、コンテンツの倫理や表現のあり方に対する関心が高まっていることを示しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 8,
+      "title_ja": "豚肉チェックオフ投資による日本市場の開拓強化",
+      "original_title": "Pork checkoff investments helping strengthen market development in Japan - Brownfield Ag News",
+      "source": "Brownfield Ag News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHBqd050SlVNSDVpd1BjZ1BvbXNGX3EydnZmOGdWYkxzN3lOWnlGWjFVLWZtUHllU0RrNDBXS3hQdVJjVmlJUXNud09wZVltTlVVb1RKMDRFMlcxMldZZlA1bUdlbWNTTUlQMWI1ZGRMUXd5Mjg1eTlKdkZMQkpVdmlsdDhjdkhTM05KbGtONFY2WVlrRjJXbUFFa3Q2OHVQZXhiLVZtUFhUZFkxUVdMcw?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "豚肉",
+        "市場開発",
+        "畜産業"
+      ],
+      "summary_points": [
+        "米国の豚肉業界団体による「チェックオフ（業界共通の資金拠出）」を活用した投資が、日本市場での需要拡大に貢献していることが報じられています。",
+        "日本国内でのマーケティングやプロモーション活動を通じて、米国産豚肉のシェア維持・拡大を図っています。",
+        "アジアの主要市場である日本における販路開拓の重要性が改めて強調されています。"
+      ],
+      "global_perspective": "米国の生産者団体が戦略的な資金投下を行って海外市場を開拓する成功事例の一つとして注目されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 9,
+      "title_ja": "NASAが捉えた中部地方の記録的な大雨",
+      "original_title": "Record Rainfall Over Central Japan - NASA Earthdata (.gov)",
+      "source": "NASA Earthdata (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR05mcEVOZG9iUnpBQS1uWjVPc3FMY3hhWmhqVW14ZlNtTm45c21SYVRUVEpVNWtCcHBWT24zQjNGMUlVZklYNzlfcV9oZGNoamtkaGRuREVCT0YxYlQwdGh4QUprSDNnYzZJSFdlc0JtSXRET0hTR3hCaTh0Zk0wRDlmZXh3MHhEc1p4ZllFYXNnbVhteHluZmVn?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "気象",
+        "大雨",
+        "NASA"
+      ],
+      "summary_points": [
+        "NASAの地球観測データにより、日本中部地方を襲った記録的な大雨の様子が捉えられました。",
+        "宇宙からの衛星観測データを用いることで、気象災害の規模や雲の動きが詳細に分析されています。",
+        "地球規模での気候変動や異常気象の一環として、日本の気象データが国際的な研究にも活用されています。"
+      ],
+      "global_perspective": "世界的な気候変動の文脈において、日本で発生する極端な気象現象が科学的な観点からいかに重要視されているかを示しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 10,
+      "title_ja": "日本で失踪のアメリカ人、自発的な出国である可能性が「極めて高い」と警察発表",
+      "original_title": "'Highly probable' that American missing in Japan left intentionally: Police - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0IxZWlJNHZNR2lXU3YyTWM5M2xmUzBndmFFckVmWWhKbVZhN1FsanFSd29TeFR2S2VRZzFRLV9ndGNuSGRLRzJkUDBGNUROQlFTdE1UZTV1ZGt4YUVVQkpNRmJfcGU1SEQ5aGpKQUFYZmlIaFBhRVRWNG1qWDV5SzNLb3YyMEh0aHgydEE1Z3RKazV4YVJsVEVYRDZfQXpGZi00ZHZKUlhIZFVESGFPVFZwSlRsRmpy0gG-AUFVX3lxTE1waDhFM0x3ZFlrN3I1eXhBZS1DY2hOTTFwbFZtTlRGTjVuaEdPTHIxMVdsTGJ6dGpabGVNeFdJU0l1OWkyMnN0dlU2RlRnRExTeV9JaTZ6d3RPN1BEMTN5bHN6WVdFMnBTdWVJVk5EM2tOcW5ic1NBdUxOMFBzWlRqa1N1Rm81RUJBQU9MNl82aDR2YmpoN1JZenBJeDBybnpYTnRGV0FMRFRkWHZycHJXazlUTFoyaU9KM0ptSUE?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "事件・事故",
+        "警察",
+        "米国人失踪"
+      ],
+      "summary_points": [
+        "日本国内で消息不明となっていたアメリカ人について、警察の捜査により自発的に出国した可能性が「極めて高い」と判断されました。",
+        "米国の主要メディアもこの捜査進展について速報し、現地での安否確認の経緯を伝えています。",
+        "事件性ではなく個人の意志による移動である公算が大きくなったことで、一連の捜索は大筋で解決に向かっています。"
+      ],
+      "global_perspective": "日本国内における外国人関連のニュースとして、米国のメディアや一般市民の間でも関心を持って読まれています。",
       "reading_time": "約1分"
     }
   ]
