@@ -87,8 +87,13 @@ def fetch_articles(max_articles=12):
 
 def summarize_with_gemini(articles, api_key):
     """Gemini API を使って英語記事を分析し、日本語の要約JSONを生成する"""
-    # 安定版の gemini-1.5-flash または gemini-2.5-flash
-    api_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    # 試行するモデル候補（最新モデルからフォールバック）
+    models_to_try = [
+        "gemini-1.5-flash",
+        "gemini-2.0-flash",
+        "gemini-2.5-flash",
+        "gemini-1.5-pro"
+    ]
 
     articles_text = ""
     for idx, art in enumerate(articles, 1):
@@ -150,25 +155,31 @@ def summarize_with_gemini(articles, api_key):
         }
     }
 
-    print("[情報] Gemini API で記事の翻訳・要約を実行中...")
-    response = requests.post(api_url, json=payload, headers={"Content-Type": "application/json"}, timeout=60)
-    
-    if response.status_code != 200:
-        raise RuntimeError(f"Gemini API エラー (ステータス: {response.status_code}): {response.text}")
+    last_error = None
+    for model_name in models_to_try:
+        api_url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
+        print(f"[情報] Gemini モデル '{model_name}' で要約を試行中...")
 
-    result = response.json()
-    try:
-        content_text = result["candidates"][0]["content"]["parts"][0]["text"]
-        # マークダウンのコードブロック除去
-        clean_json_str = re.sub(r'^```json\s*', '', content_text.strip())
-        clean_json_str = re.sub(r'\s*```$', '', clean_json_str)
-        items = json.loads(clean_json_str)
-        print(f"[完了] Gemini API による要約が完了しました（{len(items)} 件生成）。")
-        return items
-    except Exception as e:
-        print(f"[エラー] Geminiの応答JSONのパースに失敗しました: {e}")
-        print("生テキスト:", content_text if 'content_text' in locals() else result)
-        raise
+        try:
+            response = requests.post(api_url, json=payload, headers={"Content-Type": "application/json"}, timeout=60)
+            
+            if response.status_code == 200:
+                result = response.json()
+                content_text = result["candidates"][0]["content"]["parts"][0]["text"]
+                # マークダウンのコードブロック除去
+                clean_json_str = re.sub(r'^```json\s*', '', content_text.strip())
+                clean_json_str = re.sub(r'\s*```$', '', clean_json_str)
+                items = json.loads(clean_json_str)
+                print(f"[完了] モデル '{model_name}' で正常に要約が完了しました（{len(items)} 件生成）。")
+                return items
+            else:
+                last_error = f"HTTP {response.status_code}: {response.text}"
+                print(f"[警告] モデル '{model_name}' は失敗しました ({last_error[:120]}...)。次のモデルを試します。")
+        except Exception as e:
+            last_error = str(e)
+            print(f"[警告] モデル '{model_name}' 通信エラー: {e}")
+
+    raise RuntimeError(f"すべてのGeminiモデルで要約に失敗しました。最後のエラー: {last_error}")
 
 
 def generate_mock_data():
@@ -310,6 +321,26 @@ def save_data(items):
     print(f"[保存] アーカイブ目次を更新しました: {index_path}")
 
 
+def make_diagnostic_card(title, message, details=""):
+    """エラーや警告をスマホ画面上で読者にわかりやすく表示するためのカード"""
+    return {
+        "id": 999,
+        "title_ja": f"⚠️ {title}",
+        "original_title": "System Diagnostic Notification",
+        "source": "システム通知",
+        "url": "https://github.com",
+        "category": "国際・政治",
+        "tags": ["設定確認", "システム"],
+        "summary_points": [
+            message,
+            "詳細は GitHub リポジトリの Actions ログをご確認ください。",
+            details if details else "正しい API キーを設定後、Actions タブから再度実行してください。"
+        ],
+        "global_perspective": "APIキーが正しく読み込まれると、海外メディア（BBC/Reuters等）の最新記事に自動で切り替わります。",
+        "reading_time": "約30秒"
+    }
+
+
 def main():
     print("=" * 60)
     print(" 海外から見た日本ニュース 自動要約システム (J-Global Digest)")
@@ -318,21 +349,42 @@ def main():
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
 
     if not api_key:
-        print("[注意] 環境変数 'GEMINI_API_KEY' が設定されていません。")
-        print("[案内] 動作検証のため、高品質なデモサンプルデータを使用してUIを構築・更新します。")
-        items = generate_mock_data()
+        print("[エラー] 環境変数 'GEMINI_API_KEY' が空、または設定されていません！")
+        print("[確認] GitHub の Settings > Secrets and variables > Actions の「Repository secrets」に登録されているかご確認ください。")
+        items = [
+            make_diagnostic_card(
+                "Gemini APIキーが設定されていません",
+                "GitHub Secrets の 'GEMINI_API_KEY' が読み込めませんでした。",
+                "Settings > Secrets and variables > Actions の「Repository secrets」に登録されているかご確認ください。"
+            )
+        ] + generate_mock_data()
     else:
+        # APIキーの文字数とプレフィックスを出力（セキュリティを保ちつつデバッグ）
+        masked_key = api_key[:4] + "..." + api_key[-4:] if len(api_key) >= 8 else "***"
+        print(f"[情報] GEMINI_API_KEY を検出しました (長さ: {len(api_key)} 文字, 形式: {masked_key})")
+        
         try:
             raw_articles = fetch_articles(max_articles=12)
             if not raw_articles:
-                print("[警告] 記事が取得できなかったため、モックデータを使用します。")
-                items = generate_mock_data()
+                print("[警告] 記事が取得できなかったため、診断カードを表示します。")
+                items = [
+                    make_diagnostic_card(
+                        "海外記事の取得に失敗しました",
+                        "RSSフィードから記事を取得できませんでした。一時的なネットワーク制限の可能性があります。"
+                    )
+                ] + generate_mock_data()
             else:
                 items = summarize_with_gemini(raw_articles, api_key)
         except Exception as e:
-            print(f"[エラー] ニュース取得・要約中にエラーが発生しました: {e}")
-            print("[フォールバック] サンプルデータに切り替えて保存します。")
-            items = generate_mock_data()
+            err_msg = str(e)
+            print(f"[エラー] ニュース取得・要約中にエラーが発生しました: {err_msg}")
+            items = [
+                make_diagnostic_card(
+                    "Gemini APIによる要約でエラーが発生しました",
+                    f"エラー内容: {err_msg[:120]}",
+                    "APIキーが有効か、またはGoogle AI Studioの利用制限（クォータ）をご確認ください。"
+                )
+            ] + generate_mock_data()
 
     save_data(items)
     print("\n[完了] すべての処理が正常に完了しました！")
