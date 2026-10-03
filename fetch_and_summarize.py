@@ -85,15 +85,54 @@ def fetch_articles(max_articles=12):
     return articles
 
 
+def fetch_available_models(api_key):
+    """Google Gemini API (ListModels) を呼び出し、実際に利用可能なモデル一覧を動的に検出する"""
+    for api_version in ["v1beta", "v1"]:
+        url = f"https://generativelanguage.googleapis.com/{api_version}/models?key={api_key}"
+        try:
+            print(f"[情報] {api_version} から利用可能なモデル一覧を取得中...")
+            res = requests.get(url, timeout=15)
+            if res.status_code == 200:
+                data = res.json()
+                valid_models = []
+                for m in data.get("models", []):
+                    methods = m.get("supportedGenerationMethods", [])
+                    if "generateContent" in methods:
+                        clean_name = m.get("name", "").replace("models/", "")
+                        valid_models.append(clean_name)
+                if valid_models:
+                    print(f"[成功] 利用可能なGeminiモデルを {len(valid_models)} 件検出しました: {valid_models[:5]}")
+                    return valid_models, api_version
+        except Exception as e:
+            print(f"[警告] ListModels取得エラー ({api_version}): {e}")
+
+    return [], "v1beta"
+
+
 def summarize_with_gemini(articles, api_key):
     """Gemini API を使って英語記事を分析し、日本語の要約JSONを生成する"""
-    # 試行するモデル候補（最新モデルからフォールバック）
-    models_to_try = [
-        "gemini-1.5-flash",
-        "gemini-2.0-flash",
-        "gemini-2.5-flash",
-        "gemini-1.5-pro"
-    ]
+    # 1. APIキーで実際に使用可能なモデルを動的検出
+    detected_models, api_ver = fetch_available_models(api_key)
+
+    if detected_models:
+        # flash系モデルを優先（高速・軽量・低クォータ消費）
+        models_to_try = sorted(
+            detected_models,
+            key=lambda x: (
+                0 if "flash" in x else 1,
+                0 if "latest" in x else 1,
+                0 if "1.5" in x or "2.0" in x else 1
+            )
+        )
+    else:
+        # 動的検出ができなかった場合の安全フォールバック
+        models_to_try = [
+            "gemini-1.5-flash-latest",
+            "gemini-1.5-flash",
+            "gemini-2.0-flash",
+            "gemini-2.5-flash",
+            "gemini-1.5-pro-latest"
+        ]
 
     articles_text = ""
     for idx, art in enumerate(articles, 1):
@@ -157,8 +196,8 @@ def summarize_with_gemini(articles, api_key):
 
     last_error = None
     for model_name in models_to_try:
-        api_url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
-        print(f"[情報] Gemini モデル '{model_name}' で要約を試行中...")
+        api_url = f"https://generativelanguage.googleapis.com/{api_ver}/models/{model_name}:generateContent?key={api_key}"
+        print(f"[情報] Gemini モデル '{model_name}' ({api_ver}) で要約を試行中...")
 
         try:
             response = requests.post(api_url, json=payload, headers={"Content-Type": "application/json"}, timeout=60)
@@ -174,12 +213,12 @@ def summarize_with_gemini(articles, api_key):
                 return items
             else:
                 last_error = f"HTTP {response.status_code}: {response.text}"
-                print(f"[警告] モデル '{model_name}' は失敗しました ({last_error[:120]}...)。次のモデルを試します。")
+                print(f"[警告] モデル '{model_name}' 失敗 ({last_error[:140]}...)。次のモデルを試します。")
         except Exception as e:
             last_error = str(e)
             print(f"[警告] モデル '{model_name}' 通信エラー: {e}")
 
-    raise RuntimeError(f"すべてのGeminiモデルで要約に失敗しました。最後のエラー: {last_error}")
+    raise RuntimeError(f"利用可能なGeminiモデルでの要約に失敗しました。最後のエラー: {last_error}")
 
 
 def generate_mock_data():
