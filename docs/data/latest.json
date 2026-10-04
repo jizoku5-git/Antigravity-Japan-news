@@ -1,106 +1,166 @@
 {
-  "updated_at": "2026-10-04 08:06 JST",
+  "updated_at": "2026-10-04 11:49 JST",
   "date": "2026-10-04",
-  "total_articles": 5,
+  "total_articles": 8,
   "articles": [
     {
       "id": 1,
-      "title_ja": "揺らぐ米国の核の傘、日本の防衛政策と「核の選択肢」に関する議論",
-      "original_title": "Japan’s nuclear options under a wavering US umbrella",
-      "source": "East Asia Forum",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZko1X3V0TkNidlY0Mmk2Q08tc2FaamhkUmJ2aGRxdV9jdlRrLUM3RWtBMW5GeC1sX0NRRXNVV1RaczFZQUYzUjlRV2tmYUE4VHVNZUFZWW5wVVM0TEZFT0VFdU1JcGV5MlFRby1TenI5ajI3SmszTFRpYUNjZmJDRU9WN1RKT1hFc0p0Y0V6Wl9nZHM?oc=5",
-      "category": "国際・政治",
+      "title_ja": "テマセク系ベンチャーが日本のデジタル・トレーディングカード新興企業に出資",
+      "original_title": "Exclusive | Temasek-Backed Vertex Japan Invests in Digital Trading Cards Startup Heartbeats",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbzg1azhHRnFDZjFJbE5ud0txdGNKQXZ4QXBNSWYzVS1pcUtxRngzSFRRLVdqQzQyZ056Q1RCRVBSam1jTlJQYlZnT3FnSElJeXZQdmFZdDhLMHZSSFRNRTBsN19Scm4xNmZwNlU4NUdsV09QekJyUnpaTTNOWmhZX2ZzVDNQZ2dGZW9qTDlxS0VKWnJfck5nbTRLN3A1a1NvYlgtSDFDRlVRNjN3SlRUMWpZRHJQZ1JZRUt3WlhKYkNjSXV1MnRV?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "防衛",
-        "安全保障",
-        "外交"
+        "ベンチャー投資",
+        "デジタル資産",
+        "スタートアップ"
       ],
       "summary_points": [
-        "同盟国である米国の安全保障への関与が揺らぐ中、日本の防衛政策における将来的な選択肢について議論が交わされている。",
-        "米国の「核の傘」に対する依存度や、日本国内における独自の核武装論に関する現実的な課題が指摘されている。",
-        "アジア太平洋地域の安全保障環境が急速に変化する中、日本の次なる戦略的判断に国際社会の関心が集まっている。"
+        "シンガポールの政府系ファンド・テマセク系の「Vertex Japan」が、日本のスタートアップ「Heartbeats」への出資を行いました。",
+        "「Heartbeats」はデジタル・トレーディングカード分野で事業を展開している注目の企業です。",
+        "日本のデジタルコンテンツやIP（知的財産）を背景にしたテック系スタートアップへの海外資本の関心の高さを示しています。"
       ],
-      "global_perspective": "米国の政権変動や外交方針の変化を見据え、アジアの同盟国がどのように自国の防衛体制を再構築するのかという地政学的リスクの観点から報じられています。",
+      "global_perspective": "世界的な投資家が日本の豊かなコンテンツ市場と融合するWeb3・デジタルコレクティブル領域の成長性に注目していることを示しています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "韓国がサッカー男子で日本を下し金メダル、アジア競技大会で4連覇達成",
+      "title_ja": "豪州財務長官が初の日豪財務相会合のため来日へ",
+      "original_title": "Australia's Treasurer heads to Japan for inaugural finance ministerial forum",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUhjVU5NV0xTTFBNSlg0ZkphRkR2UnAyNU93ZzRpeVk3RHBVMFBfVlBrRGxjRERLQWVoMG1Qd19wdTRBTm9HZ3UzRlRsU25LdkVWN2Q4NzRhRm0zOFZXWjFUYzJIYWxjN1QtRHprajMyS1k3TU9KalFCakc2TkNuYXp6VXo2cVFxNUJUTDg1Q0MtSDU5Y09XZXB4cWZVb05QaXlidkdKX0dLclc1RlJKYTd1bzdhck9JSXp1THhLYWo?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "日豪関係",
+        "経済安保",
+        "金融政策"
+      ],
+      "summary_points": [
+        "オーストラリアのチャールズ・ジムズ財務長官が、初となる日豪財務相会合に出席するため日本を訪問します。",
+        "両国間の経済・金融協力の強化や、サプライチェーン（供給網）のレジリエンス向上などが主な議題となります。",
+        "安全保障上の緊密なパートナーである両国が、経済分野でも連携をさらに深める契機として期待されています。"
+      ],
+      "global_perspective": "インド太平洋地域の地政学的リスクが高まる中、自由民主主義陣営の主要国である日豪が経済安全保障面での結びつきを強める重要性が海外メディアで強調されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "日本で消息不明となったアメリカ人、警察は「自発的な出国」の可能性が高いと発表",
+      "original_title": "'Highly probable' that American missing in Japan left intentionally: Police",
+      "source": "abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0IxZWlJNHZNR2lXU3YyTWM5M2xmUzBndmFFckVmWWhKbVZhN1FsanFSd29TeFR2S2VRZzFRLVdkdGNuSGRLRzJkUDBGNUROQlFTdE1UZTV1ZGt4YUVVQkpNRmJfcGU1SEQ5aGpKQUFYZmlIaFBhRVRWNG1qWDV5SzNLb3YyMEh0aHgydEE1Z3RKazV4YVJsVEVYRDZfQXpGZi00ZHZKUlhIZFVESGFPVFZwSlRsRmpy0gG-AUFVX3lxTE1waDhFM0x3ZFlrN3I1eXhBZS1DY2hOTTFwbFZtTlRGTjVuaEdPTHIxMVdsTGJ6dGpabGVNeFdJU0l1OWkyMnN0dlU2RlRnRExTeV9JaTZ6d3RPN1BEMTN5bHN6WVdFMnBTdWVJVk5EM2tOcW5ic1NBdUxOMFBzWlRqa1N1Rm81RUJBQU9MNl82aDR2YmpoN1JZenBJeDBybnpYTnRGV0FMRFRkWHZycHJXazlUTFoyaU9KM0ptSUE?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "事件・事故",
+        "警察",
+        "アメリカ人"
+      ],
+      "summary_points": [
+        "日本国内で消息不明となっていたアメリカ人について、日本の警察が「自発的に出国した可能性が高い」との見解を示しました。",
+        "米メディアでも大きく取り上げられていた行方不明事案であり、捜査の進展として注目されています。",
+        "事件性ではなく個人的な事情による移動であった可能性が浮上しています。"
+      ],
+      "global_perspective": "外国人が日本国内で関与する事件・事故として、米国の主要ニュースネットワークでも高い関心を持って報じられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "アジア大会：韓国が日本を下し男子サッカーで4大会連続の金メダルを獲得",
       "original_title": "Asian Games 2026: Republic of Korea beat Japan to claim fourth consecutive men’s football gold",
       "source": "olympics.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3M2aFFhR2IwanpaWEZTWExCNl9NbDhhSENmNWxPN0FjNThuLU9ud2FBWmMwYkhhREpHMVlPRkxvZTRueTFEdXhMRmU4ZlZJQWtUWVhLRVlVckt0SFRJRzhyM2lPMGZKV1o2RmppMWVXX3YzQ2xQczU2OVlDaDBNZW9LaUxJZlJuUGVrTC1YaU1Xczk1aklrYW1IQVpqOGpBQ3cyN1dCbldFU29NbUE?oc=5",
       "category": "社会・文化",
       "tags": [
+        "アジア大会",
         "サッカー",
-        "アジア競技大会",
-        "スポーツ"
+        "日韓戦"
       ],
       "summary_points": [
-        "アジア競技大会のサッカー男子決勝で、韓国代表が日本代表を1-0で破り優勝を果たした。",
-        "韓国は同大会において男子サッカーで4大会連続となる金メダル獲得の快挙を成し遂げた。",
-        "両国のライバル関係が注目される中、白熱した決勝戦の結果として国際オリンピック委員会（IOC）の公式サイトなどでも大きく取り上げられた。"
+        "主要な国際総合スポーツ大会のアジア大会男子サッカー決勝で、韓国代表が日本代表を破り優勝を果たしました。",
+        "これにより韓国は同大会で4大会連続となる金メダル獲得の快挙を成し遂げました。",
+        "アジアのサッカー大国同士による伝統的なライバル対決として、国際オリンピック委員会（IOC）公式サイト等でも詳しく伝えられています。"
       ],
-      "global_perspective": "アジアを代表するサッカー強国同士の伝統的なライバル対決として、大会ハイライトの一つとしてグローバルに広く報じられています。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 3,
-      "title_ja": "アルカラスがジャパン・オープンで苦戦の末に準々決勝進出",
-      "original_title": "Carlos Alcaraz battles to book Japan Open quarter-finals spot as Harriet Dart is knocked out of China Open",
-      "source": "Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHl1al9ZSmN2TU1IMEhJUFU2Z2t1TXVlRVJSNXByQWo0LU1QbndQY3JET2Rtb2Y3QVBkTFZBWEgzWHpoVWRMOUl6Q3VFcnZhcG9MVndqN3Q3cDRfbzlkMl9fMVNOYU5yODlsRVZQS1pmVXdST3VQTmtfSnRaM1pta2Yycm5WMjJ1b19RWW0ySzJNWGlXNWFPcnZJRHhZNlp0UVByUE1NR3FuV253TXBkMEpaSHVZVlZkbkF2UjZIQWtzZkJQUzlIeU5iOFFjTy1RT3BMRnhVVlBXTjRBeDJkWFlJVzRlWUY0?oc=5",
-      "category": "社会・文化",
-      "tags": [
-        "テニス",
-        "ジャパンオープン",
-        "スポーツ"
-      ],
-      "summary_points": [
-        "男子テニスのトップ選手であるカルロス・アルカラスが、ジャパン・オープンで接戦を制し準々決勝への進出を決めた。",
-        "対戦相手の粘り強いプレーに苦しめられながらも、勝負強さを発揮して勝利をもぎ取った。",
-        "大会の優勝候補筆頭として、現地のファンや海外メディアからの熱い視線を浴びている。"
-      ],
-      "global_perspective": "世界のテニス界を牽引するスター選手の日本でのパフォーマンスとして、欧米のスポーツメディアで大きくクローズアップされています。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 4,
-      "title_ja": "「4億5千万年前の魚」が日本で奇妙な理由でバイラルヒット",
-      "original_title": "This 450-million-year-old fish has gone viral in Japan for the weirdest reason",
-      "source": "BBC Science Focus Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pNVFNVXo1VzZVY2FDN3hwNEcwMlhvVnZfeTcwR3l4ZEdaSVU4cXAwbGhRQ1Q2dWtaWXBUWkhiWmZYbVVNS2daVF9ueGU0cE8tNGRJRVlORjB2ZWVYeXc?oc=5",
-      "category": "観光・トレンド",
-      "tags": [
-        "トレンド",
-        "SNS",
-        "生き物"
-      ],
-      "summary_points": [
-        "4.5億年前に生息していたとされる古代魚に関連する話題が、日本のSNS上で予期せぬ形で大きな注目を集めた。",
-        "その特異な見た目やキャラクター性がネットミーム化し、幅広い層の間で拡散された。",
-        "科学的な生物の話題が日本の独特なインターネット文化を通じて拡散する現象として、英BBCの科学誌でも取り上げられた。"
-      ],
-      "global_perspective": "日本のネットカルチャー特有のユニークなトレンド発信力や、シュールなミーム文化の面白さを伝える海外の異色のトピックとして注目されています。",
+      "global_perspective": "アジア圏における最高峰のスポーツライバル関係の構図として、国際的なスポーツメディアで大きく扱われています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "日本国内で増加する「記念日」を活用したマーケティング戦略",
-      "original_title": "Japan sees surge in commemorative days for product promotion, awareness",
-      "source": "Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNkFZNF9CeHk5bFRuZEpGZUlpNTdVRzJubkhUekhabk9FOWQtMG5RTHlYX3VjR3EwdlFSUzRKXzh1MnVKaWJObjlBZm05NUtCOURWczFhbnR6Mm9kd0tOZm8tTEp4WEE0N19ORmlEUXpJQXdqYUp4WGVwODd0OGVTTmpHYVloUWF3Q18yX1FfSms2LWZoNy1SSWNKYi10Qk5uaVAwU1BqeHRmM3ozLVpBMUpGa2M5Rnd2MVVn?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "「サンドウ」の美学：日本のサンドイッチが持つ独自の魅力と進化",
+      "original_title": "‘Sando: The Art of the Japanese Sandwich’ elevates the humble bite",
+      "source": "The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1RWcmFZU1poRWRuQkJpRE5UZDlGeGRuY2tnSk5zMDkxTFpOMEZpQ0tmbVBzaUJnRUtVT2xXNGZHSWRmNU5ZbzRGOU5IZURCSFF4aXdQZDdhcklGZ3VvWVhrU185Zkt6N3ljR2JOaEhzMEJFdlZHencyb2ZPQnlwTDhsZ3JhRHJ4eTYxT1ZwcE9weldxWm9IYXAxV05rLWJhQXRVY3RNeUZaTDJMV3lWSW52Zw?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "マーケティング",
-        "トレンド",
-        "小売"
+        "日本の食文化",
+        "グルメ",
+        "サンドイッチ"
       ],
       "summary_points": [
-        "日本国内において、商品の認知拡大や販促を目的とした「〇〇の日」といった記念日の登録が急増している。",
-        "企業や業界団体が特定の語呂合わせや季節のイベントに合わせ、消費者の購買意欲を喚起する戦略として定着している。",
-        "ユニークな記念日を通じてSNSでの話題作りや独自のプロモーションを展開するケースが目立っている。"
+        "日本独自の進化を遂げたグルメサンドイッチ、通称「サンドウ」にスポットライトを当てた書籍や特集が話題となっています。",
+        "日本のコンビニや専門店で買える卵サンドやフルーツサンドが、職人技や美意識の表れとして高く評価されています。",
+        "寿司やラーメンに続く、新たな日本の食文化（フードカルチャー）として世界的な関心を集めています。"
       ],
-      "global_perspective": "独自の細やかなマーケティング手法や、消費者の興味を惹きつけるための日本のユニークなビジネス文化として海外メディアの関心を引いています。",
+      "global_perspective": "日本の日常的な食事が、細部へのこだわりや美しいビジュアルを通じて海外のフードトレンドとして昇華されていることが描かれています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "4億5千万年前の古代魚が日本で意外な理由からSNSで大バズり",
+      "original_title": "This 450-million-year-old fish has gone viral in Japan for the weirdest reason",
+      "source": "BBC Science Focus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pNVFNVXo1VzZVY2FDN3hwNEcwMlhvVnZfeTcwR3l4ZEdaSVU4cXAwbGhRQ1Q2dWtaWXBUWkhiWmZYbVVNS2daVF9ueGU0cE8tNGRJRVlORjB2ZWVYeXc?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "SNSトレンド",
+        "古代魚",
+        "奇妙なニュース"
+      ],
+      "summary_points": [
+        "4億5千万年以上前から生存しているとされる古代魚が、日本では全く予期せぬ理由でSNSのトレンド（バズ）になりました。",
+        "科学的なトピックが日本のユニークなネット文化や大衆のユーモアと結びつく現象が紹介されています。",
+        "BBCなどの海外科学・カルチャーメディアが、日本のネット特有のミーム文化を取り上げています。"
+      ],
+      "global_perspective": "真面目な科学的発見が、日本のインターネットコミュニティを通じて独特のエンターテインメントに変わる文化的な面白さが海外で驚きをもって受け止められています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "アルカラスが激戦を制しジャパン・オープン準々決勝へ進出",
+      "source": "Sky Sports",
+      "original_title": "Carlos Alcaraz battles to book Japan Open quarter-finals spot as Harriet Dart is knocked out of China Open",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSHl1al9ZSmN2TU1IMEhJUFU2Z2t1TXVlRVJSNXByQWo0LU1QbndQY3JET2Rtb2Y3QVBkTFZBWEgzWHpoVWRMOUl6Q3VFcnZhcG9MVndqN3Q3cDRfbzlkMl9fMVNOYU5yODlsRVZQS1pmVXdST3VQTmtfSnRaM1pta2Yycm5WMjJ1b19RWW0ySzJNWGlXNWFPcnZJRHhZNlp0UVByUE1NR3FuV253TXBkMEpaSHVZVlZkbkF2UjZIQWtzZkJQUzlIeU5iOFFjTy1RT3BMRnhVVlBXTjRBeDJ4TGFJVzRlWUY0?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "テニス",
+        "ジャパンオープン",
+        "カルロス・アルカラス"
+      ],
+      "summary_points": [
+        "男子テニスのトップスターであるカルロス・アルカラス選手が、日本で開催されているジャパン・オープンで苦戦しながらも準々決勝進出を決ました。",
+        "世界トップレベルの選手が出場する同大会の盛り上がりや、熱戦の様子が欧州のスポーツ専門メディアで速報されました。",
+        "アジア・シーズンにおける主要なテニストーナメントとして、日本の会場の雰囲気も高く評価されています。"
+      ],
+      "global_perspective": "世界のトップアスリートたちの動向とアジアツアーの重要性が、欧米のスポーツファンの間で関心を集めています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 8,
+      "title_ja": "防衛のジレンマ：揺らぐ米国の「核の傘」の下での日本の選択肢",
+      "original_title": "Japan’s nuclear options under a wavering US umbrella",
+      "source": "East Asia Forum",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZko1X3V0TkNidlY0Mmk2Q08tc2FaamhkUmJ2aGRxdV9jdlRrLUM3RWtBMW5GeC1sX0NRRXNVV1RaczFZQUYzUjlRV2tmYUE4VHVNZUFZWW5wVVM0TEZFT0VFdU1JcGV5MlFRby1TenI5ajI3SmszTFRpYUNjZmJDRU9WN1RKT1hFc0p0Y0V6Wl9nZHM?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "安全保障",
+        "核抑止",
+        "日米同盟"
+      ],
+      "summary_points": [
+        "米国の安全保障政策や国際的な影響力が変化する中で、日本が頼る「核の傘」の信頼性について専門家による議論が展開されています。",
+        "東アジアの厳しさを増す安全保障環境において、日本が直面する抑止力の維持に関する戦略的課題が分析されています。",
+        "非核三原則を堅持する日本が、同盟関係の変化にいかに対応すべきかという国際政治上の重要なテーマを取り上げています。"
+      ],
+      "global_perspective": "同盟国に依存する安全保障体制の限界と、日本自身の防衛政策の将来像について、国際政治・地政学の専門メディアが深い分析を行っています。",
       "reading_time": "約1分"
     }
   ]
