@@ -1,166 +1,146 @@
 {
-  "updated_at": "2026-10-11 06:39 JST",
-  "date": "2026-10-11",
-  "total_articles": 8,
+  "updated_at": "2026-10-12 06:39 JST",
+  "date": "2026-10-12",
+  "total_articles": 7,
   "articles": [
     {
       "id": 1,
-      "title_ja": "日本の「非核三原則」のゆくえ：外交・安全保障政策の現状と課題",
-      "original_title": "Whither Japan’s Three Non-Nuclear Principles? - The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "source": "The Diplomat",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdkpqcmpPV0t2Z3lrdjdDSVhOUDRhUzhUZ1VOaG5hQ2ZMbTJhWVA4bElPNnZhNFBtV0xteGp2Vlh3Sm9ENUxib1V1UmJaXzhaT01uX2JnakFUemExZ2dLM1lESlRvaklYclQyeGxDamZmMUN4SFpqOGUxWlRnM3UtWG13?oc=5",
-      "category": "国際・政治",
+      "title_ja": "KDDIと日本郵便、全国の郵便局をドローン物流の拠点へ",
+      "original_title": "KDDI, Japan Post eye post offices nationwide as drone hubs",
+      "source": "Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWlTMEkzaHQyYVFFMnB0SjFfWVJILVp6NkRNR0hkeU10Z3NDYjRYdmxDUnRyRHNsNzRtREVqNjJGNXpmQTZadk5pMWdoZmpHZXJ4bHl5eEU4elg2TkdDZUZfOG5aWXVYbFVMWWhsOXhYaEtJZ3lacXpoVFkxYWNjdFlaLXVfamh6V0FJejBQcC1ZdTVFZXg3YjlkcXFMRHc?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "安全保障",
-        "核政策",
-        "外交"
+        "ドローン物流",
+        "ラストワンマイル",
+        "インフラ活用"
       ],
       "summary_points": [
-        "日本が長年掲げてきた「持たず、作らず、持ち込ませず」の非核三原則の現状に海外メディアが疑問を投げかけています。",
-        "安全保障環境が厳しさを増す中で、核抑止力をめぐる議論や政策の論点が多角的に分析されています。",
-        "アジア太平洋地域の地政学的リスクの高まりを受け、日本の防衛スタンスの変化に国際社会の関心が集まっています。"
+        "KDDIと日本郵便は、全国に張り巡らされた郵便局網をドローンの離着陸および配送拠点として活用する計画を進めています。",
+        "物流業界の「2024年問題」や過疎地での配送網維持といった課題に対し、自動配送インフラの構築で解決を目指します。",
+        "全国規模の既存インフラを次世代モビリティ拠点へ刷新するモデルケースとして注目されています。"
       ],
-      "global_perspective": "ロシアのウクライナ侵攻や北朝鮮・中国の動向を背景に、平和主義を貫いてきた日本が直面する安全保障上のジレンマとして注目されています。",
+      "global_perspective": "高齢化と人手不足に直面する日本が、伝統的な郵便インフラを先端ドローン配送網へと転換する取り組みは、先進国共通の物流課題を解決する先進事例として関心を集めています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "セブンイレブン、インドでの店舗閉鎖は撤退を意味せず：現地戦略の真意",
-      "original_title": "Why Japan's 7-Eleven store closures in India don’t signal an exit - CNBC",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTS29WNlVMWUV5VnhJMFlXUVk0eU81bkV1OU16U0R3N2toOXZzMGM3eldKQkI1ZWZaNENUWmd2dGxkc2VvYTQ4bXpIbnZ0akl2a01ZN3JIQXNKZmFlczZxNzlQdEJXOEVhX1pEeWMyTzYyWXhG0gF6QVVfeXFMTm54X3FrSVhjWUZpaE5kNE5IRzZYMFNFZ09HXy1OLTdEMXFtcGlwaXVFbTc0d1hVaExDZWhVNTI3RW9leU1GSWtIQndfYkxfWmxpYllzOWU4bWhKZUVwLTI5UXdpWVFpemtXN2hsMURZcU5rVXd6LWFiWkE?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "日本とフィリピンの海洋境界画定協議、中国側が警戒感を強める背景",
+      "original_title": "Hu Bo: Japan–Philippines Maritime Delimitation Talks and China’s Response",
+      "source": "The East is Read",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFdFk1dEUtY0Qzb3lBWUVJWlFDQThfdEFWV3hjdWtTRnp4R0F1Mk5ycHExRzNtMUtOSVlmZkU2V3o4cThxX25SNkU0NjZtemdYMWRmeC12V0NtWm9EYzk2ZVZZbGlmSzJxWWxGaVpwVWhyZ2s5eFNZNVNsS21uZw?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "セブンイレブン",
-        "インド市場",
-        "小売業"
+        "安全保障",
+        "日比関係",
+        "南シナ海"
       ],
       "summary_points": [
-        "インドにおけるセブンイレブンの店舗閉鎖が報じられたものの、市場からの完全撤退を意味するものではないと解説されています。",
-        "巨大市場であるインドでの事業展開に向けた、戦略の調整や見直しのプロセスであると分析されています。",
-        "海外展開を急ぐ日本のコンビニエンスストア大手が直面する、ローカライズの難しさと可能性が議論されています。"
+        "日本とフィリピンの間で進められる海洋境界画定に関する議論に対し、中国の海洋安全保障の専門家が分析と論評を行いました。",
+        "日比両国が防衛協力を深化させ法秩序の維持を掲げる動きについて、中国側は自国の影響力拡大に対する牽制として警戒視しています。",
+        "南シナ海から東シナ海に至るシーレーンの安全保障環境において、関係国の思惑が一段と複雑化しています。"
       ],
-      "global_perspective": "グローバルな小売大手企業が複雑な新興国市場でどのように試行錯誤し、長期的な勝機を見出そうとしているかという文脈で捉えられています。",
+      "global_perspective": "中国の専門家目線から日比の安全保障連携を詳解しており、日米比の多国間連携が東アジアの地政学的バランスに与えるプレッシャーの強さを反映しています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "米カリフォルニアのモールに「ラウンドワン」と日本食フードホールがオープン",
-      "original_title": "Ventura's Pacific View Mall opens Round1 Bowling, Japanese food hall - Ventura County Star",
-      "source": "Ventura County Star",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVUlJTG9feWd0NjBIcngyblU4VGJRenJsYnZmVmFRNlVqTXNqRGVwUzBBSTFVS3c3WHhvSmN5cWxSS18yUGNtQzAyZHhPemwzeVdXd2dCMDF6VE5nSC1oVlEySWRmY1ZMSXRkTnBQbFo5TUZDQWx2cDlDblFBNlhOSVp0YUstaHdsTnZpVklkd3F4VGNuRXZEUVhjeEs5cVhocmFBSzRpMHZzbGg1MmdBOFNrbmNnVnRPVnk2d1JCRlhQckJJamYzbW5KU0dTRUFGWVVwUU9uNEdZbF9BdUE?oc=5",
-      "category": "観光・トレンド",
+      "title_ja": "日本の道路アンダーパス、過去10年で80カ所が車両水没の被害に",
+      "original_title": "80 underpasses in Japan saw vehicles submerged over past decade: survey",
+      "source": "Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CSXNrLUxhWjdudlp2a0ZIM3c3cVc3OTM2WmJmUzZ5cGprYlBhc0RxSE9oM0pGX0Z0Q01Db0RKSTZwY21mNGxQbW5QT0taMVlvWG1RWmVsdjVJQQ?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "ラウンドワン",
-        "アメリカ",
-        "日本食"
+        "都市防災",
+        "ゲリラ豪雨",
+        "インフラ管理"
       ],
       "summary_points": [
-        "米カリフォルニア州のショッピングモールに、日本の総合エンターテインメント企業「ラウンドワン」と日本食フードホールが開業しました。",
-        "ボウリングやアミューズメントに加え、本格的な日本食が楽しめるスポットとして現地コミュニティから歓迎されています。",
-        "コロナ禍後の商業施設の活性化において、日本式のエンタメと食の融合が強力な集客コンテンツとして期待されています。"
+        "国土交通省などの調査によると、過去10年間に全国のアンダーパス（掘り下げ式地下道）80カ所で車両水没事故が発生していたことが判明しました。",
+        "近年の地球温暖化に伴う局地的な短時間豪雨（ゲリラ豪雨）の増加が、冠水リスクを大幅に押し上げています。",
+        "自治体は進入遮断機や冠水警告灯の設置を進めているものの、ドライバーへの早期周知やハード面の強化が急務となっています。"
       ],
-      "global_perspective": "米国市場において、単なる外食にとどまらない「体験型」の日本文化やエンターテインメントがライフスタイルの一部として定着しつつある事例として報じられています。",
+      "global_perspective": "気候変動による異常気象が激甚化するなか、防災先進国とされる日本の都市インフラが抱える構造的な脆弱性と、その対策状況に焦点が当てられています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "日本の野心的な脱炭素戦略に「プランB」が必要な理由とは",
-      "original_title": "Japan’s ambitious decarbonisation strategy needs a Plan B - East Asia Forum",
-      "source": "East Asia Forum",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFhIbWxNQkJBRldHN0N4SGlQUnVZMUViUllRX2VPWlE1UjdJTVRUT0FvdmpaNkMyTmdtNTh5VjduZFBXdmFwdFlRdTlTMno0ckhNNV9hWl9YNFdyNExEdzBZRy15eEFQZy1ac010OEM4VWt1NFZTb25rRnZoNjZ2ekpnb3B1SE5RS1dEcXFxLTUwTjQ4UlpoNjlB?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "米フォーブス誌が解説する日本の紅葉前線2024とおすすめ観光地",
+      "original_title": "Japan’s Fall Color Forecast Just Dropped. Where To Go Leaf-Peeping",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR3NqWVJGa2w2Wk12WjlTYXFiU2c5R29NZkpFRUFvTFJOT0dmcDdUUHdKRkVfczZaT09HR2luN2RRT2R4RVBLZFVGNU5lMzNGY0NFVlB6NUZsV1o4Ti1FZEFST2g3WmMyMld1bzhzcl8zX1Rxdmoxal9CZHpfd3k2dkJpM0JacVZrRDNzd3Q1SEdrZWtSQXpMLXp2VXpKcjRjRlRJSXFjeXJrRzZBczZVZWJad2VuZ3MwZW0w?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "脱炭素",
-        "エネルギー",
-        "環境政策"
+        "インバウンド",
+        "紅葉予測",
+        "訪日旅行"
       ],
       "summary_points": [
-        "日本政府が掲げる野心的な脱炭素化目標と実行計画について、実効性を高めるための「プランB」の必要性が指摘されています。",
-        "エネルギー資源の乏しい日本における現実的な電源構成や、技術革新のスピードに関する課題が議論されています。",
-        "経済成長と環境目標を両立させるためのロードマップの再検証が求められていると論じられています。"
+        "米フォーブス誌が最新の日本紅葉見頃予想を取り上げ、外国人旅行者に向けて最適な観賞時期と名所を紹介しました。",
+        "今夏の記録的な猛暑の影響で見頃時期が全体的に平年より遅れる傾向にある点に触れ、旅程管理の注意点を解説しています。",
+        "京都や日光などの定番地に加え、混雑を避けた地方の穴場スポットへの訪問も推奨されています。"
       ],
-      "global_perspective": "気候変動対策の国際的な潮流の中で、エネルギー安全保障と脱炭素の両立に苦心する日本の特殊な立ち位置と政策的課題への提言として注目されています。",
+      "global_perspective": "桜に並ぶ日本のキラーコンテンツとして「紅葉狩り」への海外需要が定着しており、気候変動による見頃のズレまで細かくインバウンド向けに情報発信されています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "ノボキュアのすい臓がん治療薬、日本での承認が投資ストーリーをどう変えるか",
-      "original_title": "Did Japan Pancreatic Cancer Approval Just Shift NovoCure's (NVCR) Investment Narrative? - Simply Wall Street",
-      "source": "Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdlduY2Rfa0tYcEhVNGpJMmpFMTZfX096bVEzN3hfODZreENPYzliZjl4ZjRjaDNLR2Zuc0pST2JXT3VDZ182U01fT1ZranFqZE1IaU1qNUFyVzU2MmNWWkU4R01oU2NsWDNnd0xHb2ZkcERERUVsUnY2SldYdzRURThGQTlGTms3emNxS0RNTkQxS0NIS2UxckRTYkk3MEdYY29nWnNiVnZyVGFMZmZMWkc3Tnd3OXNscEdHMjEtRHhnMlBIX2VVZ9IBzgFBVV95cUxOSWQtRjBiYTNOdVVGbl9VSEdUUzBzQjd2bUVNUzVlZVA3SGxQbDVhOW4wWVgxWEw2aWxTVy14a2Q0blU5SDdsNGl4WmpUOURmX3RsU2h0c0NHbHJsREhqSTJIU09IQi10bHk2T1A0emRTNHpYYTdfaFhQZmE5QTdiRmtaMzM4Y0NLR2pZVWVObXg1SWNlRmdCeS1iY3NwOHZiNWY1cHJSQkVvakZGbXlqTktPVnJIR25zeG9MYTJwd2F0WnVXNmN1M3RLeHVNdw?oc=5",
-      "category": "テクノロジー",
+      "title_ja": "日本の太平洋沿岸に2つの台風が接近、高波と強風に警戒高まる",
+      "original_title": "Two Typhoons Bring Dangerous Swells to Japan's Pacific Coast",
+      "source": "News On Japan",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yNmViMWR2NGNLQnFNalVELXRPc3ZlT3hEQnlWUHVkN09SMU1xS2N1LUhicWJaTllkX09semdXNXpuMDdlWWZNNlMzM0RFSlYxR25OaQ?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "医療・バイオ",
-        "すい臓がん",
-        "医薬品承認"
+        "気象情報",
+        "台風",
+        "沿岸警報"
       ],
       "summary_points": [
-        "医療機器・製薬を手がけるノボキュア社の製品が、日本ですい臓がんの治療薬として承認されたことが金融市場で話題になっています。",
-        "この承認により、同社のグローバルな売上拡大や今後の投資価値に対する見方が大きく変化する可能性があります。",
-        "医療水準の高い日本市場での承認取得が、同社の国際的な信頼性と成長戦略に大きな弾みをつけています。"
+        "太平洋上を移動する2つの台風の影響により、日本の太平洋沿岸一帯で危険なうねりと高波が発生しています。",
+        "気象当局は沿岸地域での越波被害や船舶の航行、レジャー活動に対する警戒を呼びかけています。",
+        "交通インフラや沿岸部の商業・物流活動への局所的な遅延リスクにも注意が払われています。"
       ],
-      "global_perspective": "グローバルなヘルスケア市場において、規制当局による日本での承認がいかに企業の市場評価や投資家心理を左右するかを示す事例として捉えられています。",
+      "global_perspective": "秋の台風シーズンにおいて、複数の熱帯低気圧が連動して日本列島に及ぼす影響と、気象災害に対する日本の即時警戒体制が報じられています。",
       "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "Google日本法人が開発した「究極の変態キーボード」、海外テックメディアで話題に",
-      "original_title": "Google Japan Created One Of The Strangest Keyboards Ever, And We're Dying To Try It - Engadget",
-      "source": "Engadget",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcmhzeWNhd3A5NXJidDIwbnU4WXRFeHNEUWdxbnRpY1hNRmFZcFVaeGZDbEVESlRXY3V3QjVsM0tDY3JqTC1FSHBmdjI2WEpRZjNJR2xqX2xOcmVMWjE5NmFZQkpHT0xQWnQ4MHBYSUhVdUJranpRVkFUVzdSdEgteU41aFF4TllsN2VWbVBtZkRQdkU?oc=5",
-      "category": "テクノロジー",
+      "title_ja": "競泳短水路400m個人メドレーで松下知之選手が世界新記録を樹立",
+      "original_title": "Japan’s Tomoyuki Matsushita Blasts 3:54.33 SCM 400 IM World Record",
+      "source": "SwimSwam",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSmpsV25iYXhlZTJzYTNhU2lkbi01YlRQLVBLc2J4NjRVNzdxdjNFSzdiYTZJWDRfUlc2M0ZnV2EyQmRJdkxpTXl1YnQ3QV9RRmlmRHdOcnFHQmw1YWxKeDdObGczR3VwLXR3NmtHbGpzOW9GVDRIWFVRQ1k0dVZNWWx2LVFMTUJCSUs0?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "Google",
-        "ガジェット",
-        "ユニーク"
+        "競泳",
+        "世界新記録",
+        "アスリート"
       ],
       "summary_points": [
-        "Google日本法人が毎年恒例のエイプリルフールや開発プロジェクトの一環として、極めてユニークな変態キーボードを発表しました。",
-        "実用性を度外視した斬新すぎる形状やギミックが、海外の主要テックメディアやガジェットファンの間で面白おかしく取り上げられています。",
-        "「真面目な企業が本気で作るジョーク製品」として、日本法人ならではのユニークな企業文化が称賛されています。"
+        "日本の松下知之選手が短水路（25mプール）男子400m個人メドレーにおいて、3分54秒33の世界新記録をマークしました。",
+        "従来の記録を大幅に更新する圧巻のパフォーマンスを見せ、世界水泳界に大きな衝撃を与えました。",
+        "パリ五輪銀メダリストとしての実力を証明し、今後の国際大会でのさらなる活躍に期待が高まっています。"
       ],
-      "global_perspective": "世界のガジェット・ITコミュニティにおいて、日本のユニークなモノづくり文化やテック企業の遊び心が大いにウケている様子がうかがえます。",
+      "global_perspective": "世界水泳専門メディアがトップニュースとして速報し、日本のお家芸ともいえる個人メドレー種目で新たな若きスターが誕生したと高く評価しています。",
       "reading_time": "約1分"
     },
     {
       "id": 7,
-      "title_ja": "「再軍備化」の道を進む日本：防衛政策の大転換に対する海外からの分析",
-      "original_title": "Japan On The Road To Remilitarization – Analysis - Eurasia Review",
-      "source": "Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMDBLT0pHUE5pZnNRdHBnWkY1dmtaczlJbmFQZHdiak12N092SkJ6Sl9wdkM5MVp3ZFo2SG1qMGduMDJyNGt0WXVfdDRtNEgxV0o0LTV0eUI4QjdZTHRiVlQyNlgtajVwMzdzOUl5RWY3WnpiRzBlbnNJaFlPTDM3ZXZFT2hmVTJKQmUwRDRCcw?oc=5",
-      "category": "国際・政治",
+      "title_ja": "マイケル・ブレナン選手がベイカレント・クラシックで劇的勝利",
+      "original_title": "Michael Brennan wins the Baycurrent Classic in Japan for his 2nd PGA Tour victory of season",
+      "source": "Toledo Blade",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcnAyck1hSndDUEEyQXlFN2VvQU1XSlhLQ19pdkhXYTBiQ1dhQXoyR2w4TkctdGp6TVo4MXNfNk1JMW5YUkVyTHBUWlJIV3BSWDJseE9acXJjRkNIT1NEV1ZibFYxWG9laV9vZjJhNDgtMG5mUlFMUloyZ2NmYmRubFBwUzRYWEZ3QXd4bGYwTDdwbWhXVzlVUVFJY0dZTm4tSHdwWlgxbjI2eTFyNUViclNJbnhMNTBGeDJ6UlhrWHRfTWNUcjRQdkQxc0RQODl2RnAxa2NNd2hjY0xXU2EzOENWU0Z4SkhGdWxJLXA3UnNqSkU?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "防衛費増額",
-        "安全保障",
-        "自衛隊"
+        "プロゴルフ",
+        "スポンサーシップ",
+        "スポーツビジネス"
       ],
       "summary_points": [
-        "防衛費の増額や反撃能力の保有など、近年の日本の防衛政策の大きな転換について詳細な分析レポートが公開されました。",
-        "戦後の平和主義を掲げてきた国が、防衛力を大幅に強化する「再軍備化」の道を進んでいると国際社会が注目しています。",
-        "アジア地域の勢力バランスや同盟国であるアメリカとの連携に与える影響が多角的に議論されています。"
+        "日本で開催されたゴルフトーナメント「ベイカレント・クラシック」にて、マイケル・ブレナン選手が今季2勝目を飾りました。",
+        "アダム・スコット選手ら強豪がひしめくなか、接戦を制してタイトルと賞金を獲得しました。",
+        "日系コンサルティング企業が冠スポンサーを務めるなど、日本市場を舞台にしたグローバルスポーツマーケティングの好例となっています。"
       ],
-      "global_perspective": "戦後日本の安全保障政策における歴史的転換点として、地域の緊張緩和と抑止力向上のバランスがどのように取られるべきか世界的な関心事となっています。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 8,
-      "title_ja": "沖縄での米兵による殺人事件：米国務省高官が捜査協力と再発防止を誓約",
-      "original_title": "Rubio pledges US cooperation in Okinawa murder case - Hilton Head Island Packet",
-      "source": "Hilton Head Island Packet",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oYmcwb1owU2RsLW5jNkxVWkI2QWhlYnVMQWVJX3NCWGJvcTVmQWRWbjhWUWlMSkJlQTNmc2NfMXN4c3RNRXdhY0RrZF84Y3hyV3NRVEhpeHFtS2g5TkxJMzlZSjZBQk8teXlrREMtMUJRejRFT0w4cGN0dkV4RG8?oc=5",
-      "category": "国際・政治",
-      "tags": [
-        "沖縄",
-        "日米地位協定",
-        "犯罪事件"
-      ],
-      "summary_points": [
-        "沖縄で発生した米兵による殺人事件に関連し、米国の高官が日本の捜査に対する全面的協力と再発防止を約束しました。",
-        "在日米軍基地をめぐる治安や事件・事故の問題は、日米間の敏感かつ重要な外交・安全保障上の課題として再び浮上しています。",
-        "地域社会の安全と日米同盟の円滑な維持に向けた、透明性の高い対応が求められていることが強調されています。"
-      ],
-      "global_perspective": "基地を抱える地元住民の感情や安全保障上の負担に配慮しつつ、同盟関係をいかに健全に維持するかという観点から米国メディアでも報じられています。",
+      "global_perspective": "PGA関連のトーナメントが日本で開催される意義や、グローバル展開を狙う日本企業のスポンサーシップ効果が海外ゴルフメディアを通じて世界へ発信されています。",
       "reading_time": "約1分"
     }
   ]
