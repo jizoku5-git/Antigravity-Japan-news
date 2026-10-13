@@ -1,0 +1,127 @@
+{
+  "updated_at": "2026-10-14 06:52 JST",
+  "date": "2026-10-14",
+  "total_articles": 6,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "AIの普及でランサムウェア攻撃が日本で急増・容易化",
+      "original_title": "Ransomware Attacks Have Swept Japan. A.I. May Be Making Them Easier. - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTNCNXVKUG9UeXhyUGhiQmx1OFM4eFpHWjNTSjJBNTlFaU9ZYS1Bb0drQUh5VXFpVG90LTFUaklyNjBXOVlZazkwT01sNzM3dHphYU45Vk5xcnhuWnVoNVdqdVR3UllkNk11R1ZzMjdnSmdSakZpaElHbjk0TV9GcHB0U1dIel8tbEpaU0pGSE1MVVhUNXVr?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "サイバーセキュリティ",
+        "AI",
+        "ランサムウェア"
+      ],
+      "summary_points": [
+        "日本国内で企業や組織を標的にしたランサムウェア（身代金要求型マルウェア）攻撃が猛威を振るっている。",
+        "生成AIの進化により、攻撃者がより巧妙で自然なフィッシングメールを作成することが容易になっていると指摘されている。",
+        "デジタル化が進む日本において、サイバーセキュリティ対策の強化が急務となっている。"
+      ],
+      "global_perspective": "高度化するサイバー攻撃の脅威が、日本の脆弱性を突いている点に海外メディアは警鐘を鳴らしている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "沖縄での事件を受け、米軍の規律ルール見直しへ",
+      "original_title": "Behavior rules for off-duty U.S. troops in Japan under review after woman's killing in Okinawa - CBS News",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcnJHWVpqUzlfalpnZEhtYTJBNm1iWWNxY050RmpPNG1qcEgyT2p1anJSM21tMnp4bDJkeTNXdzlic1ozRjdGTXFCbHQxOFdVcmtGSnFyb09kdy02b0RKQ25lYjRZNEZUV09RY0tNa2NXY3BRX0lvME1fcmkySkJkZE5VWVBYTkU5VmhiRUxPN2Vydnp4R05yaW9EOHUyV1Yt?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "在日米軍",
+        "沖縄",
+        "安全保障"
+      ],
+      "summary_points": [
+        "沖縄県で発生した女性殺害事件を受け、日本国内の非番の米軍兵士に対する行動ルールの見直しが進められている。",
+        "基地周辺の治安や米軍人の不祥事に対する地元住民の反発が、再び大きな政治的・社会問題となっている。",
+        "日米安全保障体制のあり方や、基地負担の軽減に向けた議論に影響を与える可能性がある。"
+      ],
+      "global_perspective": "米軍基地をめぐる長年の地域住民との緊張関係や、軍の綱紀粛正の課題として大きく報じられている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "ロシア・サハリン州で日本人ジャーナリストがスパイ容疑で逮捕",
+      "original_title": "Japanese journalist arrested in Russia’s Sakhalin region on spying charges - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTmc1b2ZQbVpMaXVuaE1oV3NUUVlOUnNhNm9fTWZfbGxvT0EzMnBNZ2pqekJXLUZlZUd6ZW1BV2VCRGtZUjF4OWFWNS16a0Rkb0pzUjRsRDNDR05EdUVaWlYzOFBmOVh0R1V2WUJIczVKdm5fOWMzNVVhcHZWbzRfYXRCZUdYTmYyZkpFR0c2SERqckQwV09PdUVZY1NaMVlQcDNrTFRvVUF0MVFhX242SzhIdlNYaXkyck83NnhKVUg?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "ロシア",
+        "外交",
+        "報道の自由"
+      ],
+      "summary_points": [
+        "ロシアのサハリン州において、日本人ジャーナリストがスパイ（諜報活動）の容疑で現地当局に逮捕された。",
+        "ウクライナ侵攻以降、ロシアと西側諸国（日本含む）の関係が冷え込む中での異例の拘束事案となっている。",
+        "日本政府は身柄の安全確保や早期解放に向けて、外交ルートを通じた対応を急いでいる。"
+      ],
+      "global_perspective": "悪化する日露関係の象徴的な事件として捉えられており、ジャーナリストの安全確保に対する懸念が広がっている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "日本のスポーツ界、アスリート保護の強化が急務と指摘",
+      "original_title": "Japan’s Commitment to Sport Needs to Include Athlete Protection - Human Rights Watch",
+      "source": "Human Rights Watch",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeGtlTjVMX2d5NmRWYUN5cGpxNThOQWtjU2FhQVlqVGM3TS1tQW1zS2NZLXV0SHI4ZnVPbEVWVXBDRGpLY3JKM0pnejYzRDZfS2pKTDliSjZLN0hoRlNCWnR5Y09hNWZKdllGYjhpSXFabEhYbUxqQlVpbFZJUnhiVFhIY0Nia1hVcmlYS2VjT0E1ei1iZG9SLU5iVlNaRVE?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "スポーツ",
+        "人権",
+        "アスリート保護"
+      ],
+      "summary_points": [
+        "国際人権NGO「ヒューマン・ライツ・ウォッチ」が、日本のスポーツ界における選手へのハラスメントや虐待の根絶を求めた。",
+        "勝利至上主義の風潮や指導者によるパワハラなど、アスリートの権利が守られていない構造的課題が指摘されている。",
+        "国際的なスポーツイベントを開催・支援する国として、より厳格な安全・人権基準の導入が求められている。"
+      ],
+      "global_perspective": "伝統的な指導方法に潜む人権侵害の問題に対し、国際社会から改善を促すプレッシャーが高まっている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "AI翻訳の精度向上が、日本の翻訳業界に打撃",
+      "original_title": "AI’s Improved Accuracy Squeezes Translation Industry in Japan - nippon.com",
+      "source": "nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORmRhb0xGemVzZG1iZzA3Y3NxU3V4VW1xWEh4ZUh2a0hTYnpBcldxbk9qSTB3eENSLXM5TGttbU00ZnpfUlZGT1I4RmlFdXItTkUtWWdHTlFVWWZ3bHlzYlo0dklmRVE0bV9DYTI2cVhMeEMwbDlhRFljZXVzWnNHRHBaRGpUSk5uMDZWSWM2aXM0bGNMR1o4MUhiM0QwcThwZFVvVDdJSm9ucndSUGZfUWRhNGRtNFo5RUE?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "AI",
+        "翻訳業界",
+        "働き方"
+      ],
+      "summary_points": [
+        "生成AIやニューラル機械翻訳の劇的な精度向上により、日本の翻訳業界が深刻な価格競争と受注減に直面している。",
+        "かつては高い専門性が求められたビジネス文書やマニュアルの翻訳において、AIによるコスト削減が進んでいる。",
+        "人間の翻訳者は、より高度なニュアンスの調整やローカライズ業務へのシフトを迫られている。"
+      ],
+      "global_perspective": "AIが専門職の雇⽤をいかに急速に代替・圧迫しているかを示す好例として、海外のビジネスメディアも注目している。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "日本の刑事裁判「刑期が短すぎる」背景に海外からの疑問",
+      "original_title": "Why are Japan's prison sentences so light? - Japan Today",
+      "source": "Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZi1YVmVHZWhSUHhra3BlUDlvWkdWNzlVVEtLa3FwVFlLSzZieVNLZmVaRzVybmU5R3N1aXNEV0hOVHdyWWdCWVB1N1NPZkZldnVGUHpsaGZacTFKMXhwRGdsZndnSDhhWEtwb2UzeTdXYm1tNzZrdXVVNFJUN0NhcE5iS2FvNDlzUXZHQmlDR0NqRXc?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "司法",
+        "裁判",
+        "刑事罰"
+      ],
+      "summary_points": [
+        "日本で言い渡される刑事罰の刑期が、欧米諸国と比較して一般的に短いとされる理由について議論が巻き起こっている。",
+        "日本の司法制度が「厳罰化」よりも「犯人の社会復帰（リハビリテーション）」や「情状酌量」を重視する傾向にあることが背景にある。",
+        "犯罪の抑止効果や被害者感情とのバランスを巡り、法制度のあり方に対する国内外の視点が交錯している。"
+      ],
+      "global_perspective": "欧米の厳罰主義的な司法観との違いから、日本の独特な量刑基準や更生重視の姿勢が興味深く分析されている。",
+      "reading_time": "約1分"
+    }
+  ]
+}
