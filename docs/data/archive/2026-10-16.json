@@ -1,0 +1,127 @@
+{
+  "updated_at": "2026-10-16 06:53 JST",
+  "date": "2026-10-16",
+  "total_articles": 6,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "日銀の独立性を強調、赤字財政推進派のラベルを否定：経済相インタビュー",
+      "original_title": "Japan economy minister stresses BOJ independence, rejects reflationist label",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1drNndTUGs2NzNwLXBUemZ5eGNWblNVeU5Xa2l4M29hTy10NDYyZGl1SXhzYkpwSFBnd1pKZnNCUXZ1aXJhbDZtV0dCblBRVllWb093eGUtY3I3YzIxY3FUUEtsUkNaQV9Fa1ZLSlBsU2tpNUJ4Z1JnZERBZ25saTJscVFmdFNVcjIyQ1dHbFoxYklWbU12LU5mUGRtWHFMRGM5ZmNrSnMtU1JPLW1jUVgyNlFlemNpWFE4Nkw3R1hRbHVsbzlnM01fWEY?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "日銀",
+        "経済政策",
+        "為替・金融"
+      ],
+      "summary_points": [
+        "日本の経済相が日本銀行（BOJ）の政策運営における独立性を強く支持する姿勢を示した。",
+        "市場で噂される過度なリフレ派（景気刺激・金融緩和重視）との見方を否定している。",
+        "財政規律と中銀の自律性を重んじる姿勢をアピールし、海外市場の信認確保を図っている。"
+      ],
+      "global_perspective": "海外メディアは、政権交代や閣僚の発言が日本銀行の金融政策に与える影響を常に警戒しており、政府と日銀の距離感に高い関心を寄せている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "日本政府、フィリピン軍へ防空・海上監視レーダーの売却を打診",
+      "original_title": "Japan Wants to Sell Air Defense, Maritime Surveillance Systems to Philippine Forces",
+      "source": "USNI News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNanlIMmMyT0tKMEFydlFvN2k1czdUN0duMHp4LTZmYS13VGREMmd6LWNQZkp3OGhuUUVaYmNJQk0xRWNlU25LUnZnMzlHVHBmUXFaUFjRkxHaUVJSkZhNXd6QkdyeDVwVG9BeXBsRExXUXZQWmZRcWVDRDh1MmJfbzlJeG1heDBvZlNQVE1ySkxFSXZLNHRNTEwtMi1PNXVlUjlxdTlQX0k1aXgybTZZenhJVThJdw?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "安全保障",
+        "防衛装備移転",
+        "フィリピン"
+      ],
+      "summary_points": [
+        "日本政府がフィリピン軍に対し、防空システムや海上監視レーダーの売却を提案している。",
+        "防衛装備品の海外移転を通じて、インド太平洋地域の安全保障協力の強化を狙うもの。",
+        "南シナ海でのプレゼンスを高める中国を念頭に、同盟国・同志国との連携を急ぐ日本の防衛戦略が表れている。"
+      ],
+      "global_perspective": "平和主義を掲げてきた日本が、安全保障上のパートナー国への防衛装備品輸出を加速させている点について、地域における抑止力強化の動きとして好意的に注目されている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "火星の衛星の謎に迫る！日本の宇宙ミッション「MMX」への期待",
+      "original_title": "How did Mars get its moons? Japan's MMX space mission aims to solve the puzzle",
+      "source": "Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzOGdMYjhySFVuWXNOY1lHa1BsNDhEVm13enpVd3V0U2RBWERpb1lXaU83V2VBdnV3eHNOUHNCcVJ4aWlmQjBZZFF3LXhrNTRXUHFwek1LZDlxUkNLVlJzRmsyTnFBUTJYODRhbVZn?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "宇宙開発",
+        "JAXA",
+        "科学"
+      ],
+      "summary_points": [
+        "JAXA（宇宙航空研究開発機構）が主導する火星衛星探査機「MMX」計画が、火星の2つの月（フォボスとダイモス）の起源解明に挑む。",
+        "火星の衛星からサンプルを採取し、地球へ持ち帰るという世界的にも極めて難易度の高いミッションである。",
+        "小惑星探査「はやぶさ」などで培った日本の高いサンプルリターン技術が再び世界から注目を集めている。"
+      ],
+      "global_perspective": "米国のアルテミス計画や民間企業の宇宙開発が活発化する中、日本の確かな惑星探査技術と独自の科学成果に対する国際的な評価と期待は非常に高い。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "テックと人間のつながりで人生100年時代を支える日本モデル",
+      "original_title": "Japan is combining tech and human connection to help people live well until 100",
+      "source": "The World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRmFvQzFWVnloMVp2QzBuZUZQc3FPYjRueU0xbjVmekRpZHpuVFJNTWdvbi1NRl9jM2VCWDdkRkJ0UUtFRmUxQ3dlV1lnVWNkc1RpNXN6QkZZTVBvYWlfX2JBR1hBN3NmbWwtd0pRMjhuVGZxU253SjdZVnh3R3dJUWxHT3g4bkk4bTBheXZsOENiVjZoQTg3OEgxdmc0eUd3TTAwa3MtenhneWM4VWFMWWZYNWhDMTd1Q2RvLTZ2V0pBdk94dVdnYkdhVmItbXU0SWt1YUtzb1UzQQ?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "高齢化",
+        "テクノロジー",
+        "ウェルビーイング"
+      ],
+      "summary_points": [
+        "世界一の超高齢社会である日本において、高齢者の健康長寿を支える先進的な取り組みが紹介されている。",
+        "最先端のデジタル技術の活用と、地域社会における人間同士の温かいつながりを融合させている点に特徴がある。",
+        "単に寿命を延ばすだけでなく、人生の質（QOL）を高める「ウェルビーイング」の先進事例として世界が注目している。"
+      ],
+      "global_perspective": "世界的な高齢化の波に直面する諸外国にとって、日本の「超高齢社会の課題解決モデル」は、未来の社会設計における貴重な教科書として捉えられている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "バーガーキングの日本運営会社、約1,100万件の顧客情報流出の可能性を発表",
+      "original_title": "Burger King's Japan operator says 11.18 mil customer records exposed",
+      "source": "Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUh1dHJVaHVtTFg1c2ZLLWVIMzhIQVpSVmVCZEZqdVd0THh5TnY4ZUtBeWdReFdlRVBTZHdkRldGY2RySW1jNzI2TzB4Si1fZzBIQmd2clFpVWxybVI5NVpDUS1Ta1h4bTM3Nk8tclNOdERabjBhQXFXRWZ2U3Q1elI1WnFTazgteG9QZVdxb29UdXNjS1M2TkthNWUxSUtaUWd0OElCWWFqMVZ0SXRaNmxqUWhRc1lCeEE?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "サイバーセキュリティ",
+        "個人情報",
+        "外食産業"
+      ],
+      "summary_points": [
+        "バーガーキングの日本国内の運営会社が、最大約1,118万件の顧客データが外部に流出した可能性があると発表した。",
+        "不正アクセスやシステム脆弱性を突いたインシデントへの対応として、詳細な調査と影響範囲の特定が進められている。",
+        "国内外の企業で相次ぐ顧客情報の漏洩問題において、日本市場でもセキュリティ対策の強化が喫緊の課題となっている。"
+      ],
+      "global_perspective": "グローバルブランドの日本法人における大規模なデータ流出として、サイバーセキュリティの脆弱性や企業の危機管理体制のあり方について厳しい目が向けられている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "失われつつある日本の戦後建築の傑作群：保存の危機を海外メディアが報道",
+      "original_title": "Japan’s Post-War Architectural Masterpieces Are Vanishing",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcFE0b2ZrQjlZdU51dVYxVEthNFM2aXJRakxfbWY3SURVU1pYWWJTa0NfV3duVFdQczNCdXBiNHM5cDBvdTEyQmV4RXBlOFhRblFLbmplblMyeTNIaTdERGttbEpTOUgtTi1IempnSWFXdmRHRVpKdTE5ZlFLd292a2NrMUZlN1dFUFVHWkFmYklUdEx2OGZlMlZETnF2aXZmNUd4Z1Fnc25qY0VpQ3Rocno3RC0wZS1GXzNNeWJteTRoTWh3dEJjT3hKT3pWLXE1bDM4Njd4RXgycnNxWC0wTGNpVQ?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "建築",
+        "文化遺産",
+        "都市開発"
+      ],
+      "summary_points": [
+        "戦後日本の経済成長期に建てられた革新的なモダニズム建築の傑作が、老朽化や再開発により次々と姿を消している。",
+        "建築家・丹下健三らの作品を含む歴史的建造物の文化的価値が見直される一方、保存コストや法的な壁が課題となっている。",
+        "スクラップ＆ビルドを繰り返してきた日本の都市政策に対する国内外の建築ファンの懸念が高まっている。"
+      ],
+      "global_perspective": "世界的な建築デザイン界において高く評価されてきた日本の「戦後建築」の消失は、文化遺産の損失として海外メディアや専門家の間で惜しむ声が広がっている。",
+      "reading_time": "約1分"
+    }
+  ]
+}
