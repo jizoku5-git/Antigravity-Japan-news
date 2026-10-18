@@ -1,166 +1,146 @@
 {
-  "updated_at": "2026-10-18 06:48 JST",
-  "date": "2026-10-18",
-  "total_articles": 8,
+  "updated_at": "2026-10-19 06:48 JST",
+  "date": "2026-10-19",
+  "total_articles": 7,
   "articles": [
     {
       "id": 1,
-      "title_ja": "日銀はより積極的な利上げに踏み切るべき＝海外メディア提言",
-      "original_title": "Japan should raise interest rates more aggressively",
-      "source": "Tomorrow's Affairs",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjBET29RMWFfeE5WZ0RSOU10R0xfRjhQdkxXUjR5azVPSDdDN1VaaEpka25mNDJOUWx2S01GZjYzaDVBbkd6clhlRUpxQWJ4LTN3UjBERU1lQUJJZ1EwNG5ZNWY1c0RkXzBrTXhkRXJ3bEhCa1NLbTFEOEgtT3NnaU1kRWVIQQ?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "JAXAの野心的挑戦：火星衛星からのサンプルリターン「MMX」計画に世界が注目",
+      "original_title": "Returning samples from a Mars moon: Inside the science of Japan's bold MMX mission",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVFqZlA0dXp5TGw4WFJMdGQ2T1BqbkYxTGtVX2c5MDU1NVJ2N21YYzgyc281MEhzMkE1MVkyQmNTdkdmSm1WZHMzVmw4dXg5UFVxM2xEWTRrWWJIS0loZTNGVi1tMVNNSWZyS0x1bllnUDVjaXQ0UnNEdGxld1p4Y3ZHdnI2SXN0cmZxREpDSl8wN1A0LWI2cmFaY3ZfVk11dTNVbHFEbUV3d0U1SFQyRk82MVdsN3hPSlMtOXVCNXBQVjdUQ3JUUg?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "日銀",
-        "利上げ",
-        "金融政策"
+        "JAXA",
+        "宇宙開発",
+        "火星探査"
       ],
       "summary_points": [
-        "日本銀行はマイナス金利解除後も慎重な姿勢を続けているが、より迅速かつ積極的な利上げが必要であると指摘されています。",
-        "超低金利政策の長期化に伴う過度な円安と輸入インフレが、家計の購買力を圧迫し続けている現状が懸念材料です。",
-        "正常化を急ぐことで内外金利差を縮小させ、健全な実質賃金の上昇と持続可能な成長基盤を整えるべきだと論じています。"
+        "JAXA主導の「MMX（火星衛星探査計画）」は、火星の衛星フォボスから世界初となるサンプル回収を目指しています。",
+        "小惑星探査機「はやぶさ」シリーズで培った高度な離着陸・試料採取技術を火星圏へと応用します。",
+        "火星圏の成り立ちや生命存在の可能性を探る科学的マイルストーンとして国際的な期待が高まっています。"
       ],
-      "global_perspective": "他国の利下げ転換が進むなか、依然として実質金利が大幅なマイナス圏にある日本の金融政策に対し、通貨防衛とインフレ抑制の観点から踏み込んだ対応を求める声が強まっています。",
+      "global_perspective": "欧米メディアは、日本が小惑星サンプルリターンに続き火星圏探査でも主導的役割を果たしている点に注目しており、世界最高峰の探査技術力として高く評価しています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "防衛費増額の財源として法人税引き上げが再び浮上",
-      "original_title": "Corporate tax rise may be option to boost Japan defense spending",
-      "source": "Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ29SOFlwSHVxQjhfZlVINEZFS1hGUDRSVU9hcmlhbWszYTEyVlFsV20xazN4WmZnVktHbURVc0ZseFFuNktJRGRQVEZ6MWlLak9ZTU5hYkh6QzFqOU9iblQ4a2hBNlVhU3Jhc196dzZwQjFyVUZJd1ppOVd2Z0ZWYzlhaTA0UmV0SllZVnRmWWNhOFRTS2Q1REhrQmh0QjhsMDVTU2FmUFFIVFY2dGZiS3d0Ykh0SGNJTjNwdWxB?oc=5",
+      "title_ja": "政権運営に試練、高市首相の内閣支持率が発足後最低の50%割れと報道",
+      "original_title": "Japan PM Takaichi's support rate falls below 50%, lowest since taking office, Kyodo reports",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVGI0cE1DeTdnOWdhX2lHY08tdWpob3JyNEt5d2ZrbDVyeUZ5U1dGQzFnS1YxTTl6d2lzWVdlX0V6U0x0NkRMS29rM2dGNE1MWF9wd2JlMi0teXM2M2x1Y1Zoc1liWXFULVNraU1XT3ZlSm1Ta29sanVIUDNpVFZPUTRLMzN0d2hrVkhQQUNkcEk2dm1YZzdFemZPNy1kNEplZV8ta09mTTVrRlF3Sm9NVS0zaUdOblFaZEV6Y0NZRHdqM3VKUUZuUGs0bnNiYTA?oc=5",
       "category": "国際・政治",
       "tags": [
-        "防衛費",
-        "法人税",
-        "財政政策"
+        "日本政治",
+        "内閣支持率",
+        "世論調査"
       ],
       "summary_points": [
-        "日本政府内で防衛費大幅増額の財源を確保するため、法人税引き上げを実施する選択肢が議論されています。",
-        "安全保障環境の緊迫化に伴い防衛予算の拡充が急務となる一方、財源確保の時期や手法を巡る調整が難航しています。",
-        "企業側の賃上げや設備投資への意欲を削がない配慮が求められるため、経済界からの慎重論も根強く残っています。"
+        "共同通信の世論調査によると、高市首相の内閣支持率が発足以来初めて50%を下回りました。",
+        "物価高への対応や政治資金をめぐる問題への不満が支持率低下の要因として挙げられています。",
+        "今後の国会論戦や経済政策の実行力に対し、有権者の厳しい視線が注がれています。"
       ],
-      "global_perspective": "同盟国が日本の防衛力強化を歓迎する一方で、厳しい財政状況のなかで産業界への課税強化が経済成長と両立できるのかを注視しています。",
+      "global_perspective": "ロイター通信など海外主要メディアは、日本の政治的安定性が海外投資家の心理に直結するため、政権基盤の揺らぎや政策推進への影響を注視しています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "LGBTQ+法整備の遅れ、日本経済に年間数十億ドルの損失リスク",
-      "original_title": "Japan’s lack of LGBTQ+ protections could be costing its economy billions of dollars per year",
-      "source": "LGBTQ Nation",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ3RWb0prZURwSk5LdHZtcHFOalZqZDdGelZiWkJNMFZsTWc5TE80emVkMFVmZ1g1NER1SHNRdGNLWElIcFo2RnZsMUtlR2V4YTJPczgyczhSWTFnYzFRRGU2N3RHbE01bU9CcHRGMFFkNFZJdWVsb3k2MzEtYUdDLWxraFdnRUhqOWJJMDl5Y2JEUFpHdWE4QWEwRmZFOFM5WTVWWnd4NlVWVmIzSko3WU5xTjV4THhVU3l4RGQ4V2Y3elRtMFE?oc=5",
+      "title_ja": "160万円で日本の空き家を購入したカナダ人男性、「投資目的ではない」と語る理由",
+      "original_title": "I'm a 31-year-old Canadian who bought an $11,000 house in rural Japan. Here's why I don't see it as an investment.",
+      "source": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNTl6emdUcWtOeTBoZlFqNkNUdTZ2dUJPZUhSUWZYbzlFbjdOYzFXZFR1bzJUY0tlZUFPTnpGOW9iV3JpY2xqZ3UxY2pRV1B2QU03SmFaLVowZFU5YlRfbFdFeDZyR2xPR3JrYmtCRTQ4RFg5bk9BRnFfejRMaHBLdGdIaW1WdWR2VVBUaW1PMmNrTFpaRGZ1QVVuNlUtSndmQ1FBdQ?oc=5",
       "category": "経済・ビジネス",
       "tags": [
-        "ダイバーシティ",
-        "人的資本",
-        "法整備"
+        "空き家",
+        "地方創生",
+        "不動産"
       ],
       "summary_points": [
-        "同性婚の法制化や差別禁止法などの法的保護が欠如していることで、日本経済が年間数十億ドル規模の損失を被っていると試算されています。",
-        "高度な外国人材の獲得難や国内優秀層の海外流出、企業の生産性低下が主な経済的コストとして挙げられています。",
-        "G7各国の中で唯一同性婚を認めていない現状が、国際的なビジネス競争力における足かせになっているとの指摘です。"
+        "31歳のカナダ人男性が日本の地方にある格安の空き家（約1万1000ドル）を購入しました。",
+        "資産価値の上昇や金銭的リターンではなく、自然豊かな環境での生活の質（QOL）向上を重視した選択と語っています。",
+        "修繕費や維持管理の手間を考慮すると、投機的な不動産投資とは切り離して考えるべきだと警鐘を鳴らしています。"
       ],
-      "global_perspective": "人権問題にとどまらず、ESG投資やグローバル人材獲得の観点から、法制度の遅れが日本のマクロ経済に及ぼす実質的な損失として海外から厳しく評価されています。",
+      "global_perspective": "欧米の若年層の間で日本の「アキヤ（Akiya）」ブームが続いていますが、単なる格安不動産としてではなく、オルタナティブなライフスタイルとしての現実的な視点が共有され始めています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "マツダ、発売12年の国内主力ロングセラー車を生産終了へ",
-      "original_title": "Mazda Is Retiring A 12-Year-Old Car That Was Still Its Second-Best Seller In Japan",
-      "source": "CarBuzz",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YQkFodkhCeGRIclhGZ240TkdzV3hPSDJhNVFpYlE1S3UwLUd0RGJDcWgyZ2l3OGNuMGtIX2dMZ1dOcUZhLUhObTRYOG1XUHZDSGZ1d08ydGRySWIzajQyeVV5aVBEWFRh?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "デジタル化で進む「縦書き離れ」：伝統的な日本語表記の現在地",
+      "original_title": "A Downward Trend: Vertical Writing Usage Waning in Japan",
+      "source": "nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON3JXRklXcW5PcjIzYVdjSHQ5TlkwVXgwdHlZYVdIU1dFUDQxUzBoR3V5QTVtNV9NZVhiQTF0OFBKbEtxcVFVYVdkNGQ4MS1DbjdISWFTNFRfRzcxUFBNUkNnb3NIV09nUGFIeVVvdUYxZy1OMEhiTHJ4YWZudG53bkkxaG9RTHlrX2J3cXFoMHdUdjRPYmdNV1d6NW5xODRaay13bFpNNA?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "自動車",
-        "マツダ",
-        "製造業"
+        "デジタル化",
+        "日本語",
+        "文化変容"
       ],
       "summary_points": [
-        "マツダが、国内販売台数で第2位を維持していた発売12年目の人気コンパクトモデルの生産終了を決定しました。",
-        "長期にわたり安定した需要を誇った主力車ですが、近年の安全基準改定や電動化へのシフトが刷新の契機となりました。",
-        "自動車産業全体がEV（電気自動車）やハイブリッド中心の次世代ラインナップへ投資を集中させる動きを象徴しています。"
+        "日本国内において、伝統的な「縦書き」文化の利用頻度が減少傾向にあることが調査で示されました。",
+        "PCやスマートフォンでの横書き表示の普及、SNS利用の定着が大きな要因となっています。",
+        "小説や新聞など一部のメディアでは根強いものの、ビジネス文書や日常会話での縦書きは急速に姿を消しつつあります。"
       ],
-      "global_perspective": "新興国や国内市場で息の長かった日本の内燃機関コンパクトカーが、グローバルな電動化対応と最新規制によって一区切りを迎える節目として報じられています。",
+      "global_perspective": "言語のデジタル化に伴う伝統表記の変容という普遍的なテーマとして、アジア圏の言語文化に関心を持つ海外読者から注目されています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "米空母セオドア・ルーズベルトが横須賀寄港、日米共同訓練へ",
-      "original_title": "San Diego-based carrier USS Theodore Roosevelt arrives in Japan for joint military drill",
-      "source": "San Diego Union-Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLWh3MG9mcFdwSkppUXc1OE5TLUZya2RoWVotaUtzZl84WExHWDNwa0poWkpqUzhiZFVZRE1mZ2FfZEt1VEFKNUVIZzVNUTVCclhESnNza0JubEh5MmI5NGlwOVJHc25OWVd2M0FUUnFCNzJqVmJFX3FYNFlPX1RCT21FWGlZQlRkMWRTZ0tmWjFvSUdRUHdHS0Y1S0p1cFZfSk9OLWNyU3JaaFprVmUxWF82YkFmd3lJRDY3dlRESldYSHlDc21OZXBpaVd6OWZGeE5z?oc=5",
-      "category": "国際・政治",
+      "title_ja": "7300年前の九州・巨大噴火に新展開：地質学的調査が明かす驚きの事実",
+      "original_title": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
+      "source": "Science Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYTzNDelBaS3RsRk94cG1oek0tSlE4dGVRZi02UTdzaTEyU2JWU09CR0gwSDhjcjRrR1hUS3lIc1BmNl9rdHIwc1FZVk5YOTdTOW1UOTZRbzdZeG5XeGpfYUhHbUtZamc4TGtVMWRCbw?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "米軍",
-        "自衛隊",
-        "安全保障"
+        "火山",
+        "地質学",
+        "防災"
       ],
       "summary_points": [
-        "米海軍の原子力空母セオドア・ルーズベルトが、自衛隊との共同軍事訓練に参加するため日本へ寄港しました。",
-        "インド太平洋地域における抑止力を誇示し、複雑化する東アジアの海洋秩序への即応態勢を強化する狙いがあります。",
-        "日米同盟の強固な連携と、地域の安定維持に向けた相互運用性の向上を図る作戦行動の一環です。"
+        "7300年前に発生した鬼界カルデラの破局噴火について、最新の海底調査からマグマ噴出の新たなメカニズムが判明しました。",
+        "従来の推定を覆す規模の噴出物が海底に堆積しており、噴火プロセスの詳細が再評価されています。",
+        "本研究成果は、超巨大噴火のメカニズム解明だけでなく将来の火山防災予測の精度向上にも貢献します。"
       ],
-      "global_perspective": "中国や北朝鮮を念頭に、米軍が西太平洋でのプレゼンスを維持・誇示するための重要拠点として日本が再認識されています。",
+      "global_perspective": "地震・火山大国である日本の最先端な海洋・地質研究は、地球規模の破局的自然災害（カタストロフィ）のリスク評価モデルとして国際科学界で高く評価されています。",
       "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "米NYTが特集：雨の日も街頭で踊り続ける日本の「ダンシング・サラリーマン」",
-      "original_title": "Rain or Shine, Japan’s ‘Dancing Salaryman’ Can’t Stop Grooving",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iWG91T25CTHAwV0JrXzliWkFydVhHTGw4UFhBeVUzQzhXeDV6MzVxUTZLWS1HUDlqZ0V5TExiYThPZ05PS01oN2FaS1BrOFkwc1UtZXNvNm5BdFE4bGUwaGNFcDV0SE9qVlI4aGxFMnZYYUhQZURYa25EUUl5QjA?oc=5",
+      "title_ja": "体操世界選手権：男子予選で日本が首位発進、圧倒的な総合力を披露",
+      "original_title": "Japan Leads Team Qualifications in Men’s Competition at Worlds",
+      "source": "The Gymternet",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOenNGcmlhV2xfam1KdnNjN1JiQmVGWVhzUEp6RUNBbkduLTI0OU5raWwxZ3NhZUJRR082dktnR2Vid1pwbEROOGM3NEdlWkNVRFlQRFA2b1Q1VGRlTXhIdGN6R0FSVGVNVmVyUTZMOUxMUlhvM2Job0pLaDhWeGU3VDNWTS0yM0VtSzMtRmd1RW9VU0JhYVE?oc=5",
       "category": "社会・文化",
       "tags": [
-        "カルチャー",
-        "働き方",
-        "ソーシャルメディア"
+        "体操",
+        "世界選手権",
+        "スポーツ"
       ],
       "summary_points": [
-        "スーツ姿で路上で情熱的に踊り続け、SNSや街頭で話題を呼ぶ日本人会社員を米ニューヨーク・タイムズが特集しました。",
-        "規律や同調圧力が重んじられがちな日本の企業文化の中で、自己表現と解放を追求するユニークな存在として描かれています。",
-        "過酷な通勤やルーティンワークに追われる現代日本の都市生活者に対するポジティブな刺激として共感を集めています。"
+        "体操の世界選手権男子予選において、日本代表チームが安定した演技を揃えて首位に立ちました。",
+        "完成度の高いEスコア（実施点）を軸にミスを最小限に抑え、ライバル国をリードしています。",
+        "新世代の台頭とともに、体操ニッポンの伝統である美しい体操が高得点につながっています。"
       ],
-      "global_perspective": "型にはまった「日本のサラリーマン」というステレオタイプを覆す個人の表現活動として、海外読者に新鮮な驚きと親しみをもって受け止められています。",
+      "global_perspective": "海外の体操専門メディアは、日本の技術的な正確さと実施の美しさが国際採点基準において依然として「最高のお手本」として機能していると称賛しています。",
       "reading_time": "約1分"
     },
     {
       "id": 7,
-      "title_ja": "「マグニチュード9.9」気象庁の誤配信警報に海外も一時騒然",
-      "original_title": "Japan mistakenly sends emergency alert warning of 9.9 magnitude earthquake",
-      "source": "Hawaii News Now",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHZxU1l1blFEcGxvU3V1ZGhTb0NPNGpxUUVZUkw1QmhETDNQM2pEV1lRaFpUa01EQkRESGVZZ3FGamJVTUhiT3F0SWVwUTlpc3UxUFdCbWlkN2haakhNXzVmV3JSbnlrdEJKOXpsVU14NVg1akZ0d1J2c2JHaU5BUUtmd2stQ2lyRDJZMHlKNDE2OU1uOV9IVzJyRGZvVlFKWnRmNkFWQk16bGpBcnh3OGlB0gHGAUFVX3lxTE9Bc2VnRVRzT3Q5TlV6U2drREI3T2dWbllocGlxbmVFcHZKV3NZY3JEcFVzclFkOGJ4S1dfOUdlRzItc1FDZjEwekY0UTBYV2dEXzBrWjlmVU5EUk5yLUhlYlotc1dUeTZOaXUxMTI4anhWWnFUWk9XR2ZKdWdfY3R3UC1xMDlGU2l4WVlpSzRoSWlLSkZXdmhybXFjYzZfSWlpMkdOUEhzTXNDMW1iTkxZQnFMbXBqckdMWWtkSV9URHM5Mm9DUQ?oc=5",
-      "category": "テクノロジー",
+      "title_ja": "カリフォルニアで「OC Japan Fair」開催：伝統と現代カルチャーが融合し大盛況",
+      "original_title": "Traditional and contemporary Japanese culture celebrated at OC Japan Fair in Costa Mesa",
+      "source": "Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcGJvLXJ3MTF3My1yWkphajk2V1ppYmdCQVJKTVFnVVAzV3J0dnZWVDNQbThSbGdzanJ5MVFxNWpLU3h1anNxei10QUdNQV9IVElBVUVUTWNHRHg4S2VlOVBNS3lDTlBTRFZxNGRDdXVrXzU5NHZjM2lYT0VzRUY4R2VHR1NpUm5pM0VZa1UyTFVmY2VkcVgwYnFzdEFKenI2Z29HbGN3SThqcTRjaDFWNVVOTHR4dEo2UzV0dFJrVnJpQ2NqNFltVkFCNXdwMXFZVUk3N1I1UUFSUzhNS1UtcA?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "防災",
-        "緊急地震速報",
-        "システム障害"
+        "日本文化",
+        "インバウンド",
+        "米国"
       ],
       "summary_points": [
-        "日本国内の地震警報システムにおいて、誤って「マグニチュード9.9」という壊滅的な巨大地震の警報が送信されるトラブルが発生しました。",
-        "極めて高い数値を告げる通知に一時警戒が広がったものの、速やかに誤配信であったことが確認・公表されました。",
-        "高度に自動化された日本の世界最先端の防災インフラでも、アルゴリズムやデータ処理の不具合が生じ得る教訓となりました。"
+        "米カリフォルニア州コスタメサで、日本文化をテーマにした大規模イベント「OC Japan Fair」が開催されました。",
+        "本格的な日本食の屋台をはじめ、アニメや伝統芸能、ポップカルチャーまで多彩なコンテンツが来場者を魅了しました。",
+        "現地住民や若年層を中心に数万人規模の動員を記録し、対日関心の高さが浮き彫りとなりました。"
       ],
-      "global_perspective": "世界最高水準を誇る日本の地震警報システムでの異常数値トラブルに対し、環太平洋地域のメディアが危機管理の観点から高い関心を寄せました。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 8,
-      "title_ja": "先史時代の超巨大噴火、縄文社会をどう変えたか＝海外科学誌",
-      "original_title": "How one of Earth's worst volcanic disasters affected societies in prehistoric Japan",
-      "source": "Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kcW1CNnlZM05FYWx2YWNGVGlmZElqQVg4eHJzMDRWSm8zZFQyMU1nWjgzc0VOdGJ0YUlGMzkwcGRaaXhoM09oMzBhZ1ZLYUFIeUw5YURQckc3UmZXX0c2V2hEQlpscEtJQ2lnU3B5SUwxVng3WkJ3OVdKRFNoTzg?oc=5",
-      "category": "社会・文化",
-      "tags": [
-        "考古学",
-        "自然災害",
-        "縄文時代"
-      ],
-      "summary_points": [
-        "約7300年前に発生した鬼界カルデラの巨大破局噴火が、当時の縄文社会に与えた壊滅的打撃と回復過程を追う最新研究が発表されました。",
-        "南九州の集落が長期にわたり放棄された一方、数世紀を経て人々がどのように居住地域を再建したかが解明されつつあります。",
-        "過去の気候変動や極限的な環境破壊に対し、先史日本のコミュニティが示した適応力と回復力（レジリエンス）に注目が集まっています。"
-      ],
-      "global_perspective": "超巨大自然災害が人類社会の存続や文化変容にどう影響するかという人類普遍のテーマとして、日本の考古学的・地質学的データが国際的に注目されています。",
+      "global_perspective": "現地大手メディアは、単なる食イベントを超え、食・ポップカルチャー・伝統が融合した総合的なソフトパワーとして、北米での日本人気が定着している様子を報じています。",
       "reading_time": "約1分"
     }
   ]
