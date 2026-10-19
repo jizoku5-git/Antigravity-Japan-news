@@ -1,0 +1,102 @@
+{
+  "updated_at": "2026-10-20 06:54 JST",
+  "date": "2026-10-20",
+  "total_articles": 5,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "JAXA、火星の衛星「フォボス」からのサンプルリターンを目指す歴史的探査機を打ち上げ",
+      "source": "Space",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWYzRjVLZUxJU3hDdGN3U2Y5MkRjUUhDNF9qX3VRVWJ0aXk4Y1lTcFlSazhKRmVHNEtoaX-pWGpYQnV1SWdrYy1YTk5FZWNBOFRUd1pBeGFmSUI5QTByYWVmTjJjQWJlVkdxMlBESDB4elk4MjFvQmxFMC12YXNTT2NTbmRjbHZTWE5qU3dIU2dxeXY4WTUzeXNLNVZLeUJpaDRieGQzb0cwTU43b3h4N1dPVkJiMFFTUEltV25hM3BmbE5INF9FeA?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "宇宙開発",
+        "JAXA",
+        "火星"
+      ],
+      "summary_points": [
+        "日本が火星の2つの衛星のうちの一つ「フォボス」からのサンプル採取を目指す野心的な探査ミッションを打ち上げました。",
+        "フォボスの表面だけでなく、火星由来の微細な塵（ダスト）も同時に回収できる可能性があると期待されています。",
+        "火星の衛星の起源や謎に迫る世界初の試みとして、世界の主要メディアからも高い注目を集めています。"
+      ],
+      "global_perspective": "CNNやWSJ、Bloombergなど各国の主要メディアが、火星の衛星の謎を解き明かす「前人未踏の挑戦」として一斉に大きく報じています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "日本の伝統的な祭りの山車事故で相次ぐ死者、安全性に懸念の声",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUEwMDAwX3lkaHk4aHd6MDBMODV5MmJFa05sNW11bGE2NGU4cWp3RTZrMDVWYWtjUlB0bzdkZFVHaHFoOW9oUkc0LTdBM2hMbGs4R3BLd1RZcjc0OTRscjd5UWEtdHc1VUNjSWFpcXdhRXhsQWMtUllEMlQ2OWpFSUxrV1ptTTZRMjNiT3FrVkRyWGhYWEFJd3dNWVFZT0p1TFUtdm5ocTk?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "伝統行事",
+        "安全管理",
+        "祭り"
+      ],
+      "summary_points": [
+        "日本の伝統的な祭りにおける山車の転倒や衝突事故で3人が死亡し、安全対策への懸念が高まっています。",
+        "何世紀も続く歴史ある行事において、伝統の継承と現代における安全確保のバランスが問われています。",
+        "海外の主要紙でも取り上げられ、日本の文化的行事におけるリスク管理のあり方に視線が注がれています。"
+      ],
+      "global_perspective": "The GuardianやNYTといった海外メディアは、日本の美しい文化的伝統の裏にある、安全対策の課題や事故の深刻さに焦点を当てています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "誰が1,200億ドル規模の新規日本国債を買うのか？英誌が財政市場を分析",
+      "source": "The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmtxTlk3c2VBendOc2l3a2RDcjh2US1DdTNSUDlDSlBVMFdyTmdGaTRRZi1ENXBYOVprY0VELWFfTzZCd3ptRzctRHlLNnczV1dySGVyYi1qLUtDanJnZllWY1UyRVlBel8yUXd1amdlMlRQMThLU2xYVHN1eHY4UUMwc3VLalNuWnpCTGxXN1lmb3Y1QU54dVlMZ0NRYmw1dGlnZ1Q3VVc5NUtaY3VEZ3R5dlFkbmkxWFE?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "国債",
+        "日銀",
+        "金利"
+      ],
+      "summary_points": [
+        "日本政府が発行する巨額の新規国債を一体誰が引き受けるのかという、金融市場における構造的な課題が指摘されています。",
+        "日本銀行（BOJ）の政策変更や金利上昇局面において、国債市場の需給バランスが世界経済の関心事となっています。",
+        "日本の財政運営の持続可能性と、国内投資家・海外投資家の動向に厳しい視線が向けられています。"
+      ],
+      "global_perspective": "経済誌エコノミストをはじめとする海外メディアは、日本の金融正常化に伴う国債市場の動向を、世界の債券市場への波及効果という観点から警戒感を持って報じています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "日本国内で米海兵隊員が殺人容疑で逮捕、事件の深刻さに現地で衝撃",
+      "source": "ABC11 News",
+      "url": "https://news.google.com/rss/articles/CBMiogtBVV95cUxPdnBTRDB5UDR4b3hzaGMxZ3FDcWs0SEFPQmdMdjd4LV8xdlBIZC1yZUFXQnJUMFlsMFZBUV9TN1dCeDIxS0NabEtYaHZ0MW5DQWxDYmFYOUZtMnNsQWFRTFhIZmZrcnZGQ2RtZEVINDdhdDJZenQxRVkwQ0FvYV9GakNyZm1TWVV4V2FBaG5JQzFwNnV2Mno1bjFJN3dudVc0SGZxdG1CbTNjdDAzRFNHSE10d0JNNDhPU0xNMnF1NjhNVThyODU1OUpMRzM4OG5tbTZIWlpNZlh6Yl8tcVJzRjV2YTIwUXMzaXRXaFY2RjVQelotR0lSN3luajFPcHlrUnhYZHhFWGp5RjNTS2o1STlqRnc1Tkw0dGtHNnBLQ3k0eWhFUEltTWdDblcxT1VGdmtfZkxaYmZheTZlNUFzYnVzem51b1RMdTdzelB0R2pFY0RzaHdlZklMR1d0N1FJa1ZNSnpadDVMZ1Z6TkhxQ2M3U0ExSUJHSGdTMWNvX3NBOU5EcXR6bmhOZ1RPMHg4alg4M0FwQ1BndFEyUmNlbFJJZm5pOGJzd2YwbUg2ZDZLQnc1VnQ2elZNeHEtVGVyJjRzci15QUpLa0tmejlGdXZabXFmaWtOdUl6cXk0WjVVa0NwRlpVVEJ6dEpUSWE0Z2NodHBnRFVMTzhmS2VldHZzSUVhMklhLWJmcFZjMVpHWmZVcWRSdTF4TVprMGUtaUFfV3NMM3JtVk0tTi05bXdjMGJ3NUJkUWdGbktPSUNMZXdyanBlek9KdG9MZ0tHNkVVR3dfZWJSeEZuelFNemxCUkRGQ1Ezb0ZzSms4X3VlSmxWd2NJXy02VjdEaVJnUjI5Q094MmdWbGpQU2ctWFhnazF1VGRtVkhvOHVsX3pGWDVfMG9paUxOdFZYQ21nNzB2YkZLNXkwSWlrTXpIX0RoSjZFcDExeG96elJJVGFJb0lZVHFaSDZ3MGFBak5sN0t5NWhwdnFuQTRvWEIzTGt2MlhacWhXczVfRWVCZmFNU1dFc3RJbXBTMEt3Ym1iZ2N2b3ZkbDJsLXJacHBGYmNvdk9Kc3dNVTEyQVJDVGxQd0lvdzcwYzV0NnVRaXp6QVc5SFdpRUlwMzhMeEFOc1pRbnJHV3JUMUM0b0Z2TllvX3NpT3ZEZVhISnZxeUpnYVdBaWZ0VnFxTUNkcUxiUDZZVnAtV0c3OERFSEx3VHpjRmY5eG1NTTZORUlUVk9yRHdmbkRXQm5HbEFQZXByWW51SjJlZFFKbUo1bFVzSkFGLW5nSHNtTEQtSXF1TjBvVkhpMV83R3pBanhsekZnTjJDdER3NTJLUmtXWFY4eGtnMmVxMmlRMy1yN182bm9wSzZGUjhYUFQ4S0t1aFk0ci13OTNIYVpmTHlwa00tVjJWMXREdlBrSm9XUUNXMFZ2NV9OZFRNODlZQWFTTHloT0h4Wk5KQjdSSTNERHdxZmJOLUNtelExZmkxeld0VWVOTnpWTzJPX19JQ0VlYW5pVmxBME03UlVubFQ0YkFBbjcwNWJpb3FuaVZZVGhhSnJnMTFtQnhNQkhtamtkcXhKTFVSODlPeVI0Z1RfWXRBRjNXNDR2RFd2MDlnX1RtYS1LNHotOVMyVVBSZGhxOEZ4RUhIR0toNk5MeUlWaDgtMHRyb0RIZlF5TU5wamlwaGh6REdrb25aMjBsV191Q0hXM1lzalJSMDlGckVIZmpwcXV5OUo1RXhac3hlMXdxaWpwOUx1MGNBUlNqenNjcE9saWlLMW5nTzRxck0tOC1Fb0R2MndBYTlyZzgtRklyQ3dtZS1sN2NsLVdhWEhXSlNiLXZKbzBOdmlvYy1FT0lUdTJHZ3BmcjVLOFc3NGthYlB0Y2JHQUxuNHRLVXVSY19CR3hCaE9XRTd1NTdOY0UxakxsUQ?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "米軍",
+        "事件",
+        "外交"
+      ],
+      "summary_points": [
+        "日本国内で、米海兵隊員が殺人容疑で逮捕されるという重大な事件が発生しました。",
+        "地元当局や政府関係者が「残虐で極めて heinous（凶悪な）犯行」と強い表現で非難しています。",
+        "日米間の安全保障体制や駐留米軍の規律・犯罪防止策を巡る議論に再びスポットライトが当たっています。"
+      ],
+      "global_perspective": "米国のローカルメディアから全国ニュースに至るまで、日本国内での米軍人による事件として、両国間の外交・安全保障上のデリケートな問題として報じられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "北海道で日本の文化と農業を学ぶプログラム、米・ウィスコンシン大学が実施",
+      "source": "University of Wisconsin–Madison",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTd5bjAwRy1OMERGQzUyTGZvMzdpS3lKU0JxSXhvNFJmZm54UFIyWEwycnJoOC1ETkV5a2cxVkkzb2ZhTVFRd1dRbDhNVWtOT083ejlOZlpCbUx3SlUySW1ZUU15YlpqRWUxZGc2aXpRYV9ZWE1kX2ZGbzN4aEQzZV95RHNmdGxpc29zU0tsbU5DaTJwS0V2ZWFYX21CU3B3WEVDN0ZQWQ?oc=5",
+      "category": "観光・トレンド",
+      "tags": [
+        "北海道",
+        "農業",
+        "異文化交流"
+      ],
+      "summary_points": [
+        "米国のウィスコンシン大学マディソン校が、北海道で日本の文化と農業を学ぶ教育プログラムを展開しています。",
+        "学生たちは現地の農業現場や地域コミュニティに触れ、日本の地方の持続可能な取り組みについて理解を深めています。",
+        "単なる観光にとどまらない、深いレベルでの日米の教育・人的交流事例として評価されています。"
+      ],
+      "global_perspective": "海外の大学機関が日本の地方の農業や文化に直接学ぶプログラムとして、グローバルな視野を持つ学生たちの実践的な学びの場として注目されています。",
+      "reading_time": "約1分"
+    }
+  ]
+}

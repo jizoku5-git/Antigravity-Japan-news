@@ -1,146 +1,101 @@
 {
-  "updated_at": "2026-10-19 06:48 JST",
-  "date": "2026-10-19",
-  "total_articles": 7,
+  "updated_at": "2026-10-20 06:54 JST",
+  "date": "2026-10-20",
+  "total_articles": 5,
   "articles": [
     {
       "id": 1,
-      "title_ja": "JAXAの野心的挑戦：火星衛星からのサンプルリターン「MMX」計画に世界が注目",
-      "original_title": "Returning samples from a Mars moon: Inside the science of Japan's bold MMX mission",
+      "title_ja": "JAXA、火星の衛星「フォボス」からのサンプルリターンを目指す歴史的探査機を打ち上げ",
       "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVFqZlA0dXp5TGw4WFJMdGQ2T1BqbkYxTGtVX2c5MDU1NVJ2N21YYzgyc281MEhzMkE1MVkyQmNTdkdmSm1WZHMzVmw4dXg5UFVxM2xEWTRrWWJIS0loZTNGVi1tMVNNSWZyS0x1bllnUDVjaXQ0UnNEdGxld1p4Y3ZHdnI2SXN0cmZxREpDSl8wN1A0LWI2cmFaY3ZfVk11dTNVbHFEbUV3d0U1SFQyRk82MVdsN3hPSlMtOXVCNXBQVjdUQ3JUUg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWYzRjVLZUxJU3hDdGN3U2Y5MkRjUUhDNF9qX3VRVWJ0aXk4Y1lTcFlSazhKRmVHNEtoaX-pWGpYQnV1SWdrYy1YTk5FZWNBOFRUd1pBeGFmSUI5QTByYWVmTjJjQWJlVkdxMlBESDB4elk4MjFvQmxFMC12YXNTT2NTbmRjbHZTWE5qU3dIU2dxeXY4WTUzeXNLNVZLeUJpaDRieGQzb0cwTU43b3h4N1dPVkJiMFFTUEltV25hM3BmbE5INF9FeA?oc=5",
       "category": "テクノロジー",
       "tags": [
-        "JAXA",
         "宇宙開発",
-        "火星探査"
+        "JAXA",
+        "火星"
       ],
       "summary_points": [
-        "JAXA主導の「MMX（火星衛星探査計画）」は、火星の衛星フォボスから世界初となるサンプル回収を目指しています。",
-        "小惑星探査機「はやぶさ」シリーズで培った高度な離着陸・試料採取技術を火星圏へと応用します。",
-        "火星圏の成り立ちや生命存在の可能性を探る科学的マイルストーンとして国際的な期待が高まっています。"
+        "日本が火星の2つの衛星のうちの一つ「フォボス」からのサンプル採取を目指す野心的な探査ミッションを打ち上げました。",
+        "フォボスの表面だけでなく、火星由来の微細な塵（ダスト）も同時に回収できる可能性があると期待されています。",
+        "火星の衛星の起源や謎に迫る世界初の試みとして、世界の主要メディアからも高い注目を集めています。"
       ],
-      "global_perspective": "欧米メディアは、日本が小惑星サンプルリターンに続き火星圏探査でも主導的役割を果たしている点に注目しており、世界最高峰の探査技術力として高く評価しています。",
+      "global_perspective": "CNNやWSJ、Bloombergなど各国の主要メディアが、火星の衛星の謎を解き明かす「前人未踏の挑戦」として一斉に大きく報じています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "政権運営に試練、高市首相の内閣支持率が発足後最低の50%割れと報道",
-      "original_title": "Japan PM Takaichi's support rate falls below 50%, lowest since taking office, Kyodo reports",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVGI0cE1DeTdnOWdhX2lHY08tdWpob3JyNEt5d2ZrbDVyeUZ5U1dGQzFnS1YxTTl6d2lzWVdlX0V6U0x0NkRMS29rM2dGNE1MWF9wd2JlMi0teXM2M2x1Y1Zoc1liWXFULVNraU1XT3ZlSm1Ta29sanVIUDNpVFZPUTRLMzN0d2hrVkhQQUNkcEk2dm1YZzdFemZPNy1kNEplZV8ta09mTTVrRlF3Sm9NVS0zaUdOblFaZEV6Y0NZRHdqM3VKUUZuUGs0bnNiYTA?oc=5",
-      "category": "国際・政治",
+      "title_ja": "日本の伝統的な祭りの山車事故で相次ぐ死者、安全性に懸念の声",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUEwMDAwX3lkaHk4aHd6MDBMODV5MmJFa05sNW11bGE2NGU4cWp3RTZrMDVWYWtjUlB0bzdkZFVHaHFoOW9oUkc0LTdBM2hMbGs4R3BLd1RZcjc0OTRscjd5UWEtdHc1VUNjSWFpcXdhRXhsQWMtUllEMlQ2OWpFSUxrV1ptTTZRMjNiT3FrVkRyWGhYWEFJd3dNWVFZT0p1TFUtdm5ocTk?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "日本政治",
-        "内閣支持率",
-        "世論調査"
+        "伝統行事",
+        "安全管理",
+        "祭り"
       ],
       "summary_points": [
-        "共同通信の世論調査によると、高市首相の内閣支持率が発足以来初めて50%を下回りました。",
-        "物価高への対応や政治資金をめぐる問題への不満が支持率低下の要因として挙げられています。",
-        "今後の国会論戦や経済政策の実行力に対し、有権者の厳しい視線が注がれています。"
+        "日本の伝統的な祭りにおける山車の転倒や衝突事故で3人が死亡し、安全対策への懸念が高まっています。",
+        "何世紀も続く歴史ある行事において、伝統の継承と現代における安全確保のバランスが問われています。",
+        "海外の主要紙でも取り上げられ、日本の文化的行事におけるリスク管理のあり方に視線が注がれています。"
       ],
-      "global_perspective": "ロイター通信など海外主要メディアは、日本の政治的安定性が海外投資家の心理に直結するため、政権基盤の揺らぎや政策推進への影響を注視しています。",
+      "global_perspective": "The GuardianやNYTといった海外メディアは、日本の美しい文化的伝統の裏にある、安全対策の課題や事故の深刻さに焦点を当てています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "160万円で日本の空き家を購入したカナダ人男性、「投資目的ではない」と語る理由",
-      "original_title": "I'm a 31-year-old Canadian who bought an $11,000 house in rural Japan. Here's why I don't see it as an investment.",
-      "source": "Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNTl6emdUcWtOeTBoZlFqNkNUdTZ2dUJPZUhSUWZYbzlFbjdOYzFXZFR1bzJUY0tlZUFPTnpGOW9iV3JpY2xqZ3UxY2pRV1B2QU03SmFaLVowZFU5YlRfbFdFeDZyR2xPR3JrYmtCRTQ4RFg5bk9BRnFfejRMaHBLdGdIaW1WdWR2VVBUaW1PMmNrTFpaRGZ1QVVuNlUtSndmQ1FBdQ?oc=5",
+      "title_ja": "誰が1,200億ドル規模の新規日本国債を買うのか？英誌が財政市場を分析",
+      "source": "The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmtxTlk3c2VBendOc2l3a2RDcjh2US1DdTNSUDlDSlBVMFdyTmdGaTRRZi1ENXBYOVprY0VELWFfTzZCd3ptRzctRHlLNnczV1dySGVyYi1qLUtDanJnZllWY1UyRVlBel8yUXd1amdlMlRQMThLU2xYVHN1eHY4UUMwc3VLalNuWnpCTGxXN1lmb3Y1QU54dVlMZ0NRYmw1dGlnZ1Q3VVc5NUtaY3VEZ3R5dlFkbmkxWFE?oc=5",
       "category": "経済・ビジネス",
       "tags": [
-        "空き家",
-        "地方創生",
-        "不動産"
+        "国債",
+        "日銀",
+        "金利"
       ],
       "summary_points": [
-        "31歳のカナダ人男性が日本の地方にある格安の空き家（約1万1000ドル）を購入しました。",
-        "資産価値の上昇や金銭的リターンではなく、自然豊かな環境での生活の質（QOL）向上を重視した選択と語っています。",
-        "修繕費や維持管理の手間を考慮すると、投機的な不動産投資とは切り離して考えるべきだと警鐘を鳴らしています。"
+        "日本政府が発行する巨額の新規国債を一体誰が引き受けるのかという、金融市場における構造的な課題が指摘されています。",
+        "日本銀行（BOJ）の政策変更や金利上昇局面において、国債市場の需給バランスが世界経済の関心事となっています。",
+        "日本の財政運営の持続可能性と、国内投資家・海外投資家の動向に厳しい視線が向けられています。"
       ],
-      "global_perspective": "欧米の若年層の間で日本の「アキヤ（Akiya）」ブームが続いていますが、単なる格安不動産としてではなく、オルタナティブなライフスタイルとしての現実的な視点が共有され始めています。",
+      "global_perspective": "経済誌エコノミストをはじめとする海外メディアは、日本の金融正常化に伴う国債市場の動向を、世界の債券市場への波及効果という観点から警戒感を持って報じています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "デジタル化で進む「縦書き離れ」：伝統的な日本語表記の現在地",
-      "original_title": "A Downward Trend: Vertical Writing Usage Waning in Japan",
-      "source": "nippon.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON3JXRklXcW5PcjIzYVdjSHQ5TlkwVXgwdHlZYVdIU1dFUDQxUzBoR3V5QTVtNV9NZVhiQTF0OFBKbEtxcVFVYVdkNGQ4MS1DbjdISWFTNFRfRzcxUFBNUkNnb3NIV09nUGFIeVVvdUYxZy1OMEhiTHJ4YWZudG53bkkxaG9RTHlrX2J3cXFoMHdUdjRPYmdNV1d6NW5xODRaay13bFpNNA?oc=5",
-      "category": "社会・文化",
+      "title_ja": "日本国内で米海兵隊員が殺人容疑で逮捕、事件の深刻さに現地で衝撃",
+      "source": "ABC11 News",
+      "url": "https://news.google.com/rss/articles/CBMiogtBVV95cUxPdnBTRDB5UDR4b3hzaGMxZ3FDcWs0SEFPQmdMdjd4LV8xdlBIZC1yZUFXQnJUMFlsMFZBUV9TN1dCeDIxS0NabEtYaHZ0MW5DQWxDYmFYOUZtMnNsQWFRTFhIZmZrcnZGQ2RtZEVINDdhdDJZenQxRVkwQ0FvYV9GakNyZm1TWVV4V2FBaG5JQzFwNnV2Mno1bjFJN3dudVc0SGZxdG1CbTNjdDAzRFNHSE10d0JNNDhPU0xNMnF1NjhNVThyODU1OUpMRzM4OG5tbTZIWlpNZlh6Yl8tcVJzRjV2YTIwUXMzaXRXaFY2RjVQelotR0lSN3luajFPcHlrUnhYZHhFWGp5RjNTS2o1STlqRnc1Tkw0dGtHNnBLQ3k0eWhFUEltTWdDblcxT1VGdmtfZkxaYmZheTZlNUFzYnVzem51b1RMdTdzelB0R2pFY0RzaHdlZklMR1d0N1FJa1ZNSnpadDVMZ1Z6TkhxQ2M3U0ExSUJHSGdTMWNvX3NBOU5EcXR6bmhOZ1RPMHg4alg4M0FwQ1BndFEyUmNlbFJJZm5pOGJzd2YwbUg2ZDZLQnc1VnQ2elZNeHEtVGVyJjRzci15QUpLa0tmejlGdXZabXFmaWtOdUl6cXk0WjVVa0NwRlpVVEJ6dEpUSWE0Z2NodHBnRFVMTzhmS2VldHZzSUVhMklhLWJmcFZjMVpHWmZVcWRSdTF4TVprMGUtaUFfV3NMM3JtVk0tTi05bXdjMGJ3NUJkUWdGbktPSUNMZXdyanBlek9KdG9MZ0tHNkVVR3dfZWJSeEZuelFNemxCUkRGQ1Ezb0ZzSms4X3VlSmxWd2NJXy02VjdEaVJnUjI5Q094MmdWbGpQU2ctWFhnazF1VGRtVkhvOHVsX3pGWDVfMG9paUxOdFZYQ21nNzB2YkZLNXkwSWlrTXpIX0RoSjZFcDExeG96elJJVGFJb0lZVHFaSDZ3MGFBak5sN0t5NWhwdnFuQTRvWEIzTGt2MlhacWhXczVfRWVCZmFNU1dFc3RJbXBTMEt3Ym1iZ2N2b3ZkbDJsLXJacHBGYmNvdk9Kc3dNVTEyQVJDVGxQd0lvdzcwYzV0NnVRaXp6QVc5SFdpRUlwMzhMeEFOc1pRbnJHV3JUMUM0b0Z2TllvX3NpT3ZEZVhISnZxeUpnYVdBaWZ0VnFxTUNkcUxiUDZZVnAtV0c3OERFSEx3VHpjRmY5eG1NTTZORUlUVk9yRHdmbkRXQm5HbEFQZXByWW51SjJlZFFKbUo1bFVzSkFGLW5nSHNtTEQtSXF1TjBvVkhpMV83R3pBanhsekZnTjJDdER3NTJLUmtXWFY4eGtnMmVxMmlRMy1yN182bm9wSzZGUjhYUFQ4S0t1aFk0ci13OTNIYVpmTHlwa00tVjJWMXREdlBrSm9XUUNXMFZ2NV9OZFRNODlZQWFTTHloT0h4Wk5KQjdSSTNERHdxZmJOLUNtelExZmkxeld0VWVOTnpWTzJPX19JQ0VlYW5pVmxBME03UlVubFQ0YkFBbjcwNWJpb3FuaVZZVGhhSnJnMTFtQnhNQkhtamtkcXhKTFVSODlPeVI0Z1RfWXRBRjNXNDR2RFd2MDlnX1RtYS1LNHotOVMyVVBSZGhxOEZ4RUhIR0toNk5MeUlWaDgtMHRyb0RIZlF5TU5wamlwaGh6REdrb25aMjBsV191Q0hXM1lzalJSMDlGckVIZmpwcXV5OUo1RXhac3hlMXdxaWpwOUx1MGNBUlNqenNjcE9saWlLMW5nTzRxck0tOC1Fb0R2MndBYTlyZzgtRklyQ3dtZS1sN2NsLVdhWEhXSlNiLXZKbzBOdmlvYy1FT0lUdTJHZ3BmcjVLOFc3NGthYlB0Y2JHQUxuNHRLVXVSY19CR3hCaE9XRTd1NTdOY0UxakxsUQ?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "デジタル化",
-        "日本語",
-        "文化変容"
+        "米軍",
+        "事件",
+        "外交"
       ],
       "summary_points": [
-        "日本国内において、伝統的な「縦書き」文化の利用頻度が減少傾向にあることが調査で示されました。",
-        "PCやスマートフォンでの横書き表示の普及、SNS利用の定着が大きな要因となっています。",
-        "小説や新聞など一部のメディアでは根強いものの、ビジネス文書や日常会話での縦書きは急速に姿を消しつつあります。"
+        "日本国内で、米海兵隊員が殺人容疑で逮捕されるという重大な事件が発生しました。",
+        "地元当局や政府関係者が「残虐で極めて heinous（凶悪な）犯行」と強い表現で非難しています。",
+        "日米間の安全保障体制や駐留米軍の規律・犯罪防止策を巡る議論に再びスポットライトが当たっています。"
       ],
-      "global_perspective": "言語のデジタル化に伴う伝統表記の変容という普遍的なテーマとして、アジア圏の言語文化に関心を持つ海外読者から注目されています。",
+      "global_perspective": "米国のローカルメディアから全国ニュースに至るまで、日本国内での米軍人による事件として、両国間の外交・安全保障上のデリケートな問題として報じられています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "7300年前の九州・巨大噴火に新展開：地質学的調査が明かす驚きの事実",
-      "original_title": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
-      "source": "Science Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYTzNDelBaS3RsRk94cG1oek0tSlE4dGVRZi02UTdzaTEyU2JWU09CR0gwSDhjcjRrR1hUS3lIc1BmNl9rdHIwc1FZVk5YOTdTOW1UOTZRbzdZeG5XeGpfYUhHbUtZamc4TGtVMWRCbw?oc=5",
-      "category": "テクノロジー",
-      "tags": [
-        "火山",
-        "地質学",
-        "防災"
-      ],
-      "summary_points": [
-        "7300年前に発生した鬼界カルデラの破局噴火について、最新の海底調査からマグマ噴出の新たなメカニズムが判明しました。",
-        "従来の推定を覆す規模の噴出物が海底に堆積しており、噴火プロセスの詳細が再評価されています。",
-        "本研究成果は、超巨大噴火のメカニズム解明だけでなく将来の火山防災予測の精度向上にも貢献します。"
-      ],
-      "global_perspective": "地震・火山大国である日本の最先端な海洋・地質研究は、地球規模の破局的自然災害（カタストロフィ）のリスク評価モデルとして国際科学界で高く評価されています。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 6,
-      "title_ja": "体操世界選手権：男子予選で日本が首位発進、圧倒的な総合力を披露",
-      "original_title": "Japan Leads Team Qualifications in Men’s Competition at Worlds",
-      "source": "The Gymternet",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOenNGcmlhV2xfam1KdnNjN1JiQmVGWVhzUEp6RUNBbkduLTI0OU5raWwxZ3NhZUJRR082dktnR2Vid1pwbEROOGM3NEdlWkNVRFlQRFA2b1Q1VGRlTXhIdGN6R0FSVGVNVmVyUTZMOUxMUlhvM2Job0pLaDhWeGU3VDNWTS0yM0VtSzMtRmd1RW9VU0JhYVE?oc=5",
-      "category": "社会・文化",
-      "tags": [
-        "体操",
-        "世界選手権",
-        "スポーツ"
-      ],
-      "summary_points": [
-        "体操の世界選手権男子予選において、日本代表チームが安定した演技を揃えて首位に立ちました。",
-        "完成度の高いEスコア（実施点）を軸にミスを最小限に抑え、ライバル国をリードしています。",
-        "新世代の台頭とともに、体操ニッポンの伝統である美しい体操が高得点につながっています。"
-      ],
-      "global_perspective": "海外の体操専門メディアは、日本の技術的な正確さと実施の美しさが国際採点基準において依然として「最高のお手本」として機能していると称賛しています。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 7,
-      "title_ja": "カリフォルニアで「OC Japan Fair」開催：伝統と現代カルチャーが融合し大盛況",
-      "original_title": "Traditional and contemporary Japanese culture celebrated at OC Japan Fair in Costa Mesa",
-      "source": "Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcGJvLXJ3MTF3My1yWkphajk2V1ppYmdCQVJKTVFnVVAzV3J0dnZWVDNQbThSbGdzanJ5MVFxNWpLU3h1anNxei10QUdNQV9IVElBVUVUTWNHRHg4S2VlOVBNS3lDTlBTRFZxNGRDdXVrXzU5NHZjM2lYT0VzRUY4R2VHR1NpUm5pM0VZa1UyTFVmY2VkcVgwYnFzdEFKenI2Z29HbGN3SThqcTRjaDFWNVVOTHR4dEo2UzV0dFJrVnJpQ2NqNFltVkFCNXdwMXFZVUk3N1I1UUFSUzhNS1UtcA?oc=5",
+      "title_ja": "北海道で日本の文化と農業を学ぶプログラム、米・ウィスコンシン大学が実施",
+      "source": "University of Wisconsin–Madison",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTd5bjAwRy1OMERGQzUyTGZvMzdpS3lKU0JxSXhvNFJmZm54UFIyWEwycnJoOC1ETkV5a2cxVkkzb2ZhTVFRd1dRbDhNVWtOT083ejlOZlpCbUx3SlUySW1ZUU15YlpqRWUxZGc2aXpRYV9ZWE1kX2ZGbzN4aEQzZV95RHNmdGxpc29zU0tsbU5DaTJwS0V2ZWFYX21CU3B3WEVDN0ZQWQ?oc=5",
       "category": "観光・トレンド",
       "tags": [
-        "日本文化",
-        "インバウンド",
-        "米国"
+        "北海道",
+        "農業",
+        "異文化交流"
       ],
       "summary_points": [
-        "米カリフォルニア州コスタメサで、日本文化をテーマにした大規模イベント「OC Japan Fair」が開催されました。",
-        "本格的な日本食の屋台をはじめ、アニメや伝統芸能、ポップカルチャーまで多彩なコンテンツが来場者を魅了しました。",
-        "現地住民や若年層を中心に数万人規模の動員を記録し、対日関心の高さが浮き彫りとなりました。"
+        "米国のウィスコンシン大学マディソン校が、北海道で日本の文化と農業を学ぶ教育プログラムを展開しています。",
+        "学生たちは現地の農業現場や地域コミュニティに触れ、日本の地方の持続可能な取り組みについて理解を深めています。",
+        "単なる観光にとどまらない、深いレベルでの日米の教育・人的交流事例として評価されています。"
       ],
-      "global_perspective": "現地大手メディアは、単なる食イベントを超え、食・ポップカルチャー・伝統が融合した総合的なソフトパワーとして、北米での日本人気が定着している様子を報じています。",
+      "global_perspective": "海外の大学機関が日本の地方の農業や文化に直接学ぶプログラムとして、グローバルな視野を持つ学生たちの実践的な学びの場として注目されています。",
       "reading_time": "約1分"
     }
   ]
