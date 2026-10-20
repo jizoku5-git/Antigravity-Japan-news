@@ -1,101 +1,146 @@
 {
-  "updated_at": "2026-10-20 06:54 JST",
-  "date": "2026-10-20",
-  "total_articles": 5,
+  "updated_at": "2026-10-21 06:55 JST",
+  "date": "2026-10-21",
+  "total_articles": 7,
   "articles": [
     {
       "id": 1,
-      "title_ja": "JAXA、火星の衛星「フォボス」からのサンプルリターンを目指す歴史的探査機を打ち上げ",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWYzRjVLZUxJU3hDdGN3U2Y5MkRjUUhDNF9qX3VRVWJ0aXk4Y1lTcFlSazhKRmVHNEtoaX-pWGpYQnV1SWdrYy1YTk5FZWNBOFRUd1pBeGFmSUI5QTByYWVmTjJjQWJlVkdxMlBESDB4elk4MjFvQmxFMC12YXNTT2NTbmRjbHZTWE5qU3dIU2dxeXY4WTUzeXNLNVZLeUJpaDRieGQzb0cwTU43b3h4N1dPVkJiMFFTUEltV25hM3BmbE5INF9FeA?oc=5",
-      "category": "テクノロジー",
+      "title_ja": "半導体再興狙う日本、自国育成と同時に「対米投資」の重圧に直面",
+      "original_title": "As Japan pursues a chip-industry reboot, it's being pressed to build America's - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ2l4SE9UYmpaWGdDWERaQTFBMEYwWDNidzZ6X1AxWnJiVXpUdWVQOUVZMzBXWTBpeWdiMGo0eXlCYkFJejV2VDBDQ0NkX0p1TTNNSU5reVNKWDB1U3duU3lzU1FaUmJDNTZrTjk0UDNiQ0dzUlpoYlFENTFBOXNVSkhZVVppeDduLVVueW9VTG9PRXNPcG91b0VxSjU2aEhuYzY4OVNaWmU1WnpWNmdZbzJVN3MyRUF3UTJUWGd0bw?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "宇宙開発",
-        "JAXA",
-        "火星"
+        "半導体",
+        "日米関係",
+        "サプライチェーン"
       ],
       "summary_points": [
-        "日本が火星の2つの衛星のうちの一つ「フォボス」からのサンプル採取を目指す野心的な探査ミッションを打ち上げました。",
-        "フォボスの表面だけでなく、火星由来の微細な塵（ダスト）も同時に回収できる可能性があると期待されています。",
-        "火星の衛星の起源や謎に迫る世界初の試みとして、世界の主要メディアからも高い注目を集めています。"
+        "日本政府と国内企業が半導体産業の国内復活を目指す中、米国側から米国内への製造拠点投資を求める圧力が高まっています。",
+        "ラピダス（Rapidus）支援など国内基盤強化を進める一方で、同盟国としての経済安全保障上の貢献を両立させる難しい舵取りが迫られています。",
+        "限られた資本と技術者のリソースを自国産業の再興と米国支援のどちらにどれだけ配分すべきかが大きな論点となっています。"
       ],
-      "global_perspective": "CNNやWSJ、Bloombergなど各国の主要メディアが、火星の衛星の謎を解き明かす「前人未踏の挑戦」として一斉に大きく報じています。",
+      "global_perspective": "同盟国・日本に対し「脱中国」のサプライチェーン構築を歓迎しつつも、自国の雇用や製造業復活を優先させたい米国の現実主義的な思惑が報じられています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "日本の伝統的な祭りの山車事故で相次ぐ死者、安全性に懸念の声",
+      "title_ja": "火星衛星フォボスから砂を持ち帰る歴史的挑戦、日本主導の探査計画に世界が注目",
+      "original_title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos - The Guardian",
       "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYUEwMDAwX3lkaHk4aHd6MDBMODV5MmJFa05sNW11bGE2NGU4cWp3RTZrMDVWYWtjUlB0bzdkZFVHaHFoOW9oUkc0LTdBM2hMbGs4R3BLd1RZcjc0OTRscjd5UWEtdHc1VUNjSWFpcXdhRXhsQWMtUllEMlQ2OWpFSUxrV1ptTTZRMjNiT3FrVkRyWGhYWEFJd3dNWVFZT0p1TFUtdm5ocTk?oc=5",
-      "category": "社会・文化",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXQzX1cwWUJLUjNfX0lOX2tlSkoyaDlXaDNzcjdUNlF2eG90X3RMNjJhYlJkVkpGYmhWZWtlVnRoRFNvOFJkOEtxNWpiQTVPeFdETTNNZHlqQU43Y0dsU0pESDBmSUVsQ0VpdmtGOG4ydEhuMEp5czMzZDdjUWo4dDFnb3M0bjROUXhUZDFUdHZUbGxS?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "伝統行事",
-        "安全管理",
-        "祭り"
+        "宇宙開発",
+        "JAXA",
+        "火星探査"
       ],
       "summary_points": [
-        "日本の伝統的な祭りにおける山車の転倒や衝突事故で3人が死亡し、安全対策への懸念が高まっています。",
-        "何世紀も続く歴史ある行事において、伝統の継承と現代における安全確保のバランスが問われています。",
-        "海外の主要紙でも取り上げられ、日本の文化的行事におけるリスク管理のあり方に視線が注がれています。"
+        "JAXAが主導する火星衛星探査計画（MMX）は、火星の衛星「フォボス」に着陸して試料（サンプル）を採取し地球へ持ち帰る野心的なミッションです。",
+        "「はやぶさ」「はやぶさ2」で培った世界トップクラスのサンプルリターン技術を、さらに遠方の火星圏に応用する歴史的挑戦となります。",
+        "採取された岩石や砂を分析することで、火星やその衛星の起源だけでなく、太陽系初期の惑星形成プロセスの解明につながると期待されています。"
       ],
-      "global_perspective": "The GuardianやNYTといった海外メディアは、日本の美しい文化的伝統の裏にある、安全対策の課題や事故の深刻さに焦点を当てています。",
+      "global_perspective": "米欧の宇宙機関と連携しつつも日本がコア技術で主導権を握るプロジェクトとして、深宇宙探査における日本の圧倒的な技術力と存在感が高く評価されています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "誰が1,200億ドル規模の新規日本国債を買うのか？英誌が財政市場を分析",
-      "source": "The Economist",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmtxTlk3c2VBendOc2l3a2RDcjh2US1DdTNSUDlDSlBVMFdyTmdGaTRRZi1ENXBYOVprY0VELWFfTzZCd3ptRzctRHlLNnczV1dySGVyYi1qLUtDanJnZllWY1UyRVlBel8yUXd1amdlMlRQMThLU2xYVHN1eHY4UUMwc3VLalNuWnpCTGxXN1lmb3Y1QU54dVlMZ0NRYmw1dGlnZ1Q3VVc5NUtaY3VEZ3R5dlFkbmkxWFE?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "中露軍用機による領空接近・侵犯が急増、自衛隊の防衛体制に緊張走る",
+      "original_title": "Japan Reports Surge in Airspace Violations by Chinese, Russian Aircraft - USNI News",
+      "source": "USNI News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3VpV1BOTW1fd2hSbWc1RDg2cWhFLWpjaWVGbENuR09HYlI5dFNUN1ZUSTAwSGlSeHZIVHBFVHY3dngwWnJZc1FFS2dhczhiSEtzSTZuZTB3MFpweWRYb1BYMHpGb0lCN1JSSmpNOFdvNHBNaUhyWEVrU29MZXZIdTFhYkg4bmZHQjJmekt0MWNFb21LNnZvM1lESUJhcDZqZjdsSnRR?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "国債",
-        "日銀",
-        "金利"
+        "安全保障",
+        "領空侵犯",
+        "防衛省"
       ],
       "summary_points": [
-        "日本政府が発行する巨額の新規国債を一体誰が引き受けるのかという、金融市場における構造的な課題が指摘されています。",
-        "日本銀行（BOJ）の政策変更や金利上昇局面において、国債市場の需給バランスが世界経済の関心事となっています。",
-        "日本の財政運営の持続可能性と、国内投資家・海外投資家の動向に厳しい視線が向けられています。"
+        "防衛省の最新報告によると、日本周辺において中国およびロシアの軍用機による領空接近や一時的な領空侵犯が急増しています。",
+        "航空自衛隊によるスクランブル（緊急発進）が極めて高水準で推移しており、中露両軍の連携した飛行訓練も常態化しています。",
+        "日本周辺の空域におけるグレーゾーン事態の抑止と、パイロットや機体運用への負荷軽減が深刻な防衛課題として浮上しています。"
       ],
-      "global_perspective": "経済誌エコノミストをはじめとする海外メディアは、日本の金融正常化に伴う国債市場の動向を、世界の債券市場への波及効果という観点から警戒感を持って報じています。",
+      "global_perspective": "東アジアで中露が共同して日米同盟の防衛網を揺さぶる戦略を展開していると米軍事メディアは捉えており、日本の抑止力強化の必要性が強調されています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "日本国内で米海兵隊員が殺人容疑で逮捕、事件の深刻さに現地で衝撃",
-      "source": "ABC11 News",
-      "url": "https://news.google.com/rss/articles/CBMiogtBVV95cUxPdnBTRDB5UDR4b3hzaGMxZ3FDcWs0SEFPQmdMdjd4LV8xdlBIZC1yZUFXQnJUMFlsMFZBUV9TN1dCeDIxS0NabEtYaHZ0MW5DQWxDYmFYOUZtMnNsQWFRTFhIZmZrcnZGQ2RtZEVINDdhdDJZenQxRVkwQ0FvYV9GakNyZm1TWVV4V2FBaG5JQzFwNnV2Mno1bjFJN3dudVc0SGZxdG1CbTNjdDAzRFNHSE10d0JNNDhPU0xNMnF1NjhNVThyODU1OUpMRzM4OG5tbTZIWlpNZlh6Yl8tcVJzRjV2YTIwUXMzaXRXaFY2RjVQelotR0lSN3luajFPcHlrUnhYZHhFWGp5RjNTS2o1STlqRnc1Tkw0dGtHNnBLQ3k0eWhFUEltTWdDblcxT1VGdmtfZkxaYmZheTZlNUFzYnVzem51b1RMdTdzelB0R2pFY0RzaHdlZklMR1d0N1FJa1ZNSnpadDVMZ1Z6TkhxQ2M3U0ExSUJHSGdTMWNvX3NBOU5EcXR6bmhOZ1RPMHg4alg4M0FwQ1BndFEyUmNlbFJJZm5pOGJzd2YwbUg2ZDZLQnc1VnQ2elZNeHEtVGVyJjRzci15QUpLa0tmejlGdXZabXFmaWtOdUl6cXk0WjVVa0NwRlpVVEJ6dEpUSWE0Z2NodHBnRFVMTzhmS2VldHZzSUVhMklhLWJmcFZjMVpHWmZVcWRSdTF4TVprMGUtaUFfV3NMM3JtVk0tTi05bXdjMGJ3NUJkUWdGbktPSUNMZXdyanBlek9KdG9MZ0tHNkVVR3dfZWJSeEZuelFNemxCUkRGQ1Ezb0ZzSms4X3VlSmxWd2NJXy02VjdEaVJnUjI5Q094MmdWbGpQU2ctWFhnazF1VGRtVkhvOHVsX3pGWDVfMG9paUxOdFZYQ21nNzB2YkZLNXkwSWlrTXpIX0RoSjZFcDExeG96elJJVGFJb0lZVHFaSDZ3MGFBak5sN0t5NWhwdnFuQTRvWEIzTGt2MlhacWhXczVfRWVCZmFNU1dFc3RJbXBTMEt3Ym1iZ2N2b3ZkbDJsLXJacHBGYmNvdk9Kc3dNVTEyQVJDVGxQd0lvdzcwYzV0NnVRaXp6QVc5SFdpRUlwMzhMeEFOc1pRbnJHV3JUMUM0b0Z2TllvX3NpT3ZEZVhISnZxeUpnYVdBaWZ0VnFxTUNkcUxiUDZZVnAtV0c3OERFSEx3VHpjRmY5eG1NTTZORUlUVk9yRHdmbkRXQm5HbEFQZXByWW51SjJlZFFKbUo1bFVzSkFGLW5nSHNtTEQtSXF1TjBvVkhpMV83R3pBanhsekZnTjJDdER3NTJLUmtXWFY4eGtnMmVxMmlRMy1yN182bm9wSzZGUjhYUFQ4S0t1aFk0ci13OTNIYVpmTHlwa00tVjJWMXREdlBrSm9XUUNXMFZ2NV9OZFRNODlZQWFTTHloT0h4Wk5KQjdSSTNERHdxZmJOLUNtelExZmkxeld0VWVOTnpWTzJPX19JQ0VlYW5pVmxBME03UlVubFQ0YkFBbjcwNWJpb3FuaVZZVGhhSnJnMTFtQnhNQkhtamtkcXhKTFVSODlPeVI0Z1RfWXRBRjNXNDR2RFd2MDlnX1RtYS1LNHotOVMyVVBSZGhxOEZ4RUhIR0toNk5MeUlWaDgtMHRyb0RIZlF5TU5wamlwaGh6REdrb25aMjBsV191Q0hXM1lzalJSMDlGckVIZmpwcXV5OUo1RXhac3hlMXdxaWpwOUx1MGNBUlNqenNjcE9saWlLMW5nTzRxck0tOC1Fb0R2MndBYTlyZzgtRklyQ3dtZS1sN2NsLVdhWEhXSlNiLXZKbzBOdmlvYy1FT0lUdTJHZ3BmcjVLOFc3NGthYlB0Y2JHQUxuNHRLVXVSY19CR3hCaE9XRTd1NTdOY0UxakxsUQ?oc=5",
+      "title_ja": "ロシアの度重なる挑発に対し、なぜ日本政府の対抗措置は抑制的なのか？",
+      "original_title": "Why Has Tokyo’s Response to Kremlin Challenges Been So Muted? - Carnegie Endowment for International Peace",
+      "source": "Carnegie Endowment for International Peace",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVkxSUndUZ29KcW14REdtanBWTzEwQ1lBU1MwdzZ6cEZobDlvYlZNWjhUeEhUaGkyaTJTVjRPNnI5QmF0cFVQZldxQlpsNkY2TVhBTzZRZE1QSWZ2TGMxVnVFX3p5T09MUU9Vc21LckM4RXRmajlKWTNZSzJERWxKRWxLZFo4WG8tUmJWUXo5aHIwekdRVmI2VVNiRmw?oc=5",
       "category": "国際・政治",
       "tags": [
-        "米軍",
-        "事件",
-        "外交"
+        "地政学",
+        "日露関係",
+        "エネルギー"
       ],
       "summary_points": [
-        "日本国内で、米海兵隊員が殺人容疑で逮捕されるという重大な事件が発生しました。",
-        "地元当局や政府関係者が「残虐で極めて heinous（凶悪な）犯行」と強い表現で非難しています。",
-        "日米間の安全保障体制や駐留米軍の規律・犯罪防止策を巡る議論に再びスポットライトが当たっています。"
+        "ロシアによる北方領土の実効支配強化や軍事訓練などの挑発に対し、日本政府の対抗措置が限定的に留まっている背景を有識者が分析しました。",
+        "ウクライナ侵攻を受けてG7協調の制裁を課す一方、サハリン2など液化天然ガス（LNG）利権を含むエネルギー安全保障上の脆弱性が足枷となっています。",
+        "北方領土交渉の事実上の凍結を受け入れつつも、決定的な軍事的・外交的破綻を回避したい日本の現実的苦衷が浮き彫りになっています。"
       ],
-      "global_perspective": "米国のローカルメディアから全国ニュースに至るまで、日本国内での米軍人による事件として、両国間の外交・安全保障上のデリケートな問題として報じられています。",
+      "global_perspective": "米シンクタンクは、日本が西側諸国の一員として対露制裁を主導する姿勢を見せつつも、エネルギー自給率の低さと地理的近接性から生じる「限界」に冷静な視線を向けています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "北海道で日本の文化と農業を学ぶプログラム、米・ウィスコンシン大学が実施",
-      "source": "University of Wisconsin–Madison",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcTd5bjAwRy1OMERGQzUyTGZvMzdpS3lKU0JxSXhvNFJmZm54UFIyWEwycnJoOC1ETkV5a2cxVkkzb2ZhTVFRd1dRbDhNVWtOT083ejlOZlpCbUx3SlUySW1ZUU15YlpqRWUxZGc2aXpRYV9ZWE1kX2ZGbzN4aEQzZV95RHNmdGxpc29zU0tsbU5DaTJwS0V2ZWFYX21CU3B3WEVDN0ZQWQ?oc=5",
-      "category": "観光・トレンド",
+      "title_ja": "台湾有事を念頭に、日米が南西諸島を舞台とした大規模共同演習を実施",
+      "original_title": "Japan, US launch drills focusing on islands near Taiwan - Taipei Times",
+      "source": "Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rN3hDRjJSM2hwcjFYclc4aURVN0JaTDZxQ0VVVnQya19nbnJVeXBuczA1ajJhRUw5VU11SnFxLWxvX2hwWWRyRHZBLW9jWjFLMi1pY2d6NmRwdEYyWFhfd0h5T1FYLTVfZEhYWkUzM1h4SXhDbWFFZw?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "北海道",
-        "農業",
-        "異文化交流"
+        "台湾海峡",
+        "日米同盟",
+        "離島防衛"
       ],
       "summary_points": [
-        "米国のウィスコンシン大学マディソン校が、北海道で日本の文化と農業を学ぶ教育プログラムを展開しています。",
-        "学生たちは現地の農業現場や地域コミュニティに触れ、日本の地方の持続可能な取り組みについて理解を深めています。",
-        "単なる観光にとどまらない、深いレベルでの日米の教育・人的交流事例として評価されています。"
+        "日米両軍は、台湾に近接する日本の南西諸島地域を中心とした実動演習を開始しました。",
+        "演習では島嶼部への部隊展開、対艦・対空ミサイルの機動配置、住民避難を想定したロジスティクス訓練などが重点的に検証されています。",
+        "台湾海峡での有事発生時に迅速な初動対応と共同防衛体制を確立することが主目的とみられます。"
       ],
-      "global_perspective": "海外の大学機関が日本の地方の農業や文化に直接学ぶプログラムとして、グローバルな視野を持つ学生たちの実践的な学びの場として注目されています。",
+      "global_perspective": "台湾メディアは、日本の防衛線強化が台湾有事の抑止力に直結する生命線であると捉え、日米の具体的な軍事行動計画の進展を極めて好意的かつ詳細に報じています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "世界体操男子団体で日本が劇的V、絶対王者の強さを示し世界連覇を達成",
+      "original_title": "Japan claims men’s team gold in dramatic World Championships final in Rotterdam - International Gymnast Magazine Online",
+      "source": "International Gymnast Magazine Online",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0hlNEJDTXU5anNXQV80aTl5c0xlcDRhdmd3czMtazlaQVJzaTh6eDhuUXg1SjNWSjNweEhfVk8wODd3M3hNZUtxaU4xOFREZXlaTGtJUTd1dmhxX19YMDlTUGtBc1lxcHRucFlmT3FiMVlsYXh4WXB5QUNWNTFuZkc0U3ZuNENteGZqU0ZxaVlfM1hLQmZsOHE3d2t0dGNvWUF2S09iUFRxOXpPNGMyRUlR?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "世界体操",
+        "男子団体",
+        "金メダル"
+      ],
+      "summary_points": [
+        "世界体操競技選手権の男子団体決勝において、日本代表が中国などライバル国との大激戦を制して金メダルを獲得しました。",
+        "最終種目までもつれ込む緊迫した展開の中、各選手が高い難度と美しい実施（Eスコア）を完璧に揃えて劇的な逆転勝利を果たしました。",
+        "かつての黄金期を彷彿とさせる圧倒的な安定感で大会連覇を達成し、日本の体操界の層の厚さを改めて世界に見せつけました。"
+      ],
+      "global_perspective": "海外の体操専門誌は「ドラマチックな結末」と称賛し、プレッシャー下でもブレない日本の技術の美しさとメンタルの強さを「現代体操の頂点」として報じています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "日本の卓越した職人技を米LAで発信、現代工芸展「百工」の開催決定",
+      "original_title": "JAPAN HOUSE Los Angeles Announces “JAPAN CRAFT | Art for Living – Hyakkō” - JAPAN HOUSE Los Angeles",
+      "source": "JAPAN HOUSE Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXpkaVFTaFpmcUo1QVB0a2JVQUxhRlZRRDAteF9RQmRoNlNKV0thZG5MNjhzWkd5enRqODllZ3dBUHVHWC1XMlBMcWZGeHpRU01MbWU5ZkN2bWtGT2gxaXlCTXpsdDg2dTNDckg4Tnc0dDNlYV9aY19qY2dnTTRUQmFndlZFM0sxRVo5U3k3VmdRNndOX21QM3c1VERBOTFvZDh0SkI5MXd0TU9wS0tSRDVSZmtaU01uVVdYRXA3d19YZkNKQ3c?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "伝統工芸",
+        "クールジャパン",
+        "文化発信"
+      ],
+      "summary_points": [
+        "米ロサンゼルスのジャパン・ハウスにて、日本の優れた現代工芸品と生活美学を紹介する特別展「百工（Hyakkō）」が発表されました。",
+        "陶芸、漆器、金工、染織など多岐にわたる日本の伝統技法と、現代のライフスタイルデザインを融合させた厳選作品が展示されます。",
+        "単なる美術品展示にとどまらず、素材への敬意や持続可能性といった日本特有の「用の美」を米国の富裕層やクリエイターに向けて発信します。"
+      ],
+      "global_perspective": "伝統技術を現代アートとしてリブランディングする日本の文化外交の一環として受け止められており、質の高いクラフトマンシップへの国際的な関心の高さを示しています。",
       "reading_time": "約1分"
     }
   ]

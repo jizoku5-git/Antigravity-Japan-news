@@ -1,0 +1,147 @@
+{
+  "updated_at": "2026-10-21 06:55 JST",
+  "date": "2026-10-21",
+  "total_articles": 7,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "半導体再興狙う日本、自国育成と同時に「対米投資」の重圧に直面",
+      "original_title": "As Japan pursues a chip-industry reboot, it's being pressed to build America's - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ2l4SE9UYmpaWGdDWERaQTFBMEYwWDNidzZ6X1AxWnJiVXpUdWVQOUVZMzBXWTBpeWdiMGo0eXlCYkFJejV2VDBDQ0NkX0p1TTNNSU5reVNKWDB1U3duU3lzU1FaUmJDNTZrTjk0UDNiQ0dzUlpoYlFENTFBOXNVSkhZVVppeDduLVVueW9VTG9PRXNPcG91b0VxSjU2aEhuYzY4OVNaWmU1WnpWNmdZbzJVN3MyRUF3UTJUWGd0bw?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "半導体",
+        "日米関係",
+        "サプライチェーン"
+      ],
+      "summary_points": [
+        "日本政府と国内企業が半導体産業の国内復活を目指す中、米国側から米国内への製造拠点投資を求める圧力が高まっています。",
+        "ラピダス（Rapidus）支援など国内基盤強化を進める一方で、同盟国としての経済安全保障上の貢献を両立させる難しい舵取りが迫られています。",
+        "限られた資本と技術者のリソースを自国産業の再興と米国支援のどちらにどれだけ配分すべきかが大きな論点となっています。"
+      ],
+      "global_perspective": "同盟国・日本に対し「脱中国」のサプライチェーン構築を歓迎しつつも、自国の雇用や製造業復活を優先させたい米国の現実主義的な思惑が報じられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "火星衛星フォボスから砂を持ち帰る歴史的挑戦、日本主導の探査計画に世界が注目",
+      "original_title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXQzX1cwWUJLUjNfX0lOX2tlSkoyaDlXaDNzcjdUNlF2eG90X3RMNjJhYlJkVkpGYmhWZWtlVnRoRFNvOFJkOEtxNWpiQTVPeFdETTNNZHlqQU43Y0dsU0pESDBmSUVsQ0VpdmtGOG4ydEhuMEp5czMzZDdjUWo4dDFnb3M0bjROUXhUZDFUdHZUbGxS?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "宇宙開発",
+        "JAXA",
+        "火星探査"
+      ],
+      "summary_points": [
+        "JAXAが主導する火星衛星探査計画（MMX）は、火星の衛星「フォボス」に着陸して試料（サンプル）を採取し地球へ持ち帰る野心的なミッションです。",
+        "「はやぶさ」「はやぶさ2」で培った世界トップクラスのサンプルリターン技術を、さらに遠方の火星圏に応用する歴史的挑戦となります。",
+        "採取された岩石や砂を分析することで、火星やその衛星の起源だけでなく、太陽系初期の惑星形成プロセスの解明につながると期待されています。"
+      ],
+      "global_perspective": "米欧の宇宙機関と連携しつつも日本がコア技術で主導権を握るプロジェクトとして、深宇宙探査における日本の圧倒的な技術力と存在感が高く評価されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "中露軍用機による領空接近・侵犯が急増、自衛隊の防衛体制に緊張走る",
+      "original_title": "Japan Reports Surge in Airspace Violations by Chinese, Russian Aircraft - USNI News",
+      "source": "USNI News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN3VpV1BOTW1fd2hSbWc1RDg2cWhFLWpjaWVGbENuR09HYlI5dFNUN1ZUSTAwSGlSeHZIVHBFVHY3dngwWnJZc1FFS2dhczhiSEtzSTZuZTB3MFpweWRYb1BYMHpGb0lCN1JSSmpNOFdvNHBNaUhyWEVrU29MZXZIdTFhYkg4bmZHQjJmekt0MWNFb21LNnZvM1lESUJhcDZqZjdsSnRR?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "安全保障",
+        "領空侵犯",
+        "防衛省"
+      ],
+      "summary_points": [
+        "防衛省の最新報告によると、日本周辺において中国およびロシアの軍用機による領空接近や一時的な領空侵犯が急増しています。",
+        "航空自衛隊によるスクランブル（緊急発進）が極めて高水準で推移しており、中露両軍の連携した飛行訓練も常態化しています。",
+        "日本周辺の空域におけるグレーゾーン事態の抑止と、パイロットや機体運用への負荷軽減が深刻な防衛課題として浮上しています。"
+      ],
+      "global_perspective": "東アジアで中露が共同して日米同盟の防衛網を揺さぶる戦略を展開していると米軍事メディアは捉えており、日本の抑止力強化の必要性が強調されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "ロシアの度重なる挑発に対し、なぜ日本政府の対抗措置は抑制的なのか？",
+      "original_title": "Why Has Tokyo’s Response to Kremlin Challenges Been So Muted? - Carnegie Endowment for International Peace",
+      "source": "Carnegie Endowment for International Peace",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVkxSUndUZ29KcW14REdtanBWTzEwQ1lBU1MwdzZ6cEZobDlvYlZNWjhUeEhUaGkyaTJTVjRPNnI5QmF0cFVQZldxQlpsNkY2TVhBTzZRZE1QSWZ2TGMxVnVFX3p5T09MUU9Vc21LckM4RXRmajlKWTNZSzJERWxKRWxLZFo4WG8tUmJWUXo5aHIwekdRVmI2VVNiRmw?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "地政学",
+        "日露関係",
+        "エネルギー"
+      ],
+      "summary_points": [
+        "ロシアによる北方領土の実効支配強化や軍事訓練などの挑発に対し、日本政府の対抗措置が限定的に留まっている背景を有識者が分析しました。",
+        "ウクライナ侵攻を受けてG7協調の制裁を課す一方、サハリン2など液化天然ガス（LNG）利権を含むエネルギー安全保障上の脆弱性が足枷となっています。",
+        "北方領土交渉の事実上の凍結を受け入れつつも、決定的な軍事的・外交的破綻を回避したい日本の現実的苦衷が浮き彫りになっています。"
+      ],
+      "global_perspective": "米シンクタンクは、日本が西側諸国の一員として対露制裁を主導する姿勢を見せつつも、エネルギー自給率の低さと地理的近接性から生じる「限界」に冷静な視線を向けています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "台湾有事を念頭に、日米が南西諸島を舞台とした大規模共同演習を実施",
+      "original_title": "Japan, US launch drills focusing on islands near Taiwan - Taipei Times",
+      "source": "Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rN3hDRjJSM2hwcjFYclc4aURVN0JaTDZxQ0VVVnQya19nbnJVeXBuczA1ajJhRUw5VU11SnFxLWxvX2hwWWRyRHZBLW9jWjFLMi1pY2d6NmRwdEYyWFhfd0h5T1FYLTVfZEhYWkUzM1h4SXhDbWFFZw?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "台湾海峡",
+        "日米同盟",
+        "離島防衛"
+      ],
+      "summary_points": [
+        "日米両軍は、台湾に近接する日本の南西諸島地域を中心とした実動演習を開始しました。",
+        "演習では島嶼部への部隊展開、対艦・対空ミサイルの機動配置、住民避難を想定したロジスティクス訓練などが重点的に検証されています。",
+        "台湾海峡での有事発生時に迅速な初動対応と共同防衛体制を確立することが主目的とみられます。"
+      ],
+      "global_perspective": "台湾メディアは、日本の防衛線強化が台湾有事の抑止力に直結する生命線であると捉え、日米の具体的な軍事行動計画の進展を極めて好意的かつ詳細に報じています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "世界体操男子団体で日本が劇的V、絶対王者の強さを示し世界連覇を達成",
+      "original_title": "Japan claims men’s team gold in dramatic World Championships final in Rotterdam - International Gymnast Magazine Online",
+      "source": "International Gymnast Magazine Online",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM0hlNEJDTXU5anNXQV80aTl5c0xlcDRhdmd3czMtazlaQVJzaTh6eDhuUXg1SjNWSjNweEhfVk8wODd3M3hNZUtxaU4xOFREZXlaTGtJUTd1dmhxX19YMDlTUGtBc1lxcHRucFlmT3FiMVlsYXh4WXB5QUNWNTFuZkc0U3ZuNENteGZqU0ZxaVlfM1hLQmZsOHE3d2t0dGNvWUF2S09iUFRxOXpPNGMyRUlR?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "世界体操",
+        "男子団体",
+        "金メダル"
+      ],
+      "summary_points": [
+        "世界体操競技選手権の男子団体決勝において、日本代表が中国などライバル国との大激戦を制して金メダルを獲得しました。",
+        "最終種目までもつれ込む緊迫した展開の中、各選手が高い難度と美しい実施（Eスコア）を完璧に揃えて劇的な逆転勝利を果たしました。",
+        "かつての黄金期を彷彿とさせる圧倒的な安定感で大会連覇を達成し、日本の体操界の層の厚さを改めて世界に見せつけました。"
+      ],
+      "global_perspective": "海外の体操専門誌は「ドラマチックな結末」と称賛し、プレッシャー下でもブレない日本の技術の美しさとメンタルの強さを「現代体操の頂点」として報じています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "日本の卓越した職人技を米LAで発信、現代工芸展「百工」の開催決定",
+      "original_title": "JAPAN HOUSE Los Angeles Announces “JAPAN CRAFT | Art for Living – Hyakkō” - JAPAN HOUSE Los Angeles",
+      "source": "JAPAN HOUSE Los Angeles",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSXpkaVFTaFpmcUo1QVB0a2JVQUxhRlZRRDAteF9RQmRoNlNKV0thZG5MNjhzWkd5enRqODllZ3dBUHVHWC1XMlBMcWZGeHpRU01MbWU5ZkN2bWtGT2gxaXlCTXpsdDg2dTNDckg4Tnc0dDNlYV9aY19qY2dnTTRUQmFndlZFM0sxRVo5U3k3VmdRNndOX21QM3c1VERBOTFvZDh0SkI5MXd0TU9wS0tSRDVSZmtaU01uVVdYRXA3d19YZkNKQ3c?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "伝統工芸",
+        "クールジャパン",
+        "文化発信"
+      ],
+      "summary_points": [
+        "米ロサンゼルスのジャパン・ハウスにて、日本の優れた現代工芸品と生活美学を紹介する特別展「百工（Hyakkō）」が発表されました。",
+        "陶芸、漆器、金工、染織など多岐にわたる日本の伝統技法と、現代のライフスタイルデザインを融合させた厳選作品が展示されます。",
+        "単なる美術品展示にとどまらず、素材への敬意や持続可能性といった日本特有の「用の美」を米国の富裕層やクリエイターに向けて発信します。"
+      ],
+      "global_perspective": "伝統技術を現代アートとしてリブランディングする日本の文化外交の一環として受け止められており、質の高いクラフトマンシップへの国際的な関心の高さを示しています。",
+      "reading_time": "約1分"
+    }
+  ]
+}
