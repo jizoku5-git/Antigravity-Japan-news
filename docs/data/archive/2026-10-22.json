@@ -1,0 +1,167 @@
+{
+  "updated_at": "2026-10-22 06:57 JST",
+  "date": "2026-10-22",
+  "total_articles": 8,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "ホンダ、走行中にEVへ給電する道路を日本国内で建設中",
+      "original_title": "Honda Is Building a Highway in Japan That Will Charge Electric Cars While They Drive",
+      "source": "Car and Driver",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON2ZqOW16ZGFTM09DRnRBVExkZUZvQnFjVmhCVUZ3Y09ocGdUTVJJTjNnSkdYWVRTc0FSbkYxUy1TM0dfT0NMMU5rSC1JdHhQVjcwU2dGWWVSOXhON09rekc1bUQxMlNOaTdQVHlpYzl3Q2xYMDBFUVowMndoVGEyOWRWN3Q2eHZMRWF2em1lSHk4YjloUXhr?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "EV",
+        "ホンダ",
+        "インフラ"
+      ],
+      "summary_points": [
+        "ホンダが電気自動車（EV）の走行中にワイヤレス給電を行う次世代ハイウェイの建設を進めています。",
+        "充電切れの不安を解消し、バッテリー小型化にもつながる画期的なインフラ技術として期待されています。",
+        "実用化に向けた技術検証が進んでおり、今後のモビリティ社会の大きな転換点になる可能性があります。"
+      ],
+      "global_perspective": "世界の自動車メディアは、充電スタンド不足というEV普及の最大の課題に対する日本企業の先進的なインフラ解決策として注目しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "中国製AIツールと日本国内へのサイバー攻撃に関連性、米WSJ紙が報道",
+      "original_title": "Chinese AI Tool Linked to Hacks in Japan",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzI3bFVJdEgwYUUwTWxUY2UyZlVFYmI3QlBWU3BMMG1hWjhHZVQ1UHZFaUlBdGwwc2pPdXJxYTgtWVlxdXh1QktTOW55dW9QU2ZZYldSNGM2WklORTNpZWJBZ2NMZEQ5cE9aSl9SaHBnTmpDZ0VmdkJVSkt6OFJSZzZWa0NkLVU?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "AI",
+        "サイバーセキュリティ",
+        "中国"
+      ],
+      "summary_points": [
+        "中国製のAIツールが悪用され、日本国内を標的としたサイバー攻撃に関連しているとウォール・ストリート・ジャーナルが報じました。",
+        "AI技術の急速な進化がサイバー攻撃の高度化や効率化に悪用されている現状が浮き彫りになっています。",
+        "日本政府や関連企業において、セキュリティ対策の強化が急務となっています。"
+      ],
+      "global_perspective": "米主要メディアは、地政学的リスクとAIの悪用が交差するサイバー脅威の新たなトレンドとして、日本への影響を警戒感を持って伝えています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "日本政府、外国人の永住権取得要件を厳格化へ",
+      "original_title": "Japan is Making it Harder for Non-Citizens to Become Permanent Residents",
+      "source": "Condé Nast Traveler",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUNFRVhsckI3LUdlQV80b21XeWRZbDJodDRKS3EwdU0yMnFHbzgtalNlVU1acVZwLTA1V21rOWRUWkJVbGdvcm9qRXc1FjR6YnZHQXd2RWU2bmFPbjVmS0NqN2dLZFh4M0ZjR2FDZnNkWHQ1UlFneC12WV9xZFRaNUtfbFFzRnRJQ09YbXZWV29fd0g0T0FUcXY3ZzYyRlV2aWdPRnVfaXU?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "永住権",
+        "移民政策",
+        "外国人材"
+      ],
+      "summary_points": [
+        "日本政府が外国人による永住権の取得ハードルを引き上げる方針を固めました。",
+        "税金や社会保険料の未払いなどに対する審査基準がより厳しくなるとみられています。",
+        "外国人観光客や移住者向けの人気メディアでも、日本の出入国管理政策の転換点として取り上げられています。"
+      ],
+      "global_perspective": "海外メディアは、労働力不足解消のために外国人受け入れを進めてきた日本が、ルールの厳格化にかじを切ったバランス調整の動きとして関心を寄せています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "ロシアで拘束された日本人ジャーナリストの解放求め、外務省が幹部を派遣",
+      "original_title": "Japan Sends Senior Diplomat to Russia to Seek Release of Arrested Journalist",
+      "source": "The Moscow Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkRIUllQcXdoSjFnZmNQbVF5eEFZTUpBbExVS1Z6VzRzdEtMX3VQR1pUSmpKN3YwY3FvNG8zQm1qWnJNRXJIRHhpY05vbHVxbVk2eGs1Q0dhTmEyUEplMEctQ1ZNbmFzQ1dMMEtSSFJTVFVZb3ZWWnRHRTBmd1I1T1MtYnVLWURPZUxCanFHcUhLejh5RTlYSGhpcG9RUjhPV0FOcVhMQUlwU0d3bmx4VFhEU3g0amJWY0x5c1VUa1VVdDg?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "ロシア",
+        "外交",
+        "ジャーナリスト"
+      ],
+      "summary_points": [
+        "日本政府がロシアで拘束された日本人ジャーナリストの早期解放を求めるため、高官を現地へ派遣しました。",
+        "両国間の緊張が続く中、人道的観点および邦人保護の観点から毅然とした対応が求められています。",
+        "モスクワの地元メディアをはじめ、国際社会も今後の外交交渉の行方に注目しています。"
+      ],
+      "global_perspective": "欧米やロシアの独立系メディアは、緊迫する日露関係の中での日本政府の外交手腕や邦人保護に向けた動きを細かく追っています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "日米共同統合演習「キーン・ソード」、超大型台風の影響で一部変更に",
+      "original_title": "Super Typhoon Champi disrupts Keen Sword drills across southern Japan",
+      "source": "Stars and Stripes",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTnRLZE0wV1hmZEdrQmNicEpWM3FwbFU0MldYRlk3ODdOcFBNQTFZdF94SGdOWEowQXlveXdsSkRzelB4ZG1DckNxRW03Xy1HeVFBY1JuNmVETTM2YkMzcElyQUhHcnNNTFhwSXBYVXdfVUpNNUtjMXFKYTVNQjk0OENNR0tHaXQyT19yTUlRUTUtVFV3Mzc1UndWQnZfb0NJa3hVVA?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "自衛隊",
+        "米軍",
+        "防衛"
+      ],
+      "summary_points": [
+        "日本南部で実施中の日米共同統合演習「キーン・ソード」が、超大型台風チャンプンによりスケジュールや内容の変更を余儀なくされました。",
+        "安全確保を最優先しつつ、自衛隊と米軍は柔軟に訓練計画の調整を行っています。",
+        "過酷な自然環境下における両国の即応体制や連携能力が試されています。"
+      ],
+      "global_perspective": "在日米軍や防衛専門メディアは、異常気象が大規模な軍事演習に与える影響や、安全管理と抑止力のバランスについて報じています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "日米、先端半導体で210億ドル規模の巨額支援を発表",
+      "original_title": "U.S., Japan celebrate $21 billion deal with GlobalFoundries",
+      "source": "Times Union",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFBBZGFHWG5uNlQ1Q1V1NnVMcm5vNFdFWVdpUnBCNXFGWHRURDNLV01JN0lwQmlMVnpBU1YxZk5kNjJBSWJ5aDlHVVVaUF9pM21KUy11WWpZR2MxYmNnYmk5SzFRbTJDcHJoR2pMMGh6eFYzZHk5X09mVU9adF9CbGdpM21xbDJ2ZkVsV25lQjYybXhnaDBJ?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "半導体",
+        "日米関係",
+        "グローバルファウンドリーズ"
+      ],
+      "summary_points": [
+        "日米両政府と半導体大手グローバルファウンドリーズによる総額210億ドル規模の巨大プロジェクトが祝賀されました。",
+        "経済安全保障の観点から、サプライチェーン（供給網）の強靭化と半導体の国内安定調達を目指します。",
+        "両国の産業・技術協力がさらに深化する象徴的なディールとして評価されています。"
+      ],
+      "global_perspective": "米国の経済・地域メディアは、サプライチェーンの脱中国化と国内製造業の再興に向けた日米同盟の強力な経済協力的成果として大きく取り上げています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "円安でも安心！米メディアが勧めるコスパ抜群の九州旅行",
+      "original_title": "Travel: Kyushu lets visitors experience Japan without breaking the bank",
+      "source": "Orange County Register",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOFpId0Y3NV9nVm0zVTY1SmU2SS0xbENpN0xkeFJJbl9aRjQwUUxDd3FYMjhZSUhscEJNb0pJZGRFN1ZFdExKbG5EQmFYMzNYd1V6YlNrTzBRSWVhblNNTGdWWnVqdlh6UTNhQ2g3UE5WRkhTRmd4VjE5M1lOYWZGUFJjeTJ2YjllSkMwekM0dUZ5ellySnZnWFdFWDMtSFB1bmI2YnJXSGZObUdSVUE?oc=5",
+      "category": "観光・トレンド",
+      "tags": [
+        "九州",
+        "観光",
+        "インバウンド"
+      ],
+      "summary_points": [
+        "米国の地元紙が、予算を抑えつつディープな日本文化を体験できる旅行先として九州を特集しました。",
+        "豊かな自然、温泉、美味しい郷土料理が、東京などの大都市圏に比べて手頃な価格で楽しめる点が評価されています。",
+        "オーバーツーリズムが懸念される中、地方都市へのインバウンド誘致の成功例として注目されています。"
+      ],
+      "global_perspective": "米国の旅行・ライフスタイルメディアは、定番のゴールデンルート（東京・京都）から地方へ足を伸ばす旅のトレンドを読者に提案しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 8,
+      "title_ja": "米球界で早くも熱視線、日本で三冠王を獲得した選手にMLB移籍の噂",
+      "original_title": "Why Red Sox Could Pursue Japan Triple-Crown Winner Seeking Move To MLB This Offseason",
+      "source": "NESN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNjY1M2d2OGw0Qi13eko0SHppOXBHRmtub3JHM1RwRzQzd09ieXpsdXc4ejhkMEo0Zm1VNGZTU0swVnRrRzhsLUhkMlQ2YU9WQWpwYmE1WDRaNFd5T0pfNVdoaWlJd1QyYUZuV0xwWXJIcE9kWWxEVFpyNi1EVUtaN2FucDN5SUUtQU9JZjJYUkJRUzFCNWx0ZkptQlVQNW9Ec3N3clNZbk5OVW9zOE9z?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "MLB",
+        "プロ野球",
+        "レッドソックス"
+      ],
+      "summary_points": [
+        "日本プロ野球で三冠王を獲得したトップ選手が今オフにメジャーリーグ（MLB）挑戦を模索しており、ボストン・レッドソックスなどが獲得に乗り出す可能性が浮上しています。",
+        "高い打撃技術と実績を持つ日本人選手に対する米球団からの評価は非常に高まっています。",
+        "今後の移籍市場における目玉選手の一人として、全米のスポーツメディアで大きな話題となっています。"
+      ],
+      "global_perspective": "米スポーツ専門メディアは、大谷翔平選手らの成功に続き、NPBのタイトルホルダーがメジャーでどのような活躍を見せるか早くも高い関心を示しています。",
+      "reading_time": "約1分"
+    }
+  ]
+}
