@@ -1,0 +1,167 @@
+{
+  "updated_at": "2026-10-23 06:55 JST",
+  "date": "2026-10-23",
+  "total_articles": 8,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "ソニーが国内で4Kブルーレイプレーヤーの生産を終了、PS5が唯一の再生機器に",
+      "original_title": "Sony Japan marks last standalone 4K Blu-ray player as ‘Discontinued’ — PlayStation 5 now the only Blu-ray player left in Sony’s lineup",
+      "source": "Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQb1FUNDB4TkJJaFI4T2ctbS1Fc3J1OFdfQXZ1VzRZUlpnWlZadW9QX1RZUXM2TVFCUW9aQ25ydEM1WUh0dE1ucFo3amsweTdyV04xTFdUYzg3NUh2QlBxcEVsVlNTNGdSR1VxRkpSeEp1T1Q5VFpDV09ueEE3bWI3ak02dzRrMFVvdWZaVlZvR1RhWVotVDhRVDRUQWtETkc1R2F3bDdiaHh5Y2tSMnlYdThnOWJlSHhuRUJJV1hHeFNmYmhtM0ZFUEl2MzhaSHZBel9YeksyaXhybDZjWS1vd0ZPeUxYa1YyMm40cTNlSHpRUW0wTkFqYTMwYmQtSnFmQnc?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "ソニー",
+        "PlayStation 5",
+        "家電"
+      ],
+      "summary_points": [
+        "ソニーが国内市場における最後の単体4Kブルーレイプレーヤーの生産終了を発表しました。",
+        "これにより、同社の現行ラインナップでディスク再生が可能な機器はPlayStation 5のみとなります。",
+        "ストリーミングサービスの普及に伴う、家庭用映像機器市場の構造変化を象徴するニュースとして注目されています。"
+      ],
+      "global_perspective": "物理メディアからストリーミングへの移行が世界的に進む中、日本の大手家電メーカーによる象徴的なハードウェア撤退として捉えられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "国内のPHP脆弱性問題で銀行や航空会社が機能停止、日本政府が緊急対応へ",
+      "original_title": "Japan Scrambles to Patch PHP Flaws as Banks, Airlines Go Offline",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeENRS2FoZ0dYQmhuX05JNlFSbVFqbThVbjFGenNhNTgzdXFUZjUwSmFRWmQ5aFlIQXZVMmE2R0llSWIwQWFSaVljSDBPbWEwYTj3cVNxcUlWOTJXSEtwMHJ6ZzlZUDFQcUxsTGpxMExYQTNEZXFva2l6b3FjVFlSWXJwSzJ5cGN0UzBrd0VHbEtqSVNPMGI2WFpmYzVSdlZjNkY0SEhrN3JSbVM0dVJySDlFcUM?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "サイバーセキュリティ",
+        "システム障害",
+        "ITインフラ"
+      ],
+      "summary_points": [
+        "プログラミング言語PHPの脆弱性を突いた問題により、国内の複数の銀行や航空会社でシステム障害が発生しました。",
+        "社会インフラへの影響を受けて、日本政府および関連企業が緊急のパッチ適用と対応に追われています。",
+        "デジタル化が進む社会において、基盤となるオープンソースソフトウェアの安全管理の重要性が改めて浮き彫りになりました。"
+      ],
+      "global_perspective": "高度にデジタル化された日本の社会インフラがサイバーセキュリティの脆弱性によって大きな打撃を受けた事例として、海外のIT・経済メディアから警戒感をもって報じられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "スバル、新型「WRX」に歴代STIの6速マニュアルトランスミッション搭載を予告",
+      "original_title": "Subaru Teases New Six-Speed Manual WRX for Japan, Using the Transmission from the Previous WRX STI - Car and Driver",
+      "source": "Car and Driver",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeVJqV2JMdGh5QUdZeTRPVTJDRC04NTRRazhUOWJyLXZXZ20zM1JrQlo3QldBekJYbS1pMGtnM1RLTlpmU1l4RGFGY1lpYXJibkh4SnI2SkRQZWkyTDl6WHpSOEtNNXdjNVB5TWpsbjdhQ0tPUkU4LXltV0lyWDFNbmJBT3h6YmtaRE1LbmRteml4Q1RheXVLbk01WQ?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "スバル",
+        "自動車",
+        "新型車"
+      ],
+      "summary_points": [
+        "スバルが日本市場向けに、前世代「WRX STI」のトランスミッションを流用した新型6速マニュアル車の投入を予告しました。",
+        "電動化が進む自動車業界において、マニュアル車ファンの期待に応えるスポーツモデルとして話題を集めています。",
+        "詳細な仕様や発売時期については、今後の公式発表が注目されています。"
+      ],
+      "global_perspective": "環境規制による内燃機関の縮小が叫ばれる中であっても、ドライビングの楽しさを追求する日本メーカーのニッチな市場戦略としてクルマ好きの間で関心を集めています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "日本の介護保険制度の費用が過去最高の12兆円に到達",
+      "original_title": "Japan’s Nursing Care Expenditure Reaches Record ¥12 Trillion - nippon.com",
+      "source": "nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNckdaTmdxSFJuZ2pZd1NVMHRFUS02R0tPNjcwQXdNR1NBV1dKRzhyc2FrblVYYllhMUNyb2tUckthUFZGUHd2UDh2bWJFUVB2ckczeVVUTlNoTUdzc0w3N3JYcWYzbzVkN0FTeEhEdndkTmxVaXFjUjlTZjllS24yYmI5aHJ4Z0RJajZENXNOYWpuTGhMREE2c1VFb3ZoMlZTejAwQUNmdG1kUHdaSDRzbEV4b2NjRnpGcVFUOVFjWQ?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "少子高齢化",
+        "介護",
+        "社会保障"
+      ],
+      "summary_points": [
+        "日本の高齢化に伴い、2023年度の介護ケア費用（介護給付費など）が過去最高の12兆円を突破しました。",
+        "増加し続ける社会保障費は国家財政を圧迫する大きな要因となっており、制度改革の議論が急務となっています。",
+        "超高齢社会の先進国である日本が直面する、持続可能な福祉モデル構築への挑戦として見られています。"
+      ],
+      "global_perspective": "世界最速で高齢化が進む日本が直面する社会保障費の膨張は、今後同様の課題に直面する他の先進国にとっても重要なケーススタディとして注視されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "橋本大輝選手が世界体操競技選手権の男子個人総合で4連覇を達成",
+      "original_title": "Japan's Daiki Hashimoto wins fourth straight men's all-around gold at world gymnastics championships - Bozeman Daily Chronicle",
+      "source": "Bozeman Daily Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNnphSWF3TDZ0NG9mbmNlQVF5cUU3dU1CVHpKRTJnQzRub2czM1JwNUdHQ04zZVdzTXFFRkswdGxIYnZVY0NIczhFbVF2ZkxZUXQtMXZfdGphdWt3c1NYWDlvenRnR016UVowUkxJZXE4Tm5MR0tvZXBNUVA5WGxsUmZnYW5wNG9FV1JUM1NEVzRMQmNXM0tJZ3JEV0EtcE5RS0pCV0YyanAzM1ZfLUxReUVLcUxuLWlmbjhLNS1xc0VZZndzRFJlVGduU192UWZfM2k4VFVXUlRacGUtTy1FbHhrZ0pocUZLcHNkYURUTjMtUWpqcHhIM2M3dFNTeFlEUE02TzktOXpoRldxWTNEQ1p2WTJlWTBjSkt6WTdiVVV1Vk5B?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "体操",
+        "橋本大輝",
+        "スポーツ"
+      ],
+      "summary_points": [
+        "世界体操選手権の男子個人総合において、日本のエース橋本大輝選手が金メダルを獲得しました。",
+        "これにより同種目において前人未到の4連覇という偉業を成し遂げました。",
+        "日本体操界の層の厚さと、国際舞台における圧倒的な存在感を世界に知らしめる結果となりました。"
+      ],
+      "global_perspective": "日本体操界の黄金期を支える絶対王者としての橋本選手の強さと、競技における日本の継続的な強さが国際スポーツメディアから絶賛されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "米国の国際刑事裁判所（ICC）への圧力が、日本外交の頭の痛い問題に",
+      "original_title": "America’s attack on the International Criminal Court is a headache for Japan - The Economist",
+      "source": "The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRWtzUWh2Q3pOUG85SmxRakVLNUVESjBDUlFIMEdrME5vcVl6aFJHTGxYajVseDQ0Yi1rdW02emc4MmhQX1hyRXF6YnUzV3hqMnB6SHRvaDVNN3ZEa0RLWEtXZjlreWVXcVhtMnFlUHZHcDhaZmtjMHoxdUw3S2NLNUt6WC0xWFBUdTR1WnhTVkFaZ281bnNraG8xazlPaERCRXBBbmJ5NzdqOUxDLTFOdmk1LTNuOUsx?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "外交",
+        "国際刑事裁判所",
+        "アメリカ"
+      ],
+      "summary_points": [
+        "米国による国際刑事裁判所（ICC）への批判や圧力が、同盟国である日本にとって外交的なジレンマを生んでいます。",
+        "国際法の尊重と、安全保障における対米関係のバランスを取ることを迫られている状況です。",
+        "多国間協調と二国間同盟の間で難しい舵取りを強いられる日本の苦悩が指摘されています。"
+      ],
+      "global_perspective": "国際秩序の維持において米国と欧州・国際機関の間で板挟みになる日本の複雑な外交的立場が、英誌エコノミストの鋭い視点で分析されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "強力な大型台風チャンピーが接近、日本・台湾・中国への影響が懸念される",
+      "original_title": "Super Typhoon Champi, one of the strongest storms this year, will impact Taiwan, China and Japan - AccuWeather",
+      "source": "AccuWeather",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRTdLdHJTSGZVZ3YxTTZvak1rWFZ3eGFWQjdWTEcyNVoxU0dGX2ktcURLMnFNcHhJcERTSzZLNDVaUDNtcGxWbEZkTXZEbTM1dFdRQ3lYNkFRbXBZcENwNzJTNlNuQWJPWk55ci03Q1JxU1BES2hXajl3V3RtSzlQYUdZZ2h5ODFMRktGdi1QTGlOZmNsaUJMaTV6X3d1QThILUZvbEdLUVhPRWFUVDBsdE9pbHRfMWpzZEE4b2hpa0NRcjRSR280eExHVUpwWUpLM0xIeTM4dGhaQQ?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "台風",
+        "気象情報",
+        "防災"
+      ],
+      "summary_points": [
+        "今年最大級の勢力を持つ超大型台風チャンピーが、台湾や中国、そして日本へと接近しています。",
+        "気象当局や専門メディアは、暴風や大雨による甚大な被害に対する厳重な警戒を呼びかけています。",
+        "交通機関の乱れやインフラへの影響が懸念されており、早めの備えが必要とされています。"
+      ],
+      "global_perspective": "アジア太平洋地域を脅かす異常気象の一つとして、海外の気象専門メディアがその進路と発達状況をリアルタイムで大きく報じています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 8,
+      "title_ja": "美食と観光地を妥協せず、予算を抑えて日本を旅する方法とは",
+      "original_title": "How to Travel to Japan on a Budget—Without Skimping on Delicious Food and Iconic Sights - Travel + Leisure",
+      "source": "Travel + Leisure",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVTZuRndqa25mV2hkSTRhZmhaeEpSZXJMYWEyaEJvRUxRZ2xCTXN3aDVKWC1Damc0LXpaTzJuZ3ZScGszLXlZYkgzYjduTFc5RmtFRUVBU05ES0VSeU5xWDlsY0xic1Q5RUl0cDdIcGVISWoySTl2SWpINWp6TkdhN0pR?oc=5",
+      "category": "観光・トレンド",
+      "tags": [
+        "インバウンド",
+        "旅行",
+        "節約術"
+      ],
+      "summary_points": [
+        "円安を背景に訪日観光客が急増する中、コストを抑えつつ日本を満喫する旅行術が紹介されています。",
+        "手頃な価格で楽しめる絶品グルメや、入場無料の観光スポットなどを活用した賢い旅のプランが提案されています。",
+        "予算に合わせた充実した日本滞在の方法として、海外の旅行者の間で人気を集めています。"
+      ],
+      "global_perspective": "世界的な物価高や為替の動向を意識しつつも、日本の多様な魅力を賢くコスパ良く楽しみたいという外国人観光客の強いニーズを反映しています。",
+      "reading_time": "約1分"
+    }
+  ]
+}
