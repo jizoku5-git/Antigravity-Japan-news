@@ -1,0 +1,207 @@
+{
+  "updated_at": "2026-10-24 06:55 JST",
+  "date": "2026-10-24",
+  "total_articles": 10,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "米政府が日本主導の半導体取引に介入、その背景と狙い",
+      "original_title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2NaR1hQVlJCOVpOLWNwb0FjS2hoeGR5VFF6aDczWnM1NTNWdHdpZ0NuQUZMTk1xQWlNbWhTcjM5bUNBQ2VHR09TZDhsWVp5R2l6U0NPNm91V0xQUVRCRUgxQmZGZXpZcnNRX0h6WXl0S281Smd0MDhSTmZ4dGV6MQ?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "半導体",
+        "アメリカ",
+        "経済安全保障"
+      ],
+      "summary_points": [
+        "アメリカ政府が、日本が資金を提供する半導体関連の取引において利益の一部を確保する動きを見せました。",
+        "サプライチェーンの強靭化を進める中で、米国の影響力が日米間の産業協力にも深く及んでいることが示されています。",
+        "半導体を巡る国際的な覇権争いにおいて、両国の思惑と経済的安全保障上のバランスが注目されています。"
+      ],
+      "global_perspective": "米中対立が激化する半導体市場において、同盟国間の投資案件にも米国政府がどのように関与し利益を分配するのか、国際的な関心が高まっています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "日本政府、PHP脆弱性を背景に大規模なサイバー攻撃訓練を実施へ",
+      "original_title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT19TUUQ4aFFTY0ZlcnIwcTJ6OWpqY0pyOTBIdXd3LXJUUkxPSE5JM29VVHBSM25STGFqQ09HVGNVYVUyTXNRVHdlN0FHZ1U0TFdkNWs5RllxTVdUeDVQdmhHT01ybzkyQ3VkWW5Ec1pWSEZyaUhzX2xJMlg3SF9BdVlNbzVfcGgwbGQtd2NaZklHWXRNdEQyNHJ1WC1GWVhnd3dOSkw0NVBWbVFFSE0wWVVvM3R4dXc1?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "サイバーセキュリティ",
+        "PHP",
+        "インフラ"
+      ],
+      "summary_points": [
+        "プログラミング言語「PHP」の重大な脆弱性が世界的なインターネット環境を揺るがしている事態を受け、日本政府がサイバー攻撃を想定したシミュレーションを実施します。",
+        "重要インフラへの影響を防ぐため、実際の脅威を想定した実践的な防御体制の強化が急務となっています。",
+        "世界中で多発するサイバー脅威に対し、各国政府が国家レベルでどのように警戒と対策を行っているかが浮き彫りになっています。"
+      ],
+      "global_perspective": "グローバルなITインフラの脆弱性が露呈する中、日本が官民一体でいかに迅速かつ効果的にサイバー防衛力を高められるか、海外メディアも注視しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "米太平洋軍副司令官が来日、日米の統合的な即応態勢を強調",
+      "original_title": "U.S. Pacific Command deputy commander visits Japan, highlights combined readiness",
+      "source": "PACOM (.mil)",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdnV5Tk1QWGdfZEQ0d2o0emxKeVFURVM3RGpvSnMxblc0T01SLTFyVzNhSXhCejRrbjJmLXRsbG9sa1lXcVhPeVFuMDl2cndYanQ1VmJoZlJkRTR6b0JmYVpYblRCTFZGXzY5d2pkM2V2SGhoWExWb25wNjVZWnpDOWNKZV9yMlNBbEp3aGJrZnhfNl9aenljM1hOaEY2WWJXMFozQmN3el8xUHEwRHhaSjI3X1VSQ0xjYnpXeF85NGVBYkxrSXlZRzBtU3NxVUR2c1hQbTV4THdmblFlZ3FvQkw5UVlGeDRISlJpSl95cEQyaGwyMjdJc1BUMzFxS0oySm5Tc08wR0RCeWk5ME1xUw?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "自衛隊",
+        "米軍",
+        "安全保障"
+      ],
+      "summary_points": [
+        "アメリカ太平洋軍の副司令官が来日し、自衛隊と米軍による「統合的な即応態勢」の重要性を改めて強調しました。",
+        "インド太平洋地域の安全保障環境が厳しさを増す中、両軍の連携強化が不可欠であるとの認識が共有されています。",
+        "有事における迅速な共同対処能力を高めるため、具体的な協力関係の深化が図られています。"
+      ],
+      "global_perspective": "地域の抑止力を維持・強化するうえで、日米同盟がどれほど強固で実効性のある連携を示せるかという点が、地政学的な観点から常に注目されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "パレスチナ系米コメディアン、日本で24時間の入国拒否・拘束を主張",
+      "original_title": "Palestinian American comedian Sammy Obeid says Japan held him for 24 hours, denying entry",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORm9BTlVnQUxEQ1JUNDFUWUtkMkZJNHlrb1Y3RHJNMUhDTzJxQVR2eFVZOHJlblVmenRpbXlxbmJpcjN1c1B1RmRlV2w4blh0TXcwZDN0dmR4YXk3bVUzX0pUYzBBR1pxZk80NEc4TlUzdFliWk1fUVIzdHpwSVBfeFoyNTZWbHp6X1BZYjhRVVBMYThHcVp5RF9ueWtGSGVDaWRzZUF2UXRaRzBRUEtNaXI0dFM2YTJBVDdDeHpCZDFXMEpt?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "入国管理",
+        "ビザ",
+        "社会問題"
+      ],
+      "summary_points": [
+        "パレスチナ系アメリカ人のコメディアンであるサミー・オベイド氏が、日本への入国を拒否され24時間にわたり拘束されたと訴えました。",
+        "同氏は自身のSNSやメディアを通じて、不当な扱いに遭ったとして詳細な状況を明らかにしています。",
+        "日本の厳格な出入国管理体制や外国人に対する対応について、海外メディアやSNS上で議論を呼んでいます。"
+      ],
+      "global_perspective": "日本政府の厳格な入国審査のあり方や、観光立国を目指す中で外国籍の著名人が受ける不測のトラブルに対し、国際社会の目は時に批判的にも向けられます。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "「日本はさらなる利上げが必要」海外誌が指摘する金融政策の課題",
+      "original_title": "Japan Needs Higher Interest Rates",
+      "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sWjBEZ0RuUmRROWpTcmprRG92ZFU1NHBlMU95QkVUY3B6cFJ5eTIwNTRNUkNEMkZtOW5zSUFsaDc5bWtSUWxKMWFmOWYzNnlfaVlkUXRvUW1yVlpCeVAtN2xrcXFmY21WRGdwN3hId2YweWZn?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "日銀",
+        "利上げ",
+        "為替"
+      ],
+      "summary_points": [
+        "海外のアジア太平洋情勢専門誌が、日本経済の構造改革と安定のためにさらなる利上げが不可欠であると論じました。",
+        "歴史的な円安やインフレ圧力への対応として、日本銀行のこれまでの金融緩和政策の転換を急ぐべきだとの見解を示しています。",
+        "グローバルな金利水準と乖離したままでの経済運営が、中長期的に日本経済に与えるリスクが懸念されています。"
+      ],
+      "global_perspective": "世界の主要中央銀行が金融引き締めを進める中、日銀の政策スタンスは依然として異例と映っており、海外のエコノミストからの関心が絶えません。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "Metaの「Muse」が日本上陸、旅行プラットフォームKlookと提携",
+      "original_title": "Meta's Muse launches in Japan, partners with Klook",
+      "source": "PhocusWire",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTkF5RE5SRjVLbE5aMDFEV2hUalR2WEUwcWlzUVd2ZmxxWGpLQWpCTERfUFF1dEpQTkRiUnBfcnFUaWVXcEFMY3ExbWdWdm03aWlhaVlFRGZXajZiWXlPWElqTjNid3VKSDlia2xBVDZCUUFGaGktSTZvYy1rSmdjQ0ludXFwUXZhZ0E?oc=5",
+      "category": "観光・トレンド",
+      "tags": [
+        "Meta",
+        "AI",
+        "観光"
+      ],
+      "summary_points": [
+        "Metaの生成AIツールや関連技術である「Muse」が日本市場に導入され、旅行予約プラットフォームのKlookとパートナーシップを締結しました。",
+        "インバウンド需要が急増する日本において、AIを活用した新しい旅行体験や予約サービスの提供が期待されています。",
+        "テクノロジー企業と観光プラットフォームの協業により、日本の旅行市場のデジタル化がさらに加速する見込みです。"
+      ],
+      "global_perspective": "急拡大する日本の観光市場をターゲットに、外資系テック企業がAIを活用したサービス展開を急ピッチで進めている好例として注目されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "見過ごされてきた芝生キノコ、日本で初めて生息を確認",
+      "original_title": "Overlooked lawn mushrooms extend their known range to Japan | Newswise - Newswise",
+      "source": "Newswise",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWR3N0FjdExaQm9BODMzOXlkeXJUcEtESkhBUmphRTIxdVZOdnZMSC1sWDNJT2lsdEo3YW1yOXl0b0x3UmtYQ1VNc05Jc2E3MlIxZDdLTEVKTS1uTWxjWlhESEZheDBfQjFTQXNrTFZfQ0hXWVlfa2FFUDZ0UkFrNk93cTFPYWtOc1pYem9jeEo4cUhjRVlRb9IBmAFBVV95cUxQYWR3N0FjdExaQm9BODMzOXlkeXJUcEtESkhBUmphRTIxdVZOdnZMSC1sWDNJT2lsdEo3YW1yOXl0b0x3UmtYQ1VNc05Jc2E3MlIxZDdLTEVKTS1uTWxjWlhESEZheDBfQjFTQXNrTFZfQ0hXWVlfa2FFUDZ0UkFrNk93cTFPYWtOc1pYem9jeEo4cUhjRVlRbw?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "科学",
+        "生態系",
+        "植物"
+      ],
+      "summary_points": [
+        "これまで見過ごされてきた特定の芝生キノコの生息範囲が、新たに日本国内にも広がっていることが確認されました。",
+        "国際的な研究グループによる調査の一環で、都市部の緑地や芝生における菌類の生態系について新たな知見がもたらされています。",
+        "身近な環境の変化を通じて、地球規模での生物の分布域の変動に関する研究が進められています。"
+      ],
+      "global_perspective": "日常的な環境に潜む生物多様性の発見として、科学コミュニティにおいて興味深いトピックとして取り上げられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 8,
+      "title_ja": "日本、重要鉱物の枯渇危機まで「あと数か月」との見方",
+      "original_title": "Japan months away from running out of critical metal",
+      "source": "Business Insurance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbU5feGN1OERRS19haDBFd2pfT0g5LUVQeS1BU1AzdTU2Y2ZCVXlLdm02UC1uWXNPSWI1dXJJX1hKaGpBZmdHMmdyRkFsM05sbEhJcmgzY0NWczdNQWFkWVVDRlZNTjV2bk9HbFUwbURwenA1b2otVldPTkN0T2xjc2pscGJiUFdCSzZFV0JDUzM?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "重要鉱物",
+        "サプライチェーン",
+        "製造業"
+      ],
+      "summary_points": [
+        "産業活動に不可欠な重要鉱物の国内備蓄や供給が逼迫し、あと数か月で枯渇するリスクがあると報じられました。",
+        "特定の資源輸出国への依存度が高い製造業において、サプライチェーンの脆弱性が改めて浮き彫りになっています。",
+        "経済安全保障の観点から、代替調達先の確保やリサイクル技術の確立が急務となっています。"
+      ],
+      "global_perspective": "資源小国である日本が直面する資源リスクは、世界のサプライチェーンの不安定さを象徴する問題としてビジネス界で大きな関心を集めています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 9,
+      "title_ja": "『名探偵コナン』最新109巻、ビルボード・ジャパンのブックチャートで初登場1位を獲得",
+      "original_title": "‘Case Closed’ Vol. 109 Debuts at No. 1 on Billboard Japan Book Hot 100 - Billboard",
+      "source": "Billboard",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZjE3Um5uOXJudy1qSWdHZjI4YVF3cmFRM0VNdVBocmxaNHg5VUg4bVVUSUtkXzNXSWpvZnFOemlUT1NYeU83MGpXdGxCclQzOXk4U01jMXV4Y2NTUUZEaTFpVEVTMHhaWktjbzhpZnphVHRta09rdTNZQUxEOEFrRFdjRmdSaXBnMEJBeGFIbzNQSUJ2VWNxNUl3dmN0ZVZRQTEyNFhR?oc=5",
+      "category": "観光・トレンド",
+      "tags": [
+        "名探偵コナン",
+        "漫画",
+        "ポップカルチャー"
+      ],
+      "summary_points": [
+        "人気漫画『名探偵コナン（Case Closed）』の最新第109巻が、ビルボード・ジャパンのブック・ホット100で初登場1位に輝きました。",
+        "長年にわたり国内外で絶大な支持を集める同作の変わらぬ高い人気とブランド力が証明されています。",
+        "日本のポップカルチャーが持つ強力なコンテンツ力が、書籍市場のランキングでも改めて示される形となりました。"
+      ],
+      "global_perspective": "日本が誇るアニメ・マンガ文化のグローバルな浸透度を示す指標として、米ビルボード誌でもその動向が定期的に報じられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 10,
+      "title_ja": "元ヤンキースの松井秀喜氏、巨人の監督就任かと海外で話題に",
+      "original_title": "Yankees Legend Hideki Matsui Becomes Manager Of Japan's Yomiuri Tigers - FOX Sports",
+      "source": "FOX Sports",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTBzTG51YnBkempxNERJaHNrWWxRWUhVdlh0SnJTVjRiTXpvdVhSWjZNYkh0SkRpVkt0MzhqQkVOTmJzZ0Q4YXEwb2JEUWxrTnpSbVNOMUlDZG81SDNqM1BHRE41Y3NfY0x2ZjBZSEc4aEF5NU1WZDFueHN2UUZ0dWFpdWJZbzVZQ3JpVWV5UExJTXhpZDNpTDJmenQ4QUhqSm82WWN2ejBKX1XSAasBQVVfeXFMTmo1eFRoalhTT01sUkdmQVNmV2x0TDEtWnJOcTBLZDdOSXRyWEZ3OHgxVjhlZUowZjJhZ1BINjRrVFZaRm82UHFVMzRBdTBhVnNHX0VEMjByQ0VGSmlHWmJOck1ydHJ3eHo2VUJsY2xjSUlUbHRZcUpLcXlrVk9mOS1OakdNR3AzOFVUcm93aGxDaGFyNmlZZUNFb0pEQlVFOUdLUi1DTEFiYWRJ?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "松井秀喜",
+        "プロ野球",
+        "MLB"
+      ],
+      "summary_points": [
+        "元ニューヨーク・ヤンキースのレジェンドである松井秀喜氏の動静が、米FOXスポーツなどの海外メディアで大きく取り上げられました。",
+        "日米の野球界で輝かしい実績を残した同氏の日本球界での去就や役割に対し、現地ファンやメディアからも熱い視線が注がれています。",
+        "日米のスポーツ文化をつなぐ象徴的な存在として、引退後もその一挙手一投足に高い関心が寄せられています。"
+      ],
+      "global_perspective": "MLBでワールドシリーズMVPを獲得した「ゴジラ・マツイ」のニュースは、アメリカのスポーツファンの間でも今なお高い知名度とリスペクトを持って迎えられています。",
+      "reading_time": "約1分"
+    }
+  ]
+}
