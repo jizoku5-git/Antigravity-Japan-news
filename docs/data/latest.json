@@ -1,206 +1,146 @@
 {
-  "updated_at": "2026-10-24 06:55 JST",
-  "date": "2026-10-24",
-  "total_articles": 10,
+  "updated_at": "2026-10-25 06:51 JST",
+  "date": "2026-10-25",
+  "total_articles": 7,
   "articles": [
     {
       "id": 1,
-      "title_ja": "米政府が日本主導の半導体取引に介入、その背景と狙い",
-      "original_title": "U.S. Government Takes a Cut of Chip Business in Japan-Funded Deal",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2NaR1hQVlJCOVpOLWNwb0FjS2hoeGR5VFF6aDczWnM1NTNWdHdpZ0NuQUZMTk1xQWlNbWhTcjM5bUNBQ2VHR09TZDhsWVp5R2l6U0NPNm91V0xQUVRCRUgxQmZGZXpZcnNRX0h6WXl0S281Smd0MDhSTmZ4dGV6MQ?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "ロシアによる日本人ジャーナリスト拘束、日ロ関係悪化の最新の兆候に",
+      "original_title": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVmpFTEI5RVhaMkN5NFliX3pJYjQ0MDZjQnAwY3Z0aTZjWVozdmRMeEF0QkFWM1otVkJVZVdIWTlqOWdoMkl5Nzc4Y2hTT29ZRFhNdjRMbFVQay1wWW1lSlNoWGZpYzRMOWhDdDFHYkZuQXJlenpSdWl1cnBaOFVzTlRsVGdFLTQ2cUhrNVVnT3BjZ3pfNXhhWk1yWlcyS1ROektfRE5aNlUyeTFIV0xEdVROOE5kUjBvQnoyaDZzMnFpcE1scldITU82R3NZNGZtMlo00gHTAUFVX3lxTE9aMHJWR2QyMXZibHpPdngtMWo5LXJTeFZZQU9ZeW9EQ0VYU20tQlB4XzRaSzhyX3pjRXR6SEc3VEduS0E3Yms0Y2RmZ3V1b0JQb2NRY1pMOFB2LXFxYk40TVNXcVZtT2hZMlFnbmw1SzMzZGlRQjcxUk5wRkxNZTVrQ2RjX2N2XzBDUXd4YXdGdVcxUFVHU2dwaDlBbWY4Ti1OYmRCTV9BbjZjZm8wMkhhTDljX2h1UTN6Sm9XTUlybUdkZ2M4UGZYZGN1VUYzdG1IUVU?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "半導体",
-        "アメリカ",
-        "経済安全保障"
+        "日ロ関係",
+        "ロシア",
+        "ジャーナリスト"
       ],
       "summary_points": [
-        "アメリカ政府が、日本が資金を提供する半導体関連の取引において利益の一部を確保する動きを見せました。",
-        "サプライチェーンの強靭化を進める中で、米国の影響力が日米間の産業協力にも深く及んでいることが示されています。",
-        "半導体を巡る国際的な覇権争いにおいて、両国の思惑と経済的安全保障上のバランスが注目されています。"
+        "ロシアによる日本人ジャーナリストの拘束は、ウクライナ戦争以降冷え込む両国関係の深刻さを浮き彫りにしています。",
+        "専門家は、ウクライナ紛争が終結するまでロシアが対日強硬姿勢を緩める可能性は低いと分析しています。",
+        "日本政府への圧力が強まる中、今後の外交的な対応や邦人保護への懸念が高まっています。"
       ],
-      "global_perspective": "米中対立が激化する半導体市場において、同盟国間の投資案件にも米国政府がどのように関与し利益を分配するのか、国際的な関心が高まっています。",
+      "global_perspective": "欧米メディアは、ロシアの強硬な対外姿勢の表れとして、日本との二国間関係が歴史的低水準にあることを大きく報じています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "日本政府、PHP脆弱性を背景に大規模なサイバー攻撃訓練を実施へ",
-      "original_title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT19TUUQ4aFFTY0ZlcnIwcTJ6OWpqY0pyOTBIdXd3LXJUUkxPSE5JM29VVHBSM25STGFqQ09HVGNVYVUyTXNRVHdlN0FHZ1U0TFdkNWs5RllxTVdUeDVQdmhHT01ybzkyQ3VkWW5Ec1pWSEZyaUhzX2xJMlg3SF9BdVlNbzVfcGgwbGQtd2NaZklHWXRNdEQyNHJ1WC1GWVhnd3dOSkw0NVBWbVFFSE0wWVVvM3R4dXc1?oc=5",
-      "category": "テクノロジー",
+      "title_ja": "日本の主要労働組合が大幅な賃上げを要求、日銀の政策目標と連動",
+      "original_title": "Japan’s Top Labor Union Targets Big Pay Bump, in Line With BOJ Aims",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3FQN1A4V282dTQwd1ZWeFhTcmZ3NkJuQXJ3NElDaXAxUDIwRllyWC11RW8tYVdwb3pnQmtjYXpEZ09OVEJuczBkUHItV2xIT2JEeUxMN2RhWjdMVlk5QkRoMUE1WlFpTlVzUlltMzVJQWlEOWdYTUVXX2hzSFgwejBsOUI5ZDBVSzNHR0d1WWFmMlFhY1RSUno3clQzWmRnRVZVdG5n?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "サイバーセキュリティ",
-        "PHP",
-        "インフラ"
+        "賃上げ",
+        "日本銀行",
+        "労働組合"
       ],
       "summary_points": [
-        "プログラミング言語「PHP」の重大な脆弱性が世界的なインターネット環境を揺るがしている事態を受け、日本政府がサイバー攻撃を想定したシミュレーションを実施します。",
-        "重要インフラへの影響を防ぐため、実際の脅威を想定した実践的な防御体制の強化が急務となっています。",
-        "世界中で多発するサイバー脅威に対し、各国政府が国家レベルでどのように警戒と対策を行っているかが浮き彫りになっています。"
+        "日本の主要な労働組合が、物価高に対応するため今年も大幅な賃上げを掲げて交渉に臨んでいます。",
+        "この動きは、日本銀行（BOJ）が目指す「賃金と物価の好循環」の実現に向けた重要な鍵となります。",
+        "海外の金融市場やエコノミストは、日本経済の構造変化や今後の追加利上げの判断材料として注目しています。"
       ],
-      "global_perspective": "グローバルなITインフラの脆弱性が露呈する中、日本が官民一体でいかに迅速かつ効果的にサイバー防衛力を高められるか、海外メディアも注視しています。",
+      "global_perspective": "長年デフレに悩まされてきた日本で賃上げのモメンタムが維持されるか、海外経済メディアからも強い関心が寄せられています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "米太平洋軍副司令官が来日、日米の統合的な即応態勢を強調",
-      "original_title": "U.S. Pacific Command deputy commander visits Japan, highlights combined readiness",
-      "source": "PACOM (.mil)",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdnV5Tk1QWGdfZEQ0d2o0emxKeVFURVM3RGpvSnMxblc0T01SLTFyVzNhSXhCejRrbjJmLXRsbG9sa1lXcVhPeVFuMDl2cndYanQ1VmJoZlJkRTR6b0JmYVpYblRCTFZGXzY5d2pkM2V2SGhoWExWb25wNjVZWnpDOWNKZV9yMlNBbEp3aGJrZnhfNl9aenljM1hOaEY2WWJXMFozQmN3el8xUHEwRHhaSjI3X1VSQ0xjYnpXeF85NGVBYkxrSXlZRzBtU3NxVUR2c1hQbTV4THdmblFlZ3FvQkw5UVlGeDRISlJpSl95cEQyaGwyMjdJc1BUMzFxS0oySm5Tc08wR0RCeWk5ME1xUw?oc=5",
-      "category": "国際・政治",
+      "title_ja": "日本や台湾に被害をもたらした台風、中国本土へ接近",
+      "original_title": "Tropical Storm Champi nears China after battering Taiwan, Japan - AFP.com",
+      "source": "AFP.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOUpLdEpxWDRMX3J6N2ZqWjNnYUpnNV9yOTFtdmNyYnh5WG1Hbm5WWDJDR3hUS2NLZVhsNEdwUkJYR2kwUHB0RzlsbENaLU1fdFM2Z2ZFeUlkOFpsVHBPOUV1UTZQNW5Ob1ZNdDRzSTRvYWFFVVpuc014d29FSV90TU12bWdMNGlyTWVYemd3?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "自衛隊",
-        "米軍",
-        "安全保障"
+        "台風",
+        "気象災害",
+        "アジア"
       ],
       "summary_points": [
-        "アメリカ太平洋軍の副司令官が来日し、自衛隊と米軍による「統合的な即応態勢」の重要性を改めて強調しました。",
-        "インド太平洋地域の安全保障環境が厳しさを増す中、両軍の連携強化が不可欠であるとの認識が共有されています。",
-        "有事における迅速な共同対処能力を高めるため、具体的な協力関係の深化が図られています。"
+        "熱帯低気圧（台風）が日本や台湾に暴風雨などの被害をもたらした後、中国沿岸部へ接近しています。",
+        "各国の気象当局が警戒を呼びかけ、交通網やインフラへの影響が懸念されています。",
+        "異常気象によるアジア各地での災害リスクに対し、国際的な関心が高まっています。"
       ],
-      "global_perspective": "地域の抑止力を維持・強化するうえで、日米同盟がどれほど強固で実効性のある連携を示せるかという点が、地政学的な観点から常に注目されています。",
+      "global_perspective": "アジア太平洋地域における気象災害の頻発と、インフラや経済活動への影響について海外通信社が速報で伝えています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "パレスチナ系米コメディアン、日本で24時間の入国拒否・拘束を主張",
-      "original_title": "Palestinian American comedian Sammy Obeid says Japan held him for 24 hours, denying entry",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORm9BTlVnQUxEQ1JUNDFUWUtkMkZJNHlrb1Y3RHJNMUhDTzJxQVR2eFVZOHJlblVmenRpbXlxbmJpcjN1c1B1RmRlV2w4blh0TXcwZDN0dmR4YXk3bVUzX0pUYzBBR1pxZk80NEc4TlUzdFliWk1fUVIzdHpwSVBfeFoyNTZWbHp6X1BZYjhRVVBMYThHcVp5RF9ueWtGSGVDaWRzZUF2UXRaRzBRUEtNaXI0dFM2YTJBVDdDeHpCZDFXMEpt?oc=5",
-      "category": "社会・文化",
+      "title_ja": "23歳の若者8人が日本で空き家を2万ドル以下で購入、「隠れ家」として活用",
+      "original_title": "I bought a house in Japan at 23 with 7 friends. We spent less than $20,000 to have a place to escape to.",
+      "source": "Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUc4c3FSUnRWYmRQVEpVQ1RSVzRHQmpSeGJ4WG1neFJuY0lMU1p4Zi1tYWtXM1VtTWhPbWZZZkw0NGpnelkwRE1TN09NbE9OdFpHNG15emUtVkJ6dFp3d1pGU0RwbV9RQl9wTHBVODVweFNmSHNwX041WWJwUklpNkI3ZFFrMEpwN3ctQ25n?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "入国管理",
-        "ビザ",
-        "社会問題"
+        "空き家",
+        "不動産",
+        "トレンド"
       ],
       "summary_points": [
-        "パレスチナ系アメリカ人のコメディアンであるサミー・オベイド氏が、日本への入国を拒否され24時間にわたり拘束されたと訴えました。",
-        "同氏は自身のSNSやメディアを通じて、不当な扱いに遭ったとして詳細な状況を明らかにしています。",
-        "日本の厳格な出入国管理体制や外国人に対する対応について、海外メディアやSNS上で議論を呼んでいます。"
+        "海外の若者グループが日本の地方にある空き家を共同で2万ドル（約300万円）未満で購入したことが話題になっています。",
+        "手頃な価格でゲットした日本の家を、都市生活からの逃避や休暇用の拠点として利用するスタイルが注目を集めています。",
+        "日本の深刻な社会問題である「空き家問題」に対するユニークな外国人のアプローチとして取り上げられています。"
       ],
-      "global_perspective": "日本政府の厳格な入国審査のあり方や、観光立国を目指す中で外国籍の著名人が受ける不測のトラブルに対し、国際社会の目は時に批判的にも向けられます。",
+      "global_perspective": "日本の地方にある安価な不動産が、海外の若い世代にとって魅力的な投資・ライフスタイル物件として捉えられているトレンドを伝えています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "「日本はさらなる利上げが必要」海外誌が指摘する金融政策の課題",
-      "original_title": "Japan Needs Higher Interest Rates",
-      "source": "The Diplomat – Asia-Pacific Current Affairs Magazine",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5sWjBEZ0RuUmRROWpTcmprRG92ZFU1NHBlMU95QkVUY3B6cFJ5eTIwNTRNUkNEMkZtOW5zSUFsaDc5bWtSUWxKMWFmOWYzNnlfaVlkUXRvUW1yVlpCeVAtN2xrcXFmY21WRGdwN3hId2YweWZn?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "皇室典範の「男系男子」継承維持への改正法施行、国内外で議論に",
+      "original_title": "Japan’s unpopular revision of Imperial law that reinforces male-only succession takes effect - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUFtbVZnRUFQNExhclhieGNGWTdaWkRocms3Nlp2X1pzclRYOHRHZmV2RmhDR0hzOUFQbnBOcW0zaDdRMTlXYVBJN3h6LTEyX3V3NzFuMjZ6X1R2RUlrT19fSlFDekxVMEJ2ZWpuNEZmdjFSemEtU2NUaFcwNDJCMVV1YldGNWdTQVVsenI0bVBUTmdQSnR3N1FNc0ZUVDl2Ty1IeC1DcHBZUQ?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "日銀",
-        "利上げ",
-        "為替"
+        "皇室",
+        "皇室典範",
+        "ジェンダー"
       ],
       "summary_points": [
-        "海外のアジア太平洋情勢専門誌が、日本経済の構造改革と安定のためにさらなる利上げが不可欠であると論じました。",
-        "歴史的な円安やインフレ圧力への対応として、日本銀行のこれまでの金融緩和政策の転換を急ぐべきだとの見解を示しています。",
-        "グローバルな金利水準と乖離したままでの経済運営が、中長期的に日本経済に与えるリスクが懸念されています。"
+        "男系男子による皇位継承を維持・強化する内容を含む皇室典範の改正法が施行されました。",
+        "世論調査などで支持率が低いとされるこの法改正は、皇族数減少の懸念と伝統維持のバランスを巡る議論を呼んでいます。",
+        "ジェンダー平等の観点からも、日本の皇室制度のあり方に海外メディアの視線が集まっています。"
       ],
-      "global_perspective": "世界の主要中央銀行が金融引き締めを進める中、日銀の政策スタンスは依然として異例と映っており、海外のエコノミストからの関心が絶えません。",
+      "global_perspective": "伝統的な継承ルールと現代の価値観とのギャップについて、海外メディアは日本の伝統社会が直面する現代的な課題として報じています。",
       "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "Metaの「Muse」が日本上陸、旅行プラットフォームKlookと提携",
-      "original_title": "Meta's Muse launches in Japan, partners with Klook",
-      "source": "PhocusWire",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTkF5RE5SRjVLbE5aMDFEV2hUalR2WEUwcWlzUVd2ZmxxWGpLQWpCTERfUFF1dEpQTkRiUnBfcnFUaWVXcEFMY3ExbWdWdm03aWlhaVlFRGZXajZiWXlPWElqTjNid3VKSDlia2xBVDZCUUFGaGktSTZvYy1rSmdjQ0ludXFwUXZhZ0E?oc=5",
-      "category": "観光・トレンド",
+      "title_ja": "イギリスのメディアが指摘、反社会的マナー対策に「日本を見習うべき」",
+      "original_title": "Fine ‘headphone dodgers’ if you will, but to really tackle antisocial behaviour, Britain should look to Japan | Emily Bratt - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN0xlaFhHeVlMeTFETXI0Y0tpeEJjR2lzSktMUld1SUdfRUcwalFvcmpINEpDTFRpRmQyV3VEMWZZbjducXRlODhheW84ODY5eDNFZUZ4VlJ6VXVYX3ZZcUNWdURoWDZmdVZoUzBjdzlLTU80RWxjSXZPSXN2Zi1pQTE0c3V4ZHRLYmFVa0JtMk9wdjBVakxYOEVPS1RXRWpPUTQtODBMR1ZiUQ?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "Meta",
-        "AI",
-        "観光"
+        "マナー",
+        "イギリス",
+        "社会規範"
       ],
       "summary_points": [
-        "Metaの生成AIツールや関連技術である「Muse」が日本市場に導入され、旅行予約プラットフォームのKlookとパートナーシップを締結しました。",
-        "インバウンド需要が急増する日本において、AIを活用した新しい旅行体験や予約サービスの提供が期待されています。",
-        "テクノロジー企業と観光プラットフォームの協業により、日本の旅行市場のデジタル化がさらに加速する見込みです。"
+        "英ガーディアン紙の寄稿で、公共の場での迷惑行為やマナー違反を防ぐため、日本型の社会規範やマナー意識に学ぶべきだと主張されています。",
+        "単なる罰則の導入にとどまらず、他者への配慮を重視する文化的なアプローチがイギリスの公共交通などの課題解決のヒントになると指摘されています。",
+        "日本の高い公共マナーや秩序正しさが、海外の論客から再び高く評価される契機となっています。"
       ],
-      "global_perspective": "急拡大する日本の観光市場をターゲットに、外資系テック企業がAIを活用したサービス展開を急ピッチで進めている好例として注目されています。",
+      "global_perspective": "欧米の公共空間におけるマナー悪化への処方箋として、日本社会の持つ規律や文化が好意的な文脈で引き合いに出されています。",
       "reading_time": "約1分"
     },
     {
       "id": 7,
-      "title_ja": "見過ごされてきた芝生キノコ、日本で初めて生息を確認",
-      "original_title": "Overlooked lawn mushrooms extend their known range to Japan | Newswise - Newswise",
-      "source": "Newswise",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWR3N0FjdExaQm9BODMzOXlkeXJUcEtESkhBUmphRTIxdVZOdnZMSC1sWDNJT2lsdEo3YW1yOXl0b0x3UmtYQ1VNc05Jc2E3MlIxZDdLTEVKTS1uTWxjWlhESEZheDBfQjFTQXNrTFZfQ0hXWVlfa2FFUDZ0UkFrNk93cTFPYWtOc1pYem9jeEo4cUhjRVlRb9IBmAFBVV95cUxQYWR3N0FjdExaQm9BODMzOXlkeXJUcEtESkhBUmphRTIxdVZOdnZMSC1sWDNJT2lsdEo3YW1yOXl0b0x3UmtYQ1VNc05Jc2E3MlIxZDdLTEVKTS1uTWxjWlhESEZheDBfQjFTQXNrTFZfQ0hXWVlfa2FFUDZ0UkFrNk93cTFPYWtOc1pYem9jeEo4cUhjRVlRbw?oc=5",
-      "category": "社会・文化",
+      "title_ja": "GMO、サイバー攻撃受けて政府へサイバー防衛措置を要請",
+      "original_title": "Japan firm GMO requests gov't cyber defense measures over breach - Japan Wire by Kyodo News",
+      "source": "Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2bndQYmowS2ZmSm5tVUJmWjRPYVVPcFkwTmI5QkFmVmlCT292X3FHa2RGRFJidFljMDlvUF9iTmlkMEpyVk8yYUpISVkyZmJyekhUMktETWtOQQ?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "科学",
-        "生態系",
-        "植物"
+        "サイバーセキュリティ",
+        "GMO",
+        "政府対応"
       ],
       "summary_points": [
-        "これまで見過ごされてきた特定の芝生キノコの生息範囲が、新たに日本国内にも広がっていることが確認されました。",
-        "国際的な研究グループによる調査の一環で、都市部の緑地や芝生における菌類の生態系について新たな知見がもたらされています。",
-        "身近な環境の変化を通じて、地球規模での生物の分布域の変動に関する研究が進められています。"
+        "日本のIT大手GMOがサイバー攻撃による情報漏洩や被害を受け、政府に対して積極的なサイバー防衛措置を要請しました。",
+        "民間企業単体でのセキュリティ対策の限界が浮き彫りになる中、官民連携による防御体制の強化が急務となっています。",
+        "重要インフラや大企業を狙うサイバー脅威への懸念が日本国内で高まっています。"
       ],
-      "global_perspective": "日常的な環境に潜む生物多様性の発見として、科学コミュニティにおいて興味深いトピックとして取り上げられています。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 8,
-      "title_ja": "日本、重要鉱物の枯渇危機まで「あと数か月」との見方",
-      "original_title": "Japan months away from running out of critical metal",
-      "source": "Business Insurance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbU5feGN1OERRS19haDBFd2pfT0g5LUVQeS1BU1AzdTU2Y2ZCVXlLdm02UC1uWXNPSWI1dXJJX1hKaGpBZmdHMmdyRkFsM05sbEhJcmgzY0NWczdNQWFkWVVDRlZNTjV2bk9HbFUwbURwenA1b2otVldPTkN0T2xjc2pscGJiUFdCSzZFV0JDUzM?oc=5",
-      "category": "経済・ビジネス",
-      "tags": [
-        "重要鉱物",
-        "サプライチェーン",
-        "製造業"
-      ],
-      "summary_points": [
-        "産業活動に不可欠な重要鉱物の国内備蓄や供給が逼迫し、あと数か月で枯渇するリスクがあると報じられました。",
-        "特定の資源輸出国への依存度が高い製造業において、サプライチェーンの脆弱性が改めて浮き彫りになっています。",
-        "経済安全保障の観点から、代替調達先の確保やリサイクル技術の確立が急務となっています。"
-      ],
-      "global_perspective": "資源小国である日本が直面する資源リスクは、世界のサプライチェーンの不安定さを象徴する問題としてビジネス界で大きな関心を集めています。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 9,
-      "title_ja": "『名探偵コナン』最新109巻、ビルボード・ジャパンのブックチャートで初登場1位を獲得",
-      "original_title": "‘Case Closed’ Vol. 109 Debuts at No. 1 on Billboard Japan Book Hot 100 - Billboard",
-      "source": "Billboard",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZjE3Um5uOXJudy1qSWdHZjI4YVF3cmFRM0VNdVBocmxaNHg5VUg4bVVUSUtkXzNXSWpvZnFOemlUT1NYeU83MGpXdGxCclQzOXk4U01jMXV4Y2NTUUZEaTFpVEVTMHhaWktjbzhpZnphVHRta09rdTNZQUxEOEFrRFdjRmdSaXBnMEJBeGFIbzNQSUJ2VWNxNUl3dmN0ZVZRQTEyNFhR?oc=5",
-      "category": "観光・トレンド",
-      "tags": [
-        "名探偵コナン",
-        "漫画",
-        "ポップカルチャー"
-      ],
-      "summary_points": [
-        "人気漫画『名探偵コナン（Case Closed）』の最新第109巻が、ビルボード・ジャパンのブック・ホット100で初登場1位に輝きました。",
-        "長年にわたり国内外で絶大な支持を集める同作の変わらぬ高い人気とブランド力が証明されています。",
-        "日本のポップカルチャーが持つ強力なコンテンツ力が、書籍市場のランキングでも改めて示される形となりました。"
-      ],
-      "global_perspective": "日本が誇るアニメ・マンガ文化のグローバルな浸透度を示す指標として、米ビルボード誌でもその動向が定期的に報じられています。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 10,
-      "title_ja": "元ヤンキースの松井秀喜氏、巨人の監督就任かと海外で話題に",
-      "original_title": "Yankees Legend Hideki Matsui Becomes Manager Of Japan's Yomiuri Tigers - FOX Sports",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTBzTG51YnBkempxNERJaHNrWWxRWUhVdlh0SnJTVjRiTXpvdVhSWjZNYkh0SkRpVkt0MzhqQkVOTmJzZ0Q4YXEwb2JEUWxrTnpSbVNOMUlDZG81SDNqM1BHRE41Y3NfY0x2ZjBZSEc4aEF5NU1WZDFueHN2UUZ0dWFpdWJZbzVZQ3JpVWV5UExJTXhpZDNpTDJmenQ4QUhqSm82WWN2ejBKX1XSAasBQVVfeXFMTmo1eFRoalhTT01sUkdmQVNmV2x0TDEtWnJOcTBLZDdOSXRyWEZ3OHgxVjhlZUowZjJhZ1BINjRrVFZaRm82UHFVMzRBdTBhVnNHX0VEMjByQ0VGSmlHWmJOck1ydHJ3eHo2VUJsY2xjSUlUbHRZcUpLcXlrVk9mOS1OakdNR3AzOFVUcm93aGxDaGFyNmlZZUNFb0pEQlVFOUdLUi1DTEFiYWRJ?oc=5",
-      "category": "社会・文化",
-      "tags": [
-        "松井秀喜",
-        "プロ野球",
-        "MLB"
-      ],
-      "summary_points": [
-        "元ニューヨーク・ヤンキースのレジェンドである松井秀喜氏の動静が、米FOXスポーツなどの海外メディアで大きく取り上げられました。",
-        "日米の野球界で輝かしい実績を残した同氏の日本球界での去就や役割に対し、現地ファンやメディアからも熱い視線が注がれています。",
-        "日米のスポーツ文化をつなぐ象徴的な存在として、引退後もその一挙手一投足に高い関心が寄せられています。"
-      ],
-      "global_perspective": "MLBでワールドシリーズMVPを獲得した「ゴジラ・マツイ」のニュースは、アメリカのスポーツファンの間でも今なお高い知名度とリスペクトを持って迎えられています。",
+      "global_perspective": "アジアにおけるサイバーセキュリティの脆弱性と、官民協力による防衛力強化の必要性について海外のテック・ビジネス系メディアが注目しています。",
       "reading_time": "約1分"
     }
   ]
