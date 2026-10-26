@@ -1,126 +1,146 @@
 {
-  "updated_at": "2026-10-26 06:50 JST",
-  "date": "2026-10-26",
-  "total_articles": 6,
+  "updated_at": "2026-10-27 06:55 JST",
+  "date": "2026-10-27",
+  "total_articles": 7,
   "articles": [
     {
       "id": 1,
-      "title_ja": "武田薬品、胃がん治療薬の承認を日本で来年申請へ",
-      "original_title": "Takeda to seek Japan approval for gastric cancer drug next year - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNHFMV2JaWk1hZHYwNXRjcExvTHM2eHZONTdEdExUNFJPVlZtTGNPdVBaa05VZWRhY0xPR04wQ1NoQmJ1NmZucFVxUmE2THR1dGVHa2R2cnZQNnh2X3RjNEhJVDMzRkZ5YTY5RF9kWFJzMi1vbjVKMVRzc2pwQ1FzMk1Fdl9QdjRZNk9ncC03djhrdWt4WHpvbnpQUmVSRmlHM09zNF9YTEwyZEFVOVE?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "福田康夫元首相が90歳で死去、日中関係改善などに尽力",
+      "original_title": "Former Prime Minister Yasuo Fukuda dies at 90 - The Japan Times",
+      "source": "The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONVhrNDF5ODhBbnNrbFVRek9tYzVWOFkxWm82dXhHSEpibERGTjhPcmxYb2l0ZXJ6dWN0QlpuQ0F0SmQ4MkFtZ09reWswY2ppeVp6ODloQWRJWGsycENudXlOMlJWbW90VV91eElsbjg5N3g3a09mc1Z5OGxEbFVrcFlBbXN2Y3NBYWc?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "武田薬品",
-        "医薬品",
-        "胃がん"
+        "訃報",
+        "政治",
+        "日中関係"
       ],
       "summary_points": [
-        "武田薬品工業が、胃がん治療薬の製造販売承認を来年にも日本国内で申請する方針であることが明らかになりました。",
-        "国内の主要な製薬会社による新薬開発の動向として、医療関係者や市場から高い注目を集めています。",
-        "承認されれば、国内の胃がん治療の選択肢が広がり、患者への新たな治療アプローチとして期待されます。"
+        "福田康夫元内閣総理大臣が90歳で逝去したと日本の主要英字メディアが報じた。",
+        "在任中にはアジア外交の重視や近隣諸国との関係改善に積極的な姿勢を示した。",
+        "国内外から多くの政治家や識者がその穏健な政治姿勢と功績に対し哀悼の意を表している。"
       ],
-      "global_perspective": "グローバル市場で影響力を持つ日本の大手製薬企業のパイプラインと、国内承認プロセスへの進捗として報じられています。",
+      "global_perspective": "海外メディアは、対話重視の現実路線を貫いた保守派の政治家としてその足跡を大きく取り上げている。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "沖縄での女性殺害事件、在日米海兵隊員が起訴される",
-      "original_title": "U.S. Marine indicted in Okinawa robbery-murder case - The Japan Times",
-      "source": "The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc09kWFU3b2VsaV9ESlYxVWVYREFzNG9vUDhwcTlYaTMyaGo2U2Q0QUR6NjhCNEdvTk5jMzl6Qm9Jdk5UenVtUUI4M2xYWTlBZXh6WHozbVBDWlc4d2RaQ2Zvc1laZk5YcFByUnlEWXE4ck1pUnA2OU54Y3JmaVpCMGM5eGVidXlxa2l6S1A5M25KRnZ3QWM4em9XdEhJUGcyYnhGYXhINnI?oc=5",
+      "title_ja": "ロシア当局が日本人ジャーナリストを拘束、冷え込む両国関係",
+      "original_title": "Russia has seized a Japanese journalist, freezing an icy relationship - The Economist",
+      "source": "The Economist",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXFaaVdubVVEcF8tcU85alhpRW1fMVVFVlFOUnZBS1JBVXljdFVXRjhoejVzVEt0bVlCZGd2OTgtSGN2TTY0NHV3YnFxNXBueVQ3ZDJJQ3o5TFRSeHFESVc0bk5JQjJqZVBJRkU3aGExNzk2WGJ2a0xnOGZPS0duVFdYUFl5SGY5dDR0MFZRWFVfMFJwYVlTWVZ2VkM0NS1tLTJ1MHNvb01kWF85bkVB?oc=5",
       "category": "国際・政治",
       "tags": [
-        "米軍",
-        "沖縄",
-        "事件"
+        "ロシア",
+        "外交",
+        "報道"
       ],
       "summary_points": [
-        "沖縄県内で発生した女性の強盗殺人事件に関連し、現役の米海兵隊員が起訴されました。",
-        "事件は地元住民に大きな衝撃を与え、日米地位協定や基地の治安維持に対する議論が改めて活発化しています。",
-        "日米両政府間での司法手続きや再発防止に向けた対応にも関心が集まっています。"
+        "ロシア政府が日本人ジャーナリストを拘束したことで、ウクライナ侵攻以降冷え込む日露関係がさらに悪化している。",
+        "詳細な容疑や拘束の背景については不透明な点が多く、日本政府が解放に向けた対応を進めている。",
+        "ジャーナリストの安全確保と情報統制が強まるロシアの姿勢に対し、国際社会からも懸念の声が上がっている。"
       ],
-      "global_perspective": "在日米軍をめぐる治安や法的地位の問題は、日米同盟の円滑な運用や地域社会との関係において海外メディアでも継続的に注視されています。",
+      "global_perspective": "英エコノミスト誌などは、ロシアによる強硬な姿勢が日本の安全保障や外交方針に与える影響を厳しく分析している。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "中国を念頭に、日本で「原子力潜水艦」保有の議論が再燃",
-      "original_title": "Eye on China: Japan reopens taboo debate over nuclear-powered submarines - South China Morning Post",
-      "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1BjWElVQ1BKdnlVcURjQm1Pa0ktY1JBYnFIUjFPZEdLT2hNYnB3Y1RvT25PZkpMSFBJdzg5NWRmU3MxU2RoaVlTaFhNMU5FY2NXNnZoVTVLNW5zdGt5emw0VDBoSC1OX2ctTGxHYTlhdHZoa1VxcE5xRWR0VkthWDBTUTdzdlpvNHFLV2FzTGU1bmhUd2l3d0FMRUcyYVlSSjhBcFJNRVdKSVREZlVpdnF2N1I0OGZkUkxZX2U5eVNhSXfSAcMBQVVfeXFMTXo3SVNpV1d4SW1lV2Fjck0zR0F4M1pYYjJsdUtZaXVhZEItZWtjUVg2VVZ2eU91RGVKNDJlSElGM0pLS3dNMFhwazQyT0N6aXFpVExLcVp6Y3JleFRvdHFzTXZlbjdZNmJiZVZGeXlaMDZGbW80MmJLcklEZFpra3h5c0tINFA5TzRRQXFCOWVCemJJTXZHc0EtMTYtWGpoZXpaY2ZWSDFPYVpRaU54SkxOMHdPaVJHT1dManUxWmFidXBZ?oc=5",
-      "category": "国際・政治",
+      "title_ja": "米海兵隊員の殺人・強盗事件を受け、沖縄の基地が夜間外出禁止と飲酒規制を導入",
+      "original_title": "Japan air base imposes junior enlisted alcohol ban, curfew after local murder - Military Times",
+      "source": "Military Times",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQzI4RjA4Y2Nuc2lKSzZYd1FNYU85MlE5NjRITWw2c2xGQ2RCc0V3c3F5Z3VfcDNSS09ubUs3NUhyS2dwNjhVd0t1SXlYOVludFByX0ZFZHI3aDRwUW5MclNRaVg0TEdvNFAtRFRSUXBoaUZQbnRFcXlWNWo1UFJNNXlKdV9ORm5XUzZKenk4bTlySDRzaVhYVmxWZlRSc01RRVFHS3cwbmpROHVIanNyQlBzSy1URUtnMXNlUDVaZkdfLUJjQXlfdGVBclBKVEN3azBB?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "防衛",
-        "原子力潜水艦",
-        "中国"
+        "米軍基地",
+        "沖縄",
+        "事件"
       ],
       "summary_points": [
-        "海洋進出を強める中国への抑止力を高めるため、日本国内でこれまでタブー視されてきた原子力潜水艦の保有に関する議論が浮上しています。",
-        "防衛政策の大きな転換点となる可能性があり、専門家の間でも賛否両論の議論が交わされています。",
-        "非核三原則や多額のコストなど、実運用に向けたハードルは依然として高いと指摘されています。"
+        "沖縄県内で発生した女性殺害・強盗事件を受け、在日米軍の一部基地が若手兵士を対象に夜間外出禁止令と飲酒禁止措置を課した。",
+        "起訴された米海兵隊員による犯罪行為が地元社会に大きな衝撃を与えたことを受けた緊急措置となる。",
+        "米軍側は規律強化と綱紀粛正を急ぐが、地域住民の間では基地の存在そのものに対する根強い反発が続いている。"
       ],
-      "global_perspective": "アジア太平洋地域の安全保障環境の変化に伴い、日本の防衛力のあり方がどのように変容しているか、国際社会から強い関心を持たれています。",
+      "global_perspective": "米国の専門メディアや一般紙は、米日同盟の足並みを乱しかねない深刻な不祥事として連日大きく報道している。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "日本と米国の大規模共同訓練で、長距離ミサイル発射機を展開",
-      "original_title": "Japan deploys long-range missile launcher during major drill with U.S. - Japan Today",
-      "source": "Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUXdJWktGbjRxeENielhZVGJqNVgzcnF6czFuZ3pPX04tNm90dXJtRTM0YnZUNzY2QktNN0lXSnNpb3Rod29kY09EYW1BVGpQWGpJZV9sUDJPRnlvWDhCNzEwNGJab2N6dDY2S19fLXkwc2lucms4a2didXNhNm8zdFpueHNTZjFQY0xxMFlwa2lvc2trQzJ0cm1vTHlIbndRWEY2TDlHU0xmWVZGYnc?oc=5",
-      "category": "国際・政治",
+      "title_ja": "日本の自動車労働組合、2027年春闘に向けてインフレ連動型以外の賃上げ要求を模索",
+      "original_title": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYkdsZlNicmFJemYxa09ucUMxTlZxT1M1bnJ6eUpOT1BwM29kLXROSXZkSlF3Tk9TV2cwemw2eUxUejjjWVV5akp2em1tX0Zzc1JhamdSeF9IbWVWRHVBdVF0Y2E5LXZ6RGtFVy1keDJ4cWdTM09XXy1yejVmemt1ckdmaEVQRXNCclU3WVRrRUNPVjh4OEtkN3FnYmU3czlMYmRoc1Zsc0JwTEl3cU9IR21pVVdPZ2pNZXA5NU5lLTdWVGVBckFfZzE3d2Z1OXR2MkhIaG53?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "自衛隊",
-        "米軍",
-        "ミサイル防衛"
+        "春闘",
+        "自動車",
+        "賃上げ"
       ],
       "summary_points": [
-        "自衛隊と米軍による大規模な共同演習において、長距離ミサイル発射機が実際に配備・運用されました。",
-        "日米同盟の抑止力と共同対処能力を強化する狙いがあり、防衛力の大幅な強化を象徴する動きとなっています。",
-        "周辺国の動向を牽制しつつ、実践的な防衛体制の構築を進める日本の姿勢を示しています。"
+        "日本の主要な自動車労働組合グループが、2027年の賃上げ交渉において物価高対策を超える新たな指標の導入を検討し始めた。",
+        "長年のデフレから脱却しつつある日本経済において、企業の持続的な成長や生産性向上を反映した賃金体系への移行が狙いである。",
+        "単なるインフレ補填ではない賃上げの定着は、日本全体の消費マインドや経済の好循環を占う試金石となる。"
       ],
-      "global_perspective": "日米の軍事協力がより実戦的かつ緊密になっていることの証左として、地域の安全保障ニュースとして大きく取り上げられています。",
+      "global_perspective": "海外の経済メディアは、日本企業の賃上げトレンドが一時的なもので終わらず、構造的な変化に移行しつつある点に注目している。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "NFLが近い将来の日本開催を計画中か",
-      "original_title": "NFL Planning Japan Game In Near Future - ProFootballRumors.com",
-      "source": "ProFootballRumors.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVVRRUUQwdm5jdW0tNkR6dWV4SFEzbTdVQ2RYTzZrNGp5NUtXRkRuUzlBYjNzRmVGM3NSZHB4U1M4ZkM4SHBGclhPSlhpRkoyejMzMTNjV05qRUkzNllUUG4zaUd5cFJ4elpnMldpTzF6OUJUMkptNnRNRGZpVFpwcmR3NUZQOWs?oc=5",
-      "category": "観光・トレンド",
+      "title_ja": "日本最大規模の海洋DNA調査、北日本で126種の魚類の生息北限を更新",
+      "original_title": "Japan's largest marine DNA study detects 126 fish species farther north than previously recorded - Phys.org",
+      "source": "Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rTDROVzZpeFhXSGVfOFl2VFphRlEzcThvZENQejZUUGdDaXAyRTh6RUVlelVpM3ktcmowWktzTklndUVMSzVPcVo0ekxjdHVWR2NCS0VseDNwX2dXRF9nTGVwdXg0b1dGdFFfckZVWkRuZw?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "NFL",
-        "アメフト",
-        "スポーツ"
+        "環境",
+        "海洋",
+        "気候変動"
       ],
       "summary_points": [
-        "米プロフットボールリーグ（NFL）が、国際市場の開拓の一環として、近い将来に日本での公式戦開催を計画していることが報じられました。",
-        "過去に東京ドームで公式戦を開催した実績もあり、日本のファン層や商業的ポテンシャルが再び評価されています。",
-        "実現すれば、北米以外の主要市場でのファン拡大を目指すNFLのグローバル戦略の重要な一歩となります。"
+        "日本国内で行われた過去最大規模の海洋環境DNA調査により、126種もの魚類がこれまでの記録よりも北方の海域で発見された。",
+        "海水温の上昇をはじめとする気候変動が、海洋生態系の生息域や分布図に劇的な変化をもたらしていることが科学的に裏付けられた。",
+        "環境科学者らは、水産業への影響評価や今後の生態系保全に向けたデータとしてこの調査結果を重視している。"
       ],
-      "global_perspective": "アメリカのスポーツリーグが世界進出を加速させる中、かつて大きな盛り上がりを見せた日本市場への再進出として注目されています。",
+      "global_perspective": "世界の科学・環境系メディアは、地球温暖化が海洋環境に与える影響を可視化する先進的な事例として報じている。",
       "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "日本で1500年前の女性シャーマン（巫女）の土偶が出土",
-      "original_title": "1,500-year-old female shaman figurine discovered in Japan - HeritageDaily",
-      "source": "HeritageDaily",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZF9OVm1IZjVFOW9hWEFYWTA5M2stQlFjUlJQZm9GeXBkMW5Cb0l0LU8wbUVqZlE4TEphalBRNjJmOEtpZ2J1eFRpYU42TEpQTFJsQmwxMU9sQlhLQXVqbks2NzkyaW5XUE9kcFJOSFZMWEQ5aWxmWG9SMHQtblhQaUs1eUJlbW96SmF3Y2JKcGFjSlk3cGpUa0c5T1UycldqMExj?oc=5",
+      "title_ja": "皇位継承の改革論議が日本君主制の将来に与える影響とは",
+      "original_title": "How Japan's Reforms on Imperial Succession Affect Its Monarchy - Time Magazine",
+      "source": "Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY2Z6VjAyMnBtdnVhVUx6R1VWdFdpUU1jUEpMMVFnTHlaTENrTWs3ZDBDSFlsVmF0UFpkU25xU1o4NndkallOZ216SnZzVFhaWm9jR1dDSF9fWDB2SFlKOW1pU05fZ0kyazU1YmFqVXpRWjV3cDd1NGR4bFBMS3R4MDhpZWRmU0lfcVJGalppSXU1OGRCWFVFNTBwTTdXTFk?oc=5",
       "category": "社会・文化",
       "tags": [
-        "考古学",
-        "歴史",
-        "土偶"
+        "皇室",
+        "皇位継承",
+        "伝統"
       ],
       "summary_points": [
-        "日本国内の遺跡から、約1500年前のものとされる女性のシャーマン（巫女）をかたどった珍しい土偶が発見されました。",
-        "当時の宗教観や社会構造、女性の役割を解き明かす貴重な手がかりとして、考古学界から高い評価を受けています。",
-        "保存状態も良好であり、古代日本の文化遺産として海外の科学・歴史メディアでも紹介されています。"
+        "皇族数の減少や継承問題に直面する中、日本国内で続けられている皇位継承ルール見直しの議論に海外メディアが改めて焦点を当てた。",
+        "世界最古の世襲君主制の一つとされる日本の皇室が、伝統の維持と現代的なジェンダー観のバランスをどう取るかが問われている。",
+        "男性皇族の減少という喫緊の課題に対し、将来的な制度変更の行方に国内外の関心が集まり続けている。"
       ],
-      "global_perspective": "日本の豊かな古代歴史や独自の精神文化を伝える考古学的な発見として、世界の歴史ファンや研究者の興味を引いています。",
+      "global_perspective": "米タイム誌などは、伝統を重んじる日本社会が直面する少子高齢化の影が、象徴天皇制の存続基盤にも影を落としていると冷静に分析している。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "日本国内の多言語ホットライン、スペイン語とポルトガル語による精神的サポートを開始",
+      "original_title": "Japan hotline offers emotional support in Spanish, Portuguese - Japan Today",
+      "source": "Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPamFyamc4SGVnS3RST0wtLTlEb2YtTTNmSGFXaDAyZGJVZ0lBV1NsdHctOFc1SmowY01CTkl0a0ZKNDMtSzZBOHM3QnVYN2JGeHBuc0JNWGE2WXZvRkk5OVNfNGZRMzBSbDktRzFHOEZxeXRZeGJJWXFsMjF2bG9yRmRqaVROZ0dBUEZGTmxaQnNVV1JUVmJkX0FncmI4RlR4Y3NTYnY1S1VxVTFlY0E?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "外国人労働者",
+        "メンタルヘルス",
+        "福祉"
+      ],
+      "summary_points": [
+        "日本国内で暮らす外国人住民向けに、スペイン語とポルトガル語に対応したメンタルヘルスの相談ホットラインが開設された。",
+        "言葉の壁や文化の違いから孤立しがちな外国人労働者やその家族への心理的サポートを強化するのが狙いとなる。",
+        "定住外国人が増える中、社会全体のインフラとして福祉や医療アクセスの改善が急務となっている。"
+      ],
+      "global_perspective": "日本が「移民社会」へと徐々に移行する中で、福祉やメンタルケアなどのセーフティネット整備がどのように進められているかに関心が集まっている。",
       "reading_time": "約1分"
     }
   ]
