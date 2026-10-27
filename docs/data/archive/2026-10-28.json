@@ -1,0 +1,171 @@
+{
+  "updated_at": "2026-10-28 06:58 JST",
+  "date": "2026-10-28",
+  "total_articles": 8,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "GMOインターネット、ハッカーグループによる盗難顧客データの公開を確認",
+      "original_title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "source": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenh0OVd5RXVYRTdHOXk2TU9NNTlobXRCYkM1dWdfODhsM2NIUGxzelU1WWFybUg0QktzSGJaN1Itc1FtME5NaTUyZmthWXVyNWM3a1VoV2sxVlYtQ0JxbUU2Z2VUMUFhNkg3WnBuWHR6RGpDWTNRY2Y3ajF0YktyTkxlNkpjRXh3UWk1U2haV3M3Vl92MjE2UGlqOTJ1N1FFc2c?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "サイバーセキュリティ",
+        "データ漏洩",
+        "GMO"
+      ],
+      "summary_points": [
+        "日本のインターネット大手GMOが、サイバー攻撃により盗まれた顧客データがハッカーによってネット上に投稿されたことを発表しました。",
+        "ハッカーグループとGMOの間で高まる緊迫した対立は、初歩的なデータリーク（情報流出）の発生によりさらに深刻化しています。",
+        "日本国内の主要企業を標的としたサイバー犯罪の深刻さと、企業側のセキュリティ対策の強化が改めて問われています。"
+      ],
+      "global_perspective": "日本の巨大IT企業が直面しているサイバー攻撃の脅威と、ランサムウェアグループによる情報漏洩の手口が海外メディアでも大きく報じられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "中国製AIツールが悪用され日本国内のハッキングに関与か",
+      "original_title": "Chinese AI Tool Linked to Hacks in Japan - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzI3bFVJdEgwYUUwTWxUY2UyZlVFYmI3QlBWU3BMMG1hWjhHZVQ1UHZFaUlBdGwwc2pPdXJxYTgtWVlxdXh1QktTOW55dW9QU2ZZYldSNGM2WklORTNpZWJBZ2NMZEQ5cE9aSl9SaHBnTmpDZ0VmdkJVSkt6OFJSZzZWa0NkLVU?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "AI",
+        "サイバー攻撃",
+        "中国"
+      ],
+      "summary_points": [
+        "中国製の人工知能（AI）ツールが、日本国内を標的としたハッキング攻撃に関連していることがウォール・ストリート・ジャーナル紙によって報じられました。",
+        "AI技術の急速な進化がサイバー犯罪の自動化や効率化に悪用されている実態が浮き彫りになっています。",
+        "国家間のサイバーセキュリティにおいて、AIを活用した新たな脅威への警戒感が世界的に高まっています。"
+      ],
+      "global_perspective": "AIの軍拡競争や悪用リスクの文脈で、アジア太平洋地域におけるサイバー空間の安全保障上の懸念として注目されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "米軍、日本国内の基地における中国BYD製車両の乗り入れを「許容できないリスク」として禁止",
+      "original_title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjJxZVhoTEdteGVkRUE1Z1NRdy03TWFKYW1QSXJyRWU2bzdjRWFHcDlTUjMybkJ3bGNJaWZhMk5iTTVNcTZMdjdubzROdlhPUzZKcXVzalRHTVNDN3BPR29JcmRBSzlFMW5mZW5FcjdhUUpRa29xU3pJTU1sWUhLVGthTVN4NVFXajZzLU03c3RlMnlBN0QzWFc4NEI?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "米軍",
+        "BYD",
+        "EV",
+        "安全保障"
+      ],
+      "summary_points": [
+        "米国防総省および関係機関が、日本国内の米軍基地内において中国のEV大手「BYD」製車両の乗り入れを禁止しました。",
+        "理由は「許容できない安全保障上のリスク」とされており、データ収集や通信機器を巡る懸念が背景にあります。",
+        "安全保障上の観点から、中国製ハードウェアや電気自動車に対する警戒が在日米軍施設にも波及しています。"
+      ],
+      "global_perspective": "経済安全保障の観点から、中国製EVやテクノロジーが持つ情報漏洩リスクに対して米政府が強い警戒姿勢を示している象徴的な事例として捉えられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "44のAIエージェントを駆使する「CyberStrikeAI」、日本の標的に対するハッキングを自動化",
+      "original_title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets - The Hacker News",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XVXBTdTVsTmJSUXJDN3Y4VmVudFJaRFFISWxxTFRXb2Jwbkg3MS1Db0Y3ZzA2dGxBQUc1Tnp6WUVJVFVBNXJmQ214MmxWTjlZMGprQV91Z3JDQWM2UXNzcllLVVNyV0t2M3F6Q1dlN2pYRTMyX1dENWg2ZkxNUQ?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "AIエージェント",
+        "サイバーセキュリティ",
+        "ハッキング"
+      ],
+      "summary_points": [
+        "「CyberStrikeAI」と呼ばれるシステムが、44ものAIエージェントを連携させて日本企業へのハッキング攻撃を完全に自動化していることが判明しました。",
+        "AIによるサイバー攻撃の高度化とスピードアップが進んでおり、従来の防御手法では追いつかない危険性が指摘されています。",
+        "日本が高度な自動サイバー攻撃の「実験場」あるいは最初の標的として選ばれている点が専門家の間で危惧されています。"
+      ],
+      "global_perspective": "AIによる攻撃の自動化という、サイバーセキュリティ業界における最先端かつ最も不穏なトレンドの具体例として技術系メディアで大きな衝撃を与えています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "日本のデータセンター急増に対する反発、日本は住民や環境の懸念を克服できるか",
+      "original_title": "Can Japan Beat the Data Center Backlash? - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzZldEZZX0E0LXJoYWoxYjhQU1U2Zl8xdHRGVU42X2xjOU5Tc1pYVW1GNXljUVUxektfeGo5dzNjTEhLNHVVZXZBRU5vSFNjTF9qNWRxdXFmNVl1TTlpbkFMeVRvY0x5RHRHUFhGNC1ZNW1uUGtSVE04ZWtPemdvTzcwTS1MN0tmUTRrZGNmNVd6eGJ0c0VLa3NUX2twRUZOMzdPSUJDZUJGQkJRRUpneTBQaFNlZ1E?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "データセンター",
+        "インフラ",
+        "Bloomberg"
+      ],
+      "summary_points": [
+        "AIブームやクラウド需要に伴い日本国内でデータセンターの建設が急増する一方、電力消費や環境負荷に対する住民の反発が強まっています。",
+        "電力インフラへの負担や景観への影響など、地域社会との摩擦が今後のデジタルインフラ拡充の大きなボトルネックになり得ます。",
+        "政府や企業が、こうした「データセンター・バックラッシュ（反発）」をどのように解消し持続可能な開発を進めるかが注目されています。"
+      ],
+      "global_perspective": "世界的なAIインフラ投資の波が地方都市や地域コミュニティとどのような摩擦を生んでいるか、経済金融の視点から深く分析されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "米国株の揺らぎに対する分散投資先として、日本や欧州の株式市場に高まる期待",
+      "original_title": "AI stocks have rattled U.S. and emerging markets. Japan and Europe could help investors diversify - CNBC",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktLV3hRNDE1aWkyZmpLOHVLblR1eHFPWWFfVzV6M2o1cjBSeXQyRDNrMi14QVIzRnZoOFR3ZmYyRHAzaVlJNXR5bUJiUlFiRFZoZFQwTENld2p3dkZrbFo4MkdYTVRJZkN6S1RQWFIyRzZfbTVRMGRENEFjUHNubg?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "株式市場",
+        "投資",
+        "分散投資",
+        "CNBC"
+      ],
+      "summary_points": [
+        "米国のAI関連株や新興市場が不安定な値動きを見せる中、投資家のリスク分散先として日本株や欧州株への注目が集まっています。",
+        "日本企業のコーポレートガバナンス改革や底堅い業績が、海外の機関投資家にとって魅力的なセーフティネットとして機能しています。",
+        "グローバル市場におけるポートフォリオ再構築の文脈で、日本市場の存在感が増していることが伝えられています。"
+      ],
+      "global_perspective": "米国一極集中だったハイテク株投資の見直しが進む中、日本が安定したオルタナティブ（代替投資先）として再評価されているトレンドを伝えています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "日本市場に参入する中国初の軽自動車、プロモーション写真の演出に海外メディアが困惑",
+      "original_title": "China’s First Car For Japan’s Kei Segment Has A Press Photo That Weirds Me Out - The Autopian",
+      "source": "The Autopian",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1lBN1k4Qm55NkJFYVBrR2F4OWRCSnRSbnlOQzhDajI5cGMyMl9zMnlfOWdiM2RTTVZaZ2J1aGx6akduWEtWczk0QnV1YWhTZWdIUURPWU1oVUJoZmREZDRCOGt2QXY1TFdhS1Q1b1ZwOWJnX1Uwd3ZseGZ4U0t1Z09mYXlueTdBV280TzhhYTFrUEZqWXNGbUVzSUNLR0tFRHQzVS1HTmk?oc=5",
+      "category": "観光・トレンド",
+      "tags": [
+        "自動車",
+        "軽自動車",
+        "中国車",
+        "EV"
+      ],
+      "summary_points": [
+        "中国メーカーが日本の独自市場である「軽自動車」セグメントに投入する初の新型車について、独特な公式プレス写真が話題となっています。",
+        "独自の自動車文化を持つ日本の軽規格に海外メーカーが挑む姿勢は注目を集める一方、そのマーケティング手法には奇異な視線も向けられています。",
+        "閉ざされた日本独自の軽自動車市場に外資系EVが切り込む試みとして、自動車ファンの間で議論を呼んでいます。"
+      ],
+      "global_perspective": "日本の独特な「軽自動車」文化に対する海外からのユニークな視点と、中国メーカーのグローバル展開のユニークな一コマとして面白おかしく取り上げられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 8,
+      "title_ja": "少世代・企業文化・利益の追求：日本の「AIスーパーサイクル」がもたらす変革",
+      "original_title": "Japan AI Supercycle: Demographics, Corporate Culture & the Pursuit of Profits - Asia Society",
+      "source": "Asia Society",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRENlNC1idC16T0RpOThxbXI3MVdNZC1rTHRiUldRWl9KVUpLU0VuWFVHUm1VVDZ3NWZHWEZBZG51cUhvT2FqdlVpMjFmN043SnhHSHhRbkRoVmF3U0ZIRVFSN0t0ZGJPQjFFTGFMSFh5Q0k4MVNjN25iYmFJRGVLT1VkN2RZWkZ0c1V4cTlIQjB5MlJ2SzRvU0UwdWFnbWZBYXBXYkZB?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "AI",
+        "人口動態",
+        "日本経済",
+        "アジア協会"
+      ],
+      "summary_points": [
+        "深刻な少子高齢化という人口動態の課題を抱える日本において、AI技術の導入が生産性向上への切り札として期待されています。",
+        "伝統的な日本の企業文化が変化しつつある中で、利益追求とデジタル変革（DX）がどのように融合しているかが分析されています。",
+        "日本が直面する構造的課題とAI技術の掛け合わせが、独自の「AIスーパーサイクル」を引き起こす可能性が議論されています。"
+      ],
+      "global_perspective": "単なるテクノロジーの導入にとどまらず、日本の人口減少社会における構造改革の起爆剤としてAIがどう機能するかを高所大所から捉えています。",
+      "reading_time": "約1分"
+    }
+  ]
+}

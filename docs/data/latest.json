@@ -1,146 +1,170 @@
 {
-  "updated_at": "2026-10-27 06:55 JST",
-  "date": "2026-10-27",
-  "total_articles": 7,
+  "updated_at": "2026-10-28 06:58 JST",
+  "date": "2026-10-28",
+  "total_articles": 8,
   "articles": [
     {
       "id": 1,
-      "title_ja": "福田康夫元首相が90歳で死去、日中関係改善などに尽力",
-      "original_title": "Former Prime Minister Yasuo Fukuda dies at 90 - The Japan Times",
-      "source": "The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONVhrNDF5ODhBbnNrbFVRek9tYzVWOFkxWm82dXhHSEpibERGTjhPcmxYb2l0ZXJ6dWN0QlpuQ0F0SmQ4MkFtZ09reWswY2ppeVp6ODloQWRJWGsycENudXlOMlJWbW90VV91eElsbjg5N3g3a09mc1Z5OGxEbFVrcFlBbXN2Y3NBYWc?oc=5",
-      "category": "国際・政治",
+      "title_ja": "GMOインターネット、ハッカーグループによる盗難顧客データの公開を確認",
+      "original_title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "source": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenh0OVd5RXVYRTdHOXk2TU9NNTlobXRCYkM1dWdfODhsM2NIUGxzelU1WWFybUg0QktzSGJaN1Itc1FtME5NaTUyZmthWXVyNWM3a1VoV2sxVlYtQ0JxbUU2Z2VUMUFhNkg3WnBuWHR6RGpDWTNRY2Y3ajF0YktyTkxlNkpjRXh3UWk1U2haV3M3Vl92MjE2UGlqOTJ1N1FFc2c?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "訃報",
-        "政治",
-        "日中関係"
+        "サイバーセキュリティ",
+        "データ漏洩",
+        "GMO"
       ],
       "summary_points": [
-        "福田康夫元内閣総理大臣が90歳で逝去したと日本の主要英字メディアが報じた。",
-        "在任中にはアジア外交の重視や近隣諸国との関係改善に積極的な姿勢を示した。",
-        "国内外から多くの政治家や識者がその穏健な政治姿勢と功績に対し哀悼の意を表している。"
+        "日本のインターネット大手GMOが、サイバー攻撃により盗まれた顧客データがハッカーによってネット上に投稿されたことを発表しました。",
+        "ハッカーグループとGMOの間で高まる緊迫した対立は、初歩的なデータリーク（情報流出）の発生によりさらに深刻化しています。",
+        "日本国内の主要企業を標的としたサイバー犯罪の深刻さと、企業側のセキュリティ対策の強化が改めて問われています。"
       ],
-      "global_perspective": "海外メディアは、対話重視の現実路線を貫いた保守派の政治家としてその足跡を大きく取り上げている。",
+      "global_perspective": "日本の巨大IT企業が直面しているサイバー攻撃の脅威と、ランサムウェアグループによる情報漏洩の手口が海外メディアでも大きく報じられています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "ロシア当局が日本人ジャーナリストを拘束、冷え込む両国関係",
-      "original_title": "Russia has seized a Japanese journalist, freezing an icy relationship - The Economist",
-      "source": "The Economist",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXFaaVdubVVEcF8tcU85alhpRW1fMVVFVlFOUnZBS1JBVXljdFVXRjhoejVzVEt0bVlCZGd2OTgtSGN2TTY0NHV3YnFxNXBueVQ3ZDJJQ3o5TFRSeHFESVc0bk5JQjJqZVBJRkU3aGExNzk2WGJ2a0xnOGZPS0duVFdYUFl5SGY5dDR0MFZRWFVfMFJwYVlTWVZ2VkM0NS1tLTJ1MHNvb01kWF85bkVB?oc=5",
-      "category": "国際・政治",
+      "title_ja": "中国製AIツールが悪用され日本国内のハッキングに関与か",
+      "original_title": "Chinese AI Tool Linked to Hacks in Japan - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzI3bFVJdEgwYUUwTWxUY2UyZlVFYmI3QlBWU3BMMG1hWjhHZVQ1UHZFaUlBdGwwc2pPdXJxYTgtWVlxdXh1QktTOW55dW9QU2ZZYldSNGM2WklORTNpZWJBZ2NMZEQ5cE9aSl9SaHBnTmpDZ0VmdkJVSkt6OFJSZzZWa0NkLVU?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "ロシア",
-        "外交",
-        "報道"
+        "AI",
+        "サイバー攻撃",
+        "中国"
       ],
       "summary_points": [
-        "ロシア政府が日本人ジャーナリストを拘束したことで、ウクライナ侵攻以降冷え込む日露関係がさらに悪化している。",
-        "詳細な容疑や拘束の背景については不透明な点が多く、日本政府が解放に向けた対応を進めている。",
-        "ジャーナリストの安全確保と情報統制が強まるロシアの姿勢に対し、国際社会からも懸念の声が上がっている。"
+        "中国製の人工知能（AI）ツールが、日本国内を標的としたハッキング攻撃に関連していることがウォール・ストリート・ジャーナル紙によって報じられました。",
+        "AI技術の急速な進化がサイバー犯罪の自動化や効率化に悪用されている実態が浮き彫りになっています。",
+        "国家間のサイバーセキュリティにおいて、AIを活用した新たな脅威への警戒感が世界的に高まっています。"
       ],
-      "global_perspective": "英エコノミスト誌などは、ロシアによる強硬な姿勢が日本の安全保障や外交方針に与える影響を厳しく分析している。",
+      "global_perspective": "AIの軍拡競争や悪用リスクの文脈で、アジア太平洋地域におけるサイバー空間の安全保障上の懸念として注目されています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "米海兵隊員の殺人・強盗事件を受け、沖縄の基地が夜間外出禁止と飲酒規制を導入",
-      "original_title": "Japan air base imposes junior enlisted alcohol ban, curfew after local murder - Military Times",
-      "source": "Military Times",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQzI4RjA4Y2Nuc2lKSzZYd1FNYU85MlE5NjRITWw2c2xGQ2RCc0V3c3F5Z3VfcDNSS09ubUs3NUhyS2dwNjhVd0t1SXlYOVludFByX0ZFZHI3aDRwUW5MclNRaVg0TEdvNFAtRFRSUXBoaUZQbnRFcXlWNWo1UFJNNXlKdV9ORm5XUzZKenk4bTlySDRzaVhYVmxWZlRSc01RRVFHS3cwbmpROHVIanNyQlBzSy1URUtnMXNlUDVaZkdfLUJjQXlfdGVBclBKVEN3azBB?oc=5",
-      "category": "社会・文化",
+      "title_ja": "米軍、日本国内の基地における中国BYD製車両の乗り入れを「許容できないリスク」として禁止",
+      "original_title": "US bans vehicles from China’s BYD at Japan military base, calling them ‘unacceptable’ risk - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjJxZVhoTEdteGVkRUE1Z1NRdy03TWFKYW1QSXJyRWU2bzdjRWFHcDlTUjMybkJ3bGNJaWZhMk5iTTVNcTZMdjdubzROdlhPUzZKcXVzalRHTVNDN3BPR29JcmRBSzlFMW5mZW5FcjdhUUpRa29xU3pJTU1sWUhLVGthTVN4NVFXajZzLU03c3RlMnlBN0QzWFc4NEI?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "米軍基地",
-        "沖縄",
-        "事件"
+        "米軍",
+        "BYD",
+        "EV",
+        "安全保障"
       ],
       "summary_points": [
-        "沖縄県内で発生した女性殺害・強盗事件を受け、在日米軍の一部基地が若手兵士を対象に夜間外出禁止令と飲酒禁止措置を課した。",
-        "起訴された米海兵隊員による犯罪行為が地元社会に大きな衝撃を与えたことを受けた緊急措置となる。",
-        "米軍側は規律強化と綱紀粛正を急ぐが、地域住民の間では基地の存在そのものに対する根強い反発が続いている。"
+        "米国防総省および関係機関が、日本国内の米軍基地内において中国のEV大手「BYD」製車両の乗り入れを禁止しました。",
+        "理由は「許容できない安全保障上のリスク」とされており、データ収集や通信機器を巡る懸念が背景にあります。",
+        "安全保障上の観点から、中国製ハードウェアや電気自動車に対する警戒が在日米軍施設にも波及しています。"
       ],
-      "global_perspective": "米国の専門メディアや一般紙は、米日同盟の足並みを乱しかねない深刻な不祥事として連日大きく報道している。",
+      "global_perspective": "経済安全保障の観点から、中国製EVやテクノロジーが持つ情報漏洩リスクに対して米政府が強い警戒姿勢を示している象徴的な事例として捉えられています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "日本の自動車労働組合、2027年春闘に向けてインフレ連動型以外の賃上げ要求を模索",
-      "original_title": "Japan auto union group looks beyond inflation-linked pay hikes for 2027 talks - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYkdsZlNicmFJemYxa09ucUMxTlZxT1M1bnJ6eUpOT1BwM29kLXROSXZkSlF3Tk9TV2cwemw2eUxUejjjWVV5akp2em1tX0Zzc1JhamdSeF9IbWVWRHVBdVF0Y2E5LXZ6RGtFVy1keDJ4cWdTM09XXy1yejVmemt1ckdmaEVQRXNCclU3WVRrRUNPVjh4OEtkN3FnYmU3czlMYmRoc1Zsc0JwTEl3cU9IR21pVVdPZ2pNZXA5NU5lLTdWVGVBckFfZzE3d2Z1OXR2MkhIaG53?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "44のAIエージェントを駆使する「CyberStrikeAI」、日本の標的に対するハッキングを自動化",
+      "original_title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets - The Hacker News",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XVXBTdTVsTmJSUXJDN3Y4VmVudFJaRFFISWxxTFRXb2Jwbkg3MS1Db0Y3ZzA2dGxBQUc1Tnp6WUVJVFVBNXJmQ214MmxWTjlZMGprQV91Z3JDQWM2UXNzcllLVVNyV0t2M3F6Q1dlN2pYRTMyX1dENWg2ZkxNUQ?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "春闘",
-        "自動車",
-        "賃上げ"
+        "AIエージェント",
+        "サイバーセキュリティ",
+        "ハッキング"
       ],
       "summary_points": [
-        "日本の主要な自動車労働組合グループが、2027年の賃上げ交渉において物価高対策を超える新たな指標の導入を検討し始めた。",
-        "長年のデフレから脱却しつつある日本経済において、企業の持続的な成長や生産性向上を反映した賃金体系への移行が狙いである。",
-        "単なるインフレ補填ではない賃上げの定着は、日本全体の消費マインドや経済の好循環を占う試金石となる。"
+        "「CyberStrikeAI」と呼ばれるシステムが、44ものAIエージェントを連携させて日本企業へのハッキング攻撃を完全に自動化していることが判明しました。",
+        "AIによるサイバー攻撃の高度化とスピードアップが進んでおり、従来の防御手法では追いつかない危険性が指摘されています。",
+        "日本が高度な自動サイバー攻撃の「実験場」あるいは最初の標的として選ばれている点が専門家の間で危惧されています。"
       ],
-      "global_perspective": "海外の経済メディアは、日本企業の賃上げトレンドが一時的なもので終わらず、構造的な変化に移行しつつある点に注目している。",
+      "global_perspective": "AIによる攻撃の自動化という、サイバーセキュリティ業界における最先端かつ最も不穏なトレンドの具体例として技術系メディアで大きな衝撃を与えています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "日本最大規模の海洋DNA調査、北日本で126種の魚類の生息北限を更新",
-      "original_title": "Japan's largest marine DNA study detects 126 fish species farther north than previously recorded - Phys.org",
-      "source": "Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rTDROVzZpeFhXSGVfOFl2VFphRlEzcThvZENQejZUUGdDaXAyRTh6RUVlelVpM3ktcmowWktzTklndUVMSzVPcVo0ekxjdHVWR2NCS0VseDNwX2dXRF9nTGVwdXg0b1dGdFFfckZVWkRuZw?oc=5",
-      "category": "テクノロジー",
+      "title_ja": "日本のデータセンター急増に対する反発、日本は住民や環境の懸念を克服できるか",
+      "original_title": "Can Japan Beat the Data Center Backlash? - Bloomberg.com",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzZldEZZX0E0LXJoYWoxYjhQU1U2Zl8xdHRGVU42X2xjOU5Tc1pYVW1GNXljUVUxektfeGo5dzNjTEhLNHVVZXZBRU5vSFNjTF9qNWRxdXFmNVl1TTlpbkFMeVRvY0x5RHRHUFhGNC1ZNW1uUGtSVE04ZWtPemdvTzcwTS1MN0tmUTRrZGNmNVd6eGJ0c0VLa3NUX2twRUZOMzdPSUJDZUJGQkJRRUpneTBQaFNlZ1E?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "環境",
-        "海洋",
-        "気候変動"
+        "データセンター",
+        "インフラ",
+        "Bloomberg"
       ],
       "summary_points": [
-        "日本国内で行われた過去最大規模の海洋環境DNA調査により、126種もの魚類がこれまでの記録よりも北方の海域で発見された。",
-        "海水温の上昇をはじめとする気候変動が、海洋生態系の生息域や分布図に劇的な変化をもたらしていることが科学的に裏付けられた。",
-        "環境科学者らは、水産業への影響評価や今後の生態系保全に向けたデータとしてこの調査結果を重視している。"
+        "AIブームやクラウド需要に伴い日本国内でデータセンターの建設が急増する一方、電力消費や環境負荷に対する住民の反発が強まっています。",
+        "電力インフラへの負担や景観への影響など、地域社会との摩擦が今後のデジタルインフラ拡充の大きなボトルネックになり得ます。",
+        "政府や企業が、こうした「データセンター・バックラッシュ（反発）」をどのように解消し持続可能な開発を進めるかが注目されています。"
       ],
-      "global_perspective": "世界の科学・環境系メディアは、地球温暖化が海洋環境に与える影響を可視化する先進的な事例として報じている。",
+      "global_perspective": "世界的なAIインフラ投資の波が地方都市や地域コミュニティとどのような摩擦を生んでいるか、経済金融の視点から深く分析されています。",
       "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "皇位継承の改革論議が日本君主制の将来に与える影響とは",
-      "original_title": "How Japan's Reforms on Imperial Succession Affect Its Monarchy - Time Magazine",
-      "source": "Time Magazine",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY2Z6VjAyMnBtdnVhVUx6R1VWdFdpUU1jUEpMMVFnTHlaTENrTWs3ZDBDSFlsVmF0UFpkU25xU1o4NndkallOZ216SnZzVFhaWm9jR1dDSF9fWDB2SFlKOW1pU05fZ0kyazU1YmFqVXpRWjV3cDd1NGR4bFBMS3R4MDhpZWRmU0lfcVJGalppSXU1OGRCWFVFNTBwTTdXTFk?oc=5",
-      "category": "社会・文化",
+      "title_ja": "米国株の揺らぎに対する分散投資先として、日本や欧州の株式市場に高まる期待",
+      "original_title": "AI stocks have rattled U.S. and emerging markets. Japan and Europe could help investors diversify - CNBC",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUktLV3hRNDE1aWkyZmpLOHVLblR1eHFPWWFfVzV6M2o1cjBSeXQyRDNrMi14QVIzRnZoOFR3ZmYyRHAzaVlJNXR5bUJiUlFiRFZoZFQwTENld2p3dkZrbFo4MkdYTVRJZkN6S1RQWFIyRzZfbTVRMGRENEFjUHNubg?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "皇室",
-        "皇位継承",
-        "伝統"
+        "株式市場",
+        "投資",
+        "分散投資",
+        "CNBC"
       ],
       "summary_points": [
-        "皇族数の減少や継承問題に直面する中、日本国内で続けられている皇位継承ルール見直しの議論に海外メディアが改めて焦点を当てた。",
-        "世界最古の世襲君主制の一つとされる日本の皇室が、伝統の維持と現代的なジェンダー観のバランスをどう取るかが問われている。",
-        "男性皇族の減少という喫緊の課題に対し、将来的な制度変更の行方に国内外の関心が集まり続けている。"
+        "米国のAI関連株や新興市場が不安定な値動きを見せる中、投資家のリスク分散先として日本株や欧州株への注目が集まっています。",
+        "日本企業のコーポレートガバナンス改革や底堅い業績が、海外の機関投資家にとって魅力的なセーフティネットとして機能しています。",
+        "グローバル市場におけるポートフォリオ再構築の文脈で、日本市場の存在感が増していることが伝えられています。"
       ],
-      "global_perspective": "米タイム誌などは、伝統を重んじる日本社会が直面する少子高齢化の影が、象徴天皇制の存続基盤にも影を落としていると冷静に分析している。",
+      "global_perspective": "米国一極集中だったハイテク株投資の見直しが進む中、日本が安定したオルタナティブ（代替投資先）として再評価されているトレンドを伝えています。",
       "reading_time": "約1分"
     },
     {
       "id": 7,
-      "title_ja": "日本国内の多言語ホットライン、スペイン語とポルトガル語による精神的サポートを開始",
-      "original_title": "Japan hotline offers emotional support in Spanish, Portuguese - Japan Today",
-      "source": "Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPamFyamc4SGVnS3RST0wtLTlEb2YtTTNmSGFXaDAyZGJVZ0lBV1NsdHctOFc1SmowY01CTkl0a0ZKNDMtSzZBOHM3QnVYN2JGeHBuc0JNWGE2WXZvRkk5OVNfNGZRMzBSbDktRzFHOEZxeXRZeGJJWXFsMjF2bG9yRmRqaVROZ0dBUEZGTmxaQnNVV1JUVmJkX0FncmI4RlR4Y3NTYnY1S1VxVTFlY0E?oc=5",
-      "category": "社会・文化",
+      "title_ja": "日本市場に参入する中国初の軽自動車、プロモーション写真の演出に海外メディアが困惑",
+      "original_title": "China’s First Car For Japan’s Kei Segment Has A Press Photo That Weirds Me Out - The Autopian",
+      "source": "The Autopian",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1lBN1k4Qm55NkJFYVBrR2F4OWRCSnRSbnlOQzhDajI5cGMyMl9zMnlfOWdiM2RTTVZaZ2J1aGx6akduWEtWczk0QnV1YWhTZWdIUURPWU1oVUJoZmREZDRCOGt2QXY1TFdhS1Q1b1ZwOWJnX1Uwd3ZseGZ4U0t1Z09mYXlueTdBV280TzhhYTFrUEZqWXNGbUVzSUNLR0tFRHQzVS1HTmk?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "外国人労働者",
-        "メンタルヘルス",
-        "福祉"
+        "自動車",
+        "軽自動車",
+        "中国車",
+        "EV"
       ],
       "summary_points": [
-        "日本国内で暮らす外国人住民向けに、スペイン語とポルトガル語に対応したメンタルヘルスの相談ホットラインが開設された。",
-        "言葉の壁や文化の違いから孤立しがちな外国人労働者やその家族への心理的サポートを強化するのが狙いとなる。",
-        "定住外国人が増える中、社会全体のインフラとして福祉や医療アクセスの改善が急務となっている。"
+        "中国メーカーが日本の独自市場である「軽自動車」セグメントに投入する初の新型車について、独特な公式プレス写真が話題となっています。",
+        "独自の自動車文化を持つ日本の軽規格に海外メーカーが挑む姿勢は注目を集める一方、そのマーケティング手法には奇異な視線も向けられています。",
+        "閉ざされた日本独自の軽自動車市場に外資系EVが切り込む試みとして、自動車ファンの間で議論を呼んでいます。"
       ],
-      "global_perspective": "日本が「移民社会」へと徐々に移行する中で、福祉やメンタルケアなどのセーフティネット整備がどのように進められているかに関心が集まっている。",
+      "global_perspective": "日本の独特な「軽自動車」文化に対する海外からのユニークな視点と、中国メーカーのグローバル展開のユニークな一コマとして面白おかしく取り上げられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 8,
+      "title_ja": "少世代・企業文化・利益の追求：日本の「AIスーパーサイクル」がもたらす変革",
+      "original_title": "Japan AI Supercycle: Demographics, Corporate Culture & the Pursuit of Profits - Asia Society",
+      "source": "Asia Society",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRENlNC1idC16T0RpOThxbXI3MVdNZC1rTHRiUldRWl9KVUpLU0VuWFVHUm1VVDZ3NWZHWEZBZG51cUhvT2FqdlVpMjFmN043SnhHSHhRbkRoVmF3U0ZIRVFSN0t0ZGJPQjFFTGFMSFh5Q0k4MVNjN25iYmFJRGVLT1VkN2RZWkZ0c1V4cTlIQjB5MlJ2SzRvU0UwdWFnbWZBYXBXYkZB?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "AI",
+        "人口動態",
+        "日本経済",
+        "アジア協会"
+      ],
+      "summary_points": [
+        "深刻な少子高齢化という人口動態の課題を抱える日本において、AI技術の導入が生産性向上への切り札として期待されています。",
+        "伝統的な日本の企業文化が変化しつつある中で、利益追求とデジタル変革（DX）がどのように融合しているかが分析されています。",
+        "日本が直面する構造的課題とAI技術の掛け合わせが、独自の「AIスーパーサイクル」を引き起こす可能性が議論されています。"
+      ],
+      "global_perspective": "単なるテクノロジーの導入にとどまらず、日本の人口減少社会における構造改革の起爆剤としてAIがどう機能するかを高所大所から捉えています。",
       "reading_time": "約1分"
     }
   ]
