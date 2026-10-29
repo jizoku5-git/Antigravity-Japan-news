@@ -1,0 +1,107 @@
+{
+  "updated_at": "2026-10-30 07:03 JST",
+  "date": "2026-10-30",
+  "total_articles": 5,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "日米、ミサイル共同生産と迎撃ミサイル増産で合意",
+      "original_title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
+      "source": "Breaking Defense",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFE5aE5ZVUVZcFhibEJzXzByUXNsbWJYOVdyZDc2RkZMcTVGc1RNM09fRUhFUHFBOXR4dHVZODBNWXFXVFhCbEk5aXBYYTNWcE1mamp0alIxZ3NjSEhIWEduTVBIZTZEbVhnb3hhWTI4ZUdXSWthOGxqNEY0SkhXY2FmSE93NUJyOGFqeXhiLXQyb1RrTjJrRkUxaEFOQkNJWmpOWm5idmRrVGVaMjZueENNRFBsYUp3?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "防衛",
+        "日米同盟",
+        "ミサイル生産"
+      ],
+      "summary_points": [
+        "日本国内に日米共同でのミサイル生産拠点を新設することで正式合意した。",
+        "空対空ミサイル「AMRAAM」の組み立てや、迎撃ミサイル「SM-3」の生産能力の大幅な引き上げが盛り込まれた。",
+        "安全保障環境が厳しさを増す中、両国間の防衛産業協力が一段と深化している。"
+      ],
+      "global_perspective": "同盟国間のサプライチェーン強化と、アジア太平洋地域における抑止力向上に向けた具体的な防衛協力の進展として高く評価されている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "日銀、政策金利据え置きへ　追加利下げ・利上げの観測も示唆",
+      "original_title": "Bank of Japan to hold rates, signal further hikes - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU2NkbUJhYUg5ekRVRnhPRTNXcTRRekd0RU92a1RJcWhMSDNNZUVMcEJueEl6UWlaaTBYd1VrVmlPVlJrNkNHRXZZRkhDM1NtTFM1Z1E1QUF0b2VZR1N0QTFfYi1XNkNDZDB0b3lLN3hYeUZuWWszcURrbVBNcWlzYmNTeGRTazEzNUtJNnFZR1M3UTdTRExvMi1vWVZ5dw?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "日銀",
+        "金融政策",
+        "金利"
+      ],
+      "summary_points": [
+        "日本銀行は今回の金融政策決定会合で政策金利を据え置く見通しである。",
+        "一方で、今後の経済データ次第ではさらなる追加利上げを行う方針を示唆すると報じられている。",
+        "市場では、日銀の正常化プロセスが今後どのように進められるかに関心が集まっている。"
+      ],
+      "global_perspective": "世界の主要中央銀行が利下げにかじを切る中、独自の金融引き締め（正常化）を進める日銀の次の一手と為替市場への影響に世界的な注目が集まっている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "日本のGMOグループでのハッキング被害、相次ぐサイバー攻撃への懸念が高まる",
+      "original_title": "Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVNyQzhTdWE5emJCNzR3MWlBZGRvYTl5Sk80LTY1d3JuN3NxTVRWYUIxdkR1bWVLMkYxVktCQzdidkViUjRmaXNxcVRhbFgtcHg2RGh4SXFCYnNPWHg2NUl5OVRTUjhBZFRvU2FxcmVjZlVadFlfR0dHRmRqN3RJaGJwcXl1N3BzbnZvX0o0X2FGQlVaM015VVNDZS1pdG9fSEs1azUzOEpzZWVLZlR4eDVNRHVzUQ?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "サイバーセキュリティ",
+        "FX",
+        "GMO"
+      ],
+      "summary_points": [
+        "GMOのFXブローカー関連システムがハッキング被害を受け、日本政府がサイバー防衛の緊急強化を表明した。",
+        "相次ぐ巧妙なサイバー攻撃が、国内の金融インフラの脆弱性を浮き彫りにしている。",
+        "企業・政府ともに、一層のセキュリティ投資と防御体制の刷新が急務となっている。"
+      ],
+      "global_perspective": "経済安全保障上の大きな脅威として、日本の重要インフラや金融セクターにおけるサイバー対策の遅れと、急ピッチでの改善の必要性が指摘されている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "米ポテト業界、トランプ氏に日本市場の開放を強く要請",
+      "original_title": "Potato industry urges Trump to open Japan market to U.S. potatoes - Brownfield Ag News",
+      "source": "Brownfield Ag News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWJQM1pobklCMUowaWdSdkg0U3Nod3pKR25IQ3BWUmd2WVVUV05iU2t4bHJPQ1dqZThHY1lseVBrYjhCN2JQSE5uV05iRlVDdlVZMXNCa0dUWHV3WERkX2E2cUk1UUdpMzUwLVZISTNoZzlzRTRra3I5dGY4WXQ0cDlGblBMSXJHa0QtT2pnUS1vdUtpZXVTN1J2V2hjQnpZ?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "農業",
+        "貿易",
+        "アメリカ"
+      ],
+      "summary_points": [
+        "アメリカのポテト産業団体が、次期政権を見据えて日本市場への輸出規制緩和を働きかけている。",
+        "検疫上の理由などで制限されている米国産ポテトの市場参入拡大を強く求めている。",
+        "今後の日米間の通商交渉における新たな火種になる可能性がある。"
+      ],
+      "global_perspective": "アメリカの農業セクターが政権交代の動きを利用して、日本の厳格な輸入規制の壁を突破しようとするロビー活動の活発化として捉えられている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "日本初となる「DJI×ハッセルブラッド」の公式リテールショップがオープンへ",
+      "original_title": "Japan Is Getting Its First DJI x Hasselblad Retail Store - PetaPixel",
+      "source": "PetaPixel",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWUh0Y29NVHNyU3hseWllSnZlM0EzblpCVjgwSURFSDN1NUJTSmY0TE1aUjRZMVYzVl85Mk45b1U5U2FvSVd6Rmx1dHlYcGE2V2xIUFdDSURlSUtyUE1GTmpIdmVIZFpHajJqRDNGbS1mSC1tUUpRc29vTWJqRVBVRDBTdkhyQUcteTNkX0xYaV9NOEpQ?oc=5",
+      "category": "観光・トレンド",
+      "tags": [
+        "ガジェット",
+        "カメラ",
+        "DJI"
+      ],
+      "summary_points": [
+        "ドローン大手DJIと高級カメラブランドのハッセルブラッドによる日本初のコラボ店舗が開設される。",
+        "最新のドローンやプロ向けカメラ製品を実際に手に取って体験できる拠点となる。",
+        "日本のクリエイター市場に向けたブランドの直接的なアプローチが強化されている。"
+      ],
+      "global_perspective": "日本の高水準なカメラ・映像クリエイター市場に向けた、海外テックブランドのオフライン戦略の成功事例として注目されている。",
+      "reading_time": "約1分"
+    }
+  ]
+}
