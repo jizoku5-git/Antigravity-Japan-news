@@ -1,106 +1,126 @@
 {
-  "updated_at": "2026-10-30 07:03 JST",
-  "date": "2026-10-30",
-  "total_articles": 5,
+  "updated_at": "2026-10-31 06:57 JST",
+  "date": "2026-10-31",
+  "total_articles": 6,
   "articles": [
     {
       "id": 1,
-      "title_ja": "日米、ミサイル共同生産と迎撃ミサイル増産で合意",
-      "original_title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
-      "source": "Breaking Defense",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFE5aE5ZVUVZcFhibEJzXzByUXNsbWJYOVdyZDc2RkZMcTVGc1RNM09fRUhFUHFBOXR4dHVZODBNWXFXVFhCbEk5aXBYYTNWcE1mamp0alIxZ3NjSEhIWEduTVBIZTZEbVhnb3hhWTI4ZUdXSWthOGxqNEY0SkhXY2FmSE93NUJyOGFqeXhiLXQyb1RrTjJrRkUxaEFOQkNJWmpOWm5idmRrVGVaMjZueENNRFBsYUp3?oc=5",
-      "category": "国際・政治",
+      "title_ja": "日銀が「インフレ勝利」を宣言、追加利上げへの道筋が明らかに",
+      "original_title": "Bank of Japan Declares Inflation Win, Clearing Way for Rate Hikes - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnJWU0FUQ3RzZzNCVjVCREZiMTJvOGI5UjU1VmlwR2lmYThxSGt2LS10eTEzd054TXpCVjhnRFlVcDBWYjAxOHRSSFZKdlVqMGJ0WDJGck43cTFGRXRiYW1TYTlrZUVEdEJVWVdCZjI4ZUV0czFUOC15dG9FYlpwRk5FOHFNR25RbWhrRVVPVlVkcWJUTGtrNVlzMnFaa1JjOGtrQjRLWG5JTnBrMi1R?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "防衛",
-        "日米同盟",
-        "ミサイル生産"
+        "日銀",
+        "インフレ",
+        "金融政策"
       ],
       "summary_points": [
-        "日本国内に日米共同でのミサイル生産拠点を新設することで正式合意した。",
-        "空対空ミサイル「AMRAAM」の組み立てや、迎撃ミサイル「SM-3」の生産能力の大幅な引き上げが盛り込まれた。",
-        "安全保障環境が厳しさを増す中、両国間の防衛産業協力が一段と深化している。"
+        "日本銀行が長年の目標だったインフレ（物価上昇）の達成を事実上宣言しました。",
+        "この発表により、今後の追加利上げ（金利を引き上げる政策）に向けた環境が整ったと見られています。",
+        "海外の主要金融メディアも、日本の歴史的な金融政策の転換点として大きな関心を寄せています。"
       ],
-      "global_perspective": "同盟国間のサプライチェーン強化と、アジア太平洋地域における抑止力向上に向けた具体的な防衛協力の進展として高く評価されている。",
+      "global_perspective": "世界の金融市場は、マイナス金利解除に続く日銀の次の利上げタイミングと、日本経済の本格的な正常化プロセスに強い関心を寄せています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "日銀、政策金利据え置きへ　追加利下げ・利上げの観測も示唆",
-      "original_title": "Bank of Japan to hold rates, signal further hikes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU2NkbUJhYUg5ekRVRnhPRTNXcTRRekd0RU92a1RJcWhMSDNNZUVMcEJueEl6UWlaaTBYd1VrVmlPVlJrNkNHRXZZRkhDM1NtTFM1Z1E1QUF0b2VZR1N0QTFfYi1XNkNDZDB0b3lLN3hYeUZuWWszcURrbVBNcWlzYmNTeGRTazEzNUtJNnFZR1M3UTdTRExvMi1vWVZ5dw?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "トヨタとWaymoが提携、2027年に日本国内で自動運転タクシーサービスを開始へ",
+      "original_title": "Toyota, Waymo to begin autonomous taxi trial service in Japan in 2027 - Japan Today",
+      "source": "Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZXZ0cFZ4Vi1rNk8wbFNEMl8ybllhRU1lMUVPdWNHV3hUelFES1pFSW9sTjJDQjBtaTdVV3pOcnl0aklCRzVBd25MUF9UYk9OUHhhWDFTVlJ0U21RRnp5MXRFT3ZONVpfTURCdUpTZFZHcWItWDc0LXBQN3lPUU5LZHluT2duV0JDUnluVngzYThIVzF4VW14S1JFYVI3T0h5VlhuNlNwZ2lyZXZzSjBSXzNlZkh1WV9t?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "日銀",
-        "金融政策",
-        "金利"
+        "トヨタ",
+        "自動運転",
+        "Waymo"
       ],
       "summary_points": [
-        "日本銀行は今回の金融政策決定会合で政策金利を据え置く見通しである。",
-        "一方で、今後の経済データ次第ではさらなる追加利上げを行う方針を示唆すると報じられている。",
-        "市場では、日銀の正常化プロセスが今後どのように進められるかに関心が集まっている。"
+        "トヨタ自動車と米アルファベット傘下の自動運転開発企業Waymoが提携を発表しました。",
+        "トヨタの車両「bZ4X」をベースにした自動運転タクシー（ロボタクシー）を用い、2027年に日本での実証サービス開始を目指します。",
+        "日本のモビリティ市場において、自動運転の実用化が一気に加速する契機として注目されています。"
       ],
-      "global_perspective": "世界の主要中央銀行が利下げにかじを切る中、独自の金融引き締め（正常化）を進める日銀の次の一手と為替市場への影響に世界的な注目が集まっている。",
+      "global_perspective": "世界のテック・自動車業界は、自動運転のトップランナーであるWaymoと世界最大手のトヨタのタッグが、海外市場への展開にどう影響するかを注視しています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "日本のGMOグループでのハッキング被害、相次ぐサイバー攻撃への懸念が高まる",
-      "original_title": "Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers - WSJ",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVNyQzhTdWE5emJCNzR3MWlBZGRvYTl5Sk80LTY1d3JuN3NxTVRWYUIxdkR1bWVLMkYxVktCQzdidkViUjRmaXNxcVRhbFgtcHg2RGh4SXFCYnNPWHg2NUl5OVRTUjhBZFRvU2FxcmVjZlVadFlfR0dHRmRqN3RJaGJwcXl1N3BzbnZvX0o0X2FGQlVaM015VVNDZS1pdG9fSEs1azUzOEpzZWVLZlR4eDVNRHVzUQ?oc=5",
-      "category": "テクノロジー",
+      "title_ja": "日本の2023年のアニメ産業市場、15.8%増の約4.4兆円規模に急成長",
+      "original_title": "Special Report Shows That Japan’s Anime Industry Grew by $15.8% to $28.18 Billion Last Year - Animation Magazine",
+      "source": "Animation Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONFpnZTc5c0lISldrV0tuQzRNUUhlWmxFcUJuZ3ZVdnhFaGQtRVlOcGYzRWU0TzkyYUN2Z2duRTJmZmRhNzZCU3JMNUlISDNod1U4S2NCUkVlSzZpT0Q5STZYQ0dIU21tNk5KcjdlQ2JKR29zRVZiWl9kYjFwMnhSd3REdm5rbkpQTWlIQV9JSm9NRUFoaEZrVWtveXAwQVhmRUZaaHBhcU8yZy1wMHFhQmxoY1hveG8yTHcwcVZnTl8wdDluT0VLdDhn?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "サイバーセキュリティ",
-        "FX",
-        "GMO"
+        "アニメ",
+        "エンタメ",
+        "経済成長"
       ],
       "summary_points": [
-        "GMOのFXブローカー関連システムがハッキング被害を受け、日本政府がサイバー防衛の緊急強化を表明した。",
-        "相次ぐ巧妙なサイバー攻撃が、国内の金融インフラの脆弱性を浮き彫りにしている。",
-        "企業・政府ともに、一層のセキュリティ投資と防御体制の刷新が急務となっている。"
+        "最新のスペシャルレポートによると、昨年の日本のアニメ産業は前年比15.8%増の約281.8億ドル（約4.4兆円）に達しました。",
+        "海外市場からの収益や配信プラットフォームの拡大が、全体の記録的な成長を力強く牽引しています。",
+        "世界的な日本アニメの人気の高まりが、数字としても明確に証明される結果となりました。"
       ],
-      "global_perspective": "経済安全保障上の大きな脅威として、日本の重要インフラや金融セクターにおけるサイバー対策の遅れと、急ピッチでの改善の必要性が指摘されている。",
+      "global_perspective": "海外メディアは、日本のコンテンツ産業が国内市場の縮小を乗り越え、グローバルなエンタメ市場の主役に躍り出ている成功モデルとして高く評価しています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "米ポテト業界、トランプ氏に日本市場の開放を強く要請",
-      "original_title": "Potato industry urges Trump to open Japan market to U.S. potatoes - Brownfield Ag News",
-      "source": "Brownfield Ag News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWJQM1pobklCMUowaWdSdkg0U3Nod3pKR25IQ3BWUmd2WVVUV05iU2t4bHJPQ1dqZThHY1lseVBrYjhCN2JQSE5uV05iRlVDdlVZMXNCa0dUWHV3WERkX2E2cUk1UUdpMzUwLVZISTNoZzlzRTRra3I5dGY4WXQ0cDlGblBMSXJHa0QtT2pnUS1vdUtpZXVTN1J2V2hjQnpZ?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "日本政府、ミャンマーを国際マネーロンダリング監視機関のブラックリストから除外するよう働きかけ",
+      "original_title": "EXCLUSIVE: Japan pushes to remove Myanmar from global financial watchdog's blacklist - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOUE1aHhNQ1BkVTZYeHpxQzF3NDU1VzZUN1ozMHFRem81U3Z3YW50NXZ3ZUhxbnkteUdWNlhjY29HQjVOZzR4YjFvRWlid21aby1idno4YWZwbURuQ0lxcHhiaW9uRXZHTm1sWU9zT3FON2hfelBUQjNCcWlrZVRla2RrazU5VXU1dktLUmRiSmpkMkdrczBfcFRYTzhvRm9RRGJCMEo0X2IwWnRtQnVqTWNva28xd1NxalBv?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "農業",
-        "貿易",
-        "アメリカ"
+        "日本外交",
+        "ミャンマー",
+        "金融"
       ],
       "summary_points": [
-        "アメリカのポテト産業団体が、次期政権を見据えて日本市場への輸出規制緩和を働きかけている。",
-        "検疫上の理由などで制限されている米国産ポテトの市場参入拡大を強く求めている。",
-        "今後の日米間の通商交渉における新たな火種になる可能性がある。"
+        "日本政府が、FATF（金融活動作業部会）のブラックリストに掲載されているミャンマーの除外を求めていることが明らかになりました。",
+        "過度な経済制裁や孤立化が、かえって人道支援や二国間関係に悪影響を及ぼすことを懸念した外交的アプローチとみられます。",
+        "欧米諸国とのアプローチの違いも含め、国際社会で議論を呼んでいます。"
       ],
-      "global_perspective": "アメリカの農業セクターが政権交代の動きを利用して、日本の厳格な輸入規制の壁を突破しようとするロビー活動の活発化として捉えられている。",
+      "global_perspective": "独自の対ミャンマー外交を維持してきた日本が、国際金融の枠組みにおいても独自の存在感を示そうとしている動きとして海外で報じられています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "日本初となる「DJI×ハッセルブラッド」の公式リテールショップがオープンへ",
-      "original_title": "Japan Is Getting Its First DJI x Hasselblad Retail Store - PetaPixel",
-      "source": "PetaPixel",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWUh0Y29NVHNyU3hseWllSnZlM0EzblpCVjgwSURFSDN1NUJTSmY0TE1aUjRZMVYzVl85Mk45b1U5U2FvSVd6Rmx1dHlYcGE2V2xIUFdDSURlSUtyUE1GTmpIdmVIZFpHajJqRDNGbS1mSC1tUUpRc29vTWJqRVBVRDBTdkhyQUcteTNkX0xYaV9NOEpQ?oc=5",
-      "category": "観光・トレンド",
+      "title_ja": "メジャーリーグを目指す新たなルート、日本の高校生がアメリカへ直接挑戦する潮流",
+      "original_title": "Major-League Dreams: Japanese High Schoolers Pioneer a New Path to the MLB - Nippon.com",
+      "source": "Nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tdDRSc3ZxZ3haN2JSQXoxODZNeUlEbTFSSnVkYjFDd0RDQ09xSndvaFgtRS1falB1Q1RmVGNIX0hQSGk0RG1XSkF4YnFxOENwMi1SZQ?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "ガジェット",
-        "カメラ",
-        "DJI"
+        "MLB",
+        "高校野球",
+        "スポーツ"
       ],
       "summary_points": [
-        "ドローン大手DJIと高級カメラブランドのハッセルブラッドによる日本初のコラボ店舗が開設される。",
-        "最新のドローンやプロ向けカメラ製品を実際に手に取って体験できる拠点となる。",
-        "日本のクリエイター市場に向けたブランドの直接的なアプローチが強化されている。"
+        "日本の高校球児の間で、日本の大学や社会人を経由せず、卒業後に直接米国のMLB（メジャーリーグ）を目指す新しいトレンドが生まれています。",
+        "若いうちから本場の育成環境に身を置くことで、より高いレベルでのキャリア構築を狙う選手が増えています。",
+        "日本の野球界のグローバル化と、アスリートのキャリア観の大きな変化を象徴する動きとなっています。"
       ],
-      "global_perspective": "日本の高水準なカメラ・映像クリエイター市場に向けた、海外テックブランドのオフライン戦略の成功事例として注目されている。",
+      "global_perspective": "大谷翔平選手らの歴史的活躍に続き、日本の野球才能がさらに早い段階で海を渡る現象として、米国のスポーツメディアからも熱い視線が注がれています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "MAZZELの「Touch」が自身初のBillboard Japan Hot 100で1位を獲得",
+      "original_title": "MAZZEL Scores First Japan Hot 100 No. 1 With ‘Touch,’ Naniwa Danshi’s ‘Moonlit’ Follows - Billboard",
+      "source": "Billboard",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWEV5WmlvcFZHY2hWckcwbVM0XzNqR21FNTFtUmxoRkRpRWo4d0Z3R1Q3Z2NwcC1DUHFjYjBnbWlNNnFlSG8wcmNjZHUzdjIzRlQ5enlSOEx6eHp5MnBwTHR3Z2tEXzBURjNBY0lvdFkyTTJEVDlyekk1SE9GcnBTbDlPZDFKNjVDR0ZjSk5nUm00MG5tc09KRDY5NjhmcVU3bHdmMW5IcWdBYXBGbDEzS0tR?oc=5",
+      "category": "観光・トレンド",
+      "tags": [
+        "音楽",
+        "ビルボード",
+        "MAZZEL"
+      ],
+      "summary_points": [
+        "BMSG所属のボーイズグループ「MAZZEL」の楽曲「Touch」が、Billboard Japan Hot 100で初の1位を獲得しました。",
+        "次いで、人気グループ「なにわ男子」の「Moonlit」が上位にランクインし、チャートを賑わせています。",
+        "日本の音楽シーンにおける新しい世代のアーティストたちの台頭を裏付ける結果となりました。"
+      ],
+      "global_perspective": "日本の音楽チャートにおけるトレンドの変化や、新たなボーイズグループの躍進は、アジア全体の音楽市場の動向を追う海外メディアにも注目されています。",
       "reading_time": "約1分"
     }
   ]
