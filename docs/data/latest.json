@@ -1,166 +1,146 @@
 {
-  "updated_at": "2026-11-01 06:56 JST",
-  "date": "2026-11-01",
-  "total_articles": 8,
+  "updated_at": "2026-11-02 09:55 JST",
+  "date": "2026-11-02",
+  "total_articles": 7,
   "articles": [
     {
       "id": 1,
-      "title_ja": "日米韓が北朝鮮の「完全な非核化」を共同要求、安保連携をさらに強化",
-      "original_title": "US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNk54ZVpjVUFheEdZN0lNakY0NVh4TjZqMGpIcFIybzJrcVlrNV9oV2dIUGxGcTE0VzB3ODhVaHYyenVqUU12MEZUR3RKQld4VTdxRndlVGxUcWRWZWFQcUotZFIwT3JGa3RycUZfZkJ6UWNfNG15cDQ5WEJyRTVENmNaczJIVkIzT0FVN2xTV1NhMDJPbWF6dzlqdndoSWVzNGxfSlN4OUstajlkemZvaHln0gG3AUFVX3lxTE9HNUdMQnljdnpJT1hQNjZ3Y29NQnU4SElnQjdMLXFaQkFySlpvd2dnMGE2RkVqc3hoYTBmLV9KX2dldW9MRlpsRFRGRFV1U092eXRJZHU3cWk5WnJWNGt3eDVINzU3RDh5V2VSdk1hZDhIVTBBaFNpdWthcDhaLTdZdTUxOVIyYkNlR2wwTkc3c0pzSVlqekRqcmhjOEVuUElubVlvdXZMTy1QbGRfakVtT1hRNUtNWQ?oc=5",
-      "category": "国際・政治",
+      "title_ja": "日本の10月工場生産の伸びが鈍化、コスト高が重荷に",
+      "original_title": "Japan's October factory growth slows as costs pick up, PMI shows",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHpkYmhCcHc0RVJPMzNVSElLRzl3MkJ0UWRaMjZXR3BUMGJZeTNKNDRTa29WanJuYkctNkVVN1RYOUxvZk9NQVIxM3I3aDlzUFI4Y3c3V3d1d2xGaS1pQy1VNWMtem8tSmV4MTczeFoya0h1a0FXM3JzYVR4YzBURkRPMVUzeGk0RjhJNG1HMmJYS3RaSTNsOVd2dWJXM3M0Y3hZNkZGRmJObTYwaVBiZEh5elI?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "安全保障",
-        "日米韓連携",
-        "北朝鮮情勢"
+        "PMI",
+        "製造業",
+        "物価高"
       ],
       "summary_points": [
-        "日米韓の高官協議において、北朝鮮に対する「完全な非核化」の達成を改めて強く求める共同声明が発表されました。",
-        "弾道ミサイル発射やロシアとの軍事協力強化など、緊張が高まる北東アジア情勢への対応が協議されました。",
-        "3カ国は情報共有や共同訓練など抑止力強化の実務的な枠組みを着実に前進させる方針を確認しています。"
+        "日本の10月製造業PMI（購買担当者景気指数）で、工場生産の伸びが鈍化していることが示された。",
+        "原材料費やエネルギーコストの上昇が依然として企業の大きな負担となっている。",
+        "国内外の需要の先行き不透明感もあり、景気回復の足踏みが懸念されている。"
       ],
-      "global_perspective": "中東メディアのAl Jazeeraは、日米韓の防衛連携が定着しつつある一方、ロシアと北朝鮮の急接近に対抗するための結束強化が国際社会の焦点になっていると報じています。",
+      "global_perspective": "世界的なインフレ圧力や中国経済の動向が、日本の製造業に与える影響に注目が集まっています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "3年で取引高が倍増、海外投資マネーが牽引する日本株市場の躍進",
-      "original_title": "The Giant Asian Market Where Stock Trading Doubled in Three Years",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1QxWC1NYkxrYThrYUZ5VHNkMkJGcDZaWl90WnRfM1ZDTlNxMGdoNGpKOU9odWhLSHc1VGdMVlNfVU1nNEZINDVTM0l1UVpwRFpjSmlQcXpaV2gzalBLYUFYU2xocURwSng4eFUydUU1eUpvNHBFalgzQXlnMUZyRWhqX3lJVHBLSW5MYmk2NXFnUEZDYURQQzZHWXRVSHFVVlpJd1h0cF9taWR0dXFfVnpDa045Q0Y4SUVfVG9uRHk?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "フィギュアスケートの島田麻央、スケートカナダで優勝",
+      "original_title": "Mao Shimada of Japan wins Skate Canada International",
+      "source": "WRAL",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnVkVWM4S0NYLWVMMEY4MlB1QmhrQVBWMFp1SFZyUzRMa1RuZVlwWVdOaTk1QzBobmFHZHlyY1VuS2V0LTRjLWRoRDJTcjViSmVoclB0ZUo2Zlc0MGhrVENiUmZCOF9ucE9CQW91UVR6Wkw4d2FUdlVmRGp5NGRzN0xoMzdGSDFyMkRYMW9aeE9xQQ?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "日本株",
-        "東京証券取引所",
-        "海外投資家"
+        "フィギュアスケート",
+        "島田麻央",
+        "国際大会"
       ],
       "summary_points": [
-        "日本の株式市場における売買代金が過去3年間で急増し、アジア屈指の活況市場として存在感を高めています。",
-        "東証によるPBR（株価純資産倍率）1倍割れ是正要請などの企業統治改革が、海外機関投資家の本格的な資金流入を後押ししました。",
-        "デフレ脱却への期待や円安を背景とした企業業績の好調さが、市場の流動性を一段と押し上げる要因となっています。"
+        "フィギュアスケートのグランプリ（GP）シリーズ第2戦、スケートカナダで島田麻央選手が優勝を果たした。",
+        "ジュニアから国際舞台で圧倒的な実力を示してきた若き才能が、シニアクラスでもその強さを証明した。",
+        "安定したジャンプと高い表現力が、海外メディアやファンからも絶賛されている。"
       ],
-      "global_perspective": "ブルームバーグは、かつて停滞していた日本市場が長年の構造改革とコーポレートガバナンス改善によって、グローバル投資家にとって魅力的な成長市場へと変貌したと高く評価しています。",
+      "global_perspective": "次世代のフィギュアスケート界を担う日本勢の層の厚さと、圧倒的な技術力が世界的に高く評価されています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "クアッド外相会合開催、インド太平洋の法と秩序維持へ連携確認",
-      "original_title": "Japan-Australia-India-U.S. (Quad) Foreign Ministers’ Meeting",
-      "source": "Ministry of Foreign Affairs of Japan",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05YVFEMDFNZmRldGl5M2N6cU5rRTBocUNRclMtc2JKXzBuc2FsZXRJdTA1OVdKb0VoVHRYNzVGSHFfWHJoekNXbloyN3NyLWdqUHZ6bnN6Q3ZiZm1seHBEXzVJMVVYQQ?oc=5",
-      "category": "国際・政治",
+      "title_ja": "ダノンデサイルが天皇賞を制覇、次なる舞台はジャパンカップへ",
+      "original_title": "Danon Decile Wins Tenno Sho, Japan Cup Looms",
+      "source": "BloodHorse",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkpjZFBxVmhNTE9xc2o1VWI3UUJaMGx5Mkx3R0VnVjRDMnRfS0M0bEFFR0xkczFjbFZ1VkVJNFM3V04yOGpvaXuweFpmWWh1NmpPTWFQU3prTk01NENzbFF1TFc4ZXprWWtmWGl5TGNwMzVJbjRBWFV3UUpKa0xVNUxJUU1EbWtPVEVUTFBPd1VWdkdkNzBKcFNER25EclF5?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "クアッド",
-        "外交",
-        "インド太平洋"
+        "競馬",
+        "天皇賞",
+        "ジャパンカップ"
       ],
       "summary_points": [
-        "日米豪印4カ国の枠組み「クアッド」の外相会合が開かれ、地域の安全保障と繁栄に向けた協力方針が協議されました。",
-        "海洋進出を強める中国を念頭に、「力による一方的な現状変更の試み」に強く反対する姿勢を再確認しました。",
-        "海洋監視能力の向上やインフラ支援、重要技術分野でのサプライチェーン強化など具体的な施策の推進で合意しました。"
+        "G1レースの天皇賞において、ダノンデサイルが見事な勝利を飾った。",
+        "レースを制した同馬は、次走として国際的にも注目度の高い「ジャパンカップ」への出走を視野に入れている。",
+        "国内の主要レースを制したことで、秋の古馬王道路線における主役に躍り出た。"
       ],
-      "global_perspective": "米大統領選や国際情勢の流動化が進む中でも、4カ国の首脳・外相レベルでの連携基盤が制度化され、地域の安全保障構造の要として機能し続けている点が注目されています。",
+      "global_perspective": "日本の競馬のレベルの高さと、秋のG1シーズンにおける盛り上がりが海外の専門メディアでも大きく取り上げられています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "アニメの真の評価者は誰か？ 日本の業界幹部が独自アワード新設を提唱",
-      "original_title": "Who Gets To Judge Anime? Japanese Industry Leaders Make The Case For A New Award",
-      "source": "Cartoon Brew",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUJzNFFQdElOMk1obzJQMXAxZC16VTd5Y0Z5cWFMTlF3RWpxVnpwS0NYT0hkbklQVTM3Nmc5YmYtVTNPVXREV0ZGS0liZnNIdWRjQVQxYVZmYmhKdV83NzhIUzBvb0s5MmNmaHdMZFVjcEk0TzVkdnJhUGxZbVFuMFpDVFZiREl5MUgzMG9kc1MzdDdfeWtpZFZnYUI?oc=5",
-      "category": "社会・文化",
+      "title_ja": "日本の国内アニメ市場、初の4兆円突破を記録",
+      "original_title": "Japan's anime market tops ¥4 tril for 1st time",
+      "source": "Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHRLYWU4cWRCcjhpWXY1a0psZ2V3SDN0eGZuNGJGWUpCTUJuNzdYS25FOGgxSWZFbE5VdUpVYjZ4NDg4MmVtNlZfSUxyQXJvSi1uUGNFenVxeTJqcFdQaFNEemd4RDBCcDJDMnVNMHEzZnI1eVRPalhTRkRPSTlYMmNZSU9DSmZ1NEM3WmktcFRkU3owSEE?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "アニメ産業",
-        "コンテンツ",
-        "文化発信"
+        "アニメ",
+        "エンタメ",
+        "市場規模"
       ],
       "summary_points": [
-        "日本のアニメ業界リーダーらが、海外プラットフォーム主導の賞とは異なる、制作者主導の本格的な新賞設立を訴えています。",
-        "クランチロール等の海外アワードの知名度が高まる中、現場の技術や芸術性を正当に評価する仕組みの必要性が指摘されています。",
-        "アカデミー賞のような業界内ピアレビュー（同業者による相互審査）の導入を通じ、日本発の権威確立を目指しています。"
+        "日本の年間アニメ市場規模が初めて4兆円の大台を突破したことが明らかになった。",
+        "海外での配信収益やライセンスビジネスの急拡大が、市場全体の成長を強力に牽引している。",
+        "国内の少子化トレンドに反して、グローバルなコンテンツ産業としての強さを証明している。"
       ],
-      "global_perspective": "海外のアニメ専門メディアは、日本のアニメ産業が世界的な商業的成功を収める一方で、コンテンツの評価基準や文化的決定権を海外プラットフォームに握られることへの業界内の危機感として報じています。",
+      "global_perspective": "世界的な日本アニメブームが単なる文化現象を超え、巨大な経済的価値を生み出しているビジネス側面が注目されています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "バングラデシュ支援で交錯する日中両国の思惑とインフラ戦略",
-      "original_title": "Opinion | Both Japan and China can help Bangladesh reach its full potential",
-      "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWtjZXBubnQwYlllY280Wi1vc3hWMl8zZEJ6UkE1SFRGOU83Y2JpTXdpTUo1TEEteDlOM2NMWmYwMFNrOC1ZR3ZCb0x2RGJGSFBsaF81VWZrX1lMbnJueHh0SFlDREE5aWI5czdwZGQxWVNkclBSVDRzQU83TldiYkZIbThwRGx0U1ZiWlZ1MDNYX2NQOW9RM1ZGN2VEeEQtQWtuWV92cWloaThxZ0FyVW9fbm9HeGwxQU8tdUJrZTDSAcABQVVfeXFMTm9LcDllWlB1bXdORDVtRGdiNDlhLVJsNWFQVlpvYmMwcnp0WU9ZVmx5MXBvVmk3NjZ5dUxZeWhOZkowMW83RGZnOXhYRVVXVjhzcmJkQmowNjliLVY5OGJkSmdQMEZvUlRhNFU2LVFDZGdidWkyU0FfV2lETVJ2anFCVjBJZ1NnZncwbU1lZ3E1enJCbi1BWFQtZVdWaUkyczZWbWNna2NMTmtCcUl6N3FMRVBhQ2pYVnlRM0g3WWZr?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "日本の球団が右腕エース伊藤をポスティングシステムで申請へ",
+      "original_title": "Right-handed ace Itoh officially posted by Japanese club",
+      "source": "MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81OHlFTDg4T3Vja1RjUXRLTUJKaUthOFBEajU5QTlabFNXQURsQWRaLUFJOC1aTTZaUlQ5RktCQ1ZXMTNhN0E1V05fZFpEd1hRRUJsZVBuRUswSjduLW9zb1lRVi03cnVDd2xhNDQ0eFQyT2xMZEVlVVhZeFTSAYgBQVVfeXFMTk1udS1rOXdjY2E4NFRWQlNYbl9oRk9yY3Jac2Y5OUNhNTdYZmtrb1dsSVB0WXRUc3dmdG1CTl9famMwRk40X3lPYmJ1bFdKRHA1UzNQcjhiODRkcWNWZ3Bra2d6WDA2VnNmeklzN3VjdWJXb2E5SXJia3F2OGNNR2hiNTFhY09FUQ?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "インフラ投資",
-        "地政学",
-        "途上国開発"
+        "MLB",
+        "プロ野球",
+        "ポスティング"
       ],
       "summary_points": [
-        "政情変動を経たバングラデシュに対し、日本と中国の双方がインフラ開発や経済支援で重要な役割を担うとの論評です。",
-        "日本はマタバリ深海港など高品質な大型プロジェクトを推進し、中国は「一帯一路」を通じた資金供給で競合関係にあります。",
-        "新政権下で同国が持続的成長を遂げるには、日中双方の強みを戦略的に取り込むバランス外交が求められます。"
+        "日本のプロ野球で活躍する右腕エースが、ポスティングシステムを利用してMLB挑戦を正式に表明・申請した。",
+        "メジャーリーグの複数球団が早くも獲得に興味を示しており、今オフの注目移籍市場の一つとなっている。",
+        "日本の投手力の高さはMLBでも高く評価されており、新天地での活躍に期待がかかる。"
       ],
-      "global_perspective": "香港紙SCMPは、南アジアの地政学的要衝であるバングラデシュを舞台に、日本の「質の高いインフラ投資」と中国の迅速な開発金融がどのように共存・競争していくかを注視しています。",
+      "global_perspective": "日本人トップアスリートのメジャーリーグ挑戦は、現地のスポーツメディアやファンにとって毎年の最大の関心事となっています。",
       "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "西武の剛腕・平良海馬がMLB挑戦へ、米メディアが先発能力を高く評価",
-      "original_title": "Japanese ace RHP Kaima Taira set for move to MLB",
-      "source": "Seattle Sports",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2FVODZOTkhEbHdKNjJlUW15TlZlQVNMdDNncE5kY2JJZWNhRl9oYkctQXY5NFgxWkhZZWVoWkE3TzRubFlyWGhXVW5zaUF3ZVRXaEY1TGVTZ2RjMFo2WDFOMG9JZENVVm0xUlg5OHYtenpQNVgtd0VoTE9wQnFQaU5VQnZIQVpVVG14aUpKeFh5LXlEZWRVNw?oc=5",
-      "category": "社会・文化",
+      "title_ja": "日本の名目GDP、2027年に世界第6位へ転落の予測",
+      "original_title": "Japan’s GDP Set to Fall to Sixth Worldwide in 2027",
+      "source": "Nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84SlZjamJOSjN1VHBMSmVBZU9NaXdpRkRpZzg5alpqeVRGaTNzWGdMeWRkcjB1UWtuTFhQeE1YQktFa0NlNnRpWDBMckc3Y1dmdElGeQ?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "平良海馬",
-        "MLB",
-        "プロ野球"
+        "GDP",
+        "経済予測",
+        "世界順位"
       ],
       "summary_points": [
-        "埼玉西武ライオンズの右腕・平良海馬投手がポスティング等を通じたメジャー移籍を目指す方針と現地で報じられました。",
-        "最速160キロ超の直球と多彩な変化球を持ち、リリーフと先発の両方で圧倒的な実績を残した点が強みです。",
-        "先発ローテーションの強化を目指すシアトル・マリナーズをはじめ、複数の米球団が獲得候補として注目しています。"
+        "各種経済予測に基づき、日本の名目GDPが2027年までに世界第6位に後退する見通しであることが報じられた。",
+        "新興国の急成長に加え、長年の低成長や歴史的な円安トレンドが順位低下の主な要因として挙げられている。",
+        "国力や経済的地位の相対的な低下に対する、日本国内での構造改革の必要性が改めて議論されている。"
       ],
-      "global_perspective": "米スポーツメディアは、山本由伸や千賀滉大のMLBでの成功を受け、NPB屈指の奪三振能力と球威を誇る平良を即戦力先発投手として非常に高いポテンシャルがあると見ています。",
+      "global_perspective": "かつての経済大国が直面している構造的な課題と、世界のパワーバランスの移行を象徴するニュースとして捉えられています。",
       "reading_time": "約1分"
     },
     {
       "id": 7,
-      "title_ja": "フェンダー日本が「ポケモン」30周年記念ギター発表、世界で話題に",
-      "original_title": "Fender Japan announces special Pokémon 30th anniversary guitars",
-      "source": "Annenberg Media",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdGgzbFdiVVE1clhva0VScGpON082d0lac00tWTYtUW1heV9QZXFkT0c1cy1tcmt2Ul9BSFZyZHlmOGZBbTRmUElBSjRwVWQ0RGZsYXVaSmdENnFMbFlGdUhud0ViWk15WmpOd2U1enB4Y3pHQ0hBZXJsNFdNaTVIeGJpNW1FejA4dGJlNy1pODdoRVNhRFhBdjQxSmlmd2YzV1YzTGxxU2p6S1Vfdmc?oc=5",
-      "category": "観光・トレンド",
+      "title_ja": "防衛省、新5か年計画で防衛費が約5,078億ドル規模に達する見通し",
+      "original_title": "Japan Defence Ministry sees defence buildup at $507.8 bln under new five-year plan, Sankei says",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbF8tYVA2ZkhZNUkzN1dSQWRZQlJxbUJNMVNWTXptRmNjbzJHWERHTEhyS3VaOFhIanZnc2JJWFQ5YTJKUzNZLXhBc1RVakxleno4OWZYdldmM3ZLRFNYLWhEM0FYdGMtU2xrRUV5WTBCMXpfa1VZNFBZbUFlSklUZjRnZEZLVExxRU1GYlpyUG5jWlk2amlCNEMxN3NhTm1jYm1aR205TlFZdWFkc2I1N29BaTF2S2w2eDJxekhYZDJwQVpJdFQ5UjZuMlA?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "ポケモン",
-        "フェンダー",
-        "IPコラボ"
+        "防衛費",
+        "防衛省",
+        "安全保障"
       ],
       "summary_points": [
-        "フェンダー・ミュージック日本法人が、ポケモン誕生30周年を記念した限定特別モデルのエレキギターを発表しました。",
-        "ピカチュウをはじめとする人気キャラクターの世界観を、日本の高い楽器製造技術で細部まで具現化しています。",
-        "国内外のギターファンやコレクターの間で早くも争奪戦が予想され、プレミアム価値に注目が集まっています。"
+        "防衛省が策定中の新たな5か年防衛力整備計画において、総額が約5,078億ドル規模に達する見通しであることが報じられた。",
+        "緊迫する東アジアの安全保障環境に対応するため、防衛力の抜本的な強化を継続する方針を示している。",
+        "財政健全化との両立が課題視される中、防衛予算の拡大方針は国際社会でも注目を集めている。"
       ],
-      "global_perspective": "米国の学生・若者向けメディアは、日本発の世界的IPであるポケモンと老舗楽器ブランドの融合を、カルチャーとクラフトマンシップが結実した魅力的なコラボレーションとして紹介しています。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 8,
-      "title_ja": "東京のハロウィーンは厳戒態勢、雑踏事故防止へ規制強化と定着する新秩序",
-      "original_title": "Tokyo embraces Halloween crowds under tight security by police",
-      "source": "Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlZSVzh1eXVhNWt4ZTZ2WnB5YktTY3NFTkpZbFpZVXJxeW9aRnQ0bU9Cek1vT05zSE4yaUZ0WldYbnJicGc4Um9wc3VidWZsaE5iRkk2OVVqSG9Xa0ZKLV9JSGRfMmhKWlYtNDVLWG4xVENVeHhTcW52cXdRZjlKMWdaUGJXd05rRkpMS0ZuM2ZMX2x4UV90R09vYzlYb2tocHFvUEx3?oc=5",
-      "category": "社会・文化",
-      "tags": [
-        "ハロウィーン",
-        "渋谷規制",
-        "都市マネジメント"
-      ],
-      "summary_points": [
-        "渋谷や新宿などの都心部で、警察による厳重な警備と路上飲酒制限のもとハロウィーン期間が運営されました。",
-        "韓国・梨泰院の事故を教訓とした雑踏事故防止策が徹底され、ハチ公像の封鎖や過密回避の誘導が行われました。",
-        "一時期の混乱から一転して「秩序あるイベント管理」へと舵を切る自治体と警察の対応が定着しつつあります。"
-      ],
-      "global_perspective": "国内英字メディアは、世界有数の過密都市である東京が、インバウンド観光客を含む巨大な群衆の熱気と公共の安全・平穏をいかに両立させようとしているかという都市管理の手腕に焦点を当てています。",
+      "global_perspective": "日本の防衛政策の歴史的な転換と、インド太平洋地域における抑止力強化の動きとして、海外の安全保障アナリストから注視されています。",
       "reading_time": "約1分"
     }
   ]
