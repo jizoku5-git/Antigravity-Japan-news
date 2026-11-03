@@ -1,146 +1,166 @@
 {
-  "updated_at": "2026-11-02 09:55 JST",
-  "date": "2026-11-02",
-  "total_articles": 7,
+  "updated_at": "2026-11-03 11:59 JST",
+  "date": "2026-11-03",
+  "total_articles": 8,
   "articles": [
     {
       "id": 1,
-      "title_ja": "日本の10月工場生産の伸びが鈍化、コスト高が重荷に",
-      "original_title": "Japan's October factory growth slows as costs pick up, PMI shows",
+      "title_ja": "ガソリン補助金縮小、日本の財政限界の兆しか",
+      "original_title": "Breakingviews - COMMENTARY: Japan petrol subsidy cut could mark fiscal limit - Reuters",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHpkYmhCcHc0RVJPMzNVSElLRzl3MkJ0UWRaMjZXR3BUMGJZeTNKNDRTa29WanJuYkctNkVVN1RYOUxvZk9NQVIxM3I3aDlzUFI4Y3c3V3d1d2xGaS1pQy1VNWMtem8tSmV4MTczeFoya0h1a0FXM3JzYVR4YzBURkRPMVUzeGk0RjhJNG1HMmJYS3RaSTNsOVd2dWJXM3M0Y3hZNkZGRmJObTYwaVBiZEh5elI?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT0k4dS04a21IWWNOQmVjdktob0FTTnpubWZDUEktMFR3dXNjUXRlSVhrSFZlUVBZaXcwTFA2VnFfLVVnc2V3aUNQNGFjU1g4N2RqcTJMY2YxMi1sVi0xVS1wSUZ0VWhtNHhQTm81bGFoUXdIYllIRWNuNGNSZllFbWM5NENXUE1tTC1sY3ZoZDFORl9qSnMxZ0I2OXJnUE40WlF1NkhwS3I5eFZZd0E?oc=5",
       "category": "経済・ビジネス",
       "tags": [
-        "PMI",
-        "製造業",
-        "物価高"
+        "ガソリン補助金",
+        "財政再建",
+        "石破政権"
       ],
       "summary_points": [
-        "日本の10月製造業PMI（購買担当者景気指数）で、工場生産の伸びが鈍化していることが示された。",
-        "原材料費やエネルギーコストの上昇が依然として企業の大きな負担となっている。",
-        "国内外の需要の先行き不透明感もあり、景気回復の足踏みが懸念されている。"
+        "日本政府がガソリン補助金の段階的縮小を検討しており、長引く物価高対策からの出口戦略が問われている。",
+        "補助金は家計を助ける一方で巨額の財政負担となっており、国際的には市場を歪める要因とも指摘されてきた。",
+        "この決定は、石破政権が「バラマキ」批判をかわし、財政健全化への意志を市場に示す重要な試金石となる。"
       ],
-      "global_perspective": "世界的なインフレ圧力や中国経済の動向が、日本の製造業に与える影響に注目が集まっています。",
+      "global_perspective": "ロイターは、補助金削減を日本の「財政的限界」のサインと捉え、投資家が日本の債務管理能力を厳しく注視していることを強調しています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "フィギュアスケートの島田麻央、スケートカナダで優勝",
-      "original_title": "Mao Shimada of Japan wins Skate Canada International",
-      "source": "WRAL",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORnVkVWM4S0NYLWVMMEY4MlB1QmhrQVBWMFp1SFZyUzRMa1RuZVlwWVdOaTk1QzBobmFHZHlyY1VuS2V0LTRjLWRoRDJTcjViSmVoclB0ZUo2Zlc0MGhrVENiUmZCOF9ucE9CQW91UVR6Wkw4d2FUdlVmRGp5NGRzN0xoMzdGSDFyMkRYMW9aeE9xQQ?oc=5",
-      "category": "社会・文化",
+      "title_ja": "日本が「防災庁」を新設、災害対応の司令塔機能を強化",
+      "original_title": "Japan launches a new national agency to deal with disasters - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzNHdHlJbTdxMThUdXFTM0F5TnVFZkRJellmbnJuR1h4RFhnZHp2SFMtYl8tZXVUWDBXUEFsX3Y5bFJLTEU2U3UwVlhNWWdLSjlRVlRnSXFBSC1VLU5oVzlVQldXZGRueEN2UmhFTFpGX0pxeHJwWnIyWlBEZjdhVERYZlQzcFVYRkN6b3F5ODZ4aDM1YnNFS2lGLXFFbXVKQkw2NDdZX0Z0OVRkRWQ4Ug?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "フィギュアスケート",
-        "島田麻央",
-        "国際大会"
+        "防災庁",
+        "危機管理",
+        "能登半島地震"
       ],
       "summary_points": [
-        "フィギュアスケートのグランプリ（GP）シリーズ第2戦、スケートカナダで島田麻央選手が優勝を果たした。",
-        "ジュニアから国際舞台で圧倒的な実力を示してきた若き才能が、シニアクラスでもその強さを証明した。",
-        "安定したジャンプと高い表現力が、海外メディアやファンからも絶賛されている。"
+        "頻発する自然災害に迅速かつ一元的に対応するため、新たな国家機関（防災庁）が正式に発足した。",
+        "従来の複数省庁にまたがる権限を集約し、避難所の環境改善や復旧作業の効率化を主導する狙いがある。",
+        "能登半島地震などの教訓を活かし、地方自治体との連携を深め、国民の生命を守るレジリエンスの向上が期待される。"
       ],
-      "global_perspective": "次世代のフィギュアスケート界を担う日本勢の層の厚さと、圧倒的な技術力が世界的に高く評価されています。",
+      "global_perspective": "AP通信は、気候変動により災害が激甚化する中で、日本が行政組織の再編を通じて国家的な適応力を高めようとする動きに注目しています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "ダノンデサイルが天皇賞を制覇、次なる舞台はジャパンカップへ",
-      "original_title": "Danon Decile Wins Tenno Sho, Japan Cup Looms",
-      "source": "BloodHorse",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkpjZFBxVmhNTE9xc2o1VWI3UUJaMGx5Mkx3R0VnVjRDMnRfS0M0bEFFR0xkczFjbFZ1VkVJNFM3V04yOGpvaXuweFpmWWh1NmpPTWFQU3prTk01NENzbFF1TFc4ZXprWWtmWGl5TGNwMzVJbjRBWFV3UUpKa0xVNUxJUU1EbWtPVEVUTFBPd1VWdkdkNzBKcFNER25EclF5?oc=5",
-      "category": "社会・文化",
+      "title_ja": "金利上昇局面の日本、若年層への経済的影響に懸念",
+      "original_title": "Japan’s interest rates are rising. Will young people lose out? - Financial Times",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYk9oN00xWVJoQmhNZjlfQTY2YTd4QjJhU3ppeXVFaVU3U0g1Z1dOYUtaREt2WEZoNVNLUTZDaHluNENDRFktNmI2LVd6bDVGeWtJbU85SlFuU1lrTk91T0FIUl9CdU1JM0VyV0IyQm96eHdla0JQNC1sZ3N4eE9vOS10QmM?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "競馬",
-        "天皇賞",
-        "ジャパンカップ"
+        "利上げ",
+        "住宅ローン",
+        "世代間格差"
       ],
       "summary_points": [
-        "G1レースの天皇賞において、ダノンデサイルが見事な勝利を飾った。",
-        "レースを制した同馬は、次走として国際的にも注目度の高い「ジャパンカップ」への出走を視野に入れている。",
-        "国内の主要レースを制したことで、秋の古馬王道路線における主役に躍り出た。"
+        "日銀の利上げ方針に伴い、長らく「ゼロ金利」に慣れた日本の若年層が住宅ローン増などのリスクに直面している。",
+        "預金金利の上昇という恩恵がある一方で、借入コストの増大が若者の消費意欲を減退させる可能性が指摘されている。",
+        "「金利のある世界」への移行が、資産を持つ高齢層と負債を抱える若年層の格差を広げる懸念を分析している。"
       ],
-      "global_perspective": "日本の競馬のレベルの高さと、秋のG1シーズンにおける盛り上がりが海外の専門メディアでも大きく取り上げられています。",
+      "global_perspective": "フィナンシャル・タイムズは、日本の金融政策転換が単なる経済指標の変化に留まらず、社会構造や世代間の不平等を助長するリスクを鋭く指摘しています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "日本の国内アニメ市場、初の4兆円突破を記録",
-      "original_title": "Japan's anime market tops ¥4 tril for 1st time",
-      "source": "Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHRLYWU4cWRCcjhpWXY1a0psZ2V3SDN0eGZuNGJGWUpCTUJuNzdYS25FOGgxSWZFbE5VdUpVYjZ4NDg4MmVtNlZfSUxyQXJvSi1uUGNFenVxeTJqcFdQaFNEemd4RDBCcDJDMnVNMHEzZnI1eVRPalhTRkRPSTlYMmNZSU9DSmZ1NEM3WmktcFRkU3owSEE?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "「日本アニメアワード」創設、2027年に第1回授賞式を開催へ",
+      "original_title": "New Japanese Animation Prize Named Nippon Anime Awards, Sets First Ceremony for November 2027 - Variety",
+      "source": "Variety",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeG9wRHRCXzJBSE9kT0tvM3dwMkJFWUpDVWhVTXo3eFlKbWlsWnlHU2MtOWR3S05ZVzVBakQwZVJ0VjYzcVQtVmJEc05SLWdRUDA4RDltVFc1Sms1VnpXZ0lVd3dGTkw3czh5UGhtSXJQak9jOGZuX2JlNW1qbzZMWkV3VmFVNjlzTmxWQjFMOVgySkVlbVhZeGhIMFBDNWo4R3c?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "アニメ",
-        "エンタメ",
-        "市場規模"
+        "アニメ産業",
+        "ソフトパワー",
+        "クールジャパン"
       ],
       "summary_points": [
-        "日本の年間アニメ市場規模が初めて4兆円の大台を突破したことが明らかになった。",
-        "海外での配信収益やライセンスビジネスの急拡大が、市場全体の成長を強力に牽引している。",
-        "国内の少子化トレンドに反して、グローバルなコンテンツ産業としての強さを証明している。"
+        "日本のアニメ産業のさらなる発展と国際的地位の確立を目指し、新たな国家規模の賞が設立された。",
+        "2027年11月に第1回授賞式を予定しており、クリエイターの育成や権利保護の強化も視野に入れている。",
+        "官民一体となって、世界的な「ソフトパワー」としての地位を盤石にし、産業の持続可能性を高める狙いがある。"
       ],
-      "global_perspective": "世界的な日本アニメブームが単なる文化現象を超え、巨大な経済的価値を生み出しているビジネス側面が注目されています。",
+      "global_perspective": "エンタメ業界誌のVarietyは、日本が自国の文化的資産であるアニメを、より戦略的な産業としてブランド化しようとする動きを高く評価しています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "日本の球団が右腕エース伊藤をポスティングシステムで申請へ",
-      "original_title": "Right-handed ace Itoh officially posted by Japanese club",
-      "source": "MLB.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81OHlFTDg4T3Vja1RjUXRLTUJKaUthOFBEajU5QTlabFNXQURsQWRaLUFJOC1aTTZaUlQ5RktCQ1ZXMTNhN0E1V05fZFpEd1hRRUJsZVBuRUswSjduLW9zb1lRVi03cnVDd2xhNDQ0eFQyT2xMZEVlVVhZeFTSAYgBQVVfeXFMTk1udS1rOXdjY2E4NFRWQlNYbl9oRk9yY3Jac2Y5OUNhNTdYZmtrb1dsSVB0WXRUc3dmdG1CTl9famMwRk40X3lPYmJ1bFdKRHA1UzNQcjhiODRkcWNWZ3Bra2d6WDA2VnNmeklzN3VjdWJXb2E5SXJia3F2OGNNR2hiNTFhY09FUQ?oc=5",
-      "category": "社会・文化",
+      "title_ja": "中国発の激辛スープ「麻辣湯」が日本で大流行、カスタマイズが鍵",
+      "original_title": "JAPAN BIZ: Chinese soup dish \"malatang\" proves a hit in Japan - Japan Wire by Kyodo News",
+      "source": "Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pRWdhaEt2cXRXazB1TzNMTldRTDlLd29McGFLOEFaWFk0RnM0S2lsUENiZ0JQUUJ1QWhuaWV3RHBZU1BkaTltejVWYk9pMWFMTmJCalVjY2Y4UQ?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "MLB",
-        "プロ野球",
-        "ポスティング"
+        "麻辣湯",
+        "食文化",
+        "Z世代"
       ],
       "summary_points": [
-        "日本のプロ野球で活躍する右腕エースが、ポスティングシステムを利用してMLB挑戦を正式に表明・申請した。",
-        "メジャーリーグの複数球団が早くも獲得に興味を示しており、今オフの注目移籍市場の一つとなっている。",
-        "日本の投手力の高さはMLBでも高く評価されており、新天地での活躍に期待がかかる。"
+        "中国発祥のスープ料理「麻辣湯（マーラータン）」が、ヘルシーさとカスタマイズ性の高さから日本の若者の間で人気を博している。",
+        "具材を自分で選べるスタイルが、個人の好みや「タイパ（タイムパフォーマンス）」を重視する現代の食文化に合致した。",
+        "インバウンド需要だけでなく、国内の日常的な外食の選択肢として定着し、新たなビジネスチャンスを生んでいる。"
       ],
-      "global_perspective": "日本人トップアスリートのメジャーリーグ挑戦は、現地のスポーツメディアやファンにとって毎年の最大の関心事となっています。",
+      "global_perspective": "共同通信（海外版）は、食の多様化が進む日本市場において、隣国の食文化がどのようにローカライズされ、消費者の心を掴んでいるかを伝えています。",
       "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "日本の名目GDP、2027年に世界第6位へ転落の予測",
-      "original_title": "Japan’s GDP Set to Fall to Sixth Worldwide in 2027",
-      "source": "Nippon.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84SlZjamJOSjN1VHBMSmVBZU9NaXdpRkRpZzg5alpqeVRGaTNzWGdMeWRkcjB1UWtuTFhQeE1YQktFa0NlNnRpWDBMckc3Y1dmdElGeQ?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "新型コロナ後遺症の回復に大きな差、症状別の最新研究結果",
+      "original_title": "Long COVID recovery varies sharply by symptoms, study finds - The Japan Times",
+      "source": "The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOanhPS0VwdzY1cV9VaEdLZHhYSEc3M3o2MzNmTlBVUWpCVUFaT0JPeHdLQ0VjYkgxb2lEeG1RQjZTYnkxWXkzanc0c3l2dUtXRzQ1czU0S0RWQk5PRk84OGNJTHA3elJWc1h1X1p4dVpIalk1dmpPcGdKTXJKNU1ZZkVpNy1iYkdWS2YyOVphcmxsX2dRTklj?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "GDP",
-        "経済予測",
-        "世界順位"
+        "Long COVID",
+        "医療研究",
+        "労働力"
       ],
       "summary_points": [
-        "各種経済予測に基づき、日本の名目GDPが2027年までに世界第6位に後退する見通しであることが報じられた。",
-        "新興国の急成長に加え、長年の低成長や歴史的な円安トレンドが順位低下の主な要因として挙げられている。",
-        "国力や経済的地位の相対的な低下に対する、日本国内での構造改革の必要性が改めて議論されている。"
+        "新型コロナの後遺症（Long COVID）について、症状の種類によって回復までの期間に顕著な差があることが判明した。",
+        "倦怠感や認知機能の低下を伴うケースは、呼吸器症状のみのケースに比べて回復が大幅に遅れる傾向にある。",
+        "企業における休職者の復職支援や、医療現場での個別化されたアプローチの重要性が改めて浮き彫りになった。"
       ],
-      "global_perspective": "かつての経済大国が直面している構造的な課題と、世界のパワーバランスの移行を象徴するニュースとして捉えられています。",
+      "global_perspective": "ジャパンタイムズは、パンデミック後も続く労働力への影響という観点から、後遺症の科学的解明が経済活動の維持に不可欠であると示唆しています。",
       "reading_time": "約1分"
     },
     {
       "id": 7,
-      "title_ja": "防衛省、新5か年計画で防衛費が約5,078億ドル規模に達する見通し",
-      "original_title": "Japan Defence Ministry sees defence buildup at $507.8 bln under new five-year plan, Sankei says",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbF8tYVA2ZkhZNUkzN1dSQWRZQlJxbUJNMVNWTXptRmNjbzJHWERHTEhyS3VaOFhIanZnc2JJWFQ5YTJKUzNZLXhBc1RVakxleno4OWZYdldmM3ZLRFNYLWhEM0FYdGMtU2xrRUV5WTBCMXpfa1VZNFBZbUFlSklUZjRnZEZLVExxRU1GYlpyUG5jWlk2amlCNEMxN3NhTm1jYm1aR205TlFZdWFkc2I1N29BaTF2S2w2eDJxekhYZDJwQVpJdFQ5UjZuMlA?oc=5",
-      "category": "国際・政治",
+      "title_ja": "映画『ちいかわ』が公開15週目でもトップ5入り、驚異のロングラン",
+      "original_title": "Japan Box Office: Chiikawa the Movie: The Secret of the Mermaid Island Ranks 5th in 15th Weekend - Crunchyroll",
+      "source": "Crunchyroll",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0hQRWlRb3ZhZUthQlhUeVlXZ1gxcmoxZGhnUzQ3Y1BXRHZJcHlMMDlsUW5rYlh5bVJVUHhTTXZDcWktVGpSSFp5SEwwdjNHQW1WYW9WZVBjRXMyYlBxblFxN292NDk2MzZNQzJRNDVFTkNBNG1QcUhqVU9selgxYTRHcVNabndHMzl0RHhteXZNQ3Y4cHZjTEVOWWx1RDU0NGFJUUg3T2VaLUFCaU5lUHVPbTA5Tzk5QjRuaXNtaEpQNEZqcmZTV0pNcHJnOU93?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "防衛費",
-        "防衛省",
-        "安全保障"
+        "ちいかわ",
+        "興行収入",
+        "キャラクタービジネス"
       ],
       "summary_points": [
-        "防衛省が策定中の新たな5か年防衛力整備計画において、総額が約5,078億ドル規模に達する見通しであることが報じられた。",
-        "緊迫する東アジアの安全保障環境に対応するため、防衛力の抜本的な強化を継続する方針を示している。",
-        "財政健全化との両立が課題視される中、防衛予算の拡大方針は国際社会でも注目を集めている。"
+        "人気キャラクター『ちいかわ』の劇場版が、公開から3ヶ月以上経過しても興行収入ランキングで上位を維持している。",
+        "子供だけでなく大人世代からも支持を集める独特の世界観が、リピーターを増やす大きな要因となっている。",
+        "日本独自のキャラクタービジネスにおける「癒やし」と「共感」の強力な集客力を改めて証明した。"
       ],
-      "global_perspective": "日本の防衛政策の歴史的な転換と、インド太平洋地域における抑止力強化の動きとして、海外の安全保障アナリストから注視されています。",
+      "global_perspective": "アニメ専門メディアのCrunchyrollは、日本のアニメ・キャラクター市場の底堅さと、特定のIP（知的財産）が持つ長期的な収益化能力に注目しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 8,
+      "title_ja": "MLBの超新星スキーンズが再来日、日本野球への敬意示す",
+      "original_title": "Skenes creates more connections, smiles during latest trip to Japan - MLB.com",
+      "source": "MLB.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalR0VXJWR0ROcTF6UXlIcjFlb2NaVjdlcDZUZXBTNG5xTVVxUjNVSERWUjl3cVBqNFd3Y3dpWk4wSzUwSDVzUDExOXVhTVdwZ19sdm1LS1NCeDdmWl9WckJyaGRsckZiYThVUm9EbU1jOUFCVkJ4NFVIRWtubkdKRmtzU2hzVU8yU0dmbW5WeG9BNHJaZlhUa0NKZ0nSAagBQVVfeXFMTmNwcUZlYktZQ3l5WF9iNkRNT3REbmZJb1EwemlZQ2JsWld5a1ZkSlNOVGVSZTAwWGNWZ1BJZEZmTlRjQnFNMlBXc0FFSUFNVnpDSzFrTzNIRXJYbHZqVzBzRXg5ZF9ld2hDOEc5ek9SQUpjS0cxb0xOMWhkckJERTNwUVZzWUt2c2I1RGFKZnNsbE9wcDRnUDVFVkJ3VkFIaXhLN3ZZUUdG?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "MLB",
+        "ポール・スキーンズ",
+        "日米交流"
+      ],
+      "summary_points": [
+        "MLBパイレーツの怪物右腕ポール・スキーンズが日本を訪問し、ファンや若手選手との交流を通じて絆を深めた。",
+        "日本の野球文化やトレーニング方法に対する深い敬意を示し、日米の野球界を繋ぐ新たなアイコンとしての役割を果たしている。",
+        "大谷翔平選手の活躍により米国のトップ選手たちの日本への関心も高まっており、国際的な交流が加速している。"
+      ],
+      "global_perspective": "MLB公式サイトは、米国のスター選手が日本を訪れることで生まれる文化交流と、野球というスポーツのグローバルな広がりをポジティブに報じています。",
       "reading_time": "約1分"
     }
   ]
