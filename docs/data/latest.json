@@ -1,167 +1,166 @@
 {
-  "updated_at": "2026-11-04 10:31 JST",
-  "date": "2026-11-04",
+  "updated_at": "2026-11-05 10:32 JST",
+  "date": "2026-11-05",
   "total_articles": 8,
   "articles": [
     {
       "id": 1,
-      "title_ja": "核保有国に挟まれる日本、高まる外交のジレンマ",
-      "original_title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors - NPR",
-      "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWltcVNqMGNnS0IwUXhLTHM1aDAwbW1ha1MyRnc3ZkZQT3AxRy1HcmNDaE9FRTFKaXFfeGdtSmFXdkZWSHhrNmswbkx0dFRadmFhQzlVWWd2aGtibDlGY0NqSENxS0RESXlNZXFfbi1JU0NsMnNDdGdFYmtIcmFIZWIyQnUtOTJDcUNyd082TGh6WEE5T1RuRnNqSlduTmlWb050Mlh5WThLTXVPeXJVaXFfWWJ4c1VycGc?oc=5",
+      "title_ja": "日本で訓練中の米海兵隊員が死亡、米軍が発表",
+      "original_title": "US Marine dies after training in Japan",
+      "source": "Marine Corps Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUmpqSUN3X3pUd0ZzVHE3OW9qQ3dZVjNBUVFHOGxEZzZtRjduOTNJaFlnc1c5NW9jOW9LdXRieTR2aXd0LXM0RTluelBLazdCd3FJckxwYkc1R29oUDJWNXFaN0FqM3lUcTB0bWVLbUR6cFAtbnRDdV96Q3Itc1dVNEUzZWo5Yll3U3d0Y3dpU3BEUUlKd19McExnblpQeHVGeHNEQW9sb3Jndw?oc=5",
       "category": "国際・政治",
       "tags": [
+        "米軍",
         "安全保障",
-        "外交",
-        "核保有国"
+        "訓練"
       ],
       "summary_points": [
-        "日本周辺の核保有国による共同圧力が高まり、外交・安全保障上の深刻なジレンマに直面している。",
-        "地政学的な緊張が増す中、同盟国との連携や防衛政策の舵取りがかつてないほど複雑化している。",
-        "国際社会からは、東アジアにおける日本の防衛戦略とその影響に強い関心が寄せられている。"
+        "日本国内での訓練中に米海兵隊員が死亡する事故が発生しました。",
+        "米海兵隊および関連メディアがこの事故について一斉に報じています。",
+        "事故の詳細や訓練の状況については現在調査が進められています。"
       ],
-      "global_perspective": "ロシアや中国、北朝鮮という核保有国に囲まれた日本の特殊な地政学的リスクと、緊迫する安全保障環境について海外メディアは警鐘を鳴らしている。",
+      "global_perspective": "在日米軍の安全管理体制や、日本国内での訓練のあり方に対する国際的な関心として報じられています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_jp": "村上龍氏が描いた「日本の暗部」：その文学的遺産と現代への問い",
-      "title_ja": "村上龍氏が描いた「日本の暗部」：その文学的遺産と現代への問い",
-      "original_title": "Ryū Murakami, Writer Who Explored Japan’s Dark Side, Dies at 74 - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5feGtmeUVmbHh1ZTFJLWNDRThUbVJjdGhIdHRzXzFMZ1ozX29jbXkyRmpqZTBuT0lhcy1UVVNNWEZDTzFNMGVNLXZhaXRsbE5sLXBwNjJnQU9EaWkwM2ZkV191R2FtNjl4ZVVGaTVtdEY?oc=5",
+      "title_ja": "日露関係の悪化と、かつてエジプトのミイラが薬として使われた歴史的背景",
+      "original_title": "Souring Russia-Japan relations; why Egyptian mummies were used for medicine",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnk4bFIyOVJSZG9aVXh3WldHM2lXdmp2NzlxUV95dTJVRUxLdmJiMWZjTTZjbDlXMVI2UmZvd3d2U1JJVWp5RWhLR2NpMnhFejdTaHdOc25RZ2Qtc3BCU3I0WE04U0FFcFZycEdBQWtZYnFiZ2dzRW9pZ0x6cDNnWDAyYkZMUkZvN0ZEaWJJQnNGUXRnU3c2NnZaaE1pdVU3b3JlcnE2WkdFVHVya1RLN1VvcGNCUHJyRFJ3?oc=5",
       "category": "社会・文化",
       "tags": [
-        "文学",
-        "村上龍",
-        "訃報"
+        "日露関係",
+        "歴史",
+        "文化"
       ],
       "summary_points": [
-        "日本の現代文学を牽引し、社会の暗部や若者の孤独を鋭く描いた作家・村上龍氏が74歳で逝去した。",
-        "『限りなく透明に近いブルー』などで戦後日本の光と影を浮き彫りにし、国内外の文学界に多大な影響を与えた。",
-        "海外の主要メディアも速報で伝え、日本社会の深層を抉り出した孤高の才能の死を惜しんでいる。"
+        "冷え込む日露関係の現状と、その背景にある地政学的・外交的要因が分析されています。",
+        "また、中世ヨーロッパなどでエジプトのミイラが薬として珍重されたユニークな歴史的トピックも併せて紹介されています。",
+        "国際ニュースの硬軟を交えた特集として広く読まれています。"
       ],
-      "global_perspective": "日本の伝統的な美徳の裏にある現代の焦燥感や空虚さを描き続けた彼の作品群は、グローバルな視点からも日本の現代性を理解する重要な鍵として高く評価されている。",
+      "global_perspective": "アジア太平洋地域の安全保障環境の変化と、歴史・科学に関する興味深いトリビアを組み合わせた米メディア独自の切り口として注目されています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "中国の新たな脅威：インド太平洋における「日本包囲網」の台頭",
-      "original_title": "Opinion | China’s new nightmare: a Japanese containment arc in the Indo-Pacific - South China Morning Post",
-      "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdlU5bHlITlVoRWxQZjN2eGowR0NfbTlPRzdRU0U4cnpOSi1JeFUyMDdkamZTM2pLNnNqM0g4VjJnZzNLd2FCX3pibXVrVzh0Z3c2eEwzV0JGRk1iN1Fsbm5VUHRKUXI5X3dvWklmQkg3NFJicFB3eU4wRzVXcER1Rmg4dU5LeFNDZENuR0xjR2FQUTlVSUVfaFVHajMzcEFuX1JTZmF3c05FS3hGcy1pZF8xaGpHUkHSAbcBQVVfeXFMTWVHVE1ZTDBDY0N4bzMzZjZmc2NkVWhOOC11cG5fT2FxUjFWbmV6YjNpN3Uwd3BrdEQ2RXNaTWE4VmNBOVVia0s3S0tKRm1HTzlERnU3VUYzY0ZyLVhxejhMSGxJa1dPQmMzUllqcnllbnZBWldTaHBkQTNaQ0Z0ZFhqZXViYWJzUDBPM3hMdkk0dkNRX0x6dkd1cWNQLTRTcGN0UlpNdXlmWk9rc2U3RVNCcDFHMnZZ?oc=5",
-      "category": "国際・政治",
+      "title_ja": "日本の繊細な香水・フレグランスがギフトの選択肢として注目",
+      "original_title": "Japan’s Subtle Fragrances Are a Good Choice for a Gift List",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3d3TUR4NmpzOEtpaERUbjlPYnpiYVJRRWZnMWh2WWRmb2k1eTJTd3I2MkhBU3JidmdKeXZwV0FtaW9kYV83dGJobDNsZW5IX2VGWThNMXdHWFRETjM2NTlBaXItNXg1VzVNbGE0V0RTcDlrNGQ2ZTBuNFUtT2JHeGJrdw?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "インド太平洋",
-        "中国",
-        "安全保障"
+        "NYT",
+        "ライフスタイル",
+        "日本製品"
       ],
       "summary_points": [
-        "インド太平洋地域において、日本を中心とした安全保障上の連携網（防衛アーク）が形成されつつあると報じられている。",
-        "これが中国の戦略的な頭痛の種となっており、地域のパワーバランスに大きな変化をもたらしている。",
-        "アジアの地政学において、日本の果たす役割が受け身の防衛から積極的な抑止力へとシフトしている点が注目されている。"
+        "米紙ニューヨーク・タイムズが、日本の控えめで洗練された香水・フレグランス製品を特集しました。",
+        "強い香りを好まない傾向にある日本の香水文化や、その独特の繊細さが評価されています。",
+        "ホリデーシーズンなどのギフト選びにおける新たなトレンドとして提案されています。"
       ],
-      "global_perspective": "米中対立の最前線にあって、日本が同盟国や友好国を結ぶ「要（かなめ）」として海洋進出を牽制する動きが、国際的な安全保障アナリストの間で重要なトピックとなっている。",
+      "global_perspective": "日本の伝統的な美意識や「控えめな美学」が、世界のライフスタイル市場において独自の高級感として捉えられていることを示しています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "いま改めて日本の国債（JGB）に注目すべき理由とは",
-      "original_title": "Why Japanese Government Bonds Deserve a Second Look - AllianceBernstein",
-      "source": "AllianceBernstein",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMWVJU1JJS3o4amw2dW1CVW04SE8xS0drQW5HY0pDVlVFWFJGYWdfZEs0NGF6ckU2VVBTZnp5OUhGZWx5NTA5YWd2clp5SEVsTzRpTGk4QnZOcE0tb0dTdWtSNEhtVE9pRGdJQ3ZBZUZVQndIVzMzdG9tOGRFRWx3NGJTZm41Snd0NV9UdlZoS2N1YlF6OTA3TFhDMHJTbFNuQnlQbGhfMk1uTWZXaVd3N1ZWZGUxRGQzTHZ1emF3NzVCbkdhLTJzLTVmSmR2cHRpOEE?oc=5",
+      "title_ja": "日本のサービス業活動が5ヶ月連続で拡大、PMIが示す好調",
+      "original_title": "Japan services activity expands for fifth month, PMI shows",
+      "source": "Central Oregon Daily",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdmFqX3BxS2JRb0lCaFp6Z0VMQXpHNTVqeHVLZkRGWGR4VUdOdFNFVGFhMWR3ZEE0ZlhXcWtRVHFxZmdUaG1aQzFvaExmYTN0QjF5Vks3TkhQYU5RREpOMFJOMHp2WnZZZGJuMW9RMkh2dzFUZVVYRUk0UDVYS29uQ2tMRHktZURxb2dhckxtdldjYXZ6c0RyWHlzZlRwSjlSaU44d1V3Q3dvcXBtdFM4ZDhlRFd0ZVhJVjl5SGZIQy1OOF9ZVTVnZVBDRTlkdVdGZlR0Y3VWZURCRjdFX2JueTJIVzNvQldGYnNFUg?oc=5",
       "category": "経済・ビジネス",
       "tags": [
-        "国債",
-        "日本経済",
-        "金融市場"
+        "経済指標",
+        "サービス業",
+        "PMI"
       ],
       "summary_points": [
-        "長年の超低金利政策から転換期を迎えている日本の国債（JGB）市場に、グローバル投資家の視線が集まっている。",
-        "日銀の金融政策正常化に伴い、利回りの変化や新たな投資機会としての魅力が再評価されつつある。",
-        "主要国の金利動向が不安定な中、日本の債券市場の構造変化は世界的なポートフォリオ戦略にも影響を与えている。"
+        "最新の購買担当者指数（PMI）により、日本のサービス部門が5ヶ月連続で拡大していることが示されました。",
+        "インバウンド観光客の増加や国内消費の回復が、サービス業の景況感を支えている要因となっています。",
+        "製造業が苦戦する一方で、内需主導の経済回復への期待が高まっています。"
       ],
-      "global_perspective": "「マイナス金利の終焉」を経た日本経済の金融政策の正常化プロセスは、世界の債券市場関係者にとって極めて興味深いケーススタディとして観察されている。",
+      "global_perspective": "海外の経済アナリストの間で、日本経済がインフレと賃上げの好循環に入りつつあるかどうかの重要な指標として注目されています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "「追いつけないこと」の美学：近代化のモデルを脱却する日本",
-      "original_title": "In Praise Of Japan’s Failure To Keep Up - Noema Magazine",
-      "source": "Noema Magazine",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vT0o4NmN1MWkzb2xvSjVRR0pVZGtVLUhUWVhsVVdSa29rTGYxYldmbzFHam8weHZoNDcwYWlrSklQamxncTV2QWl5aHpsQk5JTEVpcDFVYmlaQXlGM2pDLW50SmdSZy0tVE44RDZfTVg?oc=5",
+      "title_ja": "ユネスコ諮問機関、日本の「書道」を無形文化遺産に登録勧告",
+      "original_title": "UNESCO body recommends Japan's shodo calligraphy for cultural heritage list",
+      "source": "Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03MlAxTlhXVWFmQ0lvNV9oTElWVS0wZ0tkRW5LZWNNUDVvZGRZTVVqN3AzOFd4bWlTalNlWDF2Y0lKU3c0TXUxZ0NNTEpLd0tORWw5QVBQSXBhQQ?oc=5",
       "category": "社会・文化",
       "tags": [
-        "社会",
-        "文化",
-        "経済成長"
+        "ユネスコ",
+        "書道",
+        "無形文化遺産"
       ],
       "summary_points": [
-        "欧米型の右肩上がりな経済成長や近代化のスピードに「追いつけなくなった」現実を、逆説的に肯定的に捉える論考。",
-        "効率性や拡大を最優先しない社会のあり方が、成熟した社会における独自の持続可能性を示唆している。",
-        "GDPや成長率の物差しだけでは測れない、日本の文化的なレジリエンス（回復力）にスポットライトが当てられている。"
+        "ユネスコの諮問機関が、日本の伝統文化である「書道」を無形文化遺産に登録するよう勧告しました。",
+        "文字を書く技術にとどまらず、精神性や芸術性を含めた文化的価値が高く評価されています。",
+        "正式決定となれば、日本の新たなユネスコ無形文化遺産として世界的に発信されます。"
       ],
-      "global_perspective": "資本主義の限界が叫ばれる現代において、経済成長の呪縛から自由になりつつある日本の「静かな変化」は、西洋の先進国にとっても示唆に富む哲学的なテーマとして議論されている。",
+      "global_perspective": "日本独自の伝統芸術が世界的にも普遍的な価値を持つ文化として認められつつあるニュースとして、各国メディアで好意的に報じられています。",
       "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "日米共同で半導体教育を強化、UPWARDSプログラムが拡大",
-      "original_title": "From Troy to Japan: UPWARDS Expands Global Opportunities in Semiconductor Education - Rensselaer Polytechnic Institute (RPI)",
-      "source": "Rensselaer Polytechnic Institute (RPI)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVNPTmtxR2lOQjRGenFoT2hQOUctM2ZHNkpvb2dNZTNzSGxBbFFHSnFwQk5McUJrLUY4TXhlQjdaOGhaY2NKNm56STNCVUgzWUhLbHJwUEo3REc5cnJXWDhxNHJqcWt2WUpTamdOdE9Ed2tZQ0gwbGFhU2E1TXVITlRzWW5ZSEdRSVpFalhyQ215Uk1YMkdkRDdCOGVCeHVSck9YSkp3?oc=5",
-      "category": "テクノロジー",
+      "title_ja": "日本が検討する5,000億ドルの防衛費増強、中国へのメッセージとは",
+      "original_title": "What’s the message for China as Japan weighs US$500 billion defence boost?",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUlyQUl0NzRUYk43c0xvWmcwQXBTUm45Y1F6ZUo5VEhGdUtLY2tLenVYX0hDQm9Dcmttc0NlU2thQmo4andlenlsUXQ5Tk5GSHlIT0ZqOUZDOGhsMUdHalVIWHAtZHVwc1pmYkxnd0tsbVM5bzdybWNOWS01emxaZXNyekxQeGVrOEpWRVZneFlXMDFnUHNObXlUX01PWFp0STd3c1czYk9IdlFXRXNMS05KREg2V1lR0gG4AUFVX3lxTFBRUFRidUpkTUh4dHp2QzlHdlJLUkFpM0FIb2lid0d4OXZGZkpEMjhESDdXNkpKbkIxWlBiS0JXaVY3UkwyMjRKT2g0aEc0ckRLQjRfMFJRU1BxMzZ5MGhub3ZDZUl1aWpzcjBQUldLcmo4S0xubkh3aDdxT0Zkb2FYbDZhSkZ4QlJMLU5aZDM0ZzM4RnRWbFJtWk0zN25lMEFHSnVlX05xa2dhM0tqRThwbVVCZDNjS3g?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "半導体",
-        "教育",
-        "日米協力"
+        "防衛費",
+        "中国",
+        "安全保障"
       ],
       "summary_points": [
-        "日米の大学間連携による半導体人材育成イニシアチブ「UPWARDS」のグローバル展開が加速している。",
-        "次世代の半導体産業を支えるエンジニアを育成するため、国境を越えた教育プログラムと研究協力が強化される。",
-        "サプライチェーンの強靭化が急務となる中、技術革新を支える「人づくり」の面でも日米の結びつきが深まっている。"
+        "日本政府が検討を進める大規模な防衛費増額について、アジア太平洋地域の地政学的影響が議論されています。",
+        "中国の海洋進出や軍事力強化に対抗する抑止力として、日本の防衛政策の転換が注目されています。",
+        "周辺国との緊張関係や、米国の同盟国としての役割のあり方が焦点となっています。"
       ],
-      "global_perspective": "ハードウェアの製造拠点だけでなく、次世代を担う高度人材の育成における国際協力の重要性が、アカデミアと産業界の双方から高く評価されている。",
+      "global_perspective": "アジアの有力メディアである香港紙が、日本の防衛力強化が地域のパワーバランスに与える影響を厳しく分析・警戒する視点から報じています。",
       "reading_time": "約1分"
     },
     {
       "id": 7,
-      "title_ja": "介護ロボットに対する日本の本音：リタイアメント研究からの示唆",
-      "original_title": "How Do People Feel About Robot Caregivers? Evidence from Japan - Center for Retirement Research",
-      "source": "Center for Retirement Research",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWGhFQXJydF9ZOFV0MzV6UkNDNmdZN1oyeV83dnphZWZHRTMwNEtFNFB2NHU2RXFacWN1VG5HenBZQXNGSi01eXMtVHVlWkpFRkJ4aGJZZ3pvTHNrdU5KdTFHd3VkUlBUVHFlT1BUQmlaZnBaa3cyN1UyeXhDOGNhRnlHa2ZjalZE?oc=5",
-      "category": "テクノロジー",
+      "title_ja": "米中間選挙後のアジア外交を警戒する日本、トランプ氏の動向に注目",
+      "original_title": "Japan Wary of Trump's Diplomacy toward Asia after Midterms",
+      "source": "Nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JTVlkQ2luN21jOTdjNXR1WXZIa05OdnBDRi1fMUMzU3BDLXQ1LUQxcmQ2aDZGSGpQbzBxNEpBVGJKSzBLNTU4cHUzOFFYdXR3RTY2Ug?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "介護ロボット",
-        "高齢化",
-        "社会保障"
+        "米国政治",
+        "トランプ",
+        "外交"
       ],
       "summary_points": [
-        "超高齢社会を迎えた日本において、介護ロボットの導入に対する人々の意識や受容性に関する調査結果が発表された。",
-        "深刻な人手不足を補う切り札として期待される一方で、技術と人間のケアのバランスについての議論が続いている。",
-        "世界に先駆けて高齢化が進む日本での実証データは、他国の未来の福祉モデルとしても大きな参考になる。"
+        "米国の政治情勢や中間選挙の結果を受け、日本政府がトランプ氏のアジア外交方針に神経をとがらせています。",
+        "「アメリカ・ファースト」の再来や安全保障政策の変更が、日米同盟やアジアの安定に及ぼす影響が懸念されています。",
+        "日本側の外交・安全保障担当者は、次期政権の動向を見据えた戦略的な対応を迫られています。"
       ],
-      "global_perspective": "「ロボット大国」である日本が直面する介護現場の課題と、テクノロジー受容のリアルなデータは、世界的な高齢化問題に対する重要な解決策のヒントとして注目されている。",
+      "global_perspective": "日本の外交政策が米国の内政や大統領の動向に大きく左右される構造的課題について、国際政治の文脈で鋭く指摘されています。",
       "reading_time": "約1分"
     },
     {
       "id": 8,
-      "title_ja": "ベトナムの指導者との会談で人権問題の提起を求める声",
-      "original_title": "Japan: Raise Rights With Vietnam’s Leader - Human Rights Watch",
-      "source": "Human Rights Watch",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOVlJVDd3Znl6RDc2Mk9oVU5Eb1ZudVludUlhR25KeXlYcER0ajRUSEc4N0RGWU5fYWlWbUYwVGFyclhtVDFkS1dTQVduWE1mbnloZDJLQS1uRVBkRHRXX2U5N2xMU1FDaDBvcV9FM1RZNzNRUHpEMmtnYmJSZk9TVQ?oc=5",
-      "category": "国際・政治",
+      "title_ja": "TOTOジャパンクラシックの優勝副賞はなんと「トイレ」",
+      "original_title": "Winning the Toto Japan Classic means taking home a toilet",
+      "source": "Golf Channel",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYWo3TG5yQURhOW43YktFMmVMZDdaLXUtSVB3cFYxNDVBWVVtMzNDRU1pLTFmY0QxXzhvTXdjMXdnc2lFRzZRZjU1MWtpUS1xU3c0bkIySW8xWU50NTJzRGRmbzY0NjBqTncwSWRtYVhZbUVoc2lZWUNudmdwMWZ3azZNbnNtUmpieGNmOWJXckszQnYtV0VYelJCYw?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "人権",
-        "ベトナム",
-        "外交"
+        "ゴルフ",
+        "TOTO",
+        "ユニーク文化"
       ],
       "summary_points": [
-        "国際人権NGO（ヒューマン・ライツ・ウォッチ）が、日本政府に対し、ベトナム指導者との会談で人権問題を取り上げるよう要請した。",
-        "経済的な結びつきが強い両国間において、労働環境や基本的権利の尊重に向けた外交的アプローチが求められている。",
-        "経済協力と人権外交のバランスをどのように取るか、日本政府の外交姿勢に国際的な視線が集まっている。"
+        "女子ゴルフの「TOTOジャパンクラシック」の優勝者に、スポンサーにちなんで高級ウォシュレット付きトイレが贈られることが話題になっています。",
+        "ゴルフ専門チャンネルが、この日本ならではのユニークな副賞の仕組みを面白おかしく紹介しました。",
+        "日本の高度なトイレ技術を世界にアピールするユニークなプロモーションとしても注目されています。"
       ],
-      "global_perspective": "経済的なパートナーシップを重視しつつも、国際的な人権基準に基づく責任ある外交を日本に促す動きとして、人権団体や欧米メディアから関心が寄せられている。",
+      "global_perspective": "海外のスポーツメディアが、日本の企業のユニークな大会スポンサーシップと「日本のハイテクトイレ文化」をユーモアを交えて伝えています。",
       "reading_time": "約1分"
     }
   ]
