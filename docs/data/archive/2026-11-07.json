@@ -1,0 +1,167 @@
+{
+  "updated_at": "2026-11-07 10:00 JST",
+  "date": "2026-11-07",
+  "total_articles": 8,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "アジア市場が急落、日経平均も連鎖的な大幅下落に見舞われる",
+      "original_title": "Asian stock markets plunge as Japan Nikkei, South Korea KOSPI and Taiwan stocks fall",
+      "source": "Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXVpWEM1UkxaN1VydGZoc1kzUFU5ZV9NR2N4YnpqMnJqTGs4UGJaRXRSMklwTVRER2FhLUtZN0I3cy1wVVFCdm1QQXFDTWx2QWlSRGdReFEtRzlMLURfVlpVR0dzNVlHREx6NnJZSFFGZTB4QUVQcFVIRW9lLW8zNXZFaVpfRWdrV2w5aTVJdjV1ZmVocWRadjg1SnV3MEw4RlhObGM1YkkwcW1QUm5QaEN30gG3AUFVX3lxTE1JN1RPSW1JLTExTjhyeVZjT0M1bnpXXzRVMlhIRGFoVGFWaUkxMFl3TDlZNkNQLVZDemtoQUhlRXAxRnRZb0tkektIQUFuS2p0YVRCRGNfd2VCLUc3a2puMUpOcy1CZmcwYkhFR2NDbF9INVNfT0FtMUFndlVkbUdIb0d3d1FHWTRXYWVvMFpsTDZCTFdVaHpHN1FHM3dBUkFRT3RiNXRKYlkxN3JJZ1pKZEJ3TU1QSQ?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "日経平均",
+        "アジア市場",
+        "株価暴落"
+      ],
+      "summary_points": [
+        "米国経済の減速懸念を受け、日経平均株価を含むアジアの主要市場が軒並み大幅に下落した。",
+        "韓国のKOSPIや台湾市場も連鎖的に値を下げ、投資家のリスク回避姿勢が鮮明になっている。",
+        "世界的な景気後退（リセッション）への警戒感が、アジア全域の金融市場に強い圧力をかけている。"
+      ],
+      "global_perspective": "海外メディアは、日本市場の動向をアジア全体の投資センチメントを左右する先行指標として極めて重視しており、その変動幅の大きさに警戒を強めています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "日銀・植田総裁「AIによる労働代替は日本にとって好機」",
+      "original_title": "BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZUFzVUkxUzd4dDhqN21jdXcxVzUwRndJbmE1bFFTZWJzdWxWN3Z0OTdldWI1YXoxcDJ6eWJnNl9Ua3dxbWZ2dEZPLXhQM0VlVm94OGdpbDhLMk1BUEFDYklZenlCNklDNVItNV9hZDVSYUJfMV9ycVBwSVp3cFQxb1d3MGJXWmNBb09iMUxEODRHOFRUMWlxVXJ6cHpUTmN4dUhGdFplN2ZOOV94UXlHWkxaZXN6b01hOXFFMl9ESGFSdVNBVnVv?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "日銀",
+        "AI",
+        "労働力不足"
+      ],
+      "summary_points": [
+        "植田和男総裁は、深刻な人手不足に直面する日本において、AIが労働を代替することは経済的にプラスに働くと述べた。",
+        "AIの導入が生産性の向上を促し、労働力不足という構造的な課題を解決する鍵になるとの認識を示した。",
+        "金融政策の議論においても、技術革新がマクロ経済に与える長期的な影響を注視する姿勢を強調している。"
+      ],
+      "global_perspective": "人口減少という「静かな有事」を抱える日本が、AIを脅威ではなく解決策として公式に位置づけている点に、国際的な関心が集まっています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "ロシア政府、日本たばこ産業（JT）の現地工場を事実上の接収",
+      "original_title": "Moscow Seizes Japan Tobacco’s Russia Factories",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGJSYldodXRIdGxoX0t1RmdMSV9HRDM4TEh6SXBpc1BvMU5GWW1sNUN1SW1QNmd3Q0cycW1GWnlHanduYXNfQ3JiTmxoTTJaXzg2OXZzLWNkN095UThYNFFJYVdRWm9uSDJhQ1QxaEg5bFU0RE5fMURtcFktajE1TU4zZ291bDBkajlyTzI4UFppZ2l3cFhPYWF5eS1DNnc?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "JT",
+        "ロシア情勢",
+        "地政学リスク"
+      ],
+      "summary_points": [
+        "ロシア当局が、日本たばこ産業（JT）のロシア国内にある製造拠点を管理下に置く措置を講じた。",
+        "ウクライナ侵攻に伴う対露制裁への報復措置の一環とみられ、日本企業の資産が直接的な標的となった。",
+        "ロシア市場に留まっていた外資系企業にとって、事業継続の困難さと資産没収のリスクが現実のものとなっている。"
+      ],
+      "global_perspective": "西側諸国企業のロシア撤退が続く中、日本企業の資産接収は「経済的報復」の具体例として、他国の多国籍企業にとっても深刻な警告と受け止められています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "日本政府、サイバー攻撃急増を受け「緊急対策パッケージ」を公表",
+      "original_title": "Japan announces emergency cybersecurity package following a wave of attacks",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnVPMXhLMTFKN2NqQXFEWjVHc0hJeXNwZV9mODVqU09xM3ZrZ24ySE5mQjlXM1hEZWJhUFlPdy1SQm9sTFF3ZnBwaVJXR0VSUngxWXVsbzJQeTdYNVk4VGQzMTlNYi01SHlIOUV0UDlReG9VQmtKYmJONDJYajBnWGVRTmxmYUFvcXFaNE9DTlJNSjNrOXROVjNVWjdLZ1lQbFRtWHUxbVZiMzQ2bDkyalZaT0ZKbVJ0YVF3?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "サイバーセキュリティ",
+        "国家安全保障",
+        "デジタル化"
+      ],
+      "summary_points": [
+        "インフラや政府機関を狙ったサイバー攻撃の激化を受け、日本政府は防御力を強化する緊急対策を打ち出した。",
+        "官民連携によるリアルタイムの情報共有や、高度なセキュリティ技術の導入支援を加速させる方針だ。",
+        "国家の安全保障を維持する上で、デジタル空間の防衛を最優先課題の一つとして位置づけている。"
+      ],
+      "global_perspective": "日本のサイバー防衛の脆弱性は以前から国際的に指摘されており、今回の緊急対策が同盟国との情報共有の信頼性を高める一歩になるかが注目されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "日中関係の新たな潮流：相互依存から「選択的依存」へのシフト",
+      "original_title": "Japan, China Shifting to Selective Economic Dependence",
+      "source": "Nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mZk11YUJ6UGVvWnllU1QwSTNoUWhBbGZuZERLemZmM0lDZHprRnlZRDZvLThJbXRvalROeEJISHFLa3NCaGlXNk1aUEY0SlpWN0Mxaw?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "日中関係",
+        "経済安全保障",
+        "サプライチェーン"
+      ],
+      "summary_points": [
+        "日本と中国が、経済安全保障の観点から特定の重要分野に限定した「選択的依存」へと戦略を転換している。",
+        "全面的なデカップリング（切り離し）ではなく、リスクを管理しつつ経済的利益を最大化する現実的な路線を模索中だ。",
+        "サプライチェーンの強靭化を進める中で、中国への過度な依存を減らす構造改革が加速している。"
+      ],
+      "global_perspective": "米中対立の狭間で、日本がどのように独自の経済安保戦略を構築し、中国との距離感を再定義しているかは、アジアの安定を占う重要なケーススタディとなっています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "2028年が戦略的試練に？日台中を巡る安全保障の分岐点",
+      "original_title": "Japan, Taiwan, China and the emerging 2028 strategic test",
+      "source": "Asia Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdlk2SnRJeFhRNjUxWTdDLXdGOUFkVTVRcWtIR0U2NzBxWGxTNURzbnNyYUJHNmhkMER4cXNYQzRVNF85OWl2LXgxWUZKbjlRbU0wZUIycXNsdU5ORUhTcDduZkZjRjBNUDJZWU9ZRWlJT3EzZjhadm1KUW1EVV9ZWmFHVFRSNXVEZjNkLXhkSQ?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "台湾有事",
+        "防衛政策",
+        "地政学"
+      ],
+      "summary_points": [
+        "台湾情勢を巡り、2028年までに日本を含む周辺国の安全保障体制が重大な局面を迎えるとの予測が示された。",
+        "中国の軍事力増強に対し、日米台の連携が実効性のある抑止力として機能するかが最大の焦点となる。",
+        "日本の防衛費増額や政策転換が、地域のパワーバランスを維持するための不可欠な要素として議論されている。"
+      ],
+      "global_perspective": "2028年という具体的なタイムラインを提示し、日本の防衛力強化が東アジアの平和維持においていかに決定的な役割を果たすかを強調する論調が目立ちます。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "日本の信用組合でシステム障害、AI関連株の乱高下が影響か",
+      "original_title": "Japanese credit unions hit by outage amid AI stock sell-off",
+      "source": "Protos",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXJSSUVWUWltUzJKSFY1T2VLRUVpc1pScF85bzB1bkxYcGtOMWphUVBwUEFkYVg1REZlUVhrRk5wa0hKZ3JfSmpnM09OalNXUDhIRXNncFJ6RFV0VnNOSk90T3d5WW5Xd2pnWlA5MVExMml3WXhxUm9XVHU5QXBLNjdqZUxKQQ?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "システム障害",
+        "AI銘柄",
+        "金融インフラ"
+      ],
+      "summary_points": [
+        "国内の複数の信用組合でオンラインサービスが停止する障害が発生し、顧客の取引に影響が出た。",
+        "AI関連銘柄の急激な売り浴びせに伴う市場の混乱と取引量の増大が、システム負荷の一因となった可能性が指摘されている。",
+        "金融機関のITインフラが、最新の市場トレンドや急激なボラティリティに耐えうるかという課題が浮き彫りになった。"
+      ],
+      "global_perspective": "新興技術（AIや暗号資産）に関連する市場の動きが、伝統的な金融機関のシステムに予期せぬ連鎖反応を引き起こすリスクとして、海外のテック・金融メディアが注目しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 8,
+      "title_ja": "地方の過疎化が野生動物を追い詰める？日本の生態系に異変",
+      "original_title": "As the Japanese Countryside Empties Out, Wildlife Is Disappearing",
+      "source": "Yale E360",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YT3h4NU5fRVhoUWFoM21ZTWp6RXZWQWVMYlhESEFBVHZBVFBoRXVHdWtoZjJkRDlIYWI3dFd6VGxWd2c5dHdHZGlpMl94N093ckd3dVVUTjZTQVZSaTdKR1A3VjYycWtBckw3dA?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "人口減少",
+        "生物多様性",
+        "地方創生"
+      ],
+      "summary_points": [
+        "日本の地方での人口減少により、かつて人間が管理していた里山が荒廃し、野生動物の生息環境が激変している。",
+        "一部の種が姿を消す一方で、人間居住区への野生動物の侵入が増えるなど、生態系のバランスが崩れつつある。",
+        "「人口減少社会」が自然環境に与える影響は、将来的に同様の課題を抱える諸国の先行事例となっている。"
+      ],
+      "global_perspective": "日本の過疎化問題を単なる社会現象としてだけでなく、地球規模の「生物多様性」や「環境変化」の文脈で捉え直す、学術的かつ深い視点からの報道です。",
+      "reading_time": "約1分"
+    }
+  ]
+}

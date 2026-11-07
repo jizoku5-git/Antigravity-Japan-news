@@ -1,166 +1,166 @@
 {
-  "updated_at": "2026-11-06 10:40 JST",
-  "date": "2026-11-06",
+  "updated_at": "2026-11-07 10:00 JST",
+  "date": "2026-11-07",
   "total_articles": 8,
   "articles": [
     {
       "id": 1,
-      "title_ja": "日経平均株価が取引開始直後に6%超の急落、市場の動向に警戒感",
-      "source": "WRAL",
-      "original_title": "Japan's stock benchmark Nikkei tumbles more than 6% after trading opens",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd3RXNXNpVU5VX21GYm9IQ29JWEtYajBBbFpkUnk4OEpLTV9mbU1zaE91blB3Z3dXVUt3azBQb2JyWU9hYVJGbWVPT3lzeGVNWHM5M1NZMlpMUlhXa1BHTnJlV2VMWGc3Y2xCdnRaVnVnOXZYQlI5M29DSFZlVWlYQV9SV3hveTIzeklsS2NJQUg3amVyMGNZYjJJUVAxZVJwRVVaTHpYMWQ?oc=5",
+      "title_ja": "アジア市場が急落、日経平均も連鎖的な大幅下落に見舞われる",
+      "original_title": "Asian stock markets plunge as Japan Nikkei, South Korea KOSPI and Taiwan stocks fall",
+      "source": "Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXVpWEM1UkxaN1VydGZoc1kzUFU5ZV9NR2N4YnpqMnJqTGs4UGJaRXRSMklwTVRER2FhLUtZN0I3cy1wVVFCdm1QQXFDTWx2QWlSRGdReFEtRzlMLURfVlpVR0dzNVlHREx6NnJZSFFGZTB4QUVQcFVIRW9lLW8zNXZFaVpfRWdrV2w5aTVJdjV1ZmVocWRadjg1SnV3MEw4RlhObGM1YkkwcW1QUm5QaEN30gG3AUFVX3lxTE1JN1RPSW1JLTExTjhyeVZjT0M1bnpXXzRVMlhIRGFoVGFWaUkxMFl3TDlZNkNQLVZDemtoQUhlRXAxRnRZb0tkektIQUFuS2p0YVRCRGNfd2VCLUc3a2puMUpOcy1CZmcwYkhFR2NDbF9INVNfT0FtMUFndlVkbUdIb0d3d1FHWTRXYWVvMFpsTDZCTFdVaHpHN1FHM3dBUkFRT3RiNXRKYlkxN3JJZ1pKZEJ3TU1QSQ?oc=5",
       "category": "経済・ビジネス",
       "tags": [
-        "株式市場",
         "日経平均",
-        "経済動向"
+        "アジア市場",
+        "株価暴落"
       ],
       "summary_points": [
-        "東京株式市場のベンチマークである日経平均株価が、取引開始直後に6%を超える大幅な下落を記録しました。",
-        "国内外の市場環境の急変や投資家心理の冷え込みが背景にあると見られています。",
-        "市場関係者の間では、今後の相場変動に対する警戒感が急速に高まっています。"
+        "米国経済の減速懸念を受け、日経平均株価を含むアジアの主要市場が軒並み大幅に下落した。",
+        "韓国のKOSPIや台湾市場も連鎖的に値を下げ、投資家のリスク回避姿勢が鮮明になっている。",
+        "世界的な景気後退（リセッション）への警戒感が、アジア全域の金融市場に強い圧力をかけている。"
       ],
-      "global_perspective": "海外の金融メディアは、日本市場の急激なボラティリティ（変動性）の高まりと、アジア経済全体への波及効果に強い関心を持っています。",
+      "global_perspective": "海外メディアは、日本市場の動向をアジア全体の投資センチメントを左右する先行指標として極めて重視しており、その変動幅の大きさに警戒を強めています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "日本の名目賃金が約30年ぶりのハイペースで上昇、高市首相が経済成長重視を表明",
-      "source": "The Japan Times / Reuters",
-      "original_title": "Japan’s nominal wages rise at fastest pace in almost 30 years - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVEpuLS10aU5ZMzhfNGNHNEY2SGxiZFluMVQtUkwtZ1JSd19lUjJTR050MGlXcUdiMnFCbVdNVXRvVDZDTlF2Yll2NTItZ09xeThxVVNpaHZxYktfenhIY0V1Zi1xTnlTTlJCeFN3Sno5OVFjOHNpMnlwLVpHSTk5OEVpLU1ueXRPZ0ltR0dycw?oc=5",
+      "title_ja": "日銀・植田総裁「AIによる労働代替は日本にとって好機」",
+      "original_title": "BOJ's Ueda says Japan could do well with AI replacing labor, given existing shortages",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZUFzVUkxUzd4dDhqN21jdXcxVzUwRndJbmE1bFFTZWJzdWxWN3Z0OTdldWI1YXoxcDJ6eWJnNl9Ua3dxbWZ2dEZPLXhQM0VlVm94OGdpbDhLMk1BUEFDYklZenlCNklDNVItNV9hZDVSYUJfMV9ycVBwSVp3cFQxb1d3MGJXWmNBb09iMUxEODRHOFRUMWlxVXJ6cHpUTmN4dUhGdFplN2ZOOV94UXlHWkxaZXN6b01hOXFFMl9ESGFSdVNBVnVv?oc=5",
       "category": "経済・ビジネス",
       "tags": [
-        "賃上げ",
-        "経済政策",
-        "為替・市場"
+        "日銀",
+        "AI",
+        "労働力不足"
       ],
       "summary_points": [
-        "日本の名目賃金が約30年ぶりとなる高い伸び率を記録し、賃上げのモメンタムが広がっています。",
-        "高市首相は市場の動きに警戒感を示しつつ、景気刺激と経済成長の底上げに注力する方針を強調しました。",
-        "長年のデフレから脱却し、持続的な賃金上昇と景気回復の好循環が実現できるか注目されています。"
+        "植田和男総裁は、深刻な人手不足に直面する日本において、AIが労働を代替することは経済的にプラスに働くと述べた。",
+        "AIの導入が生産性の向上を促し、労働力不足という構造的な課題を解決する鍵になるとの認識を示した。",
+        "金融政策の議論においても、技術革新がマクロ経済に与える長期的な影響を注視する姿勢を強調している。"
       ],
-      "global_perspective": "海外メディアは、日本の賃金上昇が日銀の金融政策正常化や今後の利上げ判断にどう影響するかという点を注視しています。",
+      "global_perspective": "人口減少という「静かな有事」を抱える日本が、AIを脅威ではなく解決策として公式に位置づけている点に、国際的な関心が集まっています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "日本政府、ロシアによる日本たばこ産業（JT）の資産接収に対して抗議",
-      "source": "Bloomberg.com",
-      "original_title": "Japan Protests Russia’s Seizure of Japan Tobacco Assets",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNmtGY0M2U0VxZk9BTS1yUWJPeXR3QXVoNS1QOG13WHA4Q3JMMmROX0tYTTcyWS11a3llVmJNdU5sQy05a3lZT25VVWM1UFlyakhCSzJVdk5NSmxVa2dnd2I2cFhOd2tzbFBDSEhjbGpPOW1mbk9jSEVNVVdKV09KQmpaMm1YWm1jMjFFRGx0Qy1USm50eWstUmtjVTB0WTF2U2lmaU9XNUVoZw?oc=5",
+      "title_ja": "ロシア政府、日本たばこ産業（JT）の現地工場を事実上の接収",
+      "original_title": "Moscow Seizes Japan Tobacco’s Russia Factories",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGJSYldodXRIdGxoX0t1RmdMSV9HRDM4TEh6SXBpc1BvMU5GWW1sNUN1SW1QNmd3Q0cycW1GWnlHanduYXNfQ3JiTmxoTTJaXzg2OXZzLWNkN095UThYNFFJYVdRWm9uSDJhQ1QxaEg5bFU0RE5fMURtcFktajE1TU4zZ291bDBkajlyTzI4UFppZ2l3cFhPYWF5eS1DNnc?oc=5",
       "category": "国際・政治",
       "tags": [
-        "ロシア",
-        "日本たばこ産業",
-        "外交"
+        "JT",
+        "ロシア情勢",
+        "地政学リスク"
       ],
       "summary_points": [
-        "ロシア政府が日本たばこ産業（JT）の現地資産を接収した動きに対し、日本政府が公式に抗議を行いました。",
-        "ロシアで事業を展開する外資系企業に対する圧力や統制が強まる中での今回の措置となります。",
-        "両国間の経済関係や、ロシアに進出している他の日本企業への影響が懸念されています。"
+        "ロシア当局が、日本たばこ産業（JT）のロシア国内にある製造拠点を管理下に置く措置を講じた。",
+        "ウクライナ侵攻に伴う対露制裁への報復措置の一環とみられ、日本企業の資産が直接的な標的となった。",
+        "ロシア市場に留まっていた外資系企業にとって、事業継続の困難さと資産没収のリスクが現実のものとなっている。"
       ],
-      "global_perspective": "欧米メディアは、ロシアにおける外国企業の資産没収リスクの一環として取り上げ、地政学的なリスクの高まりを報じています。",
+      "global_perspective": "西側諸国企業のロシア撤退が続く中、日本企業の資産接収は「経済的報復」の具体例として、他国の多国籍企業にとっても深刻な警告と受け止められています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "英情報委員会元委員長が、日本の「海外情報機関」新設構想を支持",
-      "source": "JAPAN Forward",
-      "original_title": "Former UK Intelligence Committee Chair Backs Japan's Plan for Foreign Intelligence Agency",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGtCQ3c2VVUweUluRjNINWhNSUJ5ejIwYk1WWE9JZTdOYjM1NnZmekRIR185LUpZU0dfS005dTcwcVJlYUxHNHJ6d1lfeHIzUzg4OThaSm41cU9ZX1lEd25FdDgtUVJTMVpJOV9hQUMzZ0o3R2d5R2E1UWpmRnB3OEIxUTlFazcxaUdCRXVxOHlrWmg2Q1dqQV9ReDQ1eE95d0E?oc=5",
-      "category": "国際・政治",
+      "title_ja": "日本政府、サイバー攻撃急増を受け「緊急対策パッケージ」を公表",
+      "original_title": "Japan announces emergency cybersecurity package following a wave of attacks",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVnVPMXhLMTFKN2NqQXFEWjVHc0hJeXNwZV9mODVqU09xM3ZrZ24ySE5mQjlXM1hEZWJhUFlPdy1SQm9sTFF3ZnBwaVJXR0VSUngxWXVsbzJQeTdYNVk4VGQzMTlNYi01SHlIOUV0UDlReG9VQmtKYmJONDJYajBnWGVRTmxmYUFvcXFaNE9DTlJNSjNrOXROVjNVWjdLZ1lQbFRtWHUxbVZiMzQ2bDkyalZaT0ZKbVJ0YVF3?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "安全保障",
-        "情報機関",
-        "外交"
+        "サイバーセキュリティ",
+        "国家安全保障",
+        "デジタル化"
       ],
       "summary_points": [
-        "イギリスの情報委員会元委員長が、日本が検討している独自の対外情報機関（スパイ防止や情報収集を担う組織）の創設を支持する見解を示しました。",
-        "複雑化する国際情勢や安全保障上の脅威に対処するため、日本が情報収集能力を強化する必要性が指摘されています。",
-        "同盟国・パートナー国とのインテリジェンス（機密情報）共有の円滑化にもつながると期待されています。"
+        "インフラや政府機関を狙ったサイバー攻撃の激化を受け、日本政府は防御力を強化する緊急対策を打ち出した。",
+        "官民連携によるリアルタイムの情報共有や、高度なセキュリティ技術の導入支援を加速させる方針だ。",
+        "国家の安全保障を維持する上で、デジタル空間の防衛を最優先課題の一つとして位置づけている。"
       ],
-      "global_perspective": "欧米の安全保障コミュニティからは、防衛費増額と合わせて、日本の情報収集・分析体制の近代化を歓迎する声が上がっています。",
+      "global_perspective": "日本のサイバー防衛の脆弱性は以前から国際的に指摘されており、今回の緊急対策が同盟国との情報共有の信頼性を高める一歩になるかが注目されています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "日米豪印（クアッド）が連携、共同軍事演習「マラバール2026」が船越で開始",
-      "source": "Pacific Fleet (.mil)",
-      "original_title": "Funakoshi hosts forces from Australia, India, Japan and U.S. for start of exercise Malabar 2026",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQmNfN2VkblBmX3VCRUxiZU8wY3E0eFVWUVE1X2xiczlQWklGUzN2WnJ2MlY4enE4Z1JmZEhJYjUxTUhkM092cDdkX1JfX0NodWhtSFBoZXdiOWluLUxzVVhEWS1rMXJhXzNvVUFPYUQ5Wkw4T2dDZkNQWkdnQ2hpSEFXUUhEd0FPSF9WTEFsVldENFFJX29YQ0RtU2xCWmROdGVnbjRYNGViWmd0c1JNZnh6cE1iSkZrTXFIYUpYc29ncEYyUXp6MnZEWXFFQzg?oc=5",
+      "title_ja": "日中関係の新たな潮流：相互依存から「選択的依存」へのシフト",
+      "original_title": "Japan, China Shifting to Selective Economic Dependence",
+      "source": "Nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mZk11YUJ6UGVvWnllU1QwSTNoUWhBbGZuZERLemZmM0lDZHprRnlZRDZvLThJbXRvalROeEJISHFLa3NCaGlXNk1aUEY0SlpWN0Mxaw?oc=5",
       "category": "国際・政治",
       "tags": [
-        "クアッド",
-        "自衛隊",
-        "安全保障"
+        "日中関係",
+        "経済安全保障",
+        "サプライチェーン"
       ],
       "summary_points": [
-        "日本、アメリカ、オーストラリア、インドの4カ国（クアッド）による共同軍事演習「マラバール2026」が船越で開幕しました。",
-        "各国の海軍部隊が集結し、戦術的な連携強化や海上防衛力の向上を図る訓練を実施します。",
-        "インド太平洋地域における法の支配と安定を維持するため、4カ国の結束を示す重要な演習となっています。"
+        "日本と中国が、経済安全保障の観点から特定の重要分野に限定した「選択的依存」へと戦略を転換している。",
+        "全面的なデカップリング（切り離し）ではなく、リスクを管理しつつ経済的利益を最大化する現実的な路線を模索中だ。",
+        "サプライチェーンの強靭化を進める中で、中国への過度な依存を減らす構造改革が加速している。"
       ],
-      "global_perspective": "国際社会は、中国の海洋進出を念頭に置いたクアッド諸国の防衛協力の深化と、抑止力の向上を示す動きとして注目しています。",
+      "global_perspective": "米中対立の狭間で、日本がどのように独自の経済安保戦略を構築し、中国との距離感を再定義しているかは、アジアの安定を占う重要なケーススタディとなっています。",
       "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "中国との膠着状態が続く中、日本は米国などとの関係強化が急務との指摘",
-      "source": "Japan Wire by Kyodo News",
-      "original_title": "FOCUS: Japan needs to focus on ties with U.S., others as China deadlock persists",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQRXduR29yNmlReVdDZDBDMy1CV1RseVdpQk03ekF1WGkyZU9DTDYxbTV0RUxGUXFVVjVFT0Eyd3NtTHZnOTNGLXRtSm4tNWlhVHhYbDFfUGtBQQ?oc=5",
+      "title_ja": "2028年が戦略的試練に？日台中を巡る安全保障の分岐点",
+      "original_title": "Japan, Taiwan, China and the emerging 2028 strategic test",
+      "source": "Asia Times",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdlk2SnRJeFhRNjUxWTdDLXdGOUFkVTVRcWtIR0U2NzBxWGxTNURzbnNyYUJHNmhkMER4cXNYQzRVNF85OWl2LXgxWUZKbjlRbU0wZUIycXNsdU5ORUhTcDduZkZjRjBNUDJZWU9ZRWlJT3EzZjhadm1KUW1EVV9ZWmFHVFRSNXVEZjNkLXhkSQ?oc=5",
       "category": "国際・政治",
       "tags": [
-        "日中関係",
-        "日米同盟",
-        "外交"
+        "台湾有事",
+        "防衛政策",
+        "地政学"
       ],
       "summary_points": [
-        "中国との外交・経済面での膠着状態が長期化する中、日本外交の針路に関する分析が報じられています。",
-        "記事では、米国や志を同じくする同志国との強固なネットワークを維持・強化することが不可欠であると強調されています。",
-        "地域の平和と安定を守るため、多国間協力を軸にした外交戦略の重要性が改めて問われています。"
+        "台湾情勢を巡り、2028年までに日本を含む周辺国の安全保障体制が重大な局面を迎えるとの予測が示された。",
+        "中国の軍事力増強に対し、日米台の連携が実効性のある抑止力として機能するかが最大の焦点となる。",
+        "日本の防衛費増額や政策転換が、地域のパワーバランスを維持するための不可欠な要素として議論されている。"
       ],
-      "global_perspective": "アジア情勢を専門とする海外メディアは、日本が直面する地政学的なジレンマと、同盟国との結束によるリスク管理の重要性を分析しています。",
+      "global_perspective": "2028年という具体的なタイムラインを提示し、日本の防衛力強化が東アジアの平和維持においていかに決定的な役割を果たすかを強調する論調が目立ちます。",
       "reading_time": "約1分"
     },
     {
       "id": 7,
-      "title_ja": "凪良ゆうの小説『汝、星のごとく』が「Japan Book Hot 100」で1位を獲得",
-      "source": "Billboard",
-      "original_title": "Yuu Nagira ‘Nanji, Hoshi no Gotoku’ Hits No. 1 on Japan Book Hot 100",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVYxeHJMZWFyaFJ5VzlfMlY2Z2VEQlNIRUt6eVczR3RlbkNPVWkzQnNxeGh5Vmo4QklCQWUzY0t0ZjlnajdRX1l4d1V1OHZEZTBJZ1NCSHpfUm5uN2dRNENaVjE5Rnh2bWtTSlJvdFl0aWVNbHNxTTZZeEZJOFE0Y0I5bEtGT0h1Yl9yZkh0Mks4SVNPZTF0anZpbW5uWU5TQ1AtbWw1cVJSdw?oc=5",
-      "category": "社会・文化",
+      "title_ja": "日本の信用組合でシステム障害、AI関連株の乱高下が影響か",
+      "original_title": "Japanese credit unions hit by outage amid AI stock sell-off",
+      "source": "Protos",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXJSSUVWUWltUzJKSFY1T2VLRUVpc1pScF85bzB1bkxYcGtOMWphUVBwUEFkYVg1REZlUVhrRk5wa0hKZ3JfSmpnM09OalNXUDhIRXNncFJ6RFV0VnNOSk90T3d5WW5Xd2pnWlA5MVExMml3WXhxUm9XVHU5QXBLNjdqZUxKQQ?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "文学",
-        "出版",
-        "トレンド"
+        "システム障害",
+        "AI銘柄",
+        "金融インフラ"
       ],
       "summary_points": [
-        "人気作家・凪良ゆう氏の小説『汝,星のごとく』が、日本のブックチャート「Japan Book Hot 100」で首位に輝きました。",
-        "本屋大賞受賞作でもある同作は、読者や業界関係者の間で高い評価とロングセラーの人気を集め続けています。",
-        "現代の日本文学におけるヒット作として、国内外の出版・カルチャーシーンでも注目されています。"
+        "国内の複数の信用組合でオンラインサービスが停止する障害が発生し、顧客の取引に影響が出た。",
+        "AI関連銘柄の急激な売り浴びせに伴う市場の混乱と取引量の増大が、システム負荷の一因となった可能性が指摘されている。",
+        "金融機関のITインフラが、最新の市場トレンドや急激なボラティリティに耐えうるかという課題が浮き彫りになった。"
       ],
-      "global_perspective": "日本のポップカルチャーや文学トレンドを伝えるメディアとして、質の高い現代小説が広く読者を引きつけている点を紹介しています。",
+      "global_perspective": "新興技術（AIや暗号資産）に関連する市場の動きが、伝統的な金融機関のシステムに予期せぬ連鎖反応を引き起こすリスクとして、海外のテック・金融メディアが注目しています。",
       "reading_time": "約1分"
     },
     {
       "id": 8,
-      "title_ja": "東京の魅力を再発見、幼少期の夏の思い出をたどる旅のエッセイが話題",
-      "source": "Refinery29",
-      "original_title": "I Spent My Childhood Summers In Japan — Here’s How I Rediscovered Tokyo - Refinery29",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KbVp1UjNSWkpCNTJoekRXM2FDYm5aamItdjVzdDNaVi1xMnBxTlVqa2FSUGxEVy1fa2F0Skp2TGZ2anVnVExMTFowOWVxQlVOOGU2QlZPTm5XTHRyWnN5a0d4X0hMMFNqOVdVckJn?oc=5",
-      "category": "観光・トレンド",
+      "title_ja": "地方の過疎化が野生動物を追い詰める？日本の生態系に異変",
+      "original_title": "As the Japanese Countryside Empties Out, Wildlife Is Disappearing",
+      "source": "Yale E360",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YT3h4NU5fRVhoUWFoM21ZTWp6RXZWQWVMYlhESEFBVHZBVFBoRXVHdWtoZjJkRDlIYWI3dFd6VGxWd2c5dHdHZGlpMl94N093ckd3dVVUTjZTQVZSaTdKR1A3VjYycWtBckw3dA?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "東京",
-        "観光",
-        "ライフスタイル"
+        "人口減少",
+        "生物多様性",
+        "地方創生"
       ],
       "summary_points": [
-        "幼少期の夏を日本で過ごした筆者が、大人になってから改めて東京を訪れ、その魅力を再発見する紀行記事が注目を集めています。",
-        "定番の観光スポットだけでなく、日常の街並みや食文化に宿る独自の美しさが新鮮な視点で描かれています。",
-        "海外の読者に向けて、東京という都市の多様性とノスタルジックな側面を伝えています。"
+        "日本の地方での人口減少により、かつて人間が管理していた里山が荒廃し、野生動物の生息環境が激変している。",
+        "一部の種が姿を消す一方で、人間居住区への野生動物の侵入が増えるなど、生態系のバランスが崩れつつある。",
+        "「人口減少社会」が自然環境に与える影響は、将来的に同様の課題を抱える諸国の先行事例となっている。"
       ],
-      "global_perspective": "海外のライフスタイルメディアにおいて、観光客としての視点とは一味違う、個人的で情緒的な東京の魅力の伝え方が好評を得ています。",
+      "global_perspective": "日本の過疎化問題を単なる社会現象としてだけでなく、地球規模の「生物多様性」や「環境変化」の文脈で捉え直す、学術的かつ深い視点からの報道です。",
       "reading_time": "約1分"
     }
   ]
