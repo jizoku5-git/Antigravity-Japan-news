@@ -1,166 +1,166 @@
 {
-  "updated_at": "2026-11-10 12:40 JST",
-  "date": "2026-11-10",
+  "updated_at": "2026-11-11 10:21 JST",
+  "date": "2026-11-11",
   "total_articles": 8,
   "articles": [
     {
       "id": 1,
-      "title_ja": "日銀、早期利上げの必要性を議論。10月会合の「主な意見」が公開",
-      "original_title": "Bank of Japan debated need for faster rate hikes, October summary shows",
-      "source": "The Lufkin Daily News / Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOS2I3MGZzRVdyREs0ZUYxemoxTk9fem9qRlpjNEpMbmJOX0ZqMWpFVy0weWt1Z3hzUDZCd0g5Q0NScDJ1bEk1SW9IZkVjYjgwOUdhZWlESllSSnkzUnNZZjRWZE1YaWM4N1FSajZYZlI5cHhHbDBZQWVHQnhndnlSNHNBWk1pSU5xM1lRelpfS1JNY09pOHM1OVRSMlY1MU1mcmJod0pxVDZJRjBHMU1tVGo5YUNNUE5Nc1hjelIweGVEX2cyc3pqTVMwN2lvSWRKcUxXbGd3MGRHRFdKaEpjMkxobWlUV0VYNHU2YjVMUE5RWjdTZVhzbG5NTVozNEE?oc=5",
+      "title_ja": "日本、円買い介入に過去最大の約7.8兆円を単日で投入か",
+      "original_title": "Japan Spent Record $50 Billion in Single Day to Bolster Yen - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3lMUTI3WFg1TUlac1JZQ1Y4bDN0ejNVNXpKdmZJczk5dVlhaDlSbmhkamQ2TGdvb09hbWhJMjZpSFRCcDBpRUoxOHI1b3I4U0hMSXhWaUxYQWE2MVhXV2p1dGNBN3gtZXY4eWU5RVVpMzQ4ZFplbjI1aGV3UXZ4R2oxX0I0VHdmTXMtalRRMDVZQVdvellGandneGNCX0xhWjZLbDR2ZlBZM0VDdWktVw?oc=5",
       "category": "経済・ビジネス",
       "tags": [
-        "日銀",
-        "利上げ",
-        "金融政策"
+        "円安",
+        "為替介入",
+        "日銀"
       ],
       "summary_points": [
-        "10月の金融政策決定会合で、委員から利上げを急ぐべきだとの意見が出ていたことが判明した。",
-        "米経済の不透明感は残るものの、国内の物価上昇圧力を警戒する姿勢が強まっている。",
-        "市場では12月または1月の追加利上げ観測が一段と強まる内容となった。"
+        "日本政府・日銀が急激な円安を阻止するため、単日として過去最大規模となる約500億ドル（約7.8兆円）の市場介入を実施した。",
+        "記録的な投入額にもかかわらず、根本的な金利差の解消には至っておらず、効果の持続性に市場の懐疑的な見方が広がっている。",
+        "海外の金融市場では、さらなる当局による防衛策への警戒感と、ドルの動向に対する注視が続いている。"
       ],
-      "global_perspective": "世界の投資家は、日銀がいつ「金利のある世界」へ本格移行するかに注視しており、議事要旨の細かなニュアンスまで敏感に反応しています。",
+      "global_perspective": "米WSJ紙をはじめとする海外メディアは、日本の巨額な資金投入の規模とその効果を速報し、G7間での為替協調や政策限界への懸念を報じています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "日本の家計支出、パンデミック以来最大の落ち込み。物価高が直撃",
-      "original_title": "Japan Household Outlays Fall Most Since Pandemic",
+      "title_ja": "ロシアとの関係改善の夢は消滅、ウクライナ情勢で冷え込む外交",
+      "original_title": "Japan’s Dreams of Better Russian Ties Have Gone Up in Smoke - Bloomberg.com",
       "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZTlFUjhSb0FGWXAtM3dPcTE2U3AxRHpXX242TThMTFZoSzFMeVVwN290c3YyUmRVNXExVlBGQVVCTXRSb1VUa01FajRmRmhnM09SUWNKdkpreVU2MUlNOGN4SlUwZFRLTVdmcGZFZWFUSEtnRTlaSU9DaFdvd3lzNzRhYWs4Rjg1ZTVlV3ViY3FKVUF6X2N4VkdPNGNzWlVjbDBYaXZVQVZUMzVXYXBJcUFVV2Q1QQ?oc=5",
-      "category": "経済・ビジネス",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUUhkWlVqLWFqY2pTVm96VXU2c1pRUndhMU9PRTBXMktHZjRtSlpGa3l5Uk83N2o1dFFpNVF0THdtaW1vWk1kal8waWMzaUVRWEkxaXoxZVJfNUpiamxYU1o3VUhzRVlXS3MzMW5oN3M0azh4ckRDcGRrZFdxVjlKenFoeDFEeHJrdnBOc0V5eXJrenRnRk1XYzJEbWNKRnRRT3ZwZkdUMmxKODB6akx2TXRpZw?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "家計支出",
-        "インフレ",
-        "消費停滞"
+        "ロシア",
+        "外交",
+        "北方領土"
       ],
       "summary_points": [
-        "最新の統計で、日本の実質家計支出が予想を上回る減少幅を記録したことが明らかになった。",
-        "食料品や光熱費の高騰が続き、消費者が財布の紐を固く締めている現状が浮き彫りとなっている。",
-        "賃金上昇が物価高に追いついていない「負のサイクル」への懸念が再燃している。"
+        "長年続けられてきたロシアとの平和条約締結や北方領土交渉を含む関係改善の試みが、ウクライナ侵攻を機に完全に頓挫した。",
+        "G7の一員として対露制裁に加わったことで、エネルギー分野での協力なども見直しを余儀なくされている。",
+        "かつての現実的な対露外交路線からの方向転換が、日本の安全保障政策にも長期的な影響を与えている。"
       ],
-      "global_perspective": "日本の個人消費の弱さは、日本経済の回復を阻む最大の懸念材料として、海外の経済アナリストから厳しくチェックされています。",
+      "global_perspective": "米ブルームバーグは、戦後日本外交の大きな柱の一つであった対ロ政策の終焉を冷徹に分析し、今後のアジア太平洋地域の安全保障の地殻変動として捉えています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "日本の半導体再編、買収側には厳しい評価？ロイターが分析",
-      "original_title": "Breakingviews - COMMENTARY: In Japan chip deal, everyone wins except the buyer",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzJmd0tZZDZvRnM1QTlTUHh2WFhuR0d3Smtvek9vOVRUc0ltZGMzZmsyU2U3VnhKbDFBRzd0ZjViemxkT2h1Uk9kNWJKY0lYaGFfVjRoQ0R0dTdUaHZDU01ReEdvX1FBRnJEbnBDRGFadU9XZzRaeTRCeWgxYWJzRWdmSUNsbmNLLXFzVjJRMkl1dFVCZE8yeUhZVXBqcHNSMVlrQjNB?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "日米が防衛力強化で一致、ミサイル防衛や迎撃能力の向上へ",
+      "original_title": "Japan eyes stronger denial capabilities with U.S. under defense policy - Japan Wire by Kyodo News",
+      "source": "Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tcllLM3B0SjFQSUdHNEtrd3hXRVJxbzQxZ19NWjd3Sk5JUW5aMjFoc3dxYUJkY1d2ZEhOME5SNnVYLUZEeHBxdV93V2lBVDNWRUczT3d4UXJXdw?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "半導体",
-        "JSR",
-        "産業政策"
+        "防衛政策",
+        "日米同盟",
+        "安全保障"
       ],
       "summary_points": [
-        "政府系ファンドJICによるJSR買収などの再編について、戦略的意義は認めつつも買収価格の妥当性に疑問を呈している。",
-        "「日の丸半導体」復活への期待と、市場原理の乖離が指摘される内容となっている。",
-        "投資家にとっては利益があるが、最終的な買い手である政府（国民）がリスクを負う構造を批判的に報じた。"
+        "日本政府が米国との協力のもと、相手からの攻撃を防ぐ「抑止力・迎撃能力」のさらなる強化に乗り出している。",
+        "新たな国家安全保障戦略に基づき、ミサイル防衛や統合防空システムの近代化が急ピッチで進められている。",
+        "東アジアの安全保障環境が厳しさを増す中、日米同盟の抑止力を実質的に高める狙いがある。"
       ],
-      "global_perspective": "海外メディアは、日本の産業政策における「官民一体」の動きを、効率性やリターンの観点から冷徹に分析しています。",
+      "global_perspective": "国際ニュースでは、日本の防衛費増額と安全保障政策の大きな転換が、中国や北朝鮮を牽制するための重要な戦略的ステップとして注目されています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "在日米軍、兵士向けの教育を改定へ。相次ぐ不祥事受け再発防止",
-      "original_title": "Japan, US officials to amend American military orientation after Marine’s indictment",
-      "source": "Military Times",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTGsxRXhVX3VwMDhFWkl5c1QzbU5BSGx4aVM4VlFONldQaXhMZXhCV29KTUFBZTFtbXo1dUpMVmZTN3lEaE02SWNqcXo4UE9VMjB6RlZZVFJLM09OY09EX0d5ajJDcTB3cnR0YzQyT3VaNFJuSWlacjhDZjB6d21ic1FRblhRRjZoSTR6cEVHaVV1QS1MdXg2Ymh0QWZyakxjNFdNZWZzZk9jdC1YaUR3QlA5VnZzbFpXYkdlZjNhVXJJWDgyOTdxbQ?oc=5",
-      "category": "国際・政治",
+      "title_ja": "10月の景気ウォッチャー調査が悪化、先行きへの不透明感高まる",
+      "original_title": "Japan’s Economy Watcher Index Slips in October; Outlook Fades - Haver Analytics",
+      "source": "Haver Analytics",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmFoQmFWYkp0V2UydkF2N09nZlBfQmZuaUllUnBzbjRUMUdCLW11UDRzdGs2bzQ0V09kYms2VzlSelpuTzQzTUQzSjZVTnpXUHM2YU9fZmNXODhvSDJJVnllUlFpN1lMdnliR2h5bEk3Z21LZTI0YkhmN3RwR1QyUnJoR0pLMmx4eTROSzcwUjRoV2VaVEE?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "在日米軍",
-        "日米同盟",
-        "防衛政策"
+        "景気ウォッチャー調査",
+        "インフレ",
+        "消費動向"
       ],
       "summary_points": [
-        "海兵隊員による起訴事案を受け、日米当局が在日米軍兵士向けのオリエンテーション内容を修正することで合意した。",
-        "日本の法律や文化への理解を深め、地域住民との摩擦を避けるための教育を徹底する。",
-        "基地周辺の感情悪化が日米同盟の運用に支障をきたすことを防ぐ狙いがある。"
+        "景気の現状を示す1月の「景気ウォッチャー調査」の現状判断指数が前月から低下し、景気回復の足踏みが鮮明になった。",
+        "物価高による家計の負担増が消費マインドを冷え込ませており、街角の景況感に陰りが見えている。",
+        "今後の景気見通しに対する楽観論も後退しており、内需の持続的な回復に向けた懸念が強まっている。"
       ],
-      "global_perspective": "兵士の不祥事が政治問題化し、同盟関係に亀裂が入るリスクを、米軍専門メディアは危機感を持って報じています。",
+      "global_perspective": "海外のアナリストの間では、日本の賃上げの動きがインフレに追いついておらず、個人消費の弱さが日本経済の最大の足かせになっているとの見方が広がっています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "「備え」の先進国・日本。災害対策の知恵を世界へ発信",
-      "original_title": "Japan can tell the world what really matters when prepping",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmFSalo3M19EMnU0eGJmYXI3d0ZuNmUzeDQxa2k2QTRHM1kxbzVOV2tjaWpveTBtN3FTbWxFNWFYNHhUbHBHRFl5Mm50QVdmNmFqSEdpLXROc2lmTnVyUjhBLUZmYjlDY0pnWkc3eUMzRUdCQ3ZFZWhScTl3U2ZiUlpEWnQ?oc=5",
-      "category": "社会・文化",
+      "title_ja": "中国の海洋進出に対抗、日韓連携の深化に高まる期待",
+      "original_title": "Will China’s maritime moves push Japan and South Korea closer together? - South China Morning Post",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNmJZdE9EMTBnN0ZrUktiZzhXakJ0UVQwRml2aW1IWEF6OFJQeU9neVhYT3R3RS1GZ2tfbFBmY2FTcWJQOUZ3NXp3cVZhWVRiNFFqTEVzUmNteG9LTVktVUYtRklDa29aZ0dSOVl0OU9ITkdoSUMxZjVXdmhia0E4YXR5QXBwYnAyWUtWMlFTdktzdnZuZExYdUVQZnpKeVFhV1pDR1FXeEpPdVBSb01EcGhjTlg1dEFvdDFPTG5iM082ZTTSAcMBQVVfeXFMTnM1S3pZd1RiX0x2MGo0OXNDRjU1c1FsMlk4NWJtMThSSldkMUdqSjhhakhZZi1CWGhZY1Ewa1FfN1RFUkNKSWpVRkZuZ01xVGpYTGQ3MlZfam9kS014Y1hKejNDZWhjcjdqSmJXU3BVNkJmTlVjLS1lV0YtdXM1cFFCN1Z1bEdWYmNQNU9HdmpHbS1yZnNiTVVJbkJVZHRtTHhKMFMydkpOdmlUcWd3cDFRX29XU3FKUTdDUnBTY3JvVkxn?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "防災",
-        "レジリエンス",
-        "地震対策"
+        "日韓関係",
+        "中国海洋進出",
+        "安全保障"
       ],
       "summary_points": [
-        "フィナンシャル・タイムズ紙は、日本の地震や自然災害に対する高度な準備体制（プレッピング）を特集した。",
-        "単なる物資の備蓄だけでなく、社会全体の防災意識やインフラの強靭さが評価されている。",
-        "不安定な世界情勢の中で、日本の「レジリエンス（回復力）」が他国のモデルになると指摘した。"
+        "東シナ海や南シナ海における中国の強硬な海洋進出が、日韓両国に安全保障上の共通の脅威として意識されている。",
+        "歴史問題による対立を乗り越え、日韓が米国を交えた3カ国での防衛協力や情報共有を緊密化させる動きが加速している。",
+        "地政学的なプレッシャーが、二国間関係の新たな結束の触媒となっている。"
       ],
-      "global_perspective": "災害大国としての日本の経験を、単なる悲劇ではなく「学ぶべきソリューション」として捉えるポジティブな論調が目立ちます。",
+      "global_perspective": "香港紙SCMPなどは、アジア太平洋地域の安全保障の鍵を握る日韓関係の変化に注目し、共通の脅威がいかに歴史的確執を凌駕し得るかを論じています。",
       "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "『ゴジラ-1.0』が国内興収で記録的快挙。海外でも高まる期待",
-      "original_title": "Japan Box Office: Godzilla Minus Zero Debuts at No. 1 in Record-Breaking Weekend",
-      "source": "Crunchyroll",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUgxZ18zR0JBQmRPZmZybWlSRDNlMGktZ1F5d2ZMVndoM3BwbmlSdXpDdTFmRWVTaElBdmZYY0Y0N21kaWhXa0lzTDhvbEJpRk5yLUpfeVlhSDR2ZFNsZjhDb3dVaGExTGFQZXFGc1BTOVhMRGZLcjNsYnZVbU5QVUUzckpDV3NuZ2J2RTNBQjN2M0U1NUR1WlNfSlg1UzVXZjZpdA?oc=5",
+      "title_ja": "なぜ日本人は「さようなら」を言わないのか？代わりの日常会話",
+      "original_title": "Why people in Japan hardly ever say “sayonara,” and what they say instead - SoraNews24",
+      "source": "SoraNews24",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOXZMWHRmU0JEOFdBOUVWZDNacWRCZFM1RTZlaFlpb2FTMy1SSXBvcW5yelZDYXU1bXBRYmRyOEg5bFlJamlnTVQ0S21zckxZVVRhLVN4a2RwRVNlbmRlVnh2bjRCUGttQU9EeF96dzVJR2cxR1kxby11dG94UWgxMlFjMjNMZ2NyR29PQ04xS3ZDcVRyM1JNUmFPYXFWRDdTclZhRnlyRkTSAa4BQVVfeXFMTW93UHozWXNRd2IyVUU3dEtlb0ktMlhxQjBaQ3FjOWNROWVGM1lYU0lFTDJ5SndJQjM5TUo4dDZtVHMxT1dfS3lwUXRFcURnelhQaTJ0RjJSdW01cUVBaG1PSWFMQ3RNUWNHd3VxYU5SWmtjbU1scmYzQ3JwdF8wOUZDbVlsVW1ZS0VCODk2YmMtSlFBMDJ3cHdjQk9JMFY4V0drNUlHX1BKUl9SWlF3?oc=5",
       "category": "社会・文化",
       "tags": [
-        "ゴジラ",
-        "映画興行",
-        "コンテンツ産業"
+        "日本文化",
+        "日本語",
+        "ライフスタイル"
       ],
       "summary_points": [
-        "山崎貴監督の新作『ゴジラ-1.0』が、公開週末の興行収入で圧倒的な1位を獲得した。",
-        "過去のシリーズ作品を凌ぐペースでの好発進となり、特撮技術と人間ドラマの両面で高い評価を得ている。",
-        "北米公開を控え、日本発のIP（知的財産）としての国際的な成功にも注目が集まっている。"
+        "日本語の教科書で広く教えられる「さようなら」が、現代の日本の日常会話ではほとんど使われていない理由を解説している。",
+        "「さようなら」には永遠の別れや距離感のニュアンスが含まれることが多く、日常的には「じゃあね」「また明日」などが好まれる。",
+        "言葉のニュアンスを通じた、日本人の繊細な人間関係やコミュニケーションのあり方が紹介されている。"
       ],
-      "global_perspective": "日本のポップカルチャーが持つ「世界的な集客力」は、投資対象や文化外交の観点から海外メディアで常に高く評価されています。",
+      "global_perspective": "訪日外国人や日本文化ファンの間で人気のライフスタイル系メディアが、外国人が抱きがちな日本語の疑問をユニークかつ文化的な背景とともに解説しています。",
       "reading_time": "約1分"
     },
     {
       "id": 7,
-      "title_ja": "日本で家庭用防犯カメラが急普及。強盗事件増で防衛意識が変化",
-      "original_title": "FEATURE: Home monitoring cameras gain ground as security tool in Japan",
-      "source": "Japan Wire by Kyodo News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VZHF0RFhfR3ZJNXlTR1EtaDVOZ252QV8yZG50cklMWlRrR1d0QjdhRUJWaEdQRUJxeUFzd21sWkF4bFR3ZFNHU0drQmFPVURnRmZhX3NtdzViUQ?oc=5",
-      "category": "社会・文化",
+      "title_ja": "東北大学と米シカゴ大学、日本国内に量子材料の研究拠点を設立",
+      "original_title": "University of Chicago and Tohoku University Establish Joint Quantum Materials Hub in Japan - Quantum Computing Report",
+      "source": "Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc2pOVEdGNjgwZnlsbW4zWHZnblhEd3NyS0pPN2FqUVdoOVZDWXJPWW5Hby1MVGJNUUszTnVBclN4ZDBBM29Cb3hsWWdfY0FOTXNJclByclRpZGxGMXZsWDNUZXR5SWZqVmNfT0tVc2NxMGhJVEdkYkxwbkU5aE5nTE9RcEY2Z3hFeU1JV3d3RVNnNzRTSmxIZlJZbGNyWXF3ck5sVFM5N2ttSEpJNHlNTFpWZnI4cWhOZHFFZDFGU200TmlK0gHKAUFVX3lxTE9oZ3NST3FnSmh3ZVFRYm5lNnFNWW1ENlJVS1NEMTdFM2hFQW10Y2RCRFNHeHJueHBZa01Fb2pFZlVEa08wX1hLb0k0TFBlcV9TaGpKb29NTXg3S3pJOHZlck5oVjBxTnRHWVNFUkxYU19qZFBUeUtiTlhyUWF0ZXhQamFIdEE3UzNaemVTWXF0bkl2VE0zOHFHSXp0V0RwVEo2MFlkZkVwZXhCenBBeXF5bFdwdlRIZmUtUTZZZmx1SXN2WkppbndZSEE?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "防犯",
-        "スマートホーム",
-        "治安"
+        "量子コンピューティング",
+        "東北大学",
+        "日米協力"
       ],
       "summary_points": [
-        "日本国内でホームモニタリングカメラの需要が急増しており、新たなセキュリティツールとして定着しつつある。",
-        "SNSを悪用した「闇バイト」による強盗事件の発生が、消費者の防犯意識を劇的に変えた。",
-        "技術の進歩により、スマートフォンで手軽に監視できる利便性も普及を後押ししている。"
+        "日本の東北大学と米シカゴ大学が提携し、日本国内に次世代の量子材料に関する共同研究拠点を新設した。",
+        "量子コンピューティングや先端半導体分野での基礎研究を加速させ、両国の技術競争力を高める狙いがある。",
+        "経済安全保障の観点からも極めて重要な先端科学技術分野における、日米間の産学連携の象徴となる取り組み。"
       ],
-      "global_perspective": "「世界一安全」と評された日本社会の変容と、それに伴う防犯テック市場の拡大に海外メディアが注目しています。",
+      "global_perspective": "テクノロジー専門メディアは、米国のトップ大学と日本の研究機関による強固なアライアンスが、世界の量子技術開発の勢力図に与える影響を評価しています。",
       "reading_time": "約1分"
     },
     {
       "id": 8,
-      "title_ja": "「ロシアは交渉のふりをして爆撃している」カラス氏が日本で警告",
-      "original_title": "Russia ‘pretending’ to negotiate on Ukraine while ‘bombing civilians’: Kallas",
-      "source": "The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTYyR3pvMFI1ZWJqTnVUZ0U2bkRYQTNhbUl0TkI1WjFERXBmY2dKRGZaS0tJdVU2amJMS0hZZzhka1N1SlZGcFAyMTBXc2l2NHlycUM0bFAzR18zak1iUkQxVzE3V3FIQndtQUFOQzBQN29vUmJFN2x1QzZLZmRrR2Q3QVVTMFl4ZXVVWTJqVjJhRnpVNThLTQ?oc=5",
-      "category": "国際・政治",
+      "title_ja": "2026年秋の紅葉予測：日本全国で見頃を迎える時期と名所",
+      "original_title": "Japan’s Autumn Foliage Forecast 2026: Peak Times for Red and Yellow Leaves - Nippon.com",
+      "source": "Nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tM2pGcmRsTFB4T1NKendfN1M2OEJLdmFScjhUcm5OMHVJbnQwV1FqdWFweTF6VGFLQnc5OE5oZENRY01pYTFCVjVWMkdzeDU3NWdYcg?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "ウクライナ情勢",
-        "EU",
-        "外交"
+        "紅葉",
+        "観光",
+        "旅行トレンド"
       ],
       "summary_points": [
-        "次期EU外交安全保障上級代表のカラス氏が、ロシアの欺瞞的な交渉姿勢を強く非難した。",
-        "日本で開催された文脈で、法の支配に基づく国際秩序の維持を改めて訴えている。",
-        "ウクライナ情勢がアジアの安全保障環境にも直結するとの認識を強調した。"
+        "2026年の秋における日本各地の紅葉（もみじ・イチョウ）の見頃予測が発表された。",
+        "気候変動の影響による気温の変化に伴い、例年とは異なる時期やスピードで紅葉の色づきが進む地域が出ることが予想されている。",
+        "秋のインバウンド観光客や国内旅行者に向けて、最適な訪問時期や主要な名所の情報が提供されている。"
       ],
-      "global_perspective": "日本がウクライナ支援において欧米と足並みを揃える中、欧州の要人が日本で発するメッセージの重みが増しています。",
+      "global_perspective": "日本の公的・文化発信メディアが、世界中の旅行者に向けて季節の美しい風物詩を正確なデータとともに提供し、日本の四季の魅力をアピールしています。",
       "reading_time": "約1分"
     }
   ]
