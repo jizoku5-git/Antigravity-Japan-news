@@ -1,0 +1,107 @@
+{
+  "updated_at": "2026-11-12 11:20 JST",
+  "date": "2026-11-12",
+  "total_articles": 5,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "日銀の利上げ観測高まる、歴史的介入の背景と今後の市場への影響",
+      "original_title": "Japan Spent Record $50 Billion in Single Day to Bolster Yen - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3lMUTI3WFg1TUlac1JZQ1Y4bDN0ejNVNXpKdmZJczk5dVlhaDlSbmhkamQ2TGdvb09hbWhJMjZpSFRCcDBpRUoxOHI1b3I4U0hMSXhWaUxYQWE2MVhXV2p1dGNBN3gtZXY4eWU5RVVpMzQ4ZFplbjI1aGV3UXZ4R2oxX0I0VHdmTXMtalRRMDVZQVdvellGandneGNCX0xhWjZLbDR2ZlBZM0VDdWktVw?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "円安",
+        "日銀",
+        "為替介入"
+      ],
+      "summary_points": [
+        "日本政府・日銀が円買い介入として過去最大規模の約50億ドル（約500億ドル）を1日で投入したことが明らかになった。",
+        "卸売物価の上昇も加速しており、市場では日銀による37年ぶりの利上げ実施への警戒感が根強く残っている。",
+        "米国でのミサイル遅延など防衛力強化の課題も重なり、マクロ経済と安全保障の両面で日本は重要な岐路に立っている。"
+      ],
+      "global_perspective": "米WSJをはじめとする海外メディアは、日本の巨額な市場介入の事実とともに、長らく続いた超金融緩和政策の転換点として日銀の動向を強く注視している。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "AI時代のサイバー攻撃急増に対処、日本政府が緊急資金投入へ",
+      "original_title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise - Dark Reading",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWdvRm5zTlIwUnRsVDBpdGRRVm1MQmt3aVpNWkZ0bHYyaDJwWFFad2pjNUpGRDBscUthVGRTeG5rbGVUSjRWRWVLRHlTVGg0dDhBNElCR05abU9yN1JUMjNzNU1fdjN1czdqV216Mzc5VDAybUJnanNtNU90Y1B3eW5iTkxEXzRPV3ZwbWdVbXByeDVYUVhROV9zdFY2cnR1WmY3TFJsUzIwMjhiMlF3NQ?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "サイバーセキュリティ",
+        "AI",
+        "政府予算"
+      ],
+      "summary_points": [
+        "生成AIなどを悪用した巧妙なサイバー攻撃が急増していることを受け、日本政府がセキュリティ対策の緊急資金拠出を推進している。",
+        "安全保障上のリスクに対応するため、AI関連企業に対する規制や安全基準違反への罰則導入の検討も進められている。",
+        "デジタル化と安全性のバランスをどう取るか、国内のインフラ防衛に向けた法整備と技術投資が急ピッチで行われている。"
+      ],
+      "global_perspective": "IT専門メディアは、AIの急速な普及に伴うセキュリティの脆弱性が国家的なリスクになっており、日本の遅れを取り戻すための急進的な対策に関心を寄せている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "アマゾンジャパン、公正取引委員会の調査受け「価格拘束」を撤回",
+      "original_title": "Amazon Japan withdraws price-cutting requirement after watchdog probe - Japan Today",
+      "source": "Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDFTamhwQ1licmlHNWx1THJqalcwb3RIcGdFNW1zRG5iN1hJdDF6Mm1fZzF2TjB3SUpFYlVlYXBrVHZ0c1JxbHRyd2dRdzFreEFfSDRGckNWOHdFdTJLRDcyMC1yLWxMU3NaT1NJalhUcHZBenNWbkNMRUFab2V3YmlNaFpZN002TjZFYmhvcEFHa2FVeGVmMWRJWEpRZlM1aWFuUjlpWWNLWkgxdjBQM2g2aEJUQnRGREpzbw?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "Amazon",
+        "公正取引委員会",
+        "独占禁止法"
+      ],
+      "summary_points": [
+        "公正取引委員会による調査を受け、アマゾンジャパンが販売業者に対して要求していた価格引き下げや同等条件の強制を取り下げた。",
+        "プラットフォーム事業者による出店者への優越的地位の濫用に対する監視の目が一段と厳しくなっていることを示している。",
+        "自由競争を阻害する取引慣行の見直しが、巨大テック企業（ビッグテック）に対して引き続き強く求められている。"
+      ],
+      "global_perspective": "グローバル市場全体でビッグテックへの規制強化が進む中、日本の公正取引委員会の毅然とした対応と、それに応じたアマゾンの迅速な方針転換が報じられている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "早期警戒システムが命を救う、日本からルワンダへ広がる防災の知見",
+      "original_title": "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected - UN News",
+      "source": "UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MbEFJdHVFcWphV3lYOUxMb3g0RlRvZy05M1loMkNORzZxblhxVUsxVGdVQkxqMmpOTWFRbjhWa0dXb3YyZXpkZkdXNURoeGllVTBUZmN3TQ?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "防災",
+        "UN",
+        "国際協力"
+      ],
+      "summary_points": [
+        "日本が培ってきた高度な災害の早期警戒システムや防災の知見が、ルワンダをはじめとする開発途上国の人命救助に貢献している。",
+        "気候変動による異常気象が世界各地で深刻化する一方、依然として世界中で数百万人が十分な防災保護を受けられていない現状がある。",
+        "国連を中心に、各国への早期警戒システムの普及と国際的な支援体制の強化が急務とされている。"
+      ],
+      "global_perspective": "国連関連ニュースでは、日本の災害対策技術が持つ国際的な貢献度を高く評価しつつ、地球規模での防災インフラ格差に対する警鐘を鳴らしている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "中国外交における「対日本ジレンマ」、客観視の難しさを指摘",
+      "original_title": "When it comes to Japan, China finds it hard to think straight - Lowy Institute",
+      "source": "Lowy Institute",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdWIwcTZYU21EVHZxSnJSVS01S29rTE4wa3laSTVBVk5QUHF3dkxNRDl4eVlwUHZYaVhPelhRM241TEE2eFhLdm1DU01RRlVEaDlLTEZtbzU1VW1Md3RMOEVCR1VRV3VsbWdhbkdpMWN1TmNnakRvakpScC1HZTlxTFZZem9WNGRqNXF4OGZNdnFrYWRvX1FWX0piazZVeDFGQzdvcFh5VmxOUQ?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "中国",
+        "外交",
+        "地政学"
+      ],
+      "summary_points": [
+        "豪州のシンクタンク「ロウリー研究所」の分析によると、中国が日本に対する外交・安全保障政策において客観的な判断を下すのが困難になっているという。",
+        "歴史的背景や地域のパワーバランスの変化が、両国間の複雑な心理的・戦略的摩擦を生み出す要因として指摘されている。",
+        "日中関係の不安定さは、東アジア全体の安全保障環境に大きな影響を与え続けている。"
+      ],
+      "global_perspective": "海外の戦略系シンクタンクは、日中関係を単なる二国間問題としてだけでなく、インド太平洋地域の地政学的安定を左右する重要な変数として冷静に分析している。",
+      "reading_time": "約1分"
+    }
+  ]
+}
