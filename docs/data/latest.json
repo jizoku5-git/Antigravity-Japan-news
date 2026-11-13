@@ -1,106 +1,146 @@
 {
-  "updated_at": "2026-11-12 11:20 JST",
-  "date": "2026-11-12",
-  "total_articles": 5,
+  "updated_at": "2026-11-13 11:00 JST",
+  "date": "2026-11-13",
+  "total_articles": 7,
   "articles": [
     {
       "id": 1,
-      "title_ja": "日銀の利上げ観測高まる、歴史的介入の背景と今後の市場への影響",
-      "original_title": "Japan Spent Record $50 Billion in Single Day to Bolster Yen - WSJ",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3lMUTI3WFg1TUlac1JZQ1Y4bDN0ejNVNXpKdmZJczk5dVlhaDlSbmhkamQ2TGdvb09hbWhJMjZpSFRCcDBpRUoxOHI1b3I4U0hMSXhWaUxYQWE2MVhXV2p1dGNBN3gtZXY4eWU5RVVpMzQ4ZFplbjI1aGV3UXZ4R2oxX0I0VHdmTXMtalRRMDVZQVdvellGandneGNCX0xhWjZLbDR2ZlBZM0VDdWktVw?oc=5",
+      "title_ja": "ドル円相場が160円を突破、財務相が為替介入への強い姿勢を示唆",
+      "original_title": "Japan's finance minister vows action as yen breaches 160 threshold - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXMwYjRpd1REQjNXRFhacVZLNG14enZrR01hOEZYTDUtdWZyLVVEQzFFbm40d3hvT0ZhVmd5cjkwRTVrR1NZc3hhRkNZZTBub3VmbklYWkhNOG45anRDQVlpZ2xhWU0zaEZka3FxX1Z1cFJ1cnpYMkVHNTUxT2RjdFdUM2tSTFh5dnJJTkVLYWYwaFRiVVZkRzZ0STRIWDFEeWJYTVBHYw?oc=5",
       "category": "経済・ビジネス",
       "tags": [
+        "為替",
         "円安",
-        "日銀",
-        "為替介入"
+        "日銀"
       ],
       "summary_points": [
-        "日本政府・日銀が円買い介入として過去最大規模の約50億ドル（約500億ドル）を1日で投入したことが明らかになった。",
-        "卸売物価の上昇も加速しており、市場では日銀による37年ぶりの利上げ実施への警戒感が根強く残っている。",
-        "米国でのミサイル遅延など防衛力強化の課題も重なり、マクロ経済と安全保障の両面で日本は重要な岐路に立っている。"
+        "ドル円相場が心理的節目の160円を突破し、市場に緊張が走っている。",
+        "片山財務官や閣僚級から、投機的な一方向の急変動に対して強い警戒感と介入を辞さない姿勢が示された。",
+        "過去には過去最大規模の介入も実施されており、今後の政策対応に世界的な注目が集まっている。"
       ],
-      "global_perspective": "米WSJをはじめとする海外メディアは、日本の巨額な市場介入の事実とともに、長らく続いた超金融緩和政策の転換点として日銀の動向を強く注視している。",
+      "global_perspective": "急激な円安の進行と日本当局の防衛策について、世界の金融市場はさらなる覆面介入や実弾介入のタイミングを注視している。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "AI時代のサイバー攻撃急増に対処、日本政府が緊急資金投入へ",
-      "original_title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise - Dark Reading",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWdvRm5zTlIwUnRsVDBpdGRRVm1MQmt3aVpNWkZ0bHYyaDJwWFFad2pjNUpGRDBscUthVGRTeG5rbGVUSjRWRWVLRHlTVGg0dDhBNElCR05abU9yN1JUMjNzNU1fdjN1czdqV216Mzc5VDAybUJnanNtNU90Y1B3eW5iTkxEXzRPV3ZwbWdVbXByeDVYUVhROV9zdFY2cnR1WmY3TFJsUzIwMjhiMlF3NQ?oc=5",
-      "category": "テクノロジー",
+      "title_ja": "防衛費増額に黄信号？日本政府が軍需サプライヤーへ大規模な発注削減を警告",
+      "original_title": "EXCLUSIVE: Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup, sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHpSM2d5bFdOQ0pfSU9rT3FuUjU3RmQ4aGxYTENXOC1Yak5CVUZfNndFOHdBRWxUb0p0OWpTd3l3OXVQZ2MzdEZPZ3hMbElJTlhhS3AzNXBfTk1nOUpfZHVWZjhnX3hFdVJRYWhUcTI2Q3hyVEltTTlON2FSeWNXQk12RTZZdFZGMm91WFV6SER0aXFweWNNUmQyZ0gyd3prcmVvNTBuXzJyTlNNbTZ1blpCc2FVNVRmd0hDeXBwOXJqajQ2d2J6cEQzNV8yRXdaeXJMc2d1aw?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "サイバーセキュリティ",
-        "AI",
-        "政府予算"
+        "防衛費",
+        "安全保障",
+        "財政"
       ],
       "summary_points": [
-        "生成AIなどを悪用した巧妙なサイバー攻撃が急増していることを受け、日本政府がセキュリティ対策の緊急資金拠出を推進している。",
-        "安全保障上のリスクに対応するため、AI関連企業に対する規制や安全基準違反への罰則導入の検討も進められている。",
-        "デジタル化と安全性のバランスをどう取るか、国内のインフラ防衛に向けた法整備と技術投資が急ピッチで行われている。"
+        "日本政府が防衛力強化を進める中、予算の圧迫により国内の軍需サプライヤーへ大規模な発注削減の可能性を警告した。",
+        "防衛予算の急増と円安による調達コストの高騰が、財政を急速に圧迫している実態が明らかになった。",
+        "防衛産業の基盤維持や、計画していた防衛力の大幅強化への影響が懸念されている。"
       ],
-      "global_perspective": "IT専門メディアは、AIの急速な普及に伴うセキュリティの脆弱性が国家的なリスクになっており、日本の遅れを取り戻すための急進的な対策に関心を寄せている。",
+      "global_perspective": "防衛力の大幅な拡大を掲げてきた日本の裏側で、予算の限界と調達の現実的な難しさが浮き彫りになっていると報じられている。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "アマゾンジャパン、公正取引委員会の調査受け「価格拘束」を撤回",
-      "original_title": "Amazon Japan withdraws price-cutting requirement after watchdog probe - Japan Today",
-      "source": "Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDFTamhwQ1licmlHNWx1THJqalcwb3RIcGdFNW1zRG5iN1hJdDF6Mm1fZzF2TjB3SUpFYlVlYXBrVHZ0c1JxbHRyd2dRdzFreEFfSDRGckNWOHdFdTJLRDcyMC1yLWxMU3NaT1NJalhUcHZBenNWbkNMRUFab2V3YmlNaFpZN002TjZFYmhvcEFHa2FVeGVmMWRJWEpRZlM1aWFuUjlpWWNLWkgxdjBQM2g2aEJUQnRGREpzbw?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "トランプ氏、日本への米軍駐留経費の3倍増（約2.9兆円）を要求",
+      "original_title": "Trump demands Japan triple American troop hosting costs to US$19 billion - South China Morning Post",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ2xNVkR6LVVwMUxEQmZnT081NklETXptTTR4UlZiNkZrMDMyUGtBQ080ZEFENnh4QUtadUt5bm5EQTBmY0pOZFpoYVltTi03SVpBTDlILUZ5Qy04YV8xeGw0VW0tN21xNXJqM2trbGFLenFEcXhwa2xlSm1Kb2hhRFRwMjVPTUE0dy1jRUp1cVgtM2UxUzJaUklTNkwxTWNtWXR1SGlQN0lOX2hkLUlXRW5jMmxZUmJwQ2cyQnAxeTVTRU3SAcMBQVVfeXFMTm9nUEQxQm1GcktTWUJMZFVMWUtRUWNpYmZpUlRvME51Y1ltUUVjemJfLUJ1UUpGbjNMb2sxcnhiSVhtSGpaQ1FNd3B5cTRXNUEwUWl3UlJjcjJidkt2RUpKOUlicXcxZjZVa0RhckRPNW12M3BGOUFLVGozRFA5XzB1aGZGVW5sZVpCR01FcjhJYUExTW4wNXNsMk9xR0lBS1JMb1VseVBnblZKM3RkdUN1TDNaSmZMQUFERWw3OUdpSUZR?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "Amazon",
-        "公正取引委員会",
-        "独占禁止法"
+        "米国",
+        "トランプ",
+        "外交"
       ],
       "summary_points": [
-        "公正取引委員会による調査を受け、アマゾンジャパンが販売業者に対して要求していた価格引き下げや同等条件の強制を取り下げた。",
-        "プラットフォーム事業者による出店者への優越的地位の濫用に対する監視の目が一段と厳しくなっていることを示している。",
-        "自由競争を阻害する取引慣行の見直しが、巨大テック企業（ビッグテック）に対して引き続き強く求められている。"
+        "トランプ氏が、日本に対して米軍駐留経費の負担を現在の3倍にあたる190億ドル（約2.9兆円）に引き上げるよう要求した。",
+        "同盟国への金銭的負担を厳しく追及する同氏の外交姿勢が、再び日本との安全保障政策の焦点になりつつある。",
+        "将来的な日米関係や日本の防衛予算編成に大きな波紋を広げる可能性がある。"
       ],
-      "global_perspective": "グローバル市場全体でビッグテックへの規制強化が進む中、日本の公正取引委員会の毅然とした対応と、それに応じたアマゾンの迅速な方針転換が報じられている。",
+      "global_perspective": "米大統領選を見据え、同盟国に対する金銭的負担の要求が強まる中、日本がどのように対応するか国際社会から注目を集めている。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "早期警戒システムが命を救う、日本からルワンダへ広がる防災の知見",
-      "original_title": "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected - UN News",
-      "source": "UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MbEFJdHVFcWphV3lYOUxMb3g0RlRvZy05M1loMkNORzZxblhxVUsxVGdVQkxqMmpOTWFRbjhWa0dXb3YyZXpkZkdXNURoeGllVTBUZmN3TQ?oc=5",
-      "category": "社会・文化",
+      "title_ja": "中国の台湾侵攻と南シナ海統制の野望、日本のシンクタンクが分析",
+      "original_title": "China eyes South China Sea control for Taiwan invasion: Japan think tank - Japan Wire by Kyodo News",
+      "source": "Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oeklUTWRCUXVTMFR1b0VZeWM1dkh6Xy1wakNVNTZlVVFYcndEWVJ5VzFvT19rb1JOTmx0eHFyU0tJdzRuUEU2Q3pQaUpoeGE1c0RCMXAwUmxoZw?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "防災",
-        "UN",
-        "国際協力"
+        "中国",
+        "台湾",
+        "安全保障"
       ],
       "summary_points": [
-        "日本が培ってきた高度な災害の早期警戒システムや防災の知見が、ルワンダをはじめとする開発途上国の人命救助に貢献している。",
-        "気候変動による異常気象が世界各地で深刻化する一方、依然として世界中で数百万人が十分な防災保護を受けられていない現状がある。",
-        "国連を中心に、各国への早期警戒システムの普及と国際的な支援体制の強化が急務とされている。"
+        "日本のシンクタンクの分析により、中国が台湾侵攻を見据えて南シナ海の支配権掌握を強めていることが指摘された。",
+        "有事の際に米軍の介入を阻止するため、周辺海域での戦略的優位性を確保する狙いがあるとされる。",
+        "アジア太平洋地域の安全保障環境の緊迫化が改めて浮き彫りとなっている。"
       ],
-      "global_perspective": "国連関連ニュースでは、日本の災害対策技術が持つ国際的な貢献度を高く評価しつつ、地球規模での防災インフラ格差に対する警鐘を鳴らしている。",
+      "global_perspective": "中国の軍事的な動きが台湾周辺だけでなく南シナ海全体にどう影響するか、日本の専門的な分析として海外メディアでも広く共有されている。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "中国外交における「対日本ジレンマ」、客観視の難しさを指摘",
-      "original_title": "When it comes to Japan, China finds it hard to think straight - Lowy Institute",
-      "source": "Lowy Institute",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdWIwcTZYU21EVHZxSnJSVS01S29rTE4wa3laSTVBVk5QUHF3dkxNRDl4eVlwUHZYaVhPelhRM241TEE2eFhLdm1DU01RRlVEaDlLTEZtbzU1VW1Md3RMOEVCR1VRV3VsbWdhbkdpMWN1TmNnakRvakpScC1HZTlxTFZZem9WNGRqNXF4OGZNdnFrYWRvX1FWX0piazZVeDFGQzdvcFh5VmxOUQ?oc=5",
-      "category": "国際・政治",
+      "title_ja": "SNSが日本の子供たちの移民観に与える影響、『ジャパン・タイムズ』が報道",
+      "original_title": "How social media is influencing Japanese children’s views on immigrants - The Japan Times",
+      "source": "The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUVsamlJWEtyN0lzVXF2bzA5UTF3dUhURTljTF9IUFpNNnZZcFFHb3JYYlJYVUUySEMtQUMta1NwQUNkY0pncFl1d0dKc29mMWxqMmVlVnlMM3Q1UHlBaDNhSERyMkdUTGlYZHdHaHRJMVVhTW95eWNXc3hEQ0VBOGJ4N3JEWkFfeHowelNfSlpBd2VVS2x4Yg?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "中国",
-        "外交",
-        "地政学"
+        "SNS",
+        "移民",
+        "教育"
       ],
       "summary_points": [
-        "豪州のシンクタンク「ロウリー研究所」の分析によると、中国が日本に対する外交・安全保障政策において客観的な判断を下すのが困難になっているという。",
-        "歴史的背景や地域のパワーバランスの変化が、両国間の複雑な心理的・戦略的摩擦を生み出す要因として指摘されている。",
-        "日中関係の不安定さは、東アジア全体の安全保障環境に大きな影響を与え続けている。"
+        "SNS上の偏った情報やフェイクニュースが、日本の子供たちの外国人労働者や移民に対する見方に影響を与えている。",
+        "単一民族神話が薄れゆく中で、ネット空間を通じた意識の分断や偏見の醸成が社会課題として浮上している。",
+        "メディアリテラシー教育や多文化共生の重要性が改めて問われている。"
       ],
-      "global_perspective": "海外の戦略系シンクタンクは、日中関係を単なる二国間問題としてだけでなく、インド太平洋地域の地政学的安定を左右する重要な変数として冷静に分析している。",
+      "global_perspective": "高齢化に伴い外国人材の受け入れを進める日本社会において、次世代の意識形成がSNSによってどう歪められているかに関心が集まっている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "「一人っ子で十分？」経済的な不安が日本の夫婦の第2子出産の決断を左右",
+      "original_title": "One and Done? Money Concerns Shape Japanese Couples’ Decisions to Have a Second Child - Nippon.com",
+      "source": "Nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8taUozR3E2QVg3Q0FaZkszQ0dxVDRZNG1LbDBubkJCNjZaWEk5bFNMN2s0X21vUlF2THAzZ0Z3ckZmVXJEQ0lyQ1dsRERjSlh5OE9wVg?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "少子化",
+        "経済",
+        "育児"
+      ],
+      "summary_points": [
+        "日本の多くの夫婦が、教育費の高騰や将来への経済的不安から2人目の子どもを持つことを躊躇している。",
+        "国の少子化対策にもかかわらず、個人の家計負担の重さが依然として出産・子育ての大きなハードルになっている。",
+        "深刻な人口減少に歯止めをかけるには、実効性のある経済支援が急務であると指摘されている。"
+      ],
+      "global_perspective": "日本の少子化問題の核心にある「経済的なプレッシャーと家族計画のジレンマ」について、海外の有識者も深く注目している。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "世界的規模のIT障害が発生、日本国内のMicrosoftアプリにも影響",
+      "original_title": "Widespread outage hits Microsoft apps - Japan Today",
+      "source": "Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2VsZlJvYk5BcnFfWW1vNF9ITXpPMElqcFFEcmNJSFBNTnJsUmFLTjJQdTdrYmhXZ3RYakUyR296TXYzZUd5YjVfcElMc0N3VTJpQUx1SzJ3REJLWFo3ZXg2ZEZETTlKUUpISzhsbHp1RFJmT18tY01LcVRVRDN0S1VVZEdteGlpNGtod2JWRkNieHNr?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "マイクロソフト",
+        "IT障害",
+        "セキュリティ"
+      ],
+      "summary_points": [
+        "Microsoftの各種アプリやサービスで世界規模の広範なシステム障害が発生した。",
+        "日本国内のビジネスユーザーや各種サービスでも一時的な利用不良などの影響が確認された。",
+        "クラウドインフラストラクチャーへの過度な依存リスクが改めて浮き彫りとなった。"
+      ],
+      "global_perspective": "現代のビジネスインフラがいかに巨大IT企業に依存しているかを示す象徴的なトラブルとして、各国メディアで大きく取り上げられた。",
       "reading_time": "約1分"
     }
   ]
