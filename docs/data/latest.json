@@ -1,146 +1,107 @@
 {
-  "updated_at": "2026-11-13 11:00 JST",
-  "date": "2026-11-13",
-  "total_articles": 7,
+  "updated_at": "2026-11-14 10:32 JST",
+  "date": "2026-11-14",
+  "total_articles": 5,
   "articles": [
     {
       "id": 1,
-      "title_ja": "ドル円相場が160円を突破、財務相が為替介入への強い姿勢を示唆",
-      "original_title": "Japan's finance minister vows action as yen breaches 160 threshold - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXMwYjRpd1REQjNXRFhacVZLNG14enZrR01hOEZYTDUtdWZyLVVEQzFFbm40d3hvT0ZhVmd5cjkwRTVrR1NZc3hhRkNZZTBub3VmbklYWkhNOG45anRDQVlpZ2xhWU0zaEZka3FxX1Z1cFJ1cnpYMkVHNTUxT2RjdFdUM2tSTFh5dnJJTkVLYWYwaFRiVVZkRzZ0STRIWDFEeWJYTVBHYw?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "大阪市、サイバー攻撃で100万人規模の情報流出警告",
+      "original_title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
+      "source": "The Record from Recorded Future News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BOEdSb1lMbENldjJPVXlpbWZINFBuMFVfUDRMZlN1d0dYSUwzMjZiVzh0OGdUZktXSk5oYVVmajR2RGl0akVtQ2lHR05vcTczYXp0UjN3eW1wYnctWUp0SXpRSnpDZ3NsYmwyRjBR?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "為替",
-        "円安",
-        "日銀"
+        "サイバーセキュリティ",
+        "大阪市",
+        "個人情報流出"
       ],
       "summary_points": [
-        "ドル円相場が心理的節目の160円を突破し、市場に緊張が走っている。",
-        "片山財務官や閣僚級から、投機的な一方向の急変動に対して強い警戒感と介入を辞さない姿勢が示された。",
-        "過去には過去最大規模の介入も実施されており、今後の政策対応に世界的な注目が集まっている。"
+        "大阪市が、約100万人に影響するデータ侵害（情報流出）の可能性について警告を発しました。",
+        "日本国内では近年、企業や自治体を狙ったサイバーインシデントが相次いで発生し社会問題化しています。",
+        "海外メディアも、日本のインフラや行政機関におけるセキュリティ脆弱性のリスクとして注目しています。"
       ],
-      "global_perspective": "急激な円安の進行と日本当局の防衛策について、世界の金融市場はさらなる覆面介入や実弾介入のタイミングを注視している。",
+      "global_perspective": "相次ぐ日本のサイバー攻撃被害の一つとして、自治体におけるセキュリティ対策の強化が急務であると報じられています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "防衛費増額に黄信号？日本政府が軍需サプライヤーへ大規模な発注削減を警告",
-      "original_title": "EXCLUSIVE: Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup, sources say - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHpSM2d5bFdOQ0pfSU9rT3FuUjU3RmQ4aGxYTENXOC1Yak5CVUZfNndFOHdBRWxUb0p0OWpTd3l3OXVQZ2MzdEZPZ3hMbElJTlhhS3AzNXBfTk1nOUpfZHVWZjhnX3hFdVJRYWhUcTI2Q3hyVEltTTlON2FSeWNXQk12RTZZdFZGMm91WFV6SER0aXFweWNNUmQyZ0gyd3prcmVvNTBuXzJyTlNNbTZ1blpCc2FVNVRmd0hDeXBwOXJqajQ2d2J6cEQzNV8yRXdaeXJMc2d1aw?oc=5",
+      "title_ja": "日本、今後5年間で60兆円規模の防衛費を検討か",
+      "original_title": "Japan Eyes 60 T. Yen in Defense Spending over Next 5 Years",
+      "source": "Nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UWlJwc0dBU0Y3SDl5ZnFRSG9XSG13NU9xQW5scmhEaS0yeUFhVUdNeGlmOW1EUHI4R2p1LXBUczdKY0JlOEZoMFNKTTBBd05ZZDhxLQ?oc=5",
       "category": "国際・政治",
       "tags": [
         "防衛費",
         "安全保障",
-        "財政"
+        "自衛隊"
       ],
       "summary_points": [
-        "日本政府が防衛力強化を進める中、予算の圧迫により国内の軍需サプライヤーへ大規模な発注削減の可能性を警告した。",
-        "防衛予算の急増と円安による調達コストの高騰が、財政を急速に圧迫している実態が明らかになった。",
-        "防衛産業の基盤維持や、計画していた防衛力の大幅強化への影響が懸念されている。"
+        "日本政府が今後5年間で約60兆円規模の防衛費支出を検討していることが明らかになりました。",
+        "安全保障環境の厳しさを増すアジア太平洋地域において、防衛力の抜本的な強化を図る狙いがあります。",
+        "巨額の財政負担や具体的な財源確保策について、国内外で議論が活発化しています。"
       ],
-      "global_perspective": "防衛力の大幅な拡大を掲げてきた日本の裏側で、予算の限界と調達の現実的な難しさが浮き彫りになっていると報じられている。",
+      "global_perspective": "地域の抑止力強化に向けた日本の急激な防衛費増額の動きとして、国際社会から高い関心を持って見られています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "トランプ氏、日本への米軍駐留経費の3倍増（約2.9兆円）を要求",
-      "original_title": "Trump demands Japan triple American troop hosting costs to US$19 billion - South China Morning Post",
-      "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ2xNVkR6LVVwMUxEQmZnT081NklETXptTTR4UlZiNkZrMDMyUGtBQ080ZEFENnh4QUtadUt5bm5EQTBmY0pOZFpoYVltTi03SVpBTDlILUZ5Qy04YV8xeGw0VW0tN21xNXJqM2trbGFLenFEcXhwa2xlSm1Kb2hhRFRwMjVPTUE0dy1jRUp1cVgtM2UxUzJaUklTNkwxTWNtWXR1SGlQN0lOX2hkLUlXRW5jMmxZUmJwQ2cyQnAxeTVTRU3SAcMBQVVfeXFMTm9nUEQxQm1GcktTWUJMZFVMWUtRUWNpYmZpUlRvME51Y1ltUUVjemJfLUJ1UUpGbjNMb2sxcnhiSVhtSGpaQ1FNd3B5cTRXNUEwUWl3UlJjcjJidkt2RUpKOUlicXcxZjZVa0RhckRPNW12M3BGOUFLVGozRFA5XzB1aGZGVW5sZVpCR01FcjhJYUExTW4wNXNsMk9xR0lBS1JMb1VseVBnblZKM3RkdUN1TDNaSmZMQUFERWw3OUdpSUZR?oc=5",
+      "title_ja": "日本、フィリピンへドローンや沿岸レーダー供与を約束",
+      "original_title": "Japan Pledges Drones, Coastal Defense Radar in Latest Philippine Defense Package",
+      "source": "USNI News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVNlZUdsZXNjQk1HMVhzZkNRZ3dmZG02MG1ybWNZbnI1MmVUNjg1dlJkejd4Zk95Z1RNaFVZV00xRVRjVHExUmhpR3Nqb0VrLW1iRWFKcElxMVdVejB3SkVjTXJ3aXF6cmQza2t3WkplNWlvTThkMkpTaUxWeENyUmd6VDNVbV9kUi1wSTF5S3gxUjlNczRaUVROeUpHSXhGTFZYRDluVGk2TGRmRG1NRTBn?oc=5",
       "category": "国際・政治",
       "tags": [
-        "米国",
-        "トランプ",
-        "外交"
+        "フィリピン",
+        "防衛協力",
+        "南シナ海"
       ],
       "summary_points": [
-        "トランプ氏が、日本に対して米軍駐留経費の負担を現在の3倍にあたる190億ドル（約2.9兆円）に引き上げるよう要求した。",
-        "同盟国への金銭的負担を厳しく追及する同氏の外交姿勢が、再び日本との安全保障政策の焦点になりつつある。",
-        "将来的な日米関係や日本の防衛予算編成に大きな波紋を広げる可能性がある。"
+        "日本政府がフィリピンに対し、最新の防衛支援パッケージとしてドローンや沿岸防衛レーダーの供与を約束しました。",
+        "海洋進出を強める中国を念頭に、同志国との安全保障協力を深化させる戦略の一環です。",
+        "ASEAN諸国との防衛装備品移転を通じた地域安定化への貢献として評価されています。"
       ],
-      "global_perspective": "米大統領選を見据え、同盟国に対する金銭的負担の要求が強まる中、日本がどのように対応するか国際社会から注目を集めている。",
+      "global_perspective": "日本が安全保障上の関与を東南アジア地域へ積極的に広げている象徴的な動きとして注目されています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "中国の台湾侵攻と南シナ海統制の野望、日本のシンクタンクが分析",
-      "original_title": "China eyes South China Sea control for Taiwan invasion: Japan think tank - Japan Wire by Kyodo News",
-      "source": "Japan Wire by Kyodo News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oeklUTWRCUXVTMFR1b0VZeWM1dkh6Xy1wakNVNTZlVVFYcndEWVJ5VzFvT19rb1JOTmx0eHFyU0tJdzRuUEU2Q3pQaUpoeGE1c0RCMXAwUmxoZw?oc=5",
+      "title_ja": "ベトナムのトー・ラム書記長の訪日、ハノイと東京の戦略的連携が深化",
+      "original_title": "Tô Lâm’s Japan Visit Pushes Hà Nội-Tokyo Ties Toward Deeper Strategic Alignment",
+      "source": "The Vietnamese Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0dGVExJQkJVb2NmU1FkeUdlbFZZY2RLaVJqUnR6a2NKeHRmcjd0VDlSLUU3TWQwbnhKRTRXVHhpMlpIM2x2YU5RcF9FSVZTRVVrRFRUZjFsMXliRDFaQVYyenlKRUE5V1oxeUFmMHBIT2dnQzZweDd0ZmlINGh0elJVcEcwSU05cF9sNHMyVGNWcGdtTVhPR1RBRUhtMWJwMlM5LXM4UFctZXd1dTZjZzJaSQ?oc=5",
       "category": "国際・政治",
       "tags": [
-        "中国",
-        "台湾",
-        "安全保障"
+        "ベトナム",
+        "外交",
+        "経済協力"
       ],
       "summary_points": [
-        "日本のシンクタンクの分析により、中国が台湾侵攻を見据えて南シナ海の支配権掌握を強めていることが指摘された。",
-        "有事の際に米軍の介入を阻止するため、周辺海域での戦略的優位性を確保する狙いがあるとされる。",
-        "アジア太平洋地域の安全保障環境の緊迫化が改めて浮き彫りとなっている。"
+        "ベトナムのトー・ラム最高指導者の訪日により、両国の二国間関係がより深い戦略的連携へと押し上げられました。",
+        "経済、サプライチェーン、インフラ整備、そして安全保障分野での協力拡大が確認されています。",
+        "自由で開かれたインド太平洋の実現に向け、ASEANと日本の結びつきの強さが再認識されています。"
       ],
-      "global_perspective": "中国の軍事的な動きが台湾周辺だけでなく南シナ海全体にどう影響するか、日本の専門的な分析として海外メディアでも広く共有されている。",
+      "global_perspective": "中国との地理的・経済的関係が複雑に絡む中、ベトナムが日本との関係緊密化を重視する姿勢が海外メディアで好意的に報じられています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "SNSが日本の子供たちの移民観に与える影響、『ジャパン・タイムズ』が報道",
-      "original_title": "How social media is influencing Japanese children’s views on immigrants - The Japan Times",
-      "source": "The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUVsamlJWEtyN0lzVXF2bzA5UTF3dUhURTljTF9IUFpNNnZZcFFHb3JYYlJYVUUySEMtQUMta1NwQUNkY0pncFl1d0dKc29mMWxqMmVlVnlMM3Q1UHlBaDNhSERyMkdUTGlYZHdHaHRJMVVhTW95eWNXc3hEQ0VBOGJ4N3JEWkFfeHowelNfSlpBd2VVS2x4Yg?oc=5",
-      "category": "社会・文化",
+      "title_ja": "WOWOW、女子テニス（WTAツアー）の日本国内独占配信権を2030年まで獲得",
+      "original_title": "WOWOW becomes exclusive home of WTA Tour in Japan through 2030",
+      "source": "WTA Tennis",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzI3U2hsbVpSMHp3eUM0dWtVZzBkM191Q0JwNzJzSDRrNVdXUjR2MUtjMGpJQ2FudDQyVkZ6QVdVaDlFd2xQM0F0RlYxNVJBY1Q4TlZoSWFJeFlYY3RhdVgzT25fbXFLVU5jQmhIV0JRXzh2b0M2MHh1bkZqeFI4UlVkZVNJWGl3MTlvZVFYU29tTDM3LXplX08yeFdpbDVURzdJ?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "SNS",
-        "移民",
-        "教育"
+        "WOWOW",
+        "テニス",
+        "WTA",
+        "メディア"
       ],
       "summary_points": [
-        "SNS上の偏った情報やフェイクニュースが、日本の子供たちの外国人労働者や移民に対する見方に影響を与えている。",
-        "単一民族神話が薄れゆく中で、ネット空間を通じた意識の分断や偏見の醸成が社会課題として浮上している。",
-        "メディアリテラシー教育や多文化共生の重要性が改めて問われている。"
+        "衛星放送・配信大手のWOWOWが、女子テニス協会（WTA）ツアーの日本国内における独占放送・配信権を2030年まで延長しました。",
+        "長年にわたるテニス中継の実績を活かし、今後も国内外のトップアスリートの戦いを日本のファンへ届けます。",
+        "スポーツコンテンツの配信権ビジネスにおける長期的な囲い込み戦略として注目されます。"
       ],
-      "global_perspective": "高齢化に伴い外国人材の受け入れを進める日本社会において、次世代の意識形成がSNSによってどう歪められているかに関心が集まっている。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 6,
-      "title_ja": "「一人っ子で十分？」経済的な不安が日本の夫婦の第2子出産の決断を左右",
-      "original_title": "One and Done? Money Concerns Shape Japanese Couples’ Decisions to Have a Second Child - Nippon.com",
-      "source": "Nippon.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8taUozR3E2QVg3Q0FaZkszQ0dxVDRZNG1LbDBubkJCNjZaWEk5bFNMN2s0X21vUlF2THAzZ0Z3ckZmVXJEQ0lyQ1dsRERjSlh5OE9wVg?oc=5",
-      "category": "社会・文化",
-      "tags": [
-        "少子化",
-        "経済",
-        "育児"
-      ],
-      "summary_points": [
-        "日本の多くの夫婦が、教育費の高騰や将来への経済的不安から2人目の子どもを持つことを躊躇している。",
-        "国の少子化対策にもかかわらず、個人の家計負担の重さが依然として出産・子育ての大きなハードルになっている。",
-        "深刻な人口減少に歯止めをかけるには、実効性のある経済支援が急務であると指摘されている。"
-      ],
-      "global_perspective": "日本の少子化問題の核心にある「経済的なプレッシャーと家族計画のジレンマ」について、海外の有識者も深く注目している。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 7,
-      "title_ja": "世界的規模のIT障害が発生、日本国内のMicrosoftアプリにも影響",
-      "original_title": "Widespread outage hits Microsoft apps - Japan Today",
-      "source": "Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2VsZlJvYk5BcnFfWW1vNF9ITXpPMElqcFFEcmNJSFBNTnJsUmFLTjJQdTdrYmhXZ3RYakUyR296TXYzZUd5YjVfcElMc0N3VTJpQUx1SzJ3REJLWFo3ZXg2ZEZETTlKUUpISzhsbHp1RFJmT18tY01LcVRVRDN0S1VVZEdteGlpNGtod2JWRkNieHNr?oc=5",
-      "category": "テクノロジー",
-      "tags": [
-        "マイクロソフト",
-        "IT障害",
-        "セキュリティ"
-      ],
-      "summary_points": [
-        "Microsoftの各種アプリやサービスで世界規模の広範なシステム障害が発生した。",
-        "日本国内のビジネスユーザーや各種サービスでも一時的な利用不良などの影響が確認された。",
-        "クラウドインフラストラクチャーへの過度な依存リスクが改めて浮き彫りとなった。"
-      ],
-      "global_perspective": "現代のビジネスインフラがいかに巨大IT企業に依存しているかを示す象徴的なトラブルとして、各国メディアで大きく取り上げられた。",
+      "global_perspective": "グローバルなスポーツ組織にとって、安定した日本の配信パートナーを確保できたことがテニス界のビジネス面で評価されています。",
       "reading_time": "約1分"
     }
   ]

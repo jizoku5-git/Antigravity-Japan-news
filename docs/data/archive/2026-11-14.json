@@ -1,0 +1,108 @@
+{
+  "updated_at": "2026-11-14 10:32 JST",
+  "date": "2026-11-14",
+  "total_articles": 5,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "大阪市、サイバー攻撃で100万人規模の情報流出警告",
+      "original_title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
+      "source": "The Record from Recorded Future News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BOEdSb1lMbENldjJPVXlpbWZINFBuMFVfUDRMZlN1d0dYSUwzMjZiVzh0OGdUZktXSk5oYVVmajR2RGl0akVtQ2lHR05vcTczYXp0UjN3eW1wYnctWUp0SXpRSnpDZ3NsYmwyRjBR?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "サイバーセキュリティ",
+        "大阪市",
+        "個人情報流出"
+      ],
+      "summary_points": [
+        "大阪市が、約100万人に影響するデータ侵害（情報流出）の可能性について警告を発しました。",
+        "日本国内では近年、企業や自治体を狙ったサイバーインシデントが相次いで発生し社会問題化しています。",
+        "海外メディアも、日本のインフラや行政機関におけるセキュリティ脆弱性のリスクとして注目しています。"
+      ],
+      "global_perspective": "相次ぐ日本のサイバー攻撃被害の一つとして、自治体におけるセキュリティ対策の強化が急務であると報じられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "日本、今後5年間で60兆円規模の防衛費を検討か",
+      "original_title": "Japan Eyes 60 T. Yen in Defense Spending over Next 5 Years",
+      "source": "Nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9UWlJwc0dBU0Y3SDl5ZnFRSG9XSG13NU9xQW5scmhEaS0yeUFhVUdNeGlmOW1EUHI4R2p1LXBUczdKY0JlOEZoMFNKTTBBd05ZZDhxLQ?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "防衛費",
+        "安全保障",
+        "自衛隊"
+      ],
+      "summary_points": [
+        "日本政府が今後5年間で約60兆円規模の防衛費支出を検討していることが明らかになりました。",
+        "安全保障環境の厳しさを増すアジア太平洋地域において、防衛力の抜本的な強化を図る狙いがあります。",
+        "巨額の財政負担や具体的な財源確保策について、国内外で議論が活発化しています。"
+      ],
+      "global_perspective": "地域の抑止力強化に向けた日本の急激な防衛費増額の動きとして、国際社会から高い関心を持って見られています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "日本、フィリピンへドローンや沿岸レーダー供与を約束",
+      "original_title": "Japan Pledges Drones, Coastal Defense Radar in Latest Philippine Defense Package",
+      "source": "USNI News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVNlZUdsZXNjQk1HMVhzZkNRZ3dmZG02MG1ybWNZbnI1MmVUNjg1dlJkejd4Zk95Z1RNaFVZV00xRVRjVHExUmhpR3Nqb0VrLW1iRWFKcElxMVdVejB3SkVjTXJ3aXF6cmQza2t3WkplNWlvTThkMkpTaUxWeENyUmd6VDNVbV9kUi1wSTF5S3gxUjlNczRaUVROeUpHSXhGTFZYRDluVGk2TGRmRG1NRTBn?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "フィリピン",
+        "防衛協力",
+        "南シナ海"
+      ],
+      "summary_points": [
+        "日本政府がフィリピンに対し、最新の防衛支援パッケージとしてドローンや沿岸防衛レーダーの供与を約束しました。",
+        "海洋進出を強める中国を念頭に、同志国との安全保障協力を深化させる戦略の一環です。",
+        "ASEAN諸国との防衛装備品移転を通じた地域安定化への貢献として評価されています。"
+      ],
+      "global_perspective": "日本が安全保障上の関与を東南アジア地域へ積極的に広げている象徴的な動きとして注目されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "ベトナムのトー・ラム書記長の訪日、ハノイと東京の戦略的連携が深化",
+      "original_title": "Tô Lâm’s Japan Visit Pushes Hà Nội-Tokyo Ties Toward Deeper Strategic Alignment",
+      "source": "The Vietnamese Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0dGVExJQkJVb2NmU1FkeUdlbFZZY2RLaVJqUnR6a2NKeHRmcjd0VDlSLUU3TWQwbnhKRTRXVHhpMlpIM2x2YU5RcF9FSVZTRVVrRFRUZjFsMXliRDFaQVYyenlKRUE5V1oxeUFmMHBIT2dnQzZweDd0ZmlINGh0elJVcEcwSU05cF9sNHMyVGNWcGdtTVhPR1RBRUhtMWJwMlM5LXM4UFctZXd1dTZjZzJaSQ?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "ベトナム",
+        "外交",
+        "経済協力"
+      ],
+      "summary_points": [
+        "ベトナムのトー・ラム最高指導者の訪日により、両国の二国間関係がより深い戦略的連携へと押し上げられました。",
+        "経済、サプライチェーン、インフラ整備、そして安全保障分野での協力拡大が確認されています。",
+        "自由で開かれたインド太平洋の実現に向け、ASEANと日本の結びつきの強さが再認識されています。"
+      ],
+      "global_perspective": "中国との地理的・経済的関係が複雑に絡む中、ベトナムが日本との関係緊密化を重視する姿勢が海外メディアで好意的に報じられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "WOWOW、女子テニス（WTAツアー）の日本国内独占配信権を2030年まで獲得",
+      "original_title": "WOWOW becomes exclusive home of WTA Tour in Japan through 2030",
+      "source": "WTA Tennis",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzI3U2hsbVpSMHp3eUM0dWtVZzBkM191Q0JwNzJzSDRrNVdXUjR2MUtjMGpJQ2FudDQyVkZ6QVdVaDlFd2xQM0F0RlYxNVJBY1Q4TlZoSWFJeFlYY3RhdVgzT25fbXFLVU5jQmhIV0JRXzh2b0M2MHh1bkZqeFI4UlVkZVNJWGl3MTlvZVFYU29tTDM3LXplX08yeFdpbDVURzdJ?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "WOWOW",
+        "テニス",
+        "WTA",
+        "メディア"
+      ],
+      "summary_points": [
+        "衛星放送・配信大手のWOWOWが、女子テニス協会（WTA）ツアーの日本国内における独占放送・配信権を2030年まで延長しました。",
+        "長年にわたるテニス中継の実績を活かし、今後も国内外のトップアスリートの戦いを日本のファンへ届けます。",
+        "スポーツコンテンツの配信権ビジネスにおける長期的な囲い込み戦略として注目されます。"
+      ],
+      "global_perspective": "グローバルなスポーツ組織にとって、安定した日本の配信パートナーを確保できたことがテニス界のビジネス面で評価されています。",
+      "reading_time": "約1分"
+    }
+  ]
+}
