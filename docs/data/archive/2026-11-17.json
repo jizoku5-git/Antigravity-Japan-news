@@ -1,0 +1,127 @@
+{
+  "updated_at": "2026-11-17 13:02 JST",
+  "date": "2026-11-17",
+  "total_articles": 6,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "高水準の原油価格が重荷に、日本の四半期GDPが小幅マイナス成長",
+      "original_title": "Japan’s economy contracts slightly in the latest quarter as oil prices remain high",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa24tRTMxWGhOWk03aC1adk9iUmNGUmtYQURyQXo0NU9yRWUzQlJkYWVKVXJkcmIzSUtpWkZpX2pHTk16MGxKUWdPclB5NkI5aFF5eHNwQXR0a0xSQ01KSmkyMjYzXzg5Y25zRmFYaDJYNXU5MDF2R0wyS04tYklWSlE4Qkt2MVJ6NDA1cGp3cGFCR0ZTcEJOUHVHdFR1NVA0UmUw?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "日本経済",
+        "実質GDP",
+        "資源高"
+      ],
+      "summary_points": [
+        "直近四半期の日本経済は小幅なマイナス成長を記録し、景気回復の足踏み感が示されました。",
+        "長引く高水準の原油価格と為替の円安進行が、エネルギー輸入コストを押し上げ内需への下押し圧力となっています。",
+        "物価高が個人消費に及ぼす影響が懸念される中、持続的な賃上げと設備投資の継続が今後の景気回復の焦点となります。"
+      ],
+      "global_perspective": "海外メディアは、エネルギー輸入依存度の高い日本が資源高とインフレの挟み撃ちに直面している現状を分析し、内需主導の成長へ回帰できるかを注視しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "日本政府、AZEC首脳会合で「アジア石油安保タスクフォース」設置を提案へ",
+      "original_title": "Japan to propose Asia oil security task force at AZEC Summit, media reports",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3diS1MwWjRwVl9fRjB5d0xxUWlLWlhERlZVZnFNT0ZvMTA2cnc0RGtRZ3ppNFY5SXFEX2t2MHNxMXY0SEhFNlE1Tk8wMUo5ckt4bzdWbVJxbnhXaS1Ddk43X05LbE9qaDI2T0xaN2k2bE43RTJ1Sml4NXp6cjM5OWZxZ1VFZ1ZEeU1MX1RCV1BYR0FJMXFZZlJ6d1pEZ1pic3UwSmxjUk1GclhOM2hiLW1GOWJtUElaa2hJSg?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "AZEC",
+        "エネルギー安保",
+        "石油備蓄"
+      ],
+      "summary_points": [
+        "日本政府はアジア・ゼロエミッション共同体（AZEC）の首脳会合で、域内の石油サプライチェーンを保護するタスクフォースの新設を提案する見込みです。",
+        "中東情勢の緊迫化など地政学リスクが高まる中、アジア諸国間での石油備蓄の相互融通や緊急時支援枠組みの強化を狙います。",
+        "脱炭素化の長期目標を掲げつつも、足元の化石燃料供給を途絶させないための現実的なエネルギー安全保障策を提示します。"
+      ],
+      "global_perspective": "脱炭素への急速な移行だけでなく、激動する国際情勢下で現実的なエネルギー供給網をいかに維持するかという点において、日本の地域リーダーシップが注目されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "ロシア軍機が日本の領空を侵犯か、航空自衛隊が戦闘機を緊急発進",
+      "original_title": "Japan scrambles jets to counter suspected Russian aircraft",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYXF2QWR1N0RZd2FKTXNjdDhuN19PVG9PX1Z3djNxT2xUUW95eWVWTDQ4b2Z2cUNrVW02MUctSzkwQTZfb0FFYUVkRm1QS3pFOWlWeEliVTljZnlVTHVkOTc0WWhWcGVHMTlhT1NDSnFWbWEtaEVmVXhSVU9kd29CZmJDWlYyZW11Sm15N09fZlFVM1YwLUHSAZYBQVVfeXFMTWFBWUU2VzBjeUc5M3JycS1aeG41RE9aMnZuQ0gtU05TMkVQN1VqeXVqeHVWRkRFMDNLTFhMVWFvenRtNHRJbWpSamROdGF3UzRUOEhtZmdXb2FLM3kzZVhEZWVQTGZ1NTcydUVsUVpPd2tFQ0J3TU40UGhyZWwtNTgwLVIwR2h1MWhSOW9RQlYyR0Z2RVV3?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "防衛省",
+        "ロシア軍",
+        "スクランブル"
+      ],
+      "summary_points": [
+        "日本周辺空域にロシア軍とみられる航空機が接近・侵犯したことを受け、航空自衛隊が戦闘機をスクランブル発進させました。",
+        "防衛省は厳重な監視態勢を維持し、飛行経路や意図の分析を進めるとともに厳重な抗議を行っています。",
+        "ウクライナ侵攻以降、極東地域においてもロシア軍の活発な活動が続いており、日本周辺での軍事プレゼンス誇示が懸念されています。"
+      ],
+      "global_perspective": "欧州メディアは、ロシアの軍事的威嚇が欧州正面のみならず極東・日本周辺でも常態化しており、インド太平洋の安全保障環境が一段と厳しさを増している証拠として報じています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "米シンクタンク分析：日本の新「国家安全保障戦略」が示す歴史的転換点",
+      "original_title": "Japan’s forthcoming national security and defense strategies: Watch this space",
+      "source": "Brookings",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMVBpZlRZWWNRVEltXzBiU3pxQXRNNjRNUHBJbk44TkliUllUN2FSeHZqWGtmTkh4ZXZhenVqb3hDS0pYSTNaSjRhNnN0anNtdFN4d09haTdzRDhob01sNHRFcE16YWk5eEFFdk04SE9BOTdGaXpkQms4WXF4STAwRHZsSGpVUVllZ1BfaHlpQU9TVEZ4QU1KYzZfdlljREdkaWFiOXZxZmVqVGtiNHFNWk1B?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "国家安全保障戦略",
+        "防衛費",
+        "日米同盟"
+      ],
+      "summary_points": [
+        "米シンクタンクのブルッキングス研究所が、日本の防衛政策・国家安全保障戦略の抜本的改定に関する分析レポートを公表しました。",
+        "防衛費の大幅増額や反撃能力（敵基地攻撃能力）の保有など、戦後長年維持してきた専守防衛の枠組みが大きく進化していると指摘しています。",
+        "東アジアの軍事バランス維持において、日米同盟内での日本の役割が「盾」からより積極的な抑止力へと拡大しつつあると論じています。"
+      ],
+      "global_perspective": "米国の安全保障コミュニティは、日本が受動的な防衛体制を脱却し、インド太平洋地域の平和と安定を自律的かつ主体的に担う主要プレイヤーへ進化していると高く評価しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "映画『ゴジラ-1.0』が2週連続で国内興行首位、世界的ヒットへの期待高まる",
+      "original_title": "Japan Box Office: Godzilla Minus Zero Stays at No. 1 for 2nd Weekend",
+      "source": "Crunchyroll",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUQzN29YYXdVS0VDOTZoNEdib1MwQ05SU2pXUEpEUWl1cFRyaXh4Y3MwS2FYdllJWk1iMEFVMXBiVzdJU3FVMVJSalUtaFdvSkxOOE5aV0JXQm5DSmlZVXYtVEJBeERXaUVtRFgxWTBoUWozcXdzOG9hclVQNU4tcUswU3VEQVlzanc2RzdycmxCRGwxNGkxVzlhZXptdkVmcDRHekg1b3lwOWxoeWdmbXJGcTM4VHhTa3dVWjBtN204OTA?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "ゴジラ",
+        "映画興行",
+        "IPコンテンツ"
+      ],
+      "summary_points": [
+        "山崎貴監督の最新作『ゴジラ-1.0』が公開2週目も日本の週末興行ランキングで1位を維持し、好調な興行成績を続けています。",
+        "戦後日本の荒廃を舞台にしたエモーショナルな人間ドラマと、高水準のVFX（視覚効果）技術が幅広い観客層を惹きつけています。",
+        "日本国内の熱気は海外ファンや配給市場へも波及しており、北米をはじめとする今後の世界展開でも大きな成功が見込まれています。"
+      ],
+      "global_perspective": "海外エンタメメディアは、ハリウッド大作に匹敵する迫力ある映像を独自の感性と限られた製作費で実現した日本のクリエイティブ水準の高さに大きな賛辞を寄せています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "冷静沈着な指揮官が見せた歓喜の涙：サッカー日本代表・森保監督の人間力",
+      "original_title": "Stoic until the end, Japan's Hajime Moriyasu can finally let emotions flow",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdk1FWHZOU2ZmQnBhYkkzT0hRZmxab2ZsWU1YUHZGQ2xwcmxHWUcxY0xhSW1lamJSc0RWYmVTU0JJc3pyQXB4SWN5cWttSG9WeWNIQjZJQzV3Qk9YdllTdVFoQ295VGRyRVJTWWZ3d0s2VGZDbmdYMnBwbzBZZDlFbFluYmt6dHE5dFdOd09yY3Z1QQ?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "サッカー日本代表",
+        "森保一",
+        "リーダーシップ"
+      ],
+      "summary_points": [
+        "米スポーツメディアESPNが、サッカー日本代表を率いる森保一監督の統率力とリーダーシップの変容を特集しました。",
+        "周囲からの厳しい批判や重圧にもぶれずストイックにチームを強化し続け、結果を出して感情を解放させた歩みが称賛されています。",
+        "選手の自主性を引き出しつつ規律を守らせるマネジメント手法が、世界トップ国とも互角以上に戦える強い代表チームを生み出しました。"
+      ],
+      "global_perspective": "海外スポーツメディアは、かつての型にはまった日本的指導者像とは一線を画し、静かな忍耐力と選手との深い信頼関係で組織を勝たせる現代型リーダーシップとして注目しています。",
+      "reading_time": "約1分"
+    }
+  ]
+}
