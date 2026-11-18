@@ -1,0 +1,167 @@
+{
+  "updated_at": "2026-11-18 11:59 JST",
+  "date": "2026-11-18",
+  "total_articles": 8,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "日銀総裁、さらなる追加利上げに前向きな姿勢を表明",
+      "original_title": "Bank of Japan governor says central bank should keep raising rates",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXVIT0VoOTAtWnNpWjBvTlRGS0o1aEp1RklzQjZLTVFOb1pha3FPSUJJaFJrMjIzQzZ5WGtOUG5OUl9VM2paLTZ3aEY4d3ZLMFN5NUdkSU5aT09EOWs1MFp1eUVSbzh6VVkyaEFuTWo0cS1Tb1RGVlJKdWdoSXlsbkZJRFJnT2tDMHNINXhFSDlDVzZnWTVkV2pYWGcwZnhjMEk1RHZQSWlsQkJCNW5KbGJR?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "日銀",
+        "金利",
+        "金融政策"
+      ],
+      "summary_points": [
+        "日本銀行の植田総裁が経済情勢の改善を受けて追加利上げを継続すべきとの見解を示した。",
+        "市場では今後の利上げタイミングやペースについて関心が一段と高まっている。",
+        "長年の大規模金融緩和からの転換を進める日銀の動向に海外投資家も注目している。"
+      ],
+      "global_perspective": "世界の金融市場が米国の動向と並び、日銀の正常化プロセスへの移行スピードを注視していることを伝えている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "10月の日本の輸出が20.5%増、半導体関連がけん引し市場予想を上回る",
+      "original_title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xWDc1T012MlZrTk1ZRVVoTV9aLVVkZVNTSGxDdFdQbktYLWNOX3pDd1JCakJvWFBkSExEYTNQY1kweUlvdUJxZG5TYTBfOUhLWG5pXzlzVTBCMXZZVU4yMVhuODhtazM3WWFLQTFvd3k2a2hZY0tsTGc0Z3jSAYIBQVVfeXFMT0NOTkFpTXhvR0p2Ul9JVWdPTUlnLW9YZzBqMGhocUxGVDJHVVgxRUttbk1EOXFYWWU4dU5zaWtVSlNJT1lJRzJTTnROMnlDS3M0SkN4NzkzQTRySlc2TFBva0NPa3c0YzFObnRKY09WejJQUVdKcV9JY045UmJhSFZrZw?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "輸出",
+        "半導体",
+        "貿易"
+      ],
+      "summary_points": [
+        "10月の日本の輸出額が前年同月比20.5%増と大幅な伸びを記録し、市場予想を大きく上回った。",
+        "世界的な需要回復を背景に、特に半導体関連や電子部品の出荷が好調を維持している。",
+        "貿易赤字の縮小傾向とも相まって、日本経済の底堅さを示す指標として受け止められている。"
+      ],
+      "global_perspective": "グローバルなハイテク需要の波が日本経済にポジティブな影響を与えている証左として報じられている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "円安進行を受け、日本政府が為替介入への警戒感を再び表明",
+      "original_title": "Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUZybzVTcmhaZXF2Q1dQT2RLY3lndnBKZVhiNEhoWHZNYUlMTjl4a1JMSHdZbkdUQ1dWdXBiVE1Nd3pYZmRINGY5OWRTdFpvQW0xRzluSHZaellTdmh1ZVdzNnJDRE92aHBWeTJsS2FENGo5TUtBaktMWlBEeVhzR01GclBNOVplSW1FUzJYZFF3MVhPcWZVckFGMVItWkdBVWJR?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "円安",
+        "為替介入",
+        "財務省"
+      ],
+      "summary_points": [
+        "急激な円安の進行を受けて、日本政府の当局者から過度な変動に対する強いけん制発言が相次いだ。",
+        "市場では政府・日銀による実質的な為替介入（ドル売り・円買い）への警戒感が急速に高まっている。",
+        "米国の金利動向と日銀の政策スタンスの挟み撃ちとなり、円相場は不安定な値動きが続いている。"
+      ],
+      "global_perspective": "日本の当局がどこまで円安を容認するのか、市場参加者が介入ラインを見極めようとする緊張感を伝えている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "ロシア機が日本領空を侵犯と防衛相が発表",
+      "original_title": "Suspected Russian Aircraft Violated Japan’s Airspace, Says Defense Minister",
+      "source": "USNI News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHc2dlZTUG1BZUZ6UmZtelFqVm5waHZMa0g3MFc1bXZUMnAwWC1SS0h5ZmNhNUxPRTE5RHZmdDhoUjE3MmdsMzZ3V3EwWXdlLVZkV1gzN1BkZzFWZGZiUzJpYnpuSFA4WS1VdEIxNU1OeVFjTlVPR1A2a3dhNU9oQnhYZUZIWVFfOG1EOFUwVm52VWdXX284ZUU0Z0tPMmZVbjJFeGZnV1FIZw?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "安全保障",
+        "ロシア",
+        "防衛省"
+      ],
+      "summary_points": [
+        "防衛相が、ロシア機とみられる航空機による日本領空の侵犯があったことを公表した。",
+        "日本側は直ちに厳重な抗議を行うとともに、自衛隊機によるスクランブル（緊急発進）などの対応を取った。",
+        "周辺海空域におけるロシアや中国の動きが活発化する中、日本の防衛体制への関心がさらに高まっている。"
+      ],
+      "global_perspective": "アジア太平洋地域における安全保障上のリスクとして、日本周辺での領空・領海をめぐる緊張の高まりを警戒視している。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "日米間で長年くすぶる「ポテト戦争」、いよいよ緊迫の度合いが最高潮へ",
+      "original_title": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0hRcThuRUM3UEVnN0c1VTJSQzUzY2haQXNzSVhqY2Z2dHBPRGJUQ0tHZzBrblZjQzBWNW5nd3BPajdVT2pxLVB1YjZqMFE1TzJqT0hIY083QU1JM2xMZHNpOXF3aXhkS2gyMnEtOHdEdUtvYWVMcmpCUGVyMk1VRHVkZ3p6RWJrTWg2UU5ERUxxTGw0eUxlTkFiaEs0TkJSbm1B?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "貿易摩擦",
+        "農業",
+        "米国"
+      ],
+      "summary_points": [
+        "米国と日本の間で長年続いてきたジャガイモの輸出入や規制をめぐる貿易摩擦が激化している。",
+        "検疫や市場開放のルールを巡る両国の利害対立が、新たな政治・経済問題に発展する兆しを見せている。",
+        "身近な農産物をテーマにしながらも、二国間交渉の難しさを象徴する事例として取り上げられている。"
+      ],
+      "global_perspective": "一見ユーモラスな見出しの裏で、自由貿易と国内農業保護のバランスを取る難しさを欧米メディアの視点で鋭く指摘している。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "日本、ASEAN諸国へエネルギー貯蔵技術へのアクセスを提供へ",
+      "original_title": "Japan offers ASEAN nations access to energy storage",
+      "source": "Courthouse News Service",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0U0LU9BaHVGWFhFVi1qZDU5Yk5qSTAxUC02dE0wbGtCMXJtVV9ua2xSNFhnQmhwYkZ3VDNqb0RDR002WjQwX0EzMXhLQWtxNzN1SmJoNWdXYnB0ajBKYkV6WmdkLUplUjdQVmR4aVN2MkVrWUNBS0lfUkFNdFlCT1VORndlOXBmdHc?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "ASEAN",
+        "エネルギー",
+        "脱炭素"
+      ],
+      "summary_points": [
+        "日本政府が東南アジア諸国連合（ASEAN）の国々に対し、高度なエネルギー貯蔵技術へのアクセス支援を表明した。",
+        "再生可能エネルギーの導入拡大に欠かせない蓄電池などのインフラ整備を協力して推進する狙いがある。",
+        "経済協力を通じて中国の影響力に対抗しつつ、アジア地域の脱炭素化をリードする外交戦略の一環となっている。"
+      ],
+      "global_perspective": "経済安控と気候変動対策を組み合わせた、日本による巧妙かつ実利的なアジア外交の展開として評価されている。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "日本政府、国際刑事裁判所（ICC）への資金拠出を超えた積極的関与を求める声",
+      "original_title": "FOCUS: Japan urged to do more for ICC beyond financial support",
+      "source": "Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ueG9XSjdmOHRKa2NtZGdsWjlwYWE2cjRsVEhnN2ZHTTZmSHBGSkR3SVAxZGZHQ2NLZWtVX2Z5UjdLQWVfZDNTQnBLQzFfaWNLemtDTDRpMFZZZw?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "ICC",
+        "外交",
+        "人権"
+      ],
+      "summary_points": [
+        "国際刑事裁判所（ICC）に対するこれまでの主な貢献が財政支援にとどまっているとして、日本により強い政治的役割を期待する声が高まっている。",
+        "国際法秩序の維持や戦争犯罪の処罰において、アジアの主要国である日本が主導的な外交姿勢を示すべきだという議論。",
+        "国際社会でのプレゼンスを高める上で、資金提供以外の人的・外交的コミットメントの重要性が指摘されている。"
+      ],
+      "global_perspective": "国際的な法治主義の擁護者としての日本に対し、経済力に相応したさらなる外交的リーダーシップの発揮を期待する論調が見られる。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 8,
+      "title_ja": "アルツハイマー病治療薬「レケンビ」皮下注が保険適用、一方で「キサンラ」は薬価引き下げへ",
+      "original_title": "Japan Reimburses Leqembi SC, But Kisunla Price To Be Cut",
+      "source": "Pink Sheet",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOS0tiRXRRY05CUTRFX0FhT0liTERMQWl6UFRUeXVhVmR3M08wRzF1QnlPVEN4ck1EZjRfNTJLcndIWUd2dFAxZkFIM1hVRk1TejhhMG9hOE1VVlVqcWwxejVUa1BnZXJiZ2pBSlE5Si0wdmMzZzJVdFMxRjJ0VXJpQUdOSmJadU5pWlE0aE4xajgwaWswM2RjUmRpNWJSOFBlb2c4VDFUZWhqeEwyMXZLV0tUbjhDOGEwZlVKdjRTRnVELVptajh0MXZreWVsMFFGdnZNV01MMzFoQVRTUUxPLWl3bVBzNDA3Rl96ZQ?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "医薬品",
+        "アルツハイマー",
+        "医療経済"
+      ],
+      "summary_points": [
+        "日本国内でアルツハイマー病治療薬「レケンビ」の皮下注射製剤が公的医療保険の適用対象となった。",
+        "一方で、競合する同種の新しい治療薬「キサンラ」については、厳しい薬価引き下げの適用を受けることになった。",
+        "高齢化が進む日本における莫大な医療費負担と新薬アクセスのバランスをめぐる議論が続いている。"
+      ],
+      "global_perspective": "世界最速で超高齢化が進む日本の医療市場が、高額な新薬の価格設定や保険適用のモデルケースとして注目されている。",
+      "reading_time": "約1分"
+    }
+  ]
+}
