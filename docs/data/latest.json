@@ -1,166 +1,206 @@
 {
-  "updated_at": "2026-11-18 11:59 JST",
-  "date": "2026-11-18",
-  "total_articles": 8,
+  "updated_at": "2026-11-19 11:42 JST",
+  "date": "2026-11-19",
+  "total_articles": 10,
   "articles": [
     {
       "id": 1,
-      "title_ja": "日銀総裁、さらなる追加利上げに前向きな姿勢を表明",
-      "original_title": "Bank of Japan governor says central bank should keep raising rates",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXVIT0VoOTAtWnNpWjBvTlRGS0o1aEp1RklzQjZLTVFOb1pha3FPSUJJaFJrMjIzQzZ5WGtOUG5OUl9VM2paLTZ3aEY4d3ZLMFN5NUdkSU5aT09EOWs1MFp1eUVSbzh6VVkyaEFuTWo0cS1Tb1RGVlJKdWdoSXlsbkZJRFJnT2tDMHNINXhFSDlDVzZnWTVkV2pYWGcwZnhjMEk1RHZQSWlsQkJCNW5KbGJR?oc=5",
-      "category": "経済・ビジネス",
-      "tags": [
-        "日銀",
-        "金利",
-        "金融政策"
-      ],
-      "summary_points": [
-        "日本銀行の植田総裁が経済情勢の改善を受けて追加利上げを継続すべきとの見解を示した。",
-        "市場では今後の利上げタイミングやペースについて関心が一段と高まっている。",
-        "長年の大規模金融緩和からの転換を進める日銀の動向に海外投資家も注目している。"
-      ],
-      "global_perspective": "世界の金融市場が米国の動向と並び、日銀の正常化プロセスへの移行スピードを注視していることを伝えている。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 2,
-      "title_ja": "10月の日本の輸出が20.5%増、半導体関連がけん引し市場予想を上回る",
-      "original_title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xWDc1T012MlZrTk1ZRVVoTV9aLVVkZVNTSGxDdFdQbktYLWNOX3pDd1JCakJvWFBkSExEYTNQY1kweUlvdUJxZG5TYTBfOUhLWG5pXzlzVTBCMXZZVU4yMVhuODhtazM3WWFLQTFvd3k2a2hZY0tsTGc0Z3jSAYIBQVVfeXFMT0NOTkFpTXhvR0p2Ul9JVWdPTUlnLW9YZzBqMGhocUxGVDJHVVgxRUttbk1EOXFYWWU4dU5zaWtVSlNJT1lJRzJTTnROMnlDS3M0SkN4NzkzQTRySlc2TFBva0NPa3c0YzFObnRKY09WejJQUVdKcV9JY045UmJhSFZrZw?oc=5",
-      "category": "経済・ビジネス",
-      "tags": [
-        "輸出",
-        "半導体",
-        "貿易"
-      ],
-      "summary_points": [
-        "10月の日本の輸出額が前年同月比20.5%増と大幅な伸びを記録し、市場予想を大きく上回った。",
-        "世界的な需要回復を背景に、特に半導体関連や電子部品の出荷が好調を維持している。",
-        "貿易赤字の縮小傾向とも相まって、日本経済の底堅さを示す指標として受け止められている。"
-      ],
-      "global_perspective": "グローバルなハイテク需要の波が日本経済にポジティブな影響を与えている証左として報じられている。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 3,
-      "title_ja": "円安進行を受け、日本政府が為替介入への警戒感を再び表明",
-      "original_title": "Japan Fires Off Verbal Warning on Yen as Weakness Stokes Intervention Alert",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUZybzVTcmhaZXF2Q1dQT2RLY3lndnBKZVhiNEhoWHZNYUlMTjl4a1JMSHdZbkdUQ1dWdXBiVE1Nd3pYZmRINGY5OWRTdFpvQW0xRzluSHZaellTdmh1ZVdzNnJDRE92aHBWeTJsS2FENGo5TUtBaktMWlBEeVhzR01GclBNOVplSW1FUzJYZFF3MVhPcWZVckFGMVItWkdBVWJR?oc=5",
-      "category": "経済・ビジネス",
-      "tags": [
-        "円安",
-        "為替介入",
-        "財務省"
-      ],
-      "summary_points": [
-        "急激な円安の進行を受けて、日本政府の当局者から過度な変動に対する強いけん制発言が相次いだ。",
-        "市場では政府・日銀による実質的な為替介入（ドル売り・円買い）への警戒感が急速に高まっている。",
-        "米国の金利動向と日銀の政策スタンスの挟み撃ちとなり、円相場は不安定な値動きが続いている。"
-      ],
-      "global_perspective": "日本の当局がどこまで円安を容認するのか、市場参加者が介入ラインを見極めようとする緊張感を伝えている。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 4,
-      "title_ja": "ロシア機が日本領空を侵犯と防衛相が発表",
-      "original_title": "Suspected Russian Aircraft Violated Japan’s Airspace, Says Defense Minister",
-      "source": "USNI News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHc2dlZTUG1BZUZ6UmZtelFqVm5waHZMa0g3MFc1bXZUMnAwWC1SS0h5ZmNhNUxPRTE5RHZmdDhoUjE3MmdsMzZ3V3EwWXdlLVZkV1gzN1BkZzFWZGZiUzJpYnpuSFA4WS1VdEIxNU1OeVFjTlVPR1A2a3dhNU9oQnhYZUZIWVFfOG1EOFUwVm52VWdXX284ZUU0Z0tPMmZVbjJFeGZnV1FIZw?oc=5",
+      "title_ja": "ロシア軍機が領空侵犯、自衛隊機がスクランブル発進",
+      "original_title": "Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions",
+      "source": "Fox News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVEybG5jRkpwQnRmOVhSZEYtUHQxdS13aUYyZFdsa2Q5bHF4eHF4QzloeFJyN0M0eXFaeGl4MTU0a25MNTZoSHNsQkxKTUczVVJUbF9NVUxPc0tEd0xCdVBsNk00Zzk5cnpNX1g0VUEtUU9vWXNwanBiU1ZnOGU5X3BOa2NjcEdCN2tzNVR6bVJsekwxUEJYWWtsMmpFRDhwcFVKOWNtXzRYdV96VDJ4QzZMLXFSd9IBuwFBVV95cUxPc05rOHA4em95NnZaY0lWVk1wRjI2WXVLOWpEU3lxeENJZXQzUmotWnlNc0RZYnBXQzlZZ0ZmQmRVUU95a2R3Q3lyUnhwSmY4TzNhSXhsaUJCMzktelJEVXBGS2ZpZVpXMXJKU1VCdGc0bVQ0UGlFNTduOU1icWVKQ3NYQ0ozTkdMS2JmeS1DMUNyTDhUbE1jRjFITzFNWGtacVdpUFRLbGVnWHhXYW04d0IyVUNmMUJnU3pn?oc=5",
       "category": "国際・政治",
       "tags": [
         "安全保障",
         "ロシア",
-        "防衛省"
+        "自衛隊"
       ],
       "summary_points": [
-        "防衛相が、ロシア機とみられる航空機による日本領空の侵犯があったことを公表した。",
-        "日本側は直ちに厳重な抗議を行うとともに、自衛隊機によるスクランブル（緊急発進）などの対応を取った。",
-        "周辺海空域におけるロシアや中国の動きが活発化する中、日本の防衛体制への関心がさらに高まっている。"
+        "太平洋周辺での緊張が高まる中、ロシア機が日本領空を侵犯した。",
+        "これを受け、航空自衛隊の戦闘機が緊急発進（スクランブル）し対応にあたった。",
+        "日本周辺におけるロシアや中国の動きに対する警戒感が改めて強まっている。"
       ],
-      "global_perspective": "アジア太平洋地域における安全保障上のリスクとして、日本周辺での領空・領海をめぐる緊張の高まりを警戒視している。",
+      "global_perspective": "ウクライナ侵攻以降の欧米対立の余波がアジア太平洋地域にも及んでおり、日本側の防衛対応が厳しく見つめられていることを伝えています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "日米間で長年くすぶる「ポテト戦争」が緊迫の度合いを増す",
+      "original_title": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0hRcThuRUM3UEVnN0c1VTJSQzUzY2haQXNzSVhqY2Z2dHBPRGJUQ0tHZzBrblZjQzBWNW5nd3BPajdVT2pxLVB1YjZqMFE1TzJqT0hIY083QU1JM2xMZHNpOXF3aXhkS2gyMnEtOHdEdUtvYWVMcmpCUGVyMk1VRHVkZ3p6RWJrTWg2UU5ERUxxTGw0eUxlTkFiaEs0TkJSbm1B?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "貿易",
+        "アメリカ",
+        "農業"
+      ],
+      "summary_points": [
+        "日米の間で長年続けられてきたジャガイモの貿易・検疫を巡る問題が取り上げられている。",
+        "お互いの国内農業保護や検疫規制を背景に、対立が限界点に達しつつある。",
+        "食料安全保障や通商政策の観点から、両国間の新たな火種になり得る懸念がある。"
+      ],
+      "global_perspective": "一見ユニークなトピックを通じ、同盟国間であっても貿易摩擦や規制の壁が根深く存在している構図を欧米メディアがユニークに解説しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "アンソロピック、日本でのIPOで30億ドルを調達（予想レンジ下限）",
+      "original_title": "Anthropic IPO Raises $3 Billion in Japan, Lower End of Range",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV19qTVRLN1dWXzV4SkR0enVfY2hHMkNJWEpPajMxMlpGOUNTNkR3Q25rZDF2dmItNE9waVhOQ05EMWliV2hqS1BKRi01WTB6bFhqbnpjUE56aHVhZ1J1b01GeEhCUnRMWE8wX3QxTkxkd0RmRXliUzhSVmRSOGZkV292djZTRVRkNEM5VkRxdnJYVHFpRDZFdTNQblJ3d2JURmpQNlpOenF4X1NYamc?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "AI",
+        "IPO",
+        "資金調達"
+      ],
+      "summary_points": [
+        "米AI企業のアンソロピックが日本市場でのIPO（新規株式公開）を実施した。",
+        "調達額は30億ドルとなり、市場で想定されていた予想レンジの下限にとどまった。",
+        "AIブームの過熱感と、市場が求める投資リターンの現実的な見極めが意識されている。"
+      ],
+      "global_perspective": "生成AIブームの主役の一つである同社の日本市場での動向を通じて、グローバルなAI投資のトレンドと投資家の慎重な姿勢を報じています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "日本のプロ野球リーグ、2028年ロス五輪期間中に中断へ",
+      "original_title": "Japan’s baseball league will take an Olympic break in 2028",
+      "source": "NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNU93cDAxTUQtajgxbDNzWW1WMVhFWjUzWHlid1lYRUxjYUNNWmc4RWVlcTZoT2R1cXR4UFpLbEdvMC1xR3Q4Q096NEhhMDhRZDdQaDhOUDY2dHhkbF9uRHZabDlaTERjemJ6MnVTUnZObHVwalRSeVNMN0h0dFZsanU2ejhkTVQ3TDNaaA?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "プロ野球",
+        "オリンピック",
+        "スポーツ"
+      ],
+      "summary_points": [
+        "2028年のロサンゼルス五輪で野球が正式競技に復帰することに伴う対応。",
+        "日本野球機構（NPB）は、大会期間中にレギュラーシーズンを一時中断することを決定した。",
+        "トップアスリートの代表派遣や、国際大会への国内リーグの協力姿勢が評価されている。"
+      ],
+      "global_perspective": "野球が再びオリンピック種目に戻ることで、日本の巨大なプロ野球市場がどのように柔軟に対応するかをスポーツビジネスの視点から伝えています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "日米間で長年くすぶる「ポテト戦争」、いよいよ緊迫の度合いが最高潮へ",
-      "original_title": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0hRcThuRUM3UEVnN0c1VTJSQzUzY2haQXNzSVhqY2Z2dHBPRGJUQ0tHZzBrblZjQzBWNW5nd3BPajdVT2pxLVB1YjZqMFE1TzJqT0hIY083QU1JM2xMZHNpOXF3aXhkS2gyMnEtOHdEdUtvYWVMcmpCUGVyMk1VRHVkZ3p6RWJrTWg2UU5ERUxxTGw0eUxlTkFiaEs0TkJSbm1B?oc=5",
+      "title_ja": "熊本県でM5.7の地震が発生、津波警報はなし",
+      "original_title": "M5.7 quake strikes Japan's Kumamoto Prefecture, no tsunami warning issued",
+      "source": "Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WTlRJM0Ffd2xQLThoV1JteTRkaFAwVHBGN1AyeWF6R29US015SmFyb21ZdVMxOU9XM1Y3ZXM3NjBOZGNxaXJUSkFGeVVzMTM2M2NaRzROVmhXdw?oc=5",
       "category": "社会・文化",
       "tags": [
-        "貿易摩擦",
-        "農業",
-        "米国"
+        "地震",
+        "熊本",
+        "災害"
       ],
       "summary_points": [
-        "米国と日本の間で長年続いてきたジャガイモの輸出入や規制をめぐる貿易摩擦が激化している。",
-        "検疫や市場開放のルールを巡る両国の利害対立が、新たな政治・経済問題に発展する兆しを見せている。",
-        "身近な農産物をテーマにしながらも、二国間交渉の難しさを象徴する事例として取り上げられている。"
+        "熊本県を震源とするマグニチュード5.7の地震が観測された。",
+        "この地震による津波の心配や警報の発令はなかった。",
+        "現地での被害状況の確認や、今後の余震に対する注意が呼びかけられている。"
       ],
-      "global_perspective": "一見ユーモラスな見出しの裏で、自由貿易と国内農業保護のバランスを取る難しさを欧米メディアの視点で鋭く指摘している。",
+      "global_perspective": "地震大国である日本の災害発生時の速報体制と、被害がない場合の冷静な現状把握について海外へ発信されています。",
       "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "日本、ASEAN諸国へエネルギー貯蔵技術へのアクセスを提供へ",
-      "original_title": "Japan offers ASEAN nations access to energy storage",
-      "source": "Courthouse News Service",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0U0LU9BaHVGWFhFVi1qZDU5Yk5qSTAxUC02dE0wbGtCMXJtVV9ua2xSNFhnQmhwYkZ3VDNqb0RDR002WjQwX0EzMXhLQWtxNzN1SmJoNWdXYnB0ajBKYkV6WmdkLUplUjdQVmR4aVN2MkVrWUNBS0lfUkFNdFlCT1VORndlOXBmdHc?oc=5",
+      "title_ja": "日豪が主導する、ワシントン構築の「ハブ＆スポーク」安全保障の再構築",
+      "original_title": "Washington built the hub-and-spokes – Australia and Japan are rewiring it",
+      "source": "Lowy Institute",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnZ1WHQ2dXpBNXowUFhSS3pVQXNxNWVsRTBULXhxVWR1dFRPdUE3RWxUVEZ3TUlQaEFVLWcyTHA1b1l1OG1iaDdCNEpPTDY1WnFvUkhtOHE0d2hjSjVtTURlN1NwTVlGLS1BZ2l1cW8tNUtEU2dyeFJmQUdRNjh6QTZReTl2bE45eWpmU2ktTGN0d1ZqZEpKWEdVYm9MVDh5NDBLYW1lN1ZKUlJDU0o0SmI2ZWxBUzBD?oc=5",
       "category": "国際・政治",
       "tags": [
-        "ASEAN",
-        "エネルギー",
-        "脱炭素"
+        "安全保障",
+        "オーストラリア",
+        "日米豪"
       ],
       "summary_points": [
-        "日本政府が東南アジア諸国連合（ASEAN）の国々に対し、高度なエネルギー貯蔵技術へのアクセス支援を表明した。",
-        "再生可能エネルギーの導入拡大に欠かせない蓄電池などのインフラ整備を協力して推進する狙いがある。",
-        "経済協力を通じて中国の影響力に対抗しつつ、アジア地域の脱炭素化をリードする外交戦略の一環となっている。"
+        "米国中心の二国間同盟網（ハブ＆スポーク）を、日本とオーストラリアがより緊密に連携してアップデートしている。",
+        "地域的な安全保障の枠組みにおいて、日豪のパートナーシップが重要な役割を担うようになった。",
+        "中国の海洋進出などを念頭に、多国間での防衛協力体制の深化が進んでいる。"
       ],
-      "global_perspective": "経済安控と気候変動対策を組み合わせた、日本による巧妙かつ実利的なアジア外交の展開として評価されている。",
+      "global_perspective": "米国の同盟政策が受動的なものから、地域大国（日本とオーストラリア）主導のネットワーク型へと進化している点を戦略的アナリストの視点で分析しています。",
       "reading_time": "約1分"
     },
     {
       "id": 7,
-      "title_ja": "日本政府、国際刑事裁判所（ICC）への資金拠出を超えた積極的関与を求める声",
-      "original_title": "FOCUS: Japan urged to do more for ICC beyond financial support",
-      "source": "Japan Wire by Kyodo News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ueG9XSjdmOHRKa2NtZGdsWjlwYWE2cjRsVEhnN2ZHTTZmSHBGSkR3SVAxZGZHQ2NLZWtVX2Z5UjdLQWVfZDNTQnBLQzFfaWNLemtDTDRpMFZZZw?oc=5",
-      "category": "国際・政治",
+      "title_ja": "日本Billboard Hot 100：GNJB「Love Reason」が1位、VIVANT挿入曲も初登場",
+      "original_title": "GNJB’s ‘Love Reason’ Hits No. 1 on Japan Hot 100 as Akira Senju’s ‘Beppan Gireikyoku’ From ‘VIVANT’ Debuts",
+      "source": "Billboard",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTlZMUHo4WVdiQk42Z1JJNm81T29IYVUwTGNHT2xKcHpHbWdJc19JeDdySV9rek44VlkxRTlCa1o1OThwYnIyOUJuU0FOaGRad2xFY2k2ZlBmSVpsVExkWEJLZW5TY2dvNExVaWRmQjR2TkUzR212UHc4RVJVY1E1ZEZoRGVyS2t0Y0tVSWRieGZUNi1aSDBBVFE5U3pOWW5hc1V0VEpGRUlmcnNoVmpTQUVxZFZ2Zw?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "ICC",
-        "外交",
-        "人権"
+        "音楽",
+        "チャート",
+        "VIVANT"
       ],
       "summary_points": [
-        "国際刑事裁判所（ICC）に対するこれまでの主な貢献が財政支援にとどまっているとして、日本により強い政治的役割を期待する声が高まっている。",
-        "国際法秩序の維持や戦争犯罪の処罰において、アジアの主要国である日本が主導的な外交姿勢を示すべきだという議論。",
-        "国際社会でのプレゼンスを高める上で、資金提供以外の人的・外交的コミットメントの重要性が指摘されている。"
+        "日本のビルボード・ホット100でGNJBの「Love Reason」が首位を獲得した。",
+        "人気ドラマ『VIVANT』で使用された千住明氏の楽曲もチャートに初登場を果たした。",
+        "配信やドラマのヒットが音楽チャートに直接反映される日本のトレンドが示されている。"
       ],
-      "global_perspective": "国際的な法治主義の擁護者としての日本に対し、経済力に相応したさらなる外交的リーダーシップの発揮を期待する論調が見られる。",
+      "global_perspective": "日本の音楽チャートの最新動向を通じ、ドラマとタイアップした楽曲やローカルなヒット曲の傾向をエンタメ市場の動きとして世界に届けています。",
       "reading_time": "約1分"
     },
     {
       "id": 8,
-      "title_ja": "アルツハイマー病治療薬「レケンビ」皮下注が保険適用、一方で「キサンラ」は薬価引き下げへ",
-      "original_title": "Japan Reimburses Leqembi SC, But Kisunla Price To Be Cut",
-      "source": "Pink Sheet",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOS0tiRXRRY05CUTRFX0FhT0liTERMQWl6UFRUeXVhVmR3M08wRzF1QnlPVEN4ck1EZjRfNTJLcndIWUd2dFAxZkFIM1hVRk1TejhhMG9hOE1VVlVqcWwxejVUa1BnZXJiZ2pBSlE5Si0wdmMzZzJVdFMxRjJ0VXJpQUdOSmJadU5pWlE0aE4xajgwaWswM2RjUmRpNWJSOFBlb2c4VDFUZWhqeEwyMXZLV0tUbjhDOGEwZlVKdjRTRnVELVptajh0MXZreWVsMFFGdnZNV01MMzFoQVRTUUxPLWl3bVBzNDA3Rl96ZQ?oc=5",
-      "category": "テクノロジー",
+      "title_ja": "日本の深刻な少子化：カップルの子育て数減少に向けた早急な対策が必要",
+      "original_title": "Japan Must Plan for Plunging Births as Couples Have Fewer Children",
+      "source": "JAPAN Forward",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZXh2Ri1URGZZZzJTREE4STNVRXRiQVlqX0N6MDN2TTNzMTE4N2xfVmEyUFZ2LUsyMFdPQk44TzF6RFVwM0V3aHR3S0oxdzRfek9aVnFYT19VWTE3V1h0ajRjUXpWdXhILVMybkw4Uy1jR0xvdUV1VU1XOWRFbEp4VA?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "医薬品",
-        "アルツハイマー",
-        "医療経済"
+        "少子化",
+        "人口減少",
+        "社会保障"
       ],
       "summary_points": [
-        "日本国内でアルツハイマー病治療薬「レケンビ」の皮下注射製剤が公的医療保険の適用対象となった。",
-        "一方で、競合する同種の新しい治療薬「キサンラ」については、厳しい薬価引き下げの適用を受けることになった。",
-        "高齢化が進む日本における莫大な医療費負担と新薬アクセスのバランスをめぐる議論が続いている。"
+        "日本国内で夫婦が持つ子どもの数が減少し、出生数の急落がさらに加速している。",
+        "これに対応するため、従来の枠組みを超えた実効性のある少子化対策の計画が急務となっている。",
+        "人口減少は労働力不足や社会保障制度の維持に直結する重要課題として議論されている。"
       ],
-      "global_perspective": "世界最速で超高齢化が進む日本の医療市場が、高額な新薬の価格設定や保険適用のモデルケースとして注目されている。",
+      "global_perspective": "世界最速で超高齢社会を経験している日本の少子化問題は、将来的な先進国のモデルケース、あるいは教訓として国際社会から注目されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 9,
+      "title_ja": "韓国の「Alpha Drive One」、1月に日本デビューへ",
+      "original_title": "Alpha Drive One to debut in Japan in January",
+      "source": "The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UaEtjV1E0RFhtZ09tTHVUQVRrcno2QUZTOGtTZmZwa0JQMUE2anhwM1NpM2c4eENKb3F4eUNRTGExa3pKREliMTMwNTRCOHlvYnlVMWNDcw?oc=5",
+      "category": "観光・トレンド",
+      "tags": [
+        "K-POP",
+        "エンタメ",
+        "韓流"
+      ],
+      "summary_points": [
+        "韓国の人気グループ「Alpha Drive One」が来年1月に日本での本格デビューを果たす。",
+        "日本市場でのファン層拡大に向けたプロモーションやイベントが予定されている。",
+        "K-POPアーティストによる日本市場進出の活発な動きが続いている。"
+      ],
+      "global_perspective": "アジアのエンターテインメント市場において、韓国のアーティストにとって日本が依然として極めて重要かつ魅力的な市場であると位置づけられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 10,
+      "title_ja": "中国による対日「言葉の戦争」の激化を追う",
+      "original_title": "Tracking China’s Intensifying War of Words Against Japan",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0FLYnFpRHlhX2Zab2lSTHFfM2pWcEVHUW8wSXIxaXNxZFpOQjdlNEg3OHViMTEyWFdoZW40NzRHWFcwTzJhSWVRMmlBeWtpZGJTU1pDY2R2QTlRWjBjaW9oUU9Bc3FUcGlzeTFiNHlEQ0NNd1Y5djdCTnJFWDJ3Y3hOQWE1U2J0SEJadzh3?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "中国",
+        "外交",
+        "メディア"
+      ],
+      "summary_points": [
+        "中国政府やメディアによる日本に対する批判的な言説や情報発信が激化している。",
+        "歴史認識や海洋放出、安全保障問題などを巡る外交摩擦が言葉の応酬に発展している。",
+        "両国間の緊張関係が世論やメディア空間においても先鋭化している現状が分析されている。"
+      ],
+      "global_perspective": "米国の有力紙が、アジアにおける二大経済大国間のナラティブ（語り口）を巡る情報戦や外交的プレッシャーの強まりを冷徹にレポートしています。",
       "reading_time": "約1分"
     }
   ]

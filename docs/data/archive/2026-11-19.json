@@ -1,0 +1,207 @@
+{
+  "updated_at": "2026-11-19 11:42 JST",
+  "date": "2026-11-19",
+  "total_articles": 10,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "ロシア軍機が領空侵犯、自衛隊機がスクランブル発進",
+      "original_title": "Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions",
+      "source": "Fox News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVEybG5jRkpwQnRmOVhSZEYtUHQxdS13aUYyZFdsa2Q5bHF4eHF4QzloeFJyN0M0eXFaeGl4MTU0a25MNTZoSHNsQkxKTUczVVJUbF9NVUxPc0tEd0xCdVBsNk00Zzk5cnpNX1g0VUEtUU9vWXNwanBiU1ZnOGU5X3BOa2NjcEdCN2tzNVR6bVJsekwxUEJYWWtsMmpFRDhwcFVKOWNtXzRYdV96VDJ4QzZMLXFSd9IBuwFBVV95cUxPc05rOHA4em95NnZaY0lWVk1wRjI2WXVLOWpEU3lxeENJZXQzUmotWnlNc0RZYnBXQzlZZ0ZmQmRVUU95a2R3Q3lyUnhwSmY4TzNhSXhsaUJCMzktelJEVXBGS2ZpZVpXMXJKU1VCdGc0bVQ0UGlFNTduOU1icWVKQ3NYQ0ozTkdMS2JmeS1DMUNyTDhUbE1jRjFITzFNWGtacVdpUFRLbGVnWHhXYW04d0IyVUNmMUJnU3pn?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "安全保障",
+        "ロシア",
+        "自衛隊"
+      ],
+      "summary_points": [
+        "太平洋周辺での緊張が高まる中、ロシア機が日本領空を侵犯した。",
+        "これを受け、航空自衛隊の戦闘機が緊急発進（スクランブル）し対応にあたった。",
+        "日本周辺におけるロシアや中国の動きに対する警戒感が改めて強まっている。"
+      ],
+      "global_perspective": "ウクライナ侵攻以降の欧米対立の余波がアジア太平洋地域にも及んでおり、日本側の防衛対応が厳しく見つめられていることを伝えています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "日米間で長年くすぶる「ポテト戦争」が緊迫の度合いを増す",
+      "original_title": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0hRcThuRUM3UEVnN0c1VTJSQzUzY2haQXNzSVhqY2Z2dHBPRGJUQ0tHZzBrblZjQzBWNW5nd3BPajdVT2pxLVB1YjZqMFE1TzJqT0hIY083QU1JM2xMZHNpOXF3aXhkS2gyMnEtOHdEdUtvYWVMcmpCUGVyMk1VRHVkZ3p6RWJrTWg2UU5ERUxxTGw0eUxlTkFiaEs0TkJSbm1B?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "貿易",
+        "アメリカ",
+        "農業"
+      ],
+      "summary_points": [
+        "日米の間で長年続けられてきたジャガイモの貿易・検疫を巡る問題が取り上げられている。",
+        "お互いの国内農業保護や検疫規制を背景に、対立が限界点に達しつつある。",
+        "食料安全保障や通商政策の観点から、両国間の新たな火種になり得る懸念がある。"
+      ],
+      "global_perspective": "一見ユニークなトピックを通じ、同盟国間であっても貿易摩擦や規制の壁が根深く存在している構図を欧米メディアがユニークに解説しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "アンソロピック、日本でのIPOで30億ドルを調達（予想レンジ下限）",
+      "original_title": "Anthropic IPO Raises $3 Billion in Japan, Lower End of Range",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV19qTVRLN1dWXzV4SkR0enVfY2hHMkNJWEpPajMxMlpGOUNTNkR3Q25rZDF2dmItNE9waVhOQ05EMWliV2hqS1BKRi01WTB6bFhqbnpjUE56aHVhZ1J1b01GeEhCUnRMWE8wX3QxTkxkd0RmRXliUzhSVmRSOGZkV292djZTRVRkNEM5VkRxdnJYVHFpRDZFdTNQblJ3d2JURmpQNlpOenF4X1NYamc?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "AI",
+        "IPO",
+        "資金調達"
+      ],
+      "summary_points": [
+        "米AI企業のアンソロピックが日本市場でのIPO（新規株式公開）を実施した。",
+        "調達額は30億ドルとなり、市場で想定されていた予想レンジの下限にとどまった。",
+        "AIブームの過熱感と、市場が求める投資リターンの現実的な見極めが意識されている。"
+      ],
+      "global_perspective": "生成AIブームの主役の一つである同社の日本市場での動向を通じて、グローバルなAI投資のトレンドと投資家の慎重な姿勢を報じています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "日本のプロ野球リーグ、2028年ロス五輪期間中に中断へ",
+      "original_title": "Japan’s baseball league will take an Olympic break in 2028",
+      "source": "NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNU93cDAxTUQtajgxbDNzWW1WMVhFWjUzWHlid1lYRUxjYUNNWmc4RWVlcTZoT2R1cXR4UFpLbEdvMC1xR3Q4Q096NEhhMDhRZDdQaDhOUDY2dHhkbF9uRHZabDlaTERjemJ6MnVTUnZObHVwalRSeVNMN0h0dFZsanU2ejhkTVQ3TDNaaA?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "プロ野球",
+        "オリンピック",
+        "スポーツ"
+      ],
+      "summary_points": [
+        "2028年のロサンゼルス五輪で野球が正式競技に復帰することに伴う対応。",
+        "日本野球機構（NPB）は、大会期間中にレギュラーシーズンを一時中断することを決定した。",
+        "トップアスリートの代表派遣や、国際大会への国内リーグの協力姿勢が評価されている。"
+      ],
+      "global_perspective": "野球が再びオリンピック種目に戻ることで、日本の巨大なプロ野球市場がどのように柔軟に対応するかをスポーツビジネスの視点から伝えています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "熊本県でM5.7の地震が発生、津波警報はなし",
+      "original_title": "M5.7 quake strikes Japan's Kumamoto Prefecture, no tsunami warning issued",
+      "source": "Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WTlRJM0Ffd2xQLThoV1JteTRkaFAwVHBGN1AyeWF6R29US015SmFyb21ZdVMxOU9XM1Y3ZXM3NjBOZGNxaXJUSkFGeVVzMTM2M2NaRzROVmhXdw?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "地震",
+        "熊本",
+        "災害"
+      ],
+      "summary_points": [
+        "熊本県を震源とするマグニチュード5.7の地震が観測された。",
+        "この地震による津波の心配や警報の発令はなかった。",
+        "現地での被害状況の確認や、今後の余震に対する注意が呼びかけられている。"
+      ],
+      "global_perspective": "地震大国である日本の災害発生時の速報体制と、被害がない場合の冷静な現状把握について海外へ発信されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "日豪が主導する、ワシントン構築の「ハブ＆スポーク」安全保障の再構築",
+      "original_title": "Washington built the hub-and-spokes – Australia and Japan are rewiring it",
+      "source": "Lowy Institute",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnZ1WHQ2dXpBNXowUFhSS3pVQXNxNWVsRTBULXhxVWR1dFRPdUE3RWxUVEZ3TUlQaEFVLWcyTHA1b1l1OG1iaDdCNEpPTDY1WnFvUkhtOHE0d2hjSjVtTURlN1NwTVlGLS1BZ2l1cW8tNUtEU2dyeFJmQUdRNjh6QTZReTl2bE45eWpmU2ktTGN0d1ZqZEpKWEdVYm9MVDh5NDBLYW1lN1ZKUlJDU0o0SmI2ZWxBUzBD?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "安全保障",
+        "オーストラリア",
+        "日米豪"
+      ],
+      "summary_points": [
+        "米国中心の二国間同盟網（ハブ＆スポーク）を、日本とオーストラリアがより緊密に連携してアップデートしている。",
+        "地域的な安全保障の枠組みにおいて、日豪のパートナーシップが重要な役割を担うようになった。",
+        "中国の海洋進出などを念頭に、多国間での防衛協力体制の深化が進んでいる。"
+      ],
+      "global_perspective": "米国の同盟政策が受動的なものから、地域大国（日本とオーストラリア）主導のネットワーク型へと進化している点を戦略的アナリストの視点で分析しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "日本Billboard Hot 100：GNJB「Love Reason」が1位、VIVANT挿入曲も初登場",
+      "original_title": "GNJB’s ‘Love Reason’ Hits No. 1 on Japan Hot 100 as Akira Senju’s ‘Beppan Gireikyoku’ From ‘VIVANT’ Debuts",
+      "source": "Billboard",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTlZMUHo4WVdiQk42Z1JJNm81T29IYVUwTGNHT2xKcHpHbWdJc19JeDdySV9rek44VlkxRTlCa1o1OThwYnIyOUJuU0FOaGRad2xFY2k2ZlBmSVpsVExkWEJLZW5TY2dvNExVaWRmQjR2TkUzR212UHc4RVJVY1E1ZEZoRGVyS2t0Y0tVSWRieGZUNi1aSDBBVFE5U3pOWW5hc1V0VEpGRUlmcnNoVmpTQUVxZFZ2Zw?oc=5",
+      "category": "観光・トレンド",
+      "tags": [
+        "音楽",
+        "チャート",
+        "VIVANT"
+      ],
+      "summary_points": [
+        "日本のビルボード・ホット100でGNJBの「Love Reason」が首位を獲得した。",
+        "人気ドラマ『VIVANT』で使用された千住明氏の楽曲もチャートに初登場を果たした。",
+        "配信やドラマのヒットが音楽チャートに直接反映される日本のトレンドが示されている。"
+      ],
+      "global_perspective": "日本の音楽チャートの最新動向を通じ、ドラマとタイアップした楽曲やローカルなヒット曲の傾向をエンタメ市場の動きとして世界に届けています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 8,
+      "title_ja": "日本の深刻な少子化：カップルの子育て数減少に向けた早急な対策が必要",
+      "original_title": "Japan Must Plan for Plunging Births as Couples Have Fewer Children",
+      "source": "JAPAN Forward",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZXh2Ri1URGZZZzJTREE4STNVRXRiQVlqX0N6MDN2TTNzMTE4N2xfVmEyUFZ2LUsyMFdPQk44TzF6RFVwM0V3aHR3S0oxdzRfek9aVnFYT19VWTE3V1h0ajRjUXpWdXhILVMybkw4Uy1jR0xvdUV1VU1XOWRFbEp4VA?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "少子化",
+        "人口減少",
+        "社会保障"
+      ],
+      "summary_points": [
+        "日本国内で夫婦が持つ子どもの数が減少し、出生数の急落がさらに加速している。",
+        "これに対応するため、従来の枠組みを超えた実効性のある少子化対策の計画が急務となっている。",
+        "人口減少は労働力不足や社会保障制度の維持に直結する重要課題として議論されている。"
+      ],
+      "global_perspective": "世界最速で超高齢社会を経験している日本の少子化問題は、将来的な先進国のモデルケース、あるいは教訓として国際社会から注目されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 9,
+      "title_ja": "韓国の「Alpha Drive One」、1月に日本デビューへ",
+      "original_title": "Alpha Drive One to debut in Japan in January",
+      "source": "The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UaEtjV1E0RFhtZ09tTHVUQVRrcno2QUZTOGtTZmZwa0JQMUE2anhwM1NpM2c4eENKb3F4eUNRTGExa3pKREliMTMwNTRCOHlvYnlVMWNDcw?oc=5",
+      "category": "観光・トレンド",
+      "tags": [
+        "K-POP",
+        "エンタメ",
+        "韓流"
+      ],
+      "summary_points": [
+        "韓国の人気グループ「Alpha Drive One」が来年1月に日本での本格デビューを果たす。",
+        "日本市場でのファン層拡大に向けたプロモーションやイベントが予定されている。",
+        "K-POPアーティストによる日本市場進出の活発な動きが続いている。"
+      ],
+      "global_perspective": "アジアのエンターテインメント市場において、韓国のアーティストにとって日本が依然として極めて重要かつ魅力的な市場であると位置づけられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 10,
+      "title_ja": "中国による対日「言葉の戦争」の激化を追う",
+      "original_title": "Tracking China’s Intensifying War of Words Against Japan",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV0FLYnFpRHlhX2Zab2lSTHFfM2pWcEVHUW8wSXIxaXNxZFpOQjdlNEg3OHViMTEyWFdoZW40NzRHWFcwTzJhSWVRMmlBeWtpZGJTU1pDY2R2QTlRWjBjaW9oUU9Bc3FUcGlzeTFiNHlEQ0NNd1Y5djdCTnJFWDJ3Y3hOQWE1U2J0SEJadzh3?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "中国",
+        "外交",
+        "メディア"
+      ],
+      "summary_points": [
+        "中国政府やメディアによる日本に対する批判的な言説や情報発信が激化している。",
+        "歴史認識や海洋放出、安全保障問題などを巡る外交摩擦が言葉の応酬に発展している。",
+        "両国間の緊張関係が世論やメディア空間においても先鋭化している現状が分析されている。"
+      ],
+      "global_perspective": "米国の有力紙が、アジアにおける二大経済大国間のナラティブ（語り口）を巡る情報戦や外交的プレッシャーの強まりを冷徹にレポートしています。",
+      "reading_time": "約1分"
+    }
+  ]
+}
