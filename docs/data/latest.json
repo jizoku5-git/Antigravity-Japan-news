@@ -1,106 +1,126 @@
 {
-  "updated_at": "2026-11-21 11:38 JST",
-  "date": "2026-11-21",
-  "total_articles": 5,
+  "updated_at": "2026-11-22 10:28 JST",
+  "date": "2026-11-22",
+  "total_articles": 6,
   "articles": [
     {
       "id": 1,
-      "title_ja": "高市早苗氏とトランプ氏が会談、台湾政策とインド太平洋の安全保障を議論",
-      "original_title": "Trump, Takaichi discuss Indo-Pacific security as Japanese leader reaffirms Taiwan policy",
-      "source": "VOA - Voice of America English News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVjROLWo5YkVLcGVoQ3pWZ2NtMm5GQ2twLTctczg0MG5tOTBjMU00SFRhOGRTalE1aEZla1EzVE04c01qYUY1c2JGN0wtcXdwUXpSU1dyck9HeHAxNHg1N0F1OVF3cHpwMTVMYnIybDJwT1BEdzNXdzRNVUs5d1c3dGpxR2VjbEhweHdEd3pLamFIN0FoUm5fTWF6em4weEhkUjVUMmtWZ2VjREdQODFsTDFyYnZaNUU0M3hyM29jT3ZVYkJWY3hRRXVnY3Q0YnRs0gHTAUFVX3lxTE5LQzE1N19NVi1qNWplV3A5eGtoVXZiTHBHdWZUT0RMd1ZiN1J5ZnBmZmZZNG13Y1I3alFsSTNzX0NQekoxSkJqN3RlZ1BZRXl2ZUFZTzl3Yy1Mc1BZdnpKeG5TLUMyQmYyamoxNndKT05SSFJLVENESVZibFlZWmhSeE90SzR0aTQzaWdMQllFWXBtSFc4V2w2VjRfWUZsU0NScU5YRHJ3MW5wREtWSU5TVEFQcGtmTmRXeE1HRnpfRThTQTNpN2hMT0Z5WHJCenpzd1U?oc=5",
-      "category": "国際・政治",
+      "title_ja": "日本の消費者物価上昇が継続、追加利上げ観測が一段と強まる",
+      "original_title": "Japan Consumer Inflation Reinforces Rate-Hike Expectations",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ29mc3Fqd1V5SnRGYk9vckRWS2M1eUlWSHI3UVcxcHZ5Q1I3SnJkTWpKZ2twNnRFREl3QjFQa2tnUDdhUEZwQlQ2Sjg2QkVsQXN0bmtVV2I5dzR3RU5WNngwVllxRThldXlPbXQ5UU9PZUdvX204LUtGalhocnNBNmJBenYzSzhaR25xQy1ualAxM1VfY0FlN3JR?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "高市早苗",
-        "トランプ",
-        "安全保障"
+        "物価",
+        "日銀",
+        "金融政策"
       ],
       "summary_points": [
-        "高市早苗氏がトランプ前大統領と会談し、インド太平洋地域の安全保障について意見を交わした。",
-        "会談では、台湾政策の重要性が再確認され、日米の連携強化が焦点となった。",
-        "次期米大統領選を見据え、日本の政治家が米国の主要人物と個別に接触を図る動きが注目されている。"
+        "日本の消費者物価の上昇傾向が続き、市場で追加の利上げ期待が高まっています。",
+        "長年のデフレから脱却し、日銀（日本銀行）の金融政策正常化への圧力が増しています。",
+        "賃金上昇と物価高の好循環が実現できるかどうかが今後の最大の焦点となります。"
       ],
-      "global_perspective": "米国の次期政権を見据えた日本の政治家の動きを、対中政策の重要性と絡めて注視している。",
+      "global_perspective": "欧米メディアは、世界的な利下げ局面にある中で、日本が独自の金融引き締め（利上げ）に向かう数少ない主要国として動向を注視しています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "日本政府、安全保障PRに陰謀論系YouTuberを起用し批判を浴びる",
-      "original_title": "Japan government criticised over conspiracy-theory YouTuber in security PR push",
-      "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOV2lUNXBSV1lYblZETW9TeUZxVVNYVFV5d0F1ei05dTc0UlhESXF5a0hsX2dlQWZBWkJKTDZBTzFUMDZWWkhoZzdUbV9CWkFma3RBcDNENHNvMWhlQU1RSE16MkgyNXRoNGlIc3ItUUZ5OHQtRU15TDRWLUc1VUVmTGZkaXg4M1R4NkZfUUUxX1BEWUR0cTM0Q0hXRnZucklLX2FJWVhkNjJvY2hCMEtnREdNcFJWb2RkaU9iZlpsTEFKbFIxRWdVYXFwbGZTUQ?oc=5",
+      "title_ja": "ペルーと日本が重要鉱物の協力で合意、フジモリ氏の来日も契機に",
+      "original_title": "Peru and Japan Agree on Critical Minerals Push as Fujimori Makes Her First Tokyo Visit",
+      "source": "Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkh5dFc4cjZNdFBWLVNGTGNZNXg0S2oxREhnUGJ6ZlhnaEUzSmVrdWdITUphU1ZoMkNvYzc2dEs1MzBtN1F6QnF2ZDRJa1lfYkYxQXdqUGxiWjBIa2NhNjFTQTlFUWxVVUg0YTc5ejVKS0p3dDU2b2ZZVUthZGRMWXYxNWNReGVq?oc=5",
       "category": "国際・政治",
       "tags": [
-        "日本政府",
-        "PR",
-        "SNS"
+        "外交",
+        "重要鉱物",
+        "ペルー"
       ],
       "summary_points": [
-        "日本政府が安全保障政策の広報活動において、陰謀論を拡散するYouTuberを起用したことが物議を醸している。",
-        "政府の広報戦略の選定基準に対する批判が国内外から高まっている。",
-        "公的機関が発信する情報の信頼性と、SNSインフルエンサー活用におけるリスク管理が問われている。"
+        "日本とペルーの両国が、脱炭素社会に不可欠な重要鉱物の供給網強化に向けた協力で合意しました。",
+        "ペルーの政治家であるケイコ・フジモリ氏の初来日に合わせ、二国間の結びつきが改めて強調されました。",
+        "資源確保を急ぐ日本にとって、中南米諸国との戦略的な経済パートナーシップの重要性が高まっています。"
       ],
-      "global_perspective": "日本の公的広報の透明性と、デジタル時代における政府のコミュニケーション戦略の拙さを指摘している。",
+      "global_perspective": "資源外交において、日本が中国等の他国に対抗しつつ、中南米の資源国との関係をいかに深めているかに関心が寄せられています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "日本は米露中の定期首脳会談に警戒感、外交のバランスに苦慮",
-      "original_title": "Japan Wary of U.S., Russia, China Holding Regular Summits",
-      "source": "Nippon.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VRDhBTUhqVEZtY3VDZ3lHRGF0VWljWk1HRVFRRGRMNER6MGlBS19QdFBBcHVKM2JyNU8xZ2VYemVCYWxwVVFRVWc5Q3RmUkh4c1ZLVA?oc=5",
+      "title_ja": "トランプ米次期政権と弱い円の間で揺れる日本外交の防衛戦略",
+      "original_title": "On defence, Japan’s Takaichi caught between a weak yen and Trump",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbk5nX3lQTUFxYTdTVTk4cTlmVFNGSXkyalY5aG9rVGdVQnE2WXAzS3p0STRNX1FVVUdHQUtsSTU5VFItQzR5Y0tSUjVzS3ZnRHBBUE1zQ1hMQi1QTnBwZkluV2tUU2k5Z0V0aHVBOGl4Xy1UWExXRnA0TFY3YVpjVFF0Zk1zU2plTFBnTm5rOGNtRENMd2hSNmxfdDloOVRjdE5abE5pd1ljZFdMTmc?oc=5",
       "category": "国際・政治",
       "tags": [
-        "外交",
-        "日米関係",
-        "地政学"
+        "安全保障",
+        "為替",
+        "外交"
       ],
       "summary_points": [
-        "米露中といった大国間での定期的な首脳会談の動きに対し、日本政府が警戒を強めている。",
-        "大国間の密接な対話が、日本の安全保障や外交的立場に影響を与えることを懸念している。",
-        "複雑化する国際情勢の中で、日本がいかに国益を守りつつ外交バランスを保つかが課題となっている。"
+        "日本は、継続する円安による経済的負担と、トランプ米次期政権による防衛費増額圧力の板挟みに遭っています。",
+        "厳しい財政状況や為替の変動がある中での防衛力強化のバランスが難しさを増しています。",
+        "予測不可能な米国の外交政策に対応するため、日本独自の外交・安全保障戦略の構築が急務となっています。"
       ],
-      "global_perspective": "日本が地政学的な孤立を避け、大国間のパワーゲームの中でどのように立ち回るべきかという視点で報じている。",
+      "global_perspective": "アジア太平洋地域の安全保障環境が変化する中、日本の防衛政策が米国の政権交代と経済的制約からどう影響を受けるか分析されています。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "トランプ氏の圧力に日本は屈するか？食料品輸入を巡る「熱いジャガイモ」",
-      "original_title": "Hot potato: Can Japan resist Trump pressure to import food staple?",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODYyTEIwcmZWUUxoS2pXT01WNmx1NkdZNlhlcTUyNlN2WTgwQ3FjVkFVTTVkX3dTbkhKbDBKbE9yQzgwM2RBcFEybVhZZ1loNFpIR3BlR20tZThLN2lTNWJ0bk9HcFZVbnlrT1FkY2VUSUtQeXJMUmltOU4wbFZnM3NBang1LWNhSHR1aXUxVnZ4VGpBWDZsd3NuU0JtWlJsakxjSFlYOXlIUdIBrwFBVV95cUxOLXE0SEwzcXNESlZGN3UyTUJaSW1YS19yNEFwV0V3V3pzQjh5djRCUFNmZmhNczRsUG53VkVKSWhEZW8yWUgwYi13WFBpWnRQR2pERHpNZWpqZlFteWhFYnphMXJPb0wtYjdieXBpNmxPN0hkanNWbl9IN1kxSXBnVXhDNFR0ZHctb2VEc1pDNnhlVG9MaTVHZmt3cDVnRlJ6ZUREQ0c4SmNLVVJlRUxj?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "日中台の100年の歴史を振り返る特別展が東京で開催",
+      "original_title": "Tokyo exhibition explores century-long history of Japan, China, Taiwan",
+      "source": "Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Pd2tYYVpYUmtESklfYnZ6ZFVsX3dHdUFxeGcwOW9oaDk0Y29PZEtJaW96dmdKY3JUUUllak52MHFfMUdMVU9zSFdaOW9NU1V0N19nSHVoLVJFQQ?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "貿易",
-        "トランプ",
-        "食料安全保障"
+        "歴史",
+        "展示会",
+        "東京"
       ],
       "summary_points": [
-        "トランプ氏が再選した場合、日本に対して農産物の輸入拡大を強く迫る可能性が懸念されている。",
-        "日本の食料自給率や国内農業保護の観点から、この圧力への対応が大きな政治的課題となる。",
-        "「熱いジャガイモ（Hot potato）」という比喩は、非常に扱いが難しく厄介な問題を指している。"
+        "東京にて、日本、中国、台湾の3地域における過去1世紀にわたる歴史的関係を多角的に探る展覧会が開催されました。",
+        "複雑でデリケートな歴史的背景を持つ東アジアの繋がりや、文化的・政治的な変遷に焦点を当てています。",
+        "一般市民や専門家の間で、過去の歴史を冷静に見つめ直す貴重な機会として注目を集めています。"
       ],
-      "global_perspective": "米国の保護主義的な貿易政策が、同盟国である日本の国内経済にどのような摩擦を生むかを分析している。",
+      "global_perspective": "地政学的な緊張が続く東アジア地域において、民間や文化交流を通じた歴史の共有と相互理解の試みとして取り上げられています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "サウジアラビア、日本での石油備蓄を拡大へ",
-      "original_title": "Saudi Arabia Expands Oil Storage in Japan as Tokyo Restocks",
-      "source": "OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUE81dExBWFVGZUlfbWh5VnhGbjZrY0J1THdnb0JBbjJINUhvLUxNYmt1ZG1ZcG5ZRXVmRWZCR0ZyazRDTUdac2FKeG9qMjJ2eVFuaVFKV3NmeEhfbmpTV05RZ2YxY1ZJTVcxRlRUUXNZM1RKcjFrNlpPN0JiX2dqekx3MFhYbFBLZXJ1V2Z6SDBpZ3dmaW03dkd1a2hTdVBHMkxZNFFVWEhJM3hETVdPV3AwUFE5QdIBuwFBVV95cUxQU2lqNFZId1BoZldvTjZDN3VjTEJBdmZWMGo5ZTNZU0NLVXpNTWtfU1I5aVBvTE5PMkU5WDJKd1FYVGRodm5EWUNOQ2ZNNjc0WnBWSVRmdEdmb0JvUWZPN2xXQklPLU56WUp5V0thZzlib3pWNElveW5XTkVqel9mMkcwd2VyeGNZR195cGhjLWhYelNzQm1mak15UGt2ZVZBR2xaUU5iMkphdlB4R3dKdVExeDJzS2xoVm0w?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "フィギュア新星・島田麻央、デビューシーズンでグランプリ2勝目を達成",
+      "original_title": "Japan's Mao Shimada wins second Grand Prix in her debut season",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ3JUc09KOWUycTZSclgtRk4weHZDMjk1U25TNUl1TGV5eUdibkhaVXBjdmRQZEhkU2ZqenJjSVNmYjBVaE9yOFU5cThNX2dOcUJGLVQ0aTY4OThQQXNQbDlrOWwtZGhWM0piaC1NVnI2dHkzUDdub0VRX1F6eHYxUGdGRUF5VWlEeV9BU05lRVNWUHN5UGwyaE1mQ25fQzYzRWs1eHBtSGo3SUloeXRFV0V6NU91N1Jv?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "エネルギー",
-        "石油",
-        "サウジアラビア"
+        "フィギュアスケート",
+        "スポーツ",
+        "島田麻央"
       ],
       "summary_points": [
-        "サウジアラビアが日本国内での石油備蓄容量を拡大し、供給体制を強化する。",
-        "日本側もエネルギー安全保障の観点から、備蓄の積み増しを進めている。",
-        "中東情勢の不透明感が増す中、両国のエネルギー協力関係が深まっている。"
+        "フィギュアスケートのシニアデビューシーズンを迎えた島田麻央選手が、グランプリシリーズで2勝目を飾りました。",
+        "安定した技術力と卓越した表現力で、世界トップレベルの舞台でも圧倒的な強さを発揮しています。",
+        "次世代の日本のエースとして、今後の主要国際大会でのメダル獲得に大きな期待が寄せられています。"
       ],
-      "global_perspective": "エネルギー供給の安定化を図る日本と、アジア市場でのシェアを維持したいサウジアラビアの戦略的利害の一致として捉えている。",
+      "global_perspective": "日本のフィギュアスケート界からまた新たな才能が世界トップへと躍り出たことに対し、海外スポーツメディアからも称賛の声が上がっています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "日本列島の広範囲で大雨と大雪、気象庁が土砂崩れや厳重警戒を呼びかけ",
+      "original_title": "Heavy rain and snow have hit several parts of Japan, prompting landslide warnings...",
+      "source": "DW News (Facebook)",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQckpHR01uRVdmYm50M3NCNXFCZ2kxeUQ4MTNfVjFqMlh5QmMyaThzQ291RjhkYktPYnF6Q2JyaWhENU51M0dDeTFlbGxEQnZBMmdQYThpaENtX2tCMmFOTU5VbmxsTy1ET1dZR2FfbC15SVp0eWdUSmFVeGJfS2VRZkJwdHh3d0pqUTlzQXFkb0FGOFoxUFVtR1lmVTVJR3hQZGFTZW1rVWpSeldKNUJ5ekhuQll4ZUQxWF85bEpzT21uS0V1UGZqdTMzX2E3VnV3eUsxRG1oSQ?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "気象",
+        "大雪",
+        "災害警報"
+      ],
+      "summary_points": [
+        "日本各地で悪天候となり、北部や東部の山間部を中心に激しい雪と雨が観測されました。",
+        "気象当局やメディアは、積雪による交通網の混乱や、地盤の緩みによる土砂災害への警戒を強く呼びかけています。",
+        "冬の到来に伴う急激な気候の変化により、日常生活やインフラへの影響が懸念されています。"
+      ],
+      "global_perspective": "日本の季節の急激な変化や、毎年のように発生する自然災害に対する迅速な警戒体制が海外ニュースでも伝えられています。",
       "reading_time": "約1分"
     }
   ]
