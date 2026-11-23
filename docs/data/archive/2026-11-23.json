@@ -1,0 +1,147 @@
+{
+  "updated_at": "2026-11-23 10:52 JST",
+  "date": "2026-11-23",
+  "total_articles": 7,
+  "articles": [
+    {
+      "id": 1,
+      "title_ja": "日本の富裕層が保有する1億円超の口座数が4.2%増加",
+      "original_title": "Japan's wealthy bank accounts over JPY100mn jump 4.2%",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzEwUWVnWWV4d2NXaE1zSm84WjVUWUEtVXlLSXc3UC1EeW1laXhFTTBuc3FzQjV5cDFlSXgtLTEwMVRLTVh3SVozWmJKZmNTQXBWRGdDMWI3M0tHa25pYUJkY05oTjJleFJEN3RpTUtZTkdZWGtXcEdzdjhWMGF6MlE2MnNwUlRBZDNZa2pMMW55NTYwSDlnbDEwdGt2azNwT0xlcmFjYXJUdjFsQ2c?oc=5",
+      "category": "経済・ビジネス",
+      "tags": [
+        "富裕層",
+        "金融資産",
+        "日本経済"
+      ],
+      "summary_points": [
+        "日本国内における預貯金などの保有額が1億円を超える富裕層の口座数が、前年比4.2%増加しました。",
+        "資産運用の活発化や株高などを背景に、個人の資産増加傾向がデータとして浮き彫りになっています。",
+        "格差の拡大や資産インフレの影響について、国内外の金融市場から注目が集まっています。"
+      ],
+      "global_perspective": "長期的なデフレから脱却しつつある日本において、富裕層の層が厚くなっている現状を経済の構造変化として捉えています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 2,
+      "title_ja": "日本政府、資金不足によりEV補助金の申請受付を前倒しで終了",
+      "original_title": "Japan ends EV subsidy applications early as funds run low",
+      "source": "Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTRsUjhDemlNalhxYU1Ua3lodFFrZWJBdjRXMzNxRDJEZ3NxclhIX2g3UjBnU0dURDc3QkZYbWQxQ3VpR2RlM242N0FiS1ZkSmVzSHp4SnVZb1EwZlhEM0dDalVaM1lXWTdPLWNaTFctTV9fT1h5RXFvZ0NOajNjXzFpYUpHTFNVMmZEN3BoR2xuRGprM1d0ODljbC1USXdZbXUzOGdzUXJVdw?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "EV",
+        "補助金",
+        "自動車"
+      ],
+      "summary_points": [
+        "日本政府が電気自動車（EV）購入向けの補助金申請受付を、予算上限に達したため予定より早く終了しました。",
+        "想定を上回るペースで申請があった一方、支援の打ち切りが今後の国内EV普及の足かせになる懸念が出ています。",
+        "海外の主要国と比較した日本の脱炭素モビリティ政策の持続可能性が問われています。"
+      ],
+      "global_perspective": "世界的な脱炭素化の流れの中で、日本のEV普及スピードや政府の支援策の規模・持続性に対する厳しい視線が向けられています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 3,
+      "title_ja": "日本の量子技術の夜明け、本格的な普及に向けた課題とは",
+      "original_title": "Japan’s Quantum Dawn Is Here. Now Comes the Hard Part",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTDVmQ1dXTldzY0dlUzd4MUZ6SkprQlo0eFVhS3d0UUlnd0Y2TGNwckJiQldJamFSUXZqblVHTE5CMV9zQklqYUVjblNwYjdCU1Z6UDQxS1ROQk9Zb191ZlVHZWJwbFE2TVFiYkVSeUxzUDRVdGJ1SEFidEVteEo2ZDh2RjlqS2tfWFFpUjlpbXl4SU1DVTVQMUZpSXBETUJ1Q3p1cWtvc2JjUQ?oc=5",
+      "category": "テクノロジー",
+      "tags": [
+        "量子コンピューター",
+        "技術革新",
+        "研究開発"
+      ],
+      "summary_points": [
+        "日本国内で量子技術の開発や実用化に向けた動き（量子ドーン）が本格化しています。",
+        "基礎研究の技術力は高いものの、今後は商業化や人材確保、国際競争力の維持が大きなハードルとなります。",
+        "国家安全保障や産業競争力の観点から、官民一体となったエコシステム構築が急務とされています。"
+      ],
+      "global_perspective": "米中対立が続く量子技術の分野において、日本が独自のポジションを築けるか、海外のテック業界や投資家が注目しています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 4,
+      "title_ja": "物価高騰の影響、今年のクリスマスディスプレイのサンタにも影",
+      "original_title": "Japan's rising prices leave Santa in gray at Christmas display - Japan Wire by Kyodo News",
+      "source": "Japan Wire by Kyodo News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BeHZVWTI0SFFQaktxVWtrQnR0QVBfRm05ZVFzRG1uNmJjUTlRV0VkYXlLc2QtUXFQSWx1Vkx2N0R1WHRGZ2R6OHlTVDNPcDRYM2JyV2VhNElfQQ?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "インフレ",
+        "物価高",
+        "クリスマス"
+      ],
+      "summary_points": [
+        "止まらない物価高やコスト増の影響を受け、クリスマスの演出や装飾にも地味な変化が現れています。",
+        "伝統的なイベントのコスト削減を余儀なくされるなど、市民生活のインフレ疲れが浮き彫りになっています。",
+        "賃上げが追いつかない中での生活必需品以外の支出抑制傾向がユーモラスかつシニカルに報じられています。"
+      ],
+      "global_perspective": "世界的なインフレが日本の身近な季節行事や文化にまで影を落としている実態を、生活者の目線から伝えています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 5,
+      "title_ja": "日本政府が「外国代理人登録制度」の導入を計画、実効性はカギに",
+      "original_title": "Japan plans to register foreign agents, but will the system be effective? - Asia News Network",
+      "source": "Asia News Network",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORVRKVUhGazhaaUpWTUhHNnotM3BBWVV6Qnp2dndEUFg4dHE1X1NKRzlvVWltdUZpOHVnQm1jSndnaFhxTEFPQkl4RG9GOW96eUVaRGFDWk4wcmdoSU1xMXcxaTM4eVNKVXJnYS1EcW1DajJ6eXJaX045U1BPVGZrYTNHZ2JVMjZHM2phUk9ySnlmTXVFdlRxeVdqY3Rmdw?oc=5",
+      "category": "国際・政治",
+      "tags": [
+        "セキュリティ",
+        "安全保障",
+        "外交"
+      ],
+      "summary_points": [
+        "日本政府が外国政府のために影響力工作を行う人物や組織を透明化するため、外国代理人登録制度の導入を計画しています。",
+        "米国などの同様の制度を参考にしつつ、スパイ防止や情報漏洩対策としての実効性が議論されています。",
+        "表現の自由や外交関係への影響に配慮しつつ、どこまで厳格な規制ができるかが焦点となっています。"
+      ],
+      "global_perspective": "経済安保や外国からの干渉対策が急務となる中、これまで法整備が遅れていた日本がセキュリティ体制の強化にかじを切った動きとして評価されています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 6,
+      "title_ja": "ポケモンは震災からの復興の力になるか？ 能登半島での取り組みに迫る",
+      "original_title": "Can Pokémon help revive Japan's earthquake-hit Noto Peninsula? - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLXU1OV9Ob0pQSUhiaF9nd01OYUJ3V1VvNXhYbnJkdy1uVm1acjE5ZUtqeVNjcjZmeG1KZHQ2MDRlb0VwRktVMGxZNWFMOFVqZ1F2WDlELXJ6NDE5ZkJpd1Q5cHBKT2lQZUhQQ1Z2SFR0TjMxMTByTjdzNWVBU3kxQTVHMVpKeTdYdlZaUEJJYk9hb0VxbWg4cUctN1dDYm9TMHVlVjRR?oc=5",
+      "category": "観光・トレンド",
+      "tags": [
+        "ポケモン",
+        "能登半島地震",
+        "観光復興"
+      ],
+      "summary_points": [
+        "能登半島地震の被災地復興支援として、人気コンテンツ「ポケモン」を活用した観光誘致プロジェクトが進められています。",
+        "ポケモンのキャラクターを用いたイベントやグッズを通じて、観光客の呼び戻しと地元経済の活性化を図ります。",
+        "エンターテインメントの力が災害からの地域再生に果たす役割として、BBCなどの海外メディアが注目しています。"
+      ],
+      "global_perspective": "日本の誇るポップカルチャーが、深刻な自然災害からのコミュニティ再建や観光業復活の強力なツールとして機能している点を好意的に伝えています。",
+      "reading_time": "約1分"
+    },
+    {
+      "id": 7,
+      "title_ja": "誕生から約30年、日本のバーチャルペットのパイオニア「たまごっち」の軌跡",
+      "original_title": "Tamagotchi: Japan’s Pioneering Virtual Pet - Nippon.com",
+      "source": "Nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aTDZkeGNqN2J4enlmNGV1V25XYkxRLUVXd0dwdG1ZTjUzVXZtckJjUUhVTGs0WTNwUVpRRkZLY0hfWVVjaDN3UEtGUENkY2ktS1FWag?oc=5",
+      "category": "社会・文化",
+      "tags": [
+        "たまごっち",
+        "ポップカルチャー",
+        "おもちゃ"
+      ],
+      "summary_points": [
+        "1990年代に世界的ブームを巻き起こした日本のバーチャルペット「たまごっち」の歴史と社会的影響を振り返っています。",
+        "時代ごとのトレンドを取り入れながら、現代のZ世代の間でも再び人気を集めるロングセラーの秘密を分析しています。",
+        "デジタルとアナログが融合した初期のイノベーションとして、日本の玩具産業の功績が高く評価されています。"
+      ],
+      "global_perspective": "世界中の子どもたちを熱狂させた日本の元祖ガジェットが、世代を超えて愛され続ける普遍的な文化的アイコンとして再評価されています。",
+      "reading_time": "約1分"
+    }
+  ]
+}
