@@ -1,166 +1,166 @@
 {
-  "updated_at": "2026-11-24 14:24 JST",
-  "date": "2026-11-24",
+  "updated_at": "2026-11-25 13:22 JST",
+  "date": "2026-11-25",
   "total_articles": 8,
   "articles": [
     {
       "id": 1,
-      "title_ja": "米海軍の艦隊不足を救うのは日本？新型護衛艦「もがみ型」への熱視線",
-      "original_title": "Opinion | The U.S. Navy Needs Frigates. Japan Has One",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNERDb21vWDJvRGZ4MU04aUNDMEk2RlEwMHpYZGE0dVI1QWs1SmVVTlBWUDRHOU1kN3N3QWRJdWlXY3hwSVN1aHdzN202T1V5QjdBYWEzWU9pYV9rNzN4TDhiOGpHdXBlU01oVmhjeVJTRGI2QWxEWENZN011SkM5RjRvU0I?oc=5",
-      "category": "国際・政治",
+      "title_ja": "日本の主要サービスインフレ率、36年ぶりの高水準を記録",
+      "original_title": "Japan's key services inflation gauge hits 36-year high",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmQyUGZ2bG00UVFlbzFVMEZpdGt1ZzV0Y0ZxX21VLVZfSFEtNl8zeldrZ1NtSXhpSGhLaVNtSkxFR1Zvc3FVeHFBNGctWVVMZlhQb2lhbkNnMUdoQTdaWndqSEktMmZpUXJKWU81bFRHQmJTSGlhZ1IxcEF6N25wV3FIbDhWbmVIV241SW84RWlEN1FTRmgxaF91SQ?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "日米同盟",
-        "防衛装備品",
-        "海上自衛隊"
+        "インフレ",
+        "サービス価格",
+        "日銀"
       ],
       "summary_points": [
-        "米海軍のフリゲート艦（中型護衛艦）不足に対し、日本の「もがみ型」護衛艦の導入や共同開発を提案する論評です。",
-        "日本の造船能力とコストパフォーマンス、そして自動化による少人数運用が、米国の国防課題の解決策として高く評価されています。",
-        "日米の防衛協力が、単なる演習から装備品の共同運用・調達という実務レベルへ深化する可能性を示唆しています。"
+        "日本国内の重要なサービス分野におけるインフレ指標が、過去36年間で最高水準に達しました。",
+        "賃上げの動きやコスト高の転嫁が進むことで、長年続いた日本特有の物価停滞からの脱却を示唆しています。",
+        "この物価動向は、日本銀行が今後さらに追加の金融正常化（利上げ）を行うかどうかの重要な判断材料となります。"
       ],
-      "global_perspective": "米国の国防力維持において、日本の製造能力が不可欠なパートナーとして再評価されており、軍事サプライチェーンにおける日本の重要性が高まっています。",
+      "global_perspective": "長年デフレに悩まされてきた日本経済が、ついに構造的なインフレ局面へと移行しつつある点に強い関心が寄せられています。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "「馬力から火力へ」日本の自動車サプライヤーが防衛産業へ続々参入",
-      "original_title": "From Horsepower to Firepower, Japan Draws Auto Suppliers Into Major Arms Buildup",
-      "source": "U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYk9kM2xPX3JkT2xETjNCZ2NUUUs3NUVSWjlIZG5xZldoMzlNZlU2QnhYVEY0RzM3SGdpZ2l0NmF3ZlZKczRDYk9obzZMY20zMElDZU84TlF2dEhrMDZwUjNDZzU1X1o3UFkzTU9ndHhLTmhpYWd3X25CZTA1VHdWX2ZiVlEySWc1OGxPMEtpRTNsdU1oTHUyTUpFUWRZV2Y0aG1WQjdMUGZwSnpCRE02MEFiNzNaajF6T19KcEFRWWJPbzZHU3hGZzZpYW1rUQ?oc=5",
+      "title_ja": "スターバックス、日本事業の売却に向けて銀行団と協議か",
+      "original_title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDlYTFJtOGNEaEhrSkpEX25PcUx0UGkwTXRjYmlYbmtKbVpfWV9WTno4ZkhnZ3F1X2Nsci1sSEJzRXFOS29NbHYwVjBTd1poaEcwT3k3QVpJUnh5ck1uYWVTUzZXN09oVEk1Szd4TFU2VHpNVFFMN2R3b0NxNWtxV0VQWVY4bVUxYmF6V0ZqZW85c2FELTFodHY4S2tiMkE5bXpLbXlyRF83V3dpVVlBYg?oc=5",
       "category": "経済・ビジネス",
       "tags": [
-        "防衛産業",
-        "自動車部品",
-        "サプライチェーン"
+        "スターバックス",
+        "M&A",
+        "外資系企業"
       ],
       "summary_points": [
-        "日本政府の防衛予算増額に伴い、既存の自動車部品メーカーがミサイルや装甲車などの防衛装備品製造にシフトしています。",
-        "EV化でエンジン部品の需要が減る中、高度な精密加工技術を活かせる防衛分野が、中小サプライヤーの新たな収益源として注目されています。",
-        "官民一体となった「防衛産業の基盤強化」が、日本の製造業全体の構造転換を促す動きとなっています。"
+        "米スターバックスが、日本国内の事業売却に向けて複数の銀行と協議に入ったことが報じられました。",
+        "日本市場での高いブランド力と収益性を誇る中での電撃的な売却検討であり、今後の動向が注目されています。",
+        "具体的な売却先や株式の比率など、ディールの詳細については今後の交渉次第となっています。"
       ],
-      "global_perspective": "地政学リスクに対応した日本の軍事力強化が、国内の産業構造をどう変容させるかという点に海外メディアは強い関心を寄せています。",
+      "global_perspective": "巨大外資系チェーンが成熟した日本市場のポジションをどのように評価し、再編しようとしているのか、グローバルな投資家の関心を集めています。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "11月の国内製造業景況感、4カ月ぶりに改善。PMIが拡大を示す",
-      "original_title": "Japan's factory activity expands in November, PMI shows",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEkxVkdVSHNaOWJkdmd2UjVQQUk3QjVHbkVSZTNUU25ieGJHUWIweUM3MTlRbnlpSzg5V2pPOE9LN29rWl9ONUFlWHBZMV92dzNHSWFEbkZQb3EwUVZiQjctZ2dzQkpSbkR1UklOZGx4MXVzRW9DeXB0N08ybmNMTWtWYXhTWjdQNE5iNGlBZ3ZQbU5LbEdkUF9Wdw?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "日本の自動車サプライヤー、防衛産業への参入が加速",
+      "original_title": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup",
+      "source": "Defense News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR01Bb0NHRUJNMjJXTXZsbkowTkx2UXF6X3lKS3ZQWEdib2pfemxhYUhKQ3IxMWwtMG91Y2JvWTdDNjVIZE02ZzNxNE83ZzkxZk9ab1dtd3FqcFV4clBnRkt2OXh4bFNaYm9uLXF6ZmVJb2RNVmNHSDNMWXRZTTFqTzVXRFBRNy1kZGN3U0REUnk2OEFVaFBXSDczQVBaNmNxX3VzMUZJYzBmc2k3VV95VUZLZmhxLUV5R2lVdDI0d0pUMGNjNHFlbXdwcXpRSFVNUVR6TmxR?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "PMI",
-        "製造業",
-        "景気動向"
+        "防衛装備",
+        "自動車産業",
+        "安全保障"
       ],
       "summary_points": [
-        "11月の製造業購買担当者景気指数（PMI）が、景気判断の節目となる50を上回り、生産活動に持ち直しの兆しが見られました。",
-        "新規受注の減少ペースが鈍化し、一部の産業で需要の回復が確認されたことが指数を押し上げた要因です。",
-        "一方で、原材料費の高騰や円安によるコスト圧迫は依然として強く、企業の収益性を圧迫する懸念材料として残っています。"
+        "日本政府の防衛力強化の方針に伴い、国内の自動車部品メーカーなどのサプライヤーを防衛装備品製造へ引き込む動きが強まっています。",
+        "高度な製造技術を持つ自動車産業が軍需分野へシフトすることで、サプライチェーン全体の再構築が迫られています。",
+        "長年の平和主義から防衛産業の育成へと舵を切る日本の政策転換の象徴的な事例として捉えられています。"
       ],
-      "global_perspective": "世界的な需要停滞の中でも、日本の製造業が底堅い回復力を示しているかどうかが、投資家による日本株評価の指標となっています。",
-      "reading_time": "約45秒"
+      "global_perspective": "日本の安全保障政策の大幅な転換が、国内の産業構造や民間企業にどのような実務的影響を与えているかを描いた現地特派員レポートとして注目されています。",
+      "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "日本株急騰に連動し国債も上昇。市場に広がる「リスクオン」の波",
-      "original_title": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzNPVkcydjV2dGZWakRDckhfV3lNVGNseHhKOGQyeWF3WXJ3WFpDMUtjZ0k2ZEdxd0hqb0gtdTN4RkJYQ0cwU0ZwaHhfa2JJbEJXNDVrQk9qZGQzaXA5M2Z1VVQ0LWZiMng5SzcxRV9HdGx4dXVtX1lPOVVCc2ViVkFMVlcwT3I0T0xJRTh1ZlQ4Q3pOQk1NeUNlTTdiUWl2alpTcUV2RnhJUUE1dkE?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "「ゴジラ-1.0」が全米・世界で躍進、日本でも興行収入首位を堅持",
+      "original_title": "Japan Box Office: Godzilla Minus Zero Holds No. 1 Spot for 3rd Straight Weekend",
+      "source": "Crunchyroll",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGJOWC1Bb1I4dXRPdEUwWVc1VTVXT1NoYlRDeTN0S1BkVlBIZWtQT2NPenFIMjF3Tl95LXg5bHpUQWt6aXJFZ19JLVR1cVIxX010UngyTjhHMkR0R0xhT1RJTW9SNVg3Wm9PUjVzd3Zpdy1KZjI4QVRVWEF4cG9UMFFmTjVseVNLajBTVUs0YnJiOUJGOEZ5d3FJSGdGNndsRndlY093ZDNucjZhVy1td1g1czNMUWhv?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "日本株",
-        "国債利回り",
-        "金融市場"
+        "映画",
+        "ゴジラ",
+        "エンタメ"
       ],
       "summary_points": [
-        "国内株式市場の活況を受け、債券市場でも全期間の利回りが低下（価格は上昇）する異例の展開となっています。",
-        "日銀の追加利上げ観測が交錯する中で、企業の好決算や政府の経済対策への期待が市場全体のセンチメントを押し上げています。",
-        "投資家の資金シフトが活発化しており、日本市場が世界的な投資マネーの重要な受け皿として機能しています。"
+        "映画「ゴジラ-1.0」が、日本の週末興行ランキングで3週連続の首位をキープするロングランヒットとなっています。",
+        "卓越したVFX技術と人間ドラマが高く評価され、国内外で絶賛の声が相次いでいます。",
+        "日本のVFX作品がグローバル市場でも通用することを証明し、日本映画界にとって歴史的な成功事例となりました。"
       ],
-      "global_perspective": "日銀の政策転換という不透明感がありながらも、日本市場が「買い」と判断されている背景を、海外市場は注視しています。",
+      "global_perspective": "ハリウッド大作とは異なるアプローチで制作された日本の特撮映画が、世界的な映画賞や興行で成功を収めている点にメディアの称賛が集まっています。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "検察当局に「生成AIへの非公開データ入力禁止」を勧告。機密保持を徹底",
-      "original_title": "Japan prosecutors urged to keep nonpublic case data out of AI tools",
-      "source": "Japan Wire by Kyodo News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FLVVmWndzX1U5LWZ3N3Q2M0VvWlkyNWUwRG85dmZRa043cF9qVm1pY2pMcW5iQm1aMEQ0bzhEVDZjajZtRFo0YldDREEtX2ZQSDFYYTJpYkZuQQ?oc=5",
-      "category": "テクノロジー",
+      "title_ja": "NPBのスター選手、佐藤と平良が大型MLB契約に合意",
+      "original_title": "NPB stars Sato and Taira agree to major MLB deals",
+      "source": "The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHhVbExLanAySmtBdHY0S0RUT3QzVzltVDBWMlhlS3IwMDQzVFRNb0JDYU9qazJLMDZHVjgxcUdMOG53QTd4MlFIUkRJci1valV5ekxkellVcVl4MERVLXRZckpJb3ZZRHM1Z3FNc1BJQS1qVmF2Z0NjdUR0NHVyakdET0FUWE9j?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "生成AI",
-        "情報セキュリティ",
-        "検察庁"
+        "MLB",
+        "プロ野球",
+        "移籍"
       ],
       "summary_points": [
-        "日本の検察庁が、捜査情報などの機密性の高い非公開データをChatGPT等の生成AIに入力しないよう内部指針を策定しました。",
-        "入力されたデータがAIの学習に取り込まれ、外部に漏洩するリスクを回避するための予防的措置です。",
-        "法的機関における最新テクノロジー活用の境界線が明確化され、利便性と機密保持の両立が課題となっています。"
+        "日本のプロ野球（NPB）で活躍した佐藤選手と平良選手が、メジャーリーグ（MLB）の複数球団と大型契約に合意しました。",
+        "日本のトップアスリートたちが次々と世界最高峰の舞台へと挑戦する流れが加速しています。",
+        "日本の野球界の育成力の高さと、MLB球団からの高い評価を改めて裏付けるニュースとなっています。"
       ],
-      "global_perspective": "公的機関におけるAI利用のガイドライン策定は世界的な潮流であり、日本の法執行機関の慎重な姿勢が報じられています。",
-      "reading_time": "約45秒"
+      "global_perspective": "大谷翔平選手らの成功に続き、日本のプロ野球からMLBへ羽ばたく優秀なタレント層の厚さにスポーツメディアが注目しています。",
+      "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "日本の再生医療がベトナムへ。GNグループが現地病院と提携",
-      "original_title": "Phenikaa University Hospital (Vietnam) and GN Corporation (Japan) Sign Memorandum of Understanding on Regenerative Medicine Collaboration",
-      "source": "Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNTEp0M0R4eXh2SGtiT2REVTNWbWxReUVEdDhUdnEtbnFuc1l6RDgzTVRZRjk3OFRVV0ZjVEFtaHJQa2hORmZQVXBVRUtWN0xxTmVQNFZwbU15QTRaRGNtV194anVfRC15c0hpZHZTMjhjU1V1T0ZNbm9TOHVnY1pTM1dlazZTNExDOGVSZmtNNHAtWE1WXzlqWHRib0pfLUdxc1YyVmo1aTBzUUl4SE9UUXI1aGV3Vlc0cjVseUtEY1R1NVVpMGljdGpyTl9rUGRfeWthSG04Z3RJbTFHX0RPdkppTHVkRzZUcW5MTl94M3dFMFVfck9GVlQwOGU1VEJGeWJTU2oyMWpFUXdMQmxNN0c4S1Q4aTdtVy15MzFuOUU?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "何世紀も続く日本の「山菜」、伝統の味として再び世界で注目",
+      "original_title": "Foraged for centuries, Japan’s wild mountain veggies return to the spotlight",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObnY3emJUeHZHRmZQSkRTRi1IMm1EQlNUb0EwVDF3N2lDX2FOenNaTEVEQXl0N213ZFEtSUNWaThlMkNfVVBIb0N1NUpkcExiU2hrQ3gtRTdSUmtfY1ZacWczdm9YS0RfU3lFZmxjMUFxWjAxY1ZYZE5kMzQ0ZmFkRkgzdlIwcGZmWVZJ?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "再生医療",
-        "ベトナム",
-        "医療輸出"
+        "山菜",
+        "日本食",
+        "食文化"
       ],
       "summary_points": [
-        "日本のGN Corporationがベトナムのフェニカ大学病院と、再生医療分野での協力覚書（MOU）を締結しました。",
-        "幹細胞治療などの日本の先端技術をベトナム市場に導入し、現地の医療水準向上とビジネス拡大を目指します。",
-        "アジア圏における日本の高度医療技術の輸出産業化を象徴する事例として期待されています。"
+        "日本の豊かな自然で何世紀にもわたり採取されてきた「山菜」が、現代の食トレンドとして再び脚光を浴びています。",
+        "独特の苦みや季節感を楽しむ日本の伝統的な食文化が、外国人観光客や世界の美食家たちの関心を惹きつけています。",
+        "サステナブルでヘルシーな食材としても、日本のローカルフードの魅力が再認識されるきっかけとなっています。"
       ],
-      "global_perspective": "日本の強みである先端医療技術が、成長著しい東南アジアのヘルスケア市場でどう展開されるかに注目が集まっています。",
+      "global_perspective": "寿司やラーメンといった定番の日本食を超え、日本の地方に眠るディープな食文化や季節の風物詩にスポットライトが当てられています。",
       "reading_time": "約1分"
     },
     {
       "id": 7,
-      "title_ja": "チベット代表が日本に要請。ダライ・ラマ後継問題での支持を求める",
-      "original_title": "Tibet Representative Urges Japan to Back Dalai Lama's Succession Process",
+      "title_ja": "極端な気候変動により、日本の山火事は「件数減・規模拡大」の傾向へ",
+      "original_title": "Japan's Wildfires Are Fewer but Larger as Rainfall Patterns Become More Extreme",
       "source": "JAPAN Forward",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmtKMzJQV3VWc01EUE84YUJUV2Fya0hJYlRyWHhab1N1cjZhRW5ScW1mVlpIMTE2R0JhUU55MGlLM0NoY1NzZlRrQTBieHZTbVpPTVU5THhGdlVPNFdnUG1ULVA4VjYtSTNIZTBmajhoT2ttOGx4ZmJWdUxnT1VGazVXWkg?oc=5",
-      "category": "国際・政治",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1hiR0VKT2dhV2xRM2RRbmV3SFpKQ1NHNjhoYTZ6dm9EVEJjNWdlS2Z1c0lPUHJ0T0Z0Y0VHbFJlWDg5azFTQW5QUXU5LVRaNEozRUNkcVdtWW9XQmNGQklheEpiZkpYV0M0a1FLMkhYck1HZ2locVVJYU5tYlAzLW1hMXRYUENpdWtpYzd2aVFOZVdh?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "チベット",
-        "人権",
-        "対中外交"
+        "気候変動",
+        "山火事",
+        "環境"
       ],
       "summary_points": [
-        "チベット亡命政府の代表が、ダライ・ラマ14世の後継者選定プロセスへの日本の支持を強く訴えました。",
-        "中国政府による後継者指名への介入を阻止し、宗教的自由と伝統を守るための国際的な連携を強調しています。",
-        "日本政府に対し、人権と民主主義の観点から明確な姿勢を示すよう促す内容となっています。"
+        "近年の極端な降雨パターンの変化に伴い、日本国内で発生する山火事の件数自体は減少しているものの、1件あたりの規模が大型化しています。",
+        "地球温暖化に起因する気象の極端化が、日本の自然災害のリスクの性質を変化させていると専門家は指摘しています。",
+        "これまでの防災・消火体制の見直しや、森林管理のあり方のアップデートが急務となっています。"
       ],
-      "global_perspective": "アジアにおける民主主義のリーダーとしての日本の役割と、対中外交における人権問題へのスタンスが国際的に問われています。",
+      "global_perspective": "世界各地で深刻化する気候変動の影響が、これまで比較的山火事のリスクが低かった日本でも顕在化している点に環境メディアが警鐘を鳴らしています。",
       "reading_time": "約1分"
     },
     {
       "id": 8,
-      "title_ja": "「電話に出てくれ」ハワイが日本からの投資誘致に苦戦。対応の遅れが障壁に",
-      "original_title": "If Hawaiʻi wants Japanese investment, someone has to answer the phone",
-      "source": "Aloha State Daily",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGpmQmRSSXZRUTBlWk1oSUt6MzFPNklWNjh0Ymx5V3pCeFVXS0J2REpSRUI1ZmpUbVFSZ2I5RnRJQWhocDJYZWhOejh1ZEk2bEtrLUlSUHRmWlpHZm5ZTWItVmtkOC1ZTGVEVHZuSXlDRmtxbmNlanV1ZDl2dy0ycHJCc0Z0Z1Fhd3AyNUxoMWY4aVFDVHBvN1VNZEZOU3FLMk5VYnBsSlNKZmc?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "新時代の憲法改正議論：立憲主義を守るための「9条改正」の論点",
+      "original_title": "Rethinking Japan’s Constitution for a New Era: Amending Article 9 to Defend Constitutionalism",
+      "source": "Nippon.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsR19ocFMwUEgwY1ZBd3V6NEJDX1FDdnBkN245Y0FqOUlkNHA3VVlwTWdzV0Focjg5TUIyRmxMRFF2dThvNVpES1VSVGI3dFc3a3liaw?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "ハワイ",
-        "海外投資",
-        "ビジネス慣習"
+        "憲法改正",
+        "自衛隊",
+        "政治"
       ],
       "summary_points": [
-        "ハワイ州が日本企業からの投資を求めているものの、現地の窓口対応の遅さが機会損失を招いているとの指摘です。",
-        "投資意欲の高い日本企業に対し、迅速なコミュニケーションと官僚的プロセスの簡素化が急務とされています。",
-        "観光以外の分野での経済連携を強化するためには、受け入れ側の体制刷新が必要であると論じられています。"
+        "日本国内で長年議論されている憲法第9条の改正について、現代の安全保障環境に合わせた立憲主義の観点から論点が整理されています。",
+        "現実の自衛隊の存在と憲法条文のギャップを埋めることが、法の支配と憲法秩序を守るために必要だとする意見が紹介されています。",
+        "東アジアの緊張が高まる中、日本の国内政治における最大級の政治的テーマとして議論が続いています。"
       ],
-      "global_perspective": "日本の投資ポテンシャルは依然として高いものの、受け入れ側のホスト国側の非効率性がボトルネックになっている現状を浮き彫りにしています。",
+      "global_perspective": "戦後日本の平和主義の根幹である憲法9条を巡る議論が、安全保障環境の変化によってどのように変化しているのか、海外の有識者層に向け深く解説されています。",
       "reading_time": "約1分"
     }
   ]
