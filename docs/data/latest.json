@@ -1,166 +1,148 @@
 {
-  "updated_at": "2026-11-25 13:22 JST",
-  "date": "2026-11-25",
-  "total_articles": 8,
+  "updated_at": "2026-11-26 12:40 JST",
+  "date": "2026-11-26",
+  "total_articles": 7,
   "articles": [
     {
       "id": 1,
-      "title_ja": "日本の主要サービスインフレ率、36年ぶりの高水準を記録",
-      "original_title": "Japan's key services inflation gauge hits 36-year high",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmQyUGZ2bG00UVFlbzFVMEZpdGt1ZzV0Y0ZxX21VLVZfSFEtNl8zeldrZ1NtSXhpSGhLaVNtSkxFR1Zvc3FVeHFBNGctWVVMZlhQb2lhbkNnMUdoQTdaWndqSEktMmZpUXJKWU81bFRHQmJTSGlhZ1IxcEF6N25wV3FIbDhWbmVIV241SW84RWlEN1FTRmgxaF91SQ?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "米海軍のフリゲート艦不足、日本の防衛力に期待の視線",
+      "original_title": "Opinion | The U.S. Navy Needs Frigates. Japan Has One - WSJ",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNERDb21vWDJvRGZ4MU04aUNDMEk2RlEwMHpYZGE0dVI1QWs1SmVVTlBWUDRHOU1kN3N3QWRJdWlXY3hwSVN1aHdzN202T1V5QjdBYWEzWU9pYV9rNzN4TDhiOGpHdXBlU01oVmhjeVJTRGI2QWxEWENZN011SkM5RjRvU0I?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "インフレ",
-        "サービス価格",
-        "日銀"
+        "米海軍",
+        "防衛",
+        "フリゲート艦"
       ],
       "summary_points": [
-        "日本国内の重要なサービス分野におけるインフレ指標が、過去36年間で最高水準に達しました。",
-        "賃上げの動きやコスト高の転嫁が進むことで、長年続いた日本特有の物価停滞からの脱却を示唆しています。",
-        "この物価動向は、日本銀行が今後さらに追加の金融正常化（利上げ）を行うかどうかの重要な判断材料となります。"
+        "米海軍が直面する新型フリゲート艦の調達遅延と建造能力不足が深刻化している。",
+        "ウォール・ストリート・ジャーナル紙は、日本が優れた艦艇建造能力と実用的なフリゲート艦を保有している点に注目している。",
+        "同盟国間における防衛装備品の協力や調達の柔軟性を高める方策として、日本の造船力が議論の的となっている。"
       ],
-      "global_perspective": "長年デフレに悩まされてきた日本経済が、ついに構造的なインフレ局面へと移行しつつある点に強い関心が寄せられています。",
+      "global_perspective": "米国の造船・防衛基盤が揺らぐ中、日本の優れた防衛産業のポテンシャルを同盟国の補完として高く評価する論調が目立つ。",
       "reading_time": "約1分"
     },
     {
       "id": 2,
-      "title_ja": "スターバックス、日本事業の売却に向けて銀行団と協議か",
-      "original_title": "Starbucks Is Said to Engage Banks for Sale of Japan Business",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDlYTFJtOGNEaEhrSkpEX25PcUx0UGkwTXRjYmlYbmtKbVpfWV9WTno4ZkhnZ3F1X2Nsci1sSEJzRXFOS29NbHYwVjBTd1poaEcwT3k3QVpJUnh5ck1uYWVTUzZXN09oVEk1Szd4TFU2VHpNVFFMN2R3b0NxNWtxV0VQWVY4bVUxYmF6V0ZqZW85c2FELTFodHY4S2tiMkE5bXpLbXlyRF83V3dpVVlBYg?oc=5",
-      "category": "経済・ビジネス",
+      "title_ja": "日本の都市部で進むデータセンター建設、住民の反対運動が激化",
+      "original_title": "Japan's data centre boom faces growing revolt from urban residents - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdlVCUVVnb3Y5Yl9xbDVqMG5uX2Vtb2NEVWhlQTE5MHkwT1dsNDlVSUl1b0NmWVAxR3k5MFJJdk01WEtta2tCQWc5M1BhUGY3MUpXNlliWlVyaldFTUpCdmFDdVpNYWpqTTNuS1BxcE5HWkNkUkZmMi1oOTZJdjhOWm00bms2M0xaeUdnaS1EZjU1b3RPZW45WTFpU3B5dDRaZVdWTTZ2ZE9HZ2xCUjI2VUFfVzBUM0Q5Z1JtQVFSN01zaG9o?oc=5",
+      "category": "テクノロジー",
       "tags": [
-        "スターバックス",
-        "M&A",
-        "外資系企業"
+        "データセンター",
+        "インフラ",
+        "都市開発"
       ],
       "summary_points": [
-        "米スターバックスが、日本国内の事業売却に向けて複数の銀行と協議に入ったことが報じられました。",
-        "日本市場での高いブランド力と収益性を誇る中での電撃的な売却検討であり、今後の動向が注目されています。",
-        "具体的な売却先や株式の比率など、ディールの詳細については今後の交渉次第となっています。"
+        "AI普及やデジタル化に伴い、日本国内でデータセンターの建設ラッシュが起きている。",
+        "一方で、都市部における電力消費、騒音、景観悪化などを懸念する住民による反対運動が各地で活発化している。",
+        "インフラ需要と地域住民の生活環境の調和が、今後のデジタル経済成長に向けた大きな課題となっている。"
       ],
-      "global_perspective": "巨大外資系チェーンが成熟した日本市場のポジションをどのように評価し、再編しようとしているのか、グローバルな投資家の関心を集めています。",
+      "global_perspective": "世界のAIブームの裏で、ローカルな住民生活との摩擦という日本特有の社会課題が、海外メディアの関心を集めている。",
       "reading_time": "約1分"
     },
     {
       "id": 3,
-      "title_ja": "日本の自動車サプライヤー、防衛産業への参入が加速",
-      "original_title": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup",
-      "source": "Defense News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR01Bb0NHRUJNMjJXTXZsbkowTkx2UXF6X3lKS3ZQWEdib2pfemxhYUhKQ3IxMWwtMG91Y2JvWTdDNjVIZE02ZzNxNE83ZzkxZk9ab1dtd3FqcFV4clBnRkt2OXh4bFNaYm9uLXF6ZmVJb2RNVmNHSDNMWXRZTTFqTzVXRFBRNy1kZGN3U0REUnk2OEFVaFBXSDczQVBaNmNxX3VzMUZJYzBmc2k3VV95VUZLZmhxLUV5R2lVdDI0d0pUMGNjNHFlbXdwcXpRSFVNUVR6TmxR?oc=5",
-      "category": "国際・政治",
+      "title_ja": "広がる日本の教育格差、経済成長の足かせに",
+      "original_title": "Japan’s education gap is becoming a growth problem - East Asia Forum",
+      "source": "East Asia Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUmRINVdETDVPcHpZSU5xa2ppcEtrdmQ4cVRtNlFURjZVUHZTdWRMUjZIcXBjVEQ3NE9wWThpNEkyTVcySXdRS0p1X01nbEczeWw0S1dJbVZlZ0NSTVdXbkllN3E3Q3AydlJDdm83ODAtV0p5aU9kWGxOdWJEb2dtUmxQYnlwek44cHRGb3AxMjM?oc=5",
+      "category": "社会・文化",
       "tags": [
-        "防衛装備",
-        "自動車産業",
-        "安全保障"
+        "教育格差",
+        "経済成長",
+        "少子化"
       ],
       "summary_points": [
-        "日本政府の防衛力強化の方針に伴い、国内の自動車部品メーカーなどのサプライヤーを防衛装備品製造へ引き込む動きが強まっています。",
-        "高度な製造技術を持つ自動車産業が軍需分野へシフトすることで、サプライチェーン全体の再構築が迫られています。",
-        "長年の平和主義から防衛産業の育成へと舵を切る日本の政策転換の象徴的な事例として捉えられています。"
+        "日本国内における家庭の経済状況や地域による教育格差が、将来の労働生産性に悪影響を及ぼし始めている。",
+        "かつての「一億総中流」意識とは裏腹に、教育への投資格差が社会の分断を生む要因として指摘されている。",
+        "少子高齢化が進む中での人的資本の強化は、日本の持続的な経済成長において急務の課題である。"
       ],
-      "global_perspective": "日本の安全保障政策の大幅な転換が、国内の産業構造や民間企業にどのような実務的影響を与えているかを描いた現地特派員レポートとして注目されています。",
+      "global_perspective": "均質的と見られがちだった日本社会における格差の拡大が、中長期的なマクロ経済へのリスクとして冷静に分析されている。",
       "reading_time": "約1分"
     },
     {
       "id": 4,
-      "title_ja": "「ゴジラ-1.0」が全米・世界で躍進、日本でも興行収入首位を堅持",
-      "original_title": "Japan Box Office: Godzilla Minus Zero Holds No. 1 Spot for 3rd Straight Weekend",
-      "source": "Crunchyroll",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGJOWC1Bb1I4dXRPdEUwWVc1VTVXT1NoYlRDeTN0S1BkVlBIZWtQT2NPenFIMjF3Tl95LXg5bHpUQWt6aXJFZ19JLVR1cVIxX010UngyTjhHMkR0R0xhT1RJTW9SNVg3Wm9PUjVzd3Zpdy1KZjI4QVRVWEF4cG9UMFFmTjVseVNLajBTVUs0YnJiOUJGOEZ5d3FJSGdGNndsRndlY093ZDNucjZhVy1td1g1czNMUWhv?oc=5",
-      "category": "社会・文化",
+      "title_ja": "ホンダの高級車ブランド「アキュラ」、誕生40年を経て日本市場初上陸",
+      "original_title": "The Integra Type S Is Officially the First Acura-Branded Car to Be Sold in Japan - Car and Driver",
+      "source": "Car and Driver",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXBJaUt2NFN3VVZYTnB6dzBZcnFpNzUxZlVjTFJWNmZuSlhsYkVRaTM2b0hmQ19jTnBlS0IwaXY3M2dIQlgxRlRUZy1BN1N2UkZWdWwzbnU3SEZwUS1UdUlJcjNKdjV1VEVacGpIVVg4N05rNnRCdjg2X09sWEFiaXl4cjJrN3ZmcjE0ZDZObENXeEt3ZzVhOQ?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "映画",
-        "ゴジラ",
-        "エンタメ"
+        "自動車",
+        "アキュラ",
+        "ホンダ"
       ],
       "summary_points": [
-        "映画「ゴジラ-1.0」が、日本の週末興行ランキングで3週連続の首位をキープするロングランヒットとなっています。",
-        "卓越したVFX技術と人間ドラマが高く評価され、国内外で絶賛の声が相次いでいます。",
-        "日本のVFX作品がグローバル市場でも通用することを証明し、日本映画界にとって歴史的な成功事例となりました。"
+        "ホンダの北米向け高級車ブランド「アキュラ（Acura）」が、ブランド誕生から約40年を経て初めて日本市場に導入される。",
+        "記念すべき日本市場投入の第一弾として、高性能スポーツセダン「インテグラ タイプS」が選ばれた。",
+        "米国（オハイオ州）で生産されたモデルが逆輸入される形で日本のファンに届けられる点が話題となっている。"
       ],
-      "global_perspective": "ハリウッド大作とは異なるアプローチで制作された日本の特撮映画が、世界的な映画賞や興行で成功を収めている点にメディアの称賛が集まっています。",
+      "global_perspective": "逆輸入というユニークな形で、北米市場で培われたプレミアムブランドが故郷の日本へ凱旋するトピックとして好意的に報じられている。",
       "reading_time": "約1分"
     },
     {
       "id": 5,
-      "title_ja": "NPBのスター選手、佐藤と平良が大型MLB契約に合意",
-      "original_title": "NPB stars Sato and Taira agree to major MLB deals",
-      "source": "The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaHhVbExLanAySmtBdHY0S0RUT3QzVzltVDBWMlhlS3IwMDQzVFRNb0JDYU9qazJLMDZHVjgxcUdMOG53QTd4MlFIUkRJci1valV5ekxkellVcVl4MERVLXRZckpJb3ZZRHM1Z3FNc1BJQS1qVmF2Z0NjdUR0NHVyakdET0FUWE9j?oc=5",
-      "category": "観光・トレンド",
+      "title_ja": "日銀のタカ派メンバー、インフレ抑制に向け迅速な利上げを主張",
+      "original_title": "Hawkish Bank of Japan Member Seeks Quick Rate Hikes On Inflation - Bloomberg",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0FVN1RFanhlMEZqZV8xTUp2SHljUzhfMF9WZW5VaW51dkViU1FJTW9wdTRaSVNFRk5VLUMzZ3JXajd1VzRPZ2F2OXVxRHFSakwzOGZsd3JsRmMxbWx5UktVWC1OZ3lYdmx0WlBiRVREUXdoUWFRbG5xVDRuRWpnTXdRQW9RUEV5bk9yMy1zX2Vyb1VzclBWbTVrUVRyNTlmVHFIR1ZZT0c5UEhHWXNXNlBrcnU3UQ?oc=5",
+      "category": "経済・ビジネス",
       "tags": [
-        "MLB",
-        "プロ野球",
-        "移籍"
+        "日銀",
+        "金融政策",
+        "インフレ",
+        "利上げ"
       ],
       "summary_points": [
-        "日本のプロ野球（NPB）で活躍した佐藤選手と平良選手が、メジャーリーグ（MLB）の複数球団と大型契約に合意しました。",
-        "日本のトップアスリートたちが次々と世界最高峰の舞台へと挑戦する流れが加速しています。",
-        "日本の野球界の育成力の高さと、MLB球団からの高い評価を改めて裏付けるニュースとなっています。"
+        "日本銀行内のタカ派（金融引き締め派）メンバーが、インフレ圧力への対抗策として早期の追加利上げの必要性を訴えた。",
+        "長年にわたる異次元緩和から脱却しつつある日本銀行において、今後の政策金利の引き上げペースに市場の注目が集まっている。",
+        "賃金上昇と物価高の好循環が定着するかどうかが、次なる金融政策決定の鍵を握る。"
       ],
-      "global_perspective": "大谷翔平選手らの成功に続き、日本のプロ野球からMLBへ羽ばたく優秀なタレント層の厚さにスポーツメディアが注目しています。",
+      "global_perspective": "世界の主要中央銀行が利下げ局面に向かう中、反対に金融正常化（利上げ）を進める日銀の動向に世界の金融市場が熱い視線を注いでいる。",
       "reading_time": "約1分"
     },
     {
       "id": 6,
-      "title_ja": "何世紀も続く日本の「山菜」、伝統の味として再び世界で注目",
-      "original_title": "Foraged for centuries, Japan’s wild mountain veggies return to the spotlight",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObnY3emJUeHZHRmZQSkRTRi1IMm1EQlNUb0EwVDF3N2lDX2FOenNaTEVEQXl0N213ZFEtSUNWaThlMkNfVVBIb0N1NUpkcExiU2hrQ3gtRTdSUmtfY1ZacWczdm9YS0RfU3lFZmxjMUFxWjAxY1ZYZE5kMzQ0ZmFkRkgzdlIwcGZmWVZJ?oc=5",
-      "category": "観光・トレンド",
+      "title_ja": "中国、日本に対して遺棄化学兵器の迅速な処分を要請",
+      "original_title": "China urges Japan to accelerate destruction of abandoned chemical weapons - chinadailyhk",
+      "source": "chinadailyhk",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53MEpwd1o4TWFzNjVsRnR0QmFHellQRER3WDRpZEpKMkZyckJHcmVOUVVhX2JMOFptM1VZb1ZSR1F1SVExQm5yRTJSc2VqRkRUSFk5RHlnVGg?oc=5",
+      "category": "国際・政治",
       "tags": [
-        "山菜",
-        "日本食",
-        "食文化"
+        "中国",
+        "外交",
+        "化学兵器"
       ],
       "summary_points": [
-        "日本の豊かな自然で何世紀にもわたり採取されてきた「山菜」が、現代の食トレンドとして再び脚光を浴びています。",
-        "独特の苦みや季節感を楽しむ日本の伝統的な食文化が、外国人観光客や世界の美食家たちの関心を惹きつけています。",
-        "サステナブルでヘルシーな食材としても、日本のローカルフードの魅力が再認識されるきっかけとなっています。"
+        "中国政府が日本側に対し、中国国内に残された旧日本軍の遺棄化学兵器の処分作業をさらに加速するよう求めた。",
+        "歴史的遺負の清算として、両国間で継続的に協議・協力が行われているプロジェクトの一つである。",
+        "安全かつ早期の完全撤去に向けた作業の進捗が引き続き外交上の重要課題となっている。"
       ],
-      "global_perspective": "寿司やラーメンといった定番の日本食を超え、日本の地方に眠るディープな食文化や季節の風物詩にスポットライトが当てられています。",
+      "global_perspective": "歴史問題や戦後補償に関する二国間の継続的な実務協力の文脈として、アジアの地元メディアにより報じられている。",
       "reading_time": "約1分"
     },
     {
       "id": 7,
-      "title_ja": "極端な気候変動により、日本の山火事は「件数減・規模拡大」の傾向へ",
-      "original_title": "Japan's Wildfires Are Fewer but Larger as Rainfall Patterns Become More Extreme",
+      "title_ja": "日本の最北端、利尻島で育まれる「風のウイスキー」",
+      "original_title": "Windswept Whisky: Japan's Northernmost Distillery on Rishiri Island - JAPAN Forward",
       "source": "JAPAN Forward",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1hiR0VKT2dhV2xRM2RRbmV3SFpKQ1NHNjhoYTZ6dm9EVEJjNWdlS2Z1c0lPUHJ0T0Z0Y0VHbFJlWDg5azFTQW5QUXU5LVRaNEozRUNkcVdtWW9XQmNGQklheEpiZkpYV0M0a1FLMkhYck1HZ2locVVJYU5tYlAzLW1hMXRYUENpdWtpYzd2aVFOZVdh?oc=5",
-      "category": "社会・文化",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONkZTaTdKNEpNa1BQUXBHWmQ3cnRKOUlNYjBDeUM2YU1OdVBzQ2puRkJpdHBza0tpc09NODdoSkJnaWdSdkp3RnpOX1AwdDUyMUhKbVdyTFAzT0RSWXg5d01lV2l5aWlqUlJyTHJpRERXaWZQTnhIZnltaTBldm1wMGpIWWM?oc=5",
+      "category": "観光・トレンド",
       "tags": [
-        "気候変動",
-        "山火事",
-        "環境"
+        "ウイスキー",
+        "利尻島",
+        "北海道",
+        "グルメ"
       ],
       "summary_points": [
-        "近年の極端な降雨パターンの変化に伴い、日本国内で発生する山火事の件数自体は減少しているものの、1件あたりの規模が大型化しています。",
-        "地球温暖化に起因する気象の極端化が、日本の自然災害のリスクの性質を変化させていると専門家は指摘しています。",
-        "これまでの防災・消火体制の見直しや、森林管理のあり方のアップデートが急務となっています。"
+        "日本最北端の蒸留所が北海道の離島・利尻島に誕生し、独自のウイスキー造りに挑戦している。",
+        "海風や厳しい気候風土（テロワール）がもたらす独特の熟成環境が、ウイスキー愛好家の間で注目を集めている。",
+        "ジャパニーズ・ウイスキーの新たな聖地として、地域の観光振興や特産品化への期待が高まる。"
       ],
-      "global_perspective": "世界各地で深刻化する気候変動の影響が、これまで比較的山火事のリスクが低かった日本でも顕在化している点に環境メディアが警鐘を鳴らしています。",
-      "reading_time": "約1分"
-    },
-    {
-      "id": 8,
-      "title_ja": "新時代の憲法改正議論：立憲主義を守るための「9条改正」の論点",
-      "original_title": "Rethinking Japan’s Constitution for a New Era: Amending Article 9 to Defend Constitutionalism",
-      "source": "Nippon.com",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsR19ocFMwUEgwY1ZBd3V6NEJDX1FDdnBkN245Y0FqOUlkNHA3VVlwTWdzV0Focjg5TUIyRmxMRFF2dThvNVpES1VSVGI3dFc3a3liaw?oc=5",
-      "category": "国際・政治",
-      "tags": [
-        "憲法改正",
-        "自衛隊",
-        "政治"
-      ],
-      "summary_points": [
-        "日本国内で長年議論されている憲法第9条の改正について、現代の安全保障環境に合わせた立憲主義の観点から論点が整理されています。",
-        "現実の自衛隊の存在と憲法条文のギャップを埋めることが、法の支配と憲法秩序を守るために必要だとする意見が紹介されています。",
-        "東アジアの緊張が高まる中、日本の国内政治における最大級の政治的テーマとして議論が続いています。"
-      ],
-      "global_perspective": "戦後日本の平和主義の根幹である憲法9条を巡る議論が、安全保障環境の変化によってどのように変化しているのか、海外の有識者層に向け深く解説されています。",
+      "global_perspective": "世界的なジャパニーズ・ウイスキーブームの中、辺境の地でのこだわり抜いた酒造りがユニークなローカルストーリーとして紹介されている。",
       "reading_time": "約1分"
     }
   ]
